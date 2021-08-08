@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2021-04-12 22:32:14 -0300
+tags: [jekyll]
+categories: [general]
+
+---
+La entrada original de este diario se perdió por algún tipo de problema informático con la web. No obstante quiero reescribir aquí lo que había escrito.
+
+Lo primero que me gustaría es tener un lugar adecuado para escribir el diario. Recuerdo haber oído hablar de las páginas web estáticas, construídas a base de un lenguage de marcado (o formateado para quien no entienda estos términos) ligero, en concreto de Markdown, hace tiempo que utilizo este lenguaje y me resulta cómodo, porque lo puedo integrar en la app de notas del movil (Markor). En concreto recuerdo haber oído hablar de Jekyll, que es un sistema de generación de webs estáticas basado en markdown, y resulta que Markor tiene soporte, así que sólo tengo que aprender a montar una web con Jekyll. De hecho la tenía montada a medias pero no logro hacer que funcione. Veremos.
+
+Dejo aquí la documentación.
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
