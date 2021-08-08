@@ -1,13 +1,8 @@
 ---
-layout: post
+title: Empezando
 tags: [jekyll, dudas]
 categories: [gaviotas]
 date: 2021-04-19 00:14:15
-show_title: true 
-show_edit_on_github: true
-show_date: true
-show_tags: true
-title: 'Empezando'
 ---
 
 He conseguido hacer que funcione Jekyll así que bien.
