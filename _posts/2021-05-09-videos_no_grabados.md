@@ -1,12 +1,6 @@
 ---
-layout: post
 tags: [situaciones, mirada]
 categories: [gaviotas]
-#date: 2020-05-09 17:34:15
-#excerpt: ''
-#image: 'BASEURL/assets/blog/img/.png'
-#description:
-#permalink:
 title: 'Videos no grabados'
 ---
 

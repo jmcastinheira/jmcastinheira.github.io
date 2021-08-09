@@ -1,12 +1,6 @@
 ---
-layout: post
 tags: [situaciones]
 categories: [general]
-#date: 2021-05-28 13:14:15
-#excerpt: ''
-#image: 'BASEURL/assets/blog/img/.png'
-#description:
-#permalink:
 title: 'Crear situaciones'
 ---
 

@@ -1,12 +1,6 @@
 ---
-layout: post
 tags: [violencia]
 categories: [general]
-#date: 2021-07-10 13:14:15
-#excerpt: ''
-#image: 'BASEURL/assets/blog/img/.png'
-#description:
-#permalink:
 title: 'Sacrificio'
 ---
 

@@ -1,12 +1,7 @@
 ---
-layout: post
 tags: [video, situaciones]
 categories: [gaviotas]
 date: 2021-05-17 15:14:15
-#excerpt: ''
-#image: 'BASEURL/assets/blog/img/.png'
-#description:
-#permalink:
 title: 'Narrativa'
 ---
 
