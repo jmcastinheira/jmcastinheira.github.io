@@ -1,0 +1,118 @@
+(A) 2021-10-08 Memorias de Adriano de Marguerite Youcenar +Lista_3 
+(A) 2021-10-08 Misericordia de Benito Pérez Galdós +Lista_3 
+(B) 2021-10-08 Los miserables, de Victor Hugo +Lista_2 
+(B) 2021-10-08  A sangre fría, de Truman Capote +Lista_2 
+(B) 2021-10-08 Los detectives salvajes, de Roberto Bolaño +Lista_2 
+(B) 2021-10-08 Canto eu e a montaña Baila de Irene Solá +Lista_3 
+(F) 2021-10-08 El Ulises de James Joyce   +Lista_1 
+(F) 2021-10-08 Don Quijote, de Miguel de Cervantes +Lista_2 
+(F) 2021-10-08  El pabellón de oro, de Yukio Mishima +Lista_2 
+(F) 2021-10-08 Rayuela, de Julio Cortázar +Lista_2 
+(F) 2021-10-08 Opus nigrum, de Marguerite Yourcenar +Lista_2 
+2021-10-08  La broma infinita, de David Foster Wallace +Lista_1
+2021-10-08 2666, de Roberto Bolaño +Lista_1
+2021-10-08 Ana Karénina, de Lev Tolstói  +Lista_1
+2021-10-08 Austerlitz, de W. G. Sebald +Lista_1
+2021-10-08 Cegador, 1, 2 y 3, de Mircea Cărtărescu +Lista_1
+2021-10-08 Cuentos completos, de Alice Munro @relatos +Lista_1
+2021-10-08 Cuentos completos, de Anton Chéjov @relatos +Lista_1
+2021-10-08 Cuentos completos, de Donald Barthelme @relatos +Lista_1
+2021-10-08 El Aleph, de Jorge Luis Borges  +Lista_1
+2021-10-08 El arco iris de la gravedad, de Thomas Pynchon  +Lista_1
+2021-10-08 El ruido y la furia, de William Faulkner +Lista_1
+2021-10-08 El tiempo es un canalla, de Jennifer Egan   +Lista_1
+2021-10-08 Emma, de Jane Austen  +Lista_1
+2021-10-08 En busca del tiempo perdido de Marcel Proust   +Lista_1 +Lista_2
+2021-10-08 Europa central, de William T. Vollmann  +Lista_1
+2021-10-08 Ficciones, de Jorge Luis Borges @relatos  +Lista_1
+2021-10-08 Guerra y paz, de Lev Tolstói +Lista_1
+2021-10-08 Los demonios, de Fiódor Dostoyevski +Lista_1
+2021-10-08 Los hermanos Karamázov, de Fiódor Dostoyevski +Lista_1
+2021-10-08 Meridiano de sangre, de Corman McCarthy +Lista_1
+2021-10-08 Middlemarch, de George Eliot +Lista_1 +Lista_3
+2021-10-08 Mientras agonizo, de William Faulkner +Lista_1
+2021-10-08 Nueve cuentos, de J. D. Salinger @relatos +Lista_1
+2021-10-08 Oliver Twist, de Charles Dickens +Lista_1
+2021-10-08 Orgullo y prejuicio, de Jane Austen +Lista_1
+2021-10-08 Pastoral americana, de Philip Roth +Lista_1
+2021-10-08 Submundo, de Don DeLillo +Lista_1
+2021-10-08 Jacques el fatalista y su maestro, de Denis Diderot +Lista_2
+2021-10-08 Gargantúa y Pantagruel, de Rabelais +Lista_2
+2021-10-08 Vida y opiniones del caballero Tristam Shandy, de Laurence Sterne +Lista_2
+2021-10-08 Niels Lyhne, de Jens Peter Jacobsen +Lista_2
+2021-10-08 La montaña mágica, de Thomas Mann +Lista_2 
+2021-10-08 Las almas muertas, de Nikolai Gógol +Lista_2
+2021-10-08 Los Virreyes, de Federico De Roberto +Lista_2
+2021-10-08  A contrapelo, de Joris-Karl Huysmans +Lista_2
+2021-10-08 Los monederos falsos, de André Gide +Lista_2
+2021-10-08 El maestro y Margarita, de Mijail Bulgákov +Lista_2
+2021-10-08 Lolita, de Vladímir Nabokov +Lista_2
+2021-10-08 Las uvas de la ira, de John Steinbeck +Lista_2
+2021-10-08 Hambre, de Knut Hamsun +Lista_2
+2021-10-08  Trópico del cáncer, de Henry Miller +Lista_2
+2021-10-08 El almuerzo desnudo, de William Burroughs +Lista_2
+2021-10-08 La campana de cristal, de Sylvia Plath +Lista_2
+2021-10-08 Beloved, de Toni Morrison +Lista_2
+2021-10-08 Tango satánico, de László Krasznahorkai +Lista_2
+2021-10-08 Extinción, de Thomas Bernhard +Lista_2
+2021-10-08 Las partículas elementales, de Houellebecq +Lista_2
+2021-10-08 Las benévolas, de Jonathan Littell +Lista_2
+2021-10-08  Física de la tristeza, de Gueorgui Gospodinov +Lista_2
+2021-10-08 Cuentos de amor de locura y de muerte de Horacio Quiroga +Lista_5 @relatos
+2021-10-08 Farabeuf o la crónica de un instante de Salvador Elizondo +Lista_5
+2021-10-08 Suite Francesa de Irene Nemirovsky +Lista_3
+2021-10-08  Pastoral Americana de Philip Roth +Lista_3
+2021-10-08 La Carretera de Cormac Mccarthy +Lista_3
+2021-10-08 Vida y destino de Vasily Grossman +Lista_3
+2021-10-08 La Canción de Nof4 de Raul Quinto. +Lista_3
+2021-10-08 El viejo y el mar de Hemingway +Lista_3 
+2021-10-08 Por quien doblan las campanas de Hemingway +Lista_3 
+2021-10-08 Fiesta de Hemingway +Lista_3
+2021-10-08 El mundo según Garb de Irving +Lista_3
+2021-10-08 El extranjero de Albert Camus +Lista_3
+2021-10-08 Las olas de Virginia Wolf +Lista_3
+2021-10-08 El cuarteto de alejandría de Lawrence Durrell +Lista_3
+2021-10-08 Las ciudades invisibles de Italo Calvino +Lista_3
+2021-10-08 La Casa inundada de Felisberto Hernandez @relatos +Lista_3
+2021-10-08 El bosque de la noche de Diana Barns +Lista_3
+2021-10-08 Lo que queda de día de Kazuo Ishiguro +Lista_3
+2021-10-08 Suite Francesa de Irene Nemirovsky +Lista_3
+2021-10-08 Os Maias de Ecca de Queiros +Lista_3
+2021-10-08 El arte de la crueldad de Maggie Nelson +Lista_4
+2021-10-08 Desgracia de Coetze +Lista_4
+2021-10-08 La débil mental de Adiara Marwicz +Lista_4
+2021-10-08 Lectura fácil de Cristina Morales +Lista_4
+2021-10-08 Las casa de la fuerza de Angélica Liddell +Lista_4
+2021-10-08 Tres truenos de Marina Closs +Lista_4
+2021-10-08 Labranza arcaica de Raduan Nassar +Lista_4
+2021-10-08 Diario de muerte de Enrique Lihn +Lista_4
+2021-10-08 Terror sonoro de Adriana Arvitt +Lista_4
+2021-10-08 De lo sublime de  Longino +Lista_4 @ensayo
+2021-10-08 De lo sublime y de lo bello de Burke +Lista_4 @ensayo
+2021-10-08 Lo siniestro de Freud +Lista_4 @ensayo
+2021-10-08 El mal en la literatura de Bataille +Lista_4 @ensayo
+2021-10-08 La banalidad del mal de Hannah Arend +Lista_4 @ensayo
+2021-10-08 Lo raro y lo espeluznante de Mark Fisher @ensayo +Lista_4
+2021-10-08 Páradais de Fernanda Melchor +Lista_4
+2021-10-08 Matar a un perro de Samanta Schweblin +Lista_4
+2021-10-08 La pasión según GH de Clarice Lispector +Lista_4
+2021-10-08 Sukkwan Island de David Van +Lista_4
+2021-10-08 El desierto y su semilla de Jorge Barón Biza +Lista_4
+2021-10-08 El ojo de Silva Bolaño +Lista_4
+2021-10-08 Desmembrado de Joyce Carón Pares +Lista_4
+2021-10-08 Alexis de Margarita Youcenar +Lista_4
+2021-10-08 Huele negra espina de Claude Louis Combet +Lista_4 
+2021-10-08 En gran Central Station me senté y lloré de Elizabeth Smart +Lista_4
+2021-10-08 Entrevistas breves con seres repulsivos de Fosters Wallace +Lista_4 @relatos
+2021-10-08 En tierras bajas de Herta Müller +Lista_4
+2021-10-08 Un hombre sin suerte de Samanta Schweblin +Lista_4
+2021-10-08 Claus y Lucas de Agota Kristof +Lista_4
+2021-10-08 El infinito en un junco de Irene Vallejo +Lista_5 @ensayo
+2021-10-08 Carrie de Stephen King +Lista_5
+2021-10-08 It de Stephen King +Lista_5
+2021-10-08 Las Voladoras de Mónica Ojeda +Lista_5 @relatos
+2021-10-08 La rama Dorada de James Frazer +Lista_5 @ensayo
+2021-10-08 La Diosa Blanca de Robert Graves +Lista_5 @ensayo
+2021-10-08 Sandman de Neil Gaiman +Lista_5 @comic
+2021-10-08 Pompeo de Andrea Pazienza +Lista_5 @comic
+2021-10-08 Merlín e Familia de Álvaro Cunqueiro +Lista_5
