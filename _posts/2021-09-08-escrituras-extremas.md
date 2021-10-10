@@ -32,7 +32,7 @@ No tengo una teoría de la situaciones, pero algo ya hemos anticipado en este di
  
 ## Violencia:
 
-Mónica dice que las literaturas extremas se alimentan de experiencias intensas, podríamos hablar de situaciones intensas, para adecuarnos a la terminología que intento establecer. Con cita de Simone Weil se nos presenta la violencia como fuerza, está claro que esto es así. De hecho la violencia, en terminología jurídica, se clasifica en *vis física* o fuerza propiamente dicha y *vis compulsiva* que sería semejante a una amenaza, deberían incluírse (y normalmente se incluyen) situaciones en las que de algún modo se fuerza a alguien a hacer lo que no quiere, aún sin amenaza expresa, como por ejemplo el caso del temor reverencial, curiosamente se suelen excluír situaciones en las que la víctima no hay tenido oportunidad de querer (o no querer), como las personas privadas de sentido, quizás por entender que la violencia se mide por el sufrimiento que causa, afortunadamente la intensidad del castigo puede ser comparable en ambos casos.
+Mónica dice que las literaturas extremas se alimentan de experiencias intensas, podríamos hablar de situaciones intensas, para adecuarnos a la terminología que intento establecer. Con cita de Simone Weil se nos presenta la violencia como fuerza, está claro que esto es así. De hecho la violencia, en terminología jurídica, se clasifica en *vis física* o fuerza propiamente dicha y *vis compulsiva* que sería semejante a una amenaza, deberían incluírse (y normalmente se incluyen) situaciones en las que de algún modo se fuerza a alguien a hacer lo que no quiere, aún sin amenaza expresa, como por ejemplo el caso del temor reverencial, curiosamente se suelen excluír situaciones en las que la víctima no hay tenido oportunidad de querer (o no querer), como las personas privadas de sentido, quizás por entender que la violencia se mide por el sufrimiento que causa, afortunadamente la intensidad del castigo penal puede ser comparable en ambos casos. No obstante conceptualmente, en un sentido usual del término, también hay violencia en estas ocasiones, porque la impresión disvalorativa que se produce es similar.
 
 Con estos antecedentes podemos trazar un esquema que más o menos es el que comentó Mónica, si no lo recuerdo mal:
 
@@ -40,12 +40,13 @@ Con estos antecedentes podemos trazar un esquema que más o menos es el que come
 - violencia/miedo: como constitutivo de la situación.
 - silencio/trauma: como resultado del proceso. La literatura siempre llega después, partimos de estas zonas silenciosas.
 
-Hay un punto que me ha parecido muy interesante y es precisamente este silencio, el silencio no es sólo de víctimas y agresores, sino de toda la sociedad. O bien se silencia la violencia o bien se habla de ella con un interés morboso. No siempre es así, obviamente se habla en contextos científicos, con un interés sociológico o jurídico, o incluso se habla de la violencia, en el mejor de los casos, con interés periodístico.
+Si lo comparamos con la propuesta de Girard sobre los sacrificios veremos un cierto paralelismo, lo que pasa que en este esquema que vemos ahora ser incluye la perspectiva de la víctima.
+
+Hay un punto que me ha parecido muy interesante y es precisamente este silencio, el silencio no es sólo de víctimas y agresores, sino de toda la sociedad. En este sentido, también Girard en su hipótesis del sacrificio como herramienta de apaciguamiento de la Violencia. La sociedad se queda en silencio tras un evento traumático o bien se habla de el con un interés morboso, que suele centrarse en aspectos periféricos y llamativos del problema, pero que nunca profundiza realmente. No siempre es así, obviamente se habla en contextos científicos, con un interés sociológico o jurídico, o incluso se habla de la violencia, en el mejor de los casos, con interés periodístico (siempre que esto signifique lo que debe significar).
 
 Y aquí llega una pregunta muy interesante que se hace Mónica **¿Se puede hablar de la violencia desde la literatura, desde el arte?** Y otra pregunta que surge como corolario ¿Puede ser bello un texto sobre violencia?
 
-Ella cree que sí. Mi primera intuición es que si se presenta la realidad violenta con afán de denuncia, de lucha contra el silencio o contra la negación de esa realidad, pues claro que se puede y se debe, pero ese impulso, y esto es algo de lo que también se habló en el taller, no debe ser impostado, sino que el autor debe estar afectado por esta violencia, debe moverle a escribir. Pero no acabo de profundizar en el tema de la belleza artística relacionada con la violencia. 
-
+Ella cree que sí. Mi primera intuición es que si se presenta la realidad violenta con afán de denuncia, de lucha contra el silencio o contra la negación de esa realidad, pues claro que se puede y se debe, pero ese impulso, y esto es algo de lo que también se habló en el taller, no debe ser impostado, sino que el autor debe estar afectado seriamente por esta violencia, debe moverle a escribir. Pero no acabo de profundizar en el tema de la belleza artística relacionada con la violencia. 
 
 # Bibliografía
 

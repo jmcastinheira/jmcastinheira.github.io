@@ -27,8 +27,8 @@ Creo que podemos profundizar en porqué y bajo qué condiciones un sacrificio ti
 
 1. Eso no siempre sucede, habrá aparentes sacrificios que no sirvan para nada.
 2. Habrá situaciones de violencia que terminen no por culminación sino por agotamiento
-3. En todo cambio de equilibrio social se produce una generación de nuevas normas, esta generación se realiza en un esquema propuesta contrapropuesta, siguiendo procesos comunicativos e intentando generar un nuevo equilibrio en las relaciones comunicativas. Hay una sensación de juego.
-4. Se produce un esquema de escalada simétrica y esta escalada se rompe con ese evento culminante, mediante lo que se llama en el mundo de las subastas el salto de la rana, alguien hace una propuesta que supera las normas previamente establecidas como queriendo quebrar el juego. Esto no es un juego, entonces el juego termina.
+3. En todo cambio de equilibrio social se produce una generación de nuevas normas, esta generación se realiza en un esquema propuesta contrapropuesta, siguiendo procesos comunicativos e intentando generar un nuevo equilibrio en las relaciones comunicativas. Es como los niños cuando juegan y van cambiando las normas del juego a medida que van jugando.
+4. Se produce un esquema de escalada simétrica y esta escalada se rompe con ese evento culminante, mediante lo que se llama en el mundo de las subastas *el salto de la rana,* alguien hace una propuesta que supera las normas previamente establecidas como queriendo quebrar el juego, como diciendo*esto no es un juego,* entonces el juego termina porque se rompe la escalada.
 
 
 
