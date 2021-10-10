@@ -10,7 +10,7 @@ categories: [general]
 title: 'Escrituras Extremas'
 ---
 
-## Intro.
+## Intro
 
 Por no abandonarme mucho de la escritura decidí hacer un pequeño curso online de tres días con Mónica Ojeda. Curiosamente lo que me interesa de Mónica es su poética y el estudio que tiene sobre lo que ella llama "Escrituras extremas", se hace clara su valentía a la hora de escribir sobre ciertos temas, como pueden ser la violencia, el miedo, o el deseo. El curso está en parte resumido en esta videoconferencia [Escrituras extremas](https://youtu.be/wiKr9xBBPTw) aunque aquí faltan algunas cosas.
 
