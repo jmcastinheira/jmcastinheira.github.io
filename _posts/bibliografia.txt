@@ -1,3 +1,14 @@
+---
+tags: [general, relatos]
+categories: [general]
+#date: 2021-08-08 13:14:15
+#excerpt: ''
+#image: 'BASEURL/assets/blog/img/.png'
+#description:
+#permalink:
+title: 'Proyecto Relatos'
+---
+
 (A) 2021-10-08 Memorias de Adriano de Marguerite Youcenar +Lista_3 
 (A) 2021-10-08 Misericordia de Benito Pérez Galdós +Lista_3 
 (B) 2021-10-08 Los miserables, de Victor Hugo +Lista_2 

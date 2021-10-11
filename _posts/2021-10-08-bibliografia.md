@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [general, recomendaciones]
 categories: [general]
 #date: 2019-06-25 13:14:15

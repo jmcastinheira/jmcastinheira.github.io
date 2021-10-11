@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [bibliografia]
 categories: [general]
 #date: 2021-08-08 13:14:15
