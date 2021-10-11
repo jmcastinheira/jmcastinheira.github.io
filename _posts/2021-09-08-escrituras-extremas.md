@@ -21,7 +21,7 @@ Para mí, lo que crea una emoción, sea extremada o no, es una situación, ya he
 
 ## Situaciones
 
-No tengo una teoría de la situaciones, pero algo ya hemos anticipado en este diario, parece que algunos elementos son fáciles de detectar:
+No tengo una teoría de la situaciones, pero algo [ya hemos anticipado en este diario,](2021-05-28-crear-situaciones.md) parece que algunos elementos son fáciles de detectar:
 
 1. **Ambiente:** Está claro que para recrear un ambiente son muy importantes elementos de la narración como el tono, el ritmo, el estilo, el léxico, etc.. La descripción no es suficiente para crearlo.
 2. **Tensión dinámica**: Entendida como suceso en tensión de cambio inminente, Zubiri le llamaría "tensión en hacia". Podemos acercarnos a esta idea partiendo de un movimento y congelándolo, por ejemplo lanzar una pelota; en ese punto congelado podemos saber hacia dónde iba a continuar si sabemos de dónde venía. 
@@ -31,7 +31,7 @@ No tengo una teoría de la situaciones, pero algo ya hemos anticipado en este di
  
 ## Violencia:
 
-Mónica dice que las literaturas extremas se alimentan de experiencias intensas, podríamos hablar de situaciones intensas, para adecuarnos a la terminología que intento establecer. Con cita de Simone Weil se nos presenta la violencia como fuerza, está claro que esto es así. De hecho la violencia, en terminología jurídica, se clasifica en *vis física* o fuerza propiamente dicha y *vis compulsiva* que sería semejante a una amenaza, deberían incluírse (y normalmente se incluyen) situaciones en las que de algún modo se fuerza a alguien a hacer lo que no quiere, aún sin amenaza expresa, como por ejemplo el caso del temor reverencial, curiosamente se suelen excluír situaciones en las que la víctima no hay tenido oportunidad de querer (o no querer), como las personas privadas de sentido, quizás por entender que la violencia se mide por el sufrimiento que causa, afortunadamente la intensidad del castigo penal puede ser comparable en ambos casos. No obstante conceptualmente, en un sentido usual del término, también hay violencia en estas ocasiones, porque la impresión disvalorativa que se produce es similar.
+Mónica dice que las literaturas extremas se alimentan de experiencias intensas, podríamos hablar de situaciones intensas, para adecuarnos a la terminología que intento establecer. Con [cita de Simone Weil](http://www.uam.mx/difusion/revista/feb2001/selva.html) se nos presenta la violencia como fuerza, está claro que esto es así. De hecho la violencia, en terminología jurídica, se clasifica en *vis física* o fuerza propiamente dicha y *vis compulsiva* que sería semejante a una amenaza, deberían incluírse (y normalmente se incluyen) situaciones en las que de algún modo se fuerza a alguien a hacer lo que no quiere, aún sin amenaza expresa, como por ejemplo el caso del temor reverencial, curiosamente se suelen excluír situaciones en las que la víctima no hay tenido oportunidad de querer (o no querer), como las personas privadas de sentido, quizás por entender que la violencia se mide por el sufrimiento que causa, afortunadamente la intensidad del castigo penal puede ser comparable en ambos casos. No obstante conceptualmente, en un sentido usual del término, también hay violencia en estas ocasiones, porque la impresión disvalorativa que se produce es similar.
 
 Con estos antecedentes podemos trazar un esquema que más o menos es el que comentó Mónica, si no lo recuerdo mal:
 
@@ -39,7 +39,7 @@ Con estos antecedentes podemos trazar un esquema que más o menos es el que come
 - violencia/miedo: como constitutivo de la situación.
 - silencio/trauma: como resultado del proceso. La literatura siempre llega después, partimos de estas zonas silenciosas.
 
-Si lo comparamos con la propuesta de Girard sobre los sacrificios veremos un cierto paralelismo, lo que pasa que en este esquema que vemos ahora ser incluye la perspectiva de la víctima.
+Si lo comparamos con la [propuesta de Girard sobre los sacrificios](2021-07-10-sacrificio.md) veremos un cierto paralelismo, lo que pasa que en este esquema que vemos ahora ser incluye la perspectiva de la víctima.
 
 Hay un punto que me ha parecido muy interesante y es precisamente este silencio, el silencio no es sólo de víctimas y agresores, sino de toda la sociedad. En este sentido, también Girard en su hipótesis del sacrificio como herramienta de apaciguamiento de la Violencia. La sociedad se queda en silencio tras un evento traumático o bien se habla de el con un interés morboso, que suele centrarse en aspectos periféricos y llamativos del problema, pero que nunca profundiza realmente. No siempre es así, obviamente se habla en contextos científicos, con un interés sociológico o jurídico, o incluso se habla de la violencia, en el mejor de los casos, con interés periodístico (siempre que esto signifique lo que debe significar).
 
