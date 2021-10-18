@@ -6,7 +6,7 @@ categories: [general]
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Proyecto Relatos'
+title: 'Vindictas: Cuentistas Latinoamericanas'
 ---
 
 # Vindictas: Cuentistas Latinoamericanas
