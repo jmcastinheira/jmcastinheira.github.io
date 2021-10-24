@@ -55,4 +55,14 @@ Recuerdo a un compañero de facultad que le pasaba algo parecido, tenía algún 
 
 Me hubiera gustado otro final, creo que hay un cierto tópico en la propuesta que nos hace la autora, esa visión del indígena como misterioso objeto de deseo.
 
+## Muerte por alacrán
+
+Es una pena porque creo que este relato tenía muchísimas posibilidades, y en efecto la autora es consciente de ello, pero la ejecución no me ha gustado.
+
+**Situación:** Unos hombres llevan a un alacrán que se ha metido entre la leña que llevan a una familia rica. 
+
+Esta situación sirve como motor del relato, como nota mental, y al menos provisionalmente, diré que cuando una situación tiene esta función motora debe ser presentada de forma clara lo más al inicio posible. Cosa que no se hace del todo, en relato en general carece de claridad, parece que el lector tiene que estar jugando a buscar de qué se le está hablando y aunque reconozco que puede ser un recurso interesante en algún momento, creo que el lector no puede tener la sensación de que se está divagando.
+
+**Tema:** Creo que un tema que tiene muchas connotaciones morales puede ser aprovechado para crear una dinámica de tensiones en el relato, sobre las justificaciones que mentalmente puedan darse estos personajes (por ejemplo podíamos no haberlo visto, lo más probable es que el alacrán acabe en el fuego etc) o sobre lo que puede pasar o no, (quizás si descubren que hay una menor en la casa les puede entrar remordimientos). En lugar de esto, una especie de mayordomo que no se ha llegado a introducir del todo en el relato y cuyas motivaciones no acabamos de entender, empieza una búsqueda que va desde la leñera hasta la cámara de seguridad de los dueños pasando por la ropa interior de una adolescente... Sin duda hay una voluntad de alegoría pero no creo que esté bien de desarrollada, considero que la claridad siempre es una ventaja, y si pretendemos hablar en varios niveles comunicativos, uno expreso y otro alegórico, al menos uno de ellos debe estar claro, lo que no podemos es pretender que la oscuridad expositiva sea una herramienta útil para comunicarnos.
+
 
