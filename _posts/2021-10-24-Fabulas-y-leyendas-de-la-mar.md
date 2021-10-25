@@ -11,7 +11,12 @@ title: 'Fabulas y leyendas de la mar'
 
 # Fabulas y leyendas de la mar
 
-## Prólogo
+Me está gustando mucho la faceta de articulista de Cunqueiro, me ha recordado un poco a Julio Camba, no sé si seré capaz de aprender todo lo que tiene que enseñar, me parece que jugar con este nivel de imaginación no está al alzance de cualquiera. Me gusta ese tono de retranca que tiene, y creo que me tiene un aire familiar, porque la familia de mis padres usan un humor parecido, ciertamente elegante. 
+
+Una de mis lecturas de este verano fue un libro de un compañero de curro, "Orixe orzánico das sereas todas". É moi interesante cómo xoga coa verdade e a invención. O mesmo fai Cunqueiro. Porén hai un punto de equilibrio que é preciso coñecer, a invención non pode chegar ao punto de irritar ao lector, quero dicir, as cousas importantes deben ser verdade, as cousas imaxinadas poden ser adornos, cousas que un poda dicir aquilo de "se non e vero e ben trovatto". 
+
+Voy a dejar aquí el índice del libro para recoger algunas citas o ideas que me resultaron de interés.
+
 
 ## MITOS, GEOGRAFÍAS, DIOSES Y DEMONIOS, CON NOTICIAS CONCRETAS DE LOS REINOS SUMERGIDOS
 
