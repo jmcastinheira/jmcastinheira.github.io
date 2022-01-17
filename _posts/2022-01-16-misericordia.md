@@ -9,7 +9,7 @@ categories: [general, conceptos]
 title: 'Misericordia'
 ---
 
-# Misericordia.
+# Misericordia
 
 ## Etimología y significado
 
