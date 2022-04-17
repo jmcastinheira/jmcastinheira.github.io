@@ -5,7 +5,7 @@ date: 2021-09-08 13:14:15
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
-#permalink:
+permalink: none
 title: 'Escrituras Extremas'
 ---
 
