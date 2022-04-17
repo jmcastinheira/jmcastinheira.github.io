@@ -23,6 +23,7 @@ baseurl : # does not include hostname
 title   : Diario de proyectos
 description: > # this means to ignore newlines until "Language & timezone"
   Este es el diario de proyectos de José Castinneira
+permalink: none
 
 
 ## => Language and Timezone
