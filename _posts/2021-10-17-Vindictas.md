@@ -5,7 +5,7 @@ categories: [general]
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
-#permalink:
+permalink: none
 title: 'Vindictas: Cuentistas Latinoamericanas'
 ---
 
