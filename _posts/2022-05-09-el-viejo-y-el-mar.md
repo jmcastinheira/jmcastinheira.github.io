@@ -14,6 +14,8 @@ Lenguaje sencillo con pocos alardes pero capaz de mostrar la situación con unas
 
 Hemingway nos habla de un mundo que conoce muy bien, la pesca, el béisbol, el compadreo entre los hombres. Es un libro que se lee fácilmente. El autor usa recursos que domina a la perfección y los explota al máximo, su estilo directo, el uso abrumador del diálogo, y eso que su protagonista está solo la mayor parte del tiempo. 
 
+Lo que me interesa de esta obra es la capacidad que tiene de manipular al lector, hacerle ocultarle cosas esenciales y hacerle ver lo que quiere que se vea y ocultar lo que no le interesa enseñar. Es capaz de hacernos sentir afecto por alguien que es más oscuro de lo que parece
+
 ## Ambientación
 
 Con este lenguaje es capaz de ambientar muy bien las situaciones. Son contextos que podemos imaginar con facilidad, con mucha capacidad inmersiva:
