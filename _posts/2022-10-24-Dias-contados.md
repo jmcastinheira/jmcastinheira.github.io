@@ -1,0 +1,39 @@
+---
+tags: [general, bibliografia]
+categories: [general]
+#date: 2021-08-08 13:14:15
+#excerpt: ''
+#image: 'BASEURL/assets/blog/img/.png'
+#description:
+permalink: none
+title: 'Comentario a: "Dias contados", "Merlín e Familia" y "Azucre"'
+---
+
+
+# Dias Contados
+
+En "Días Contados" Xosé  Cid Cabido, nos ofrece un conjunto de relatos que tienen un aire oscuro, hay siempre un elemento que enturbia el ambiente, no son relatos luminosos, en este sentido me han recordado un poco a los relatos de J.D. Salinger. Hay diferencia en ese tipo de oscuridad porque en estos relatos de Xosé Cid no hay nada verdaderamente turbio, hay una oscuridad pero no hay nada hiriente, o especialmente enfermizo. Es casi una cuestión de tono, algo similar al género de la novela negra, un tono melancólico, con un ritmo lento, deja traslucir cierta crítica social, en el sentido de que esta oscuridad suele estar relacionada con cierta marginalidad o anomia. 
+
+Los relatos contienen, normalmente un misterio, y en ocasiones un elemento fantástico, aunque parten del realismo, diría que un realismo sociológico. Esa vocación de misterio le lleva a ir deslizando poco a poco la información, es una especie de **misterio por oscuridad**. Utilizo esta expresión prestada de la expresión "seguridad por oscuridad" del mundo informático, en la que la seguridad se basa en ocultar los puntos débiles, no tanto en reforzarlos. En los relatos puede verse la voluntad del autor de ocultar información al lector, aunque entiendo ese propósito, en ocasiones no me acaba de covencer, creo que cuando el lector detecta que le falta información, el autor debe proporcionársela en unas pocas lineas, porque sino se corre el riesgo de provocar una lectura impaciente, creo que sería interesante una lectura intrigada y no impaciente, es un equilibrio difícil, habría que alimentar poco a poco esa ansia de información del lector, haciéndole entrar en apetito, pero no dejándole con hambre. En el relato "Teñome que irme" me pasa un poco esto, no acabas de entender muy bien qué está pasando, el motor del relato es esa incompresnsión, que finalmete no llega a colmarse, aunque me parece un relato interesante, un poco absurdo, al final me gusta que las cosas se clarifiquen. 
+
+En el relato que abre el libro me parece que funciona bien, "Impasse"; el motor de ese relato es el misterio, hay situaciones perfectamente comprensibles, incluso con las que uno puede empatizar, situaciones cotidianas, no hay propiamente hambe de información por no entender lo que sucede, aquí lo que el lector no sabe y que quiere saber es lo que va a hacer el protagonista ante esta situación, por eso creo que funciona tan bien, y eso que al final tampoco sucede nada del otro mundo, el lector sabe exactamente lo que está pasando, lo que no sabe es lo que va a pasar, lo que va a hacer el protagonista, a esto le podríamos llamar **misterio por tensión dinámica**, me interesa más este tipo de construcción. El segundo de los relatos tiene también un misterio que no es por oscuridad, aunque hay un elemento desconocido, pero este elemento no impide al lector entender la situación, otra vez, la situación es perfectamente comprensible, también empatizamos con ella, lo que sucede es que en sí misma se trata de una situación misteriosa, la desaparición de un chico en circunstancias extrañas, le podemos llamar a esto **misterio por situación**. 
+
+El resto de relatos cuadra más o menos con alguna de estas formas de trabajar. "Escola de seducción", por ejemplo, es de este último tipo, "Una palabra tuya bastará para sanarme", o "Uhna noite nos tellados" son también de este tipo de misterio por situación, unos chavales que a ver si son capaces de escapar de su travesura, una mujer que se mete en la casa del protagonista, otra que se obsesiona con él, etc, son situaciones verosímiles pero inquietantes o misteriosas. En general los personajes masculinos del libro, salvo los niños, son hombres melancólicos y acabados, y las mujeres opacas y raras, perfiles que como decímos, coinciden con ese toque de género noir. 
+
+# Azucre
+
+Azucre es un libro que tenía ganas de  leer por el tema que trata. Es un libro que se lee rápido, con una estructura muy clara. Se ocupa mucho de la primera fase, la partida y el viaje, más de noventa páginas hasta que llegan al Ingenio. Despues se acaba pronto, y eso es una pena porque el lector apenas termina de conectar con los personajes y ya se tiene que despedir de ellos, incluso de forma brutal. En este sentido me tiene más espíritu documental que literario. Hay mucho respeto hacia los protagonistas. A nivel literario me interesa la forma en la que está narrado, hay un narrador en tercera persona, pero de vez en cuando se mezclan las voces de los protagonistas un poco en enjambre. Esto me resulta interesante aunque a veces puede resultar un poco confuso porque no sabes bien quién está hablando. Se mezclan algunas tradiciones gallegas y supersticiones. Se nota la ingenuidad de los protagonistas, sus ambiciones y miedos. La primera parte me gustó mucho, está muy bien ir viendo ese viaje, como una odisea, aunque me hubiera gustado conocer cómo salieron de allí, creo que termina un poco abruptamente, es como si la autora no hubiera querido entrar demasiado en esa fase más oscura, y en parte se agradece, pero aún así me da la sensación como de que la historia está cortada.
+
+# Merlín e Familia
+
+Merlín e familia es una obra muy interesante y muy bien escrita. Me gusta mucho la redacción de Cunqueiro, aunque reconozco que tiene un estilo complejo, con frases muy largas que en ocasiones dificultan la lectura, es una cuestión de estilo, y tiene una musicalidad y un léxico tan bonitos que dificilmente se lo puedes reprochar. No se si este estilo seguirá igual en otras obras del autor porque en este caso necesitaré descansar un poco entre obra y obra. Los cuentos tienen un aire de cuento popular y esto  es algo que me interesa, parace que podrías estar leyendo las mil y una noches. Se nota la erudicción del autor, en el manejo de los términos, me gusta mucho el ambiente e incluso el ritmo lento es adecuado, sobre todo coherente con ese estilo de redacción.  A nivel de emociones es bastante estable, no hay grandes saltos, ni sustos, salvo en algún relato conncreto. Diría que no es un libro para leer de golpe sino poco a poco, cuento por cuento.
+
+# Heroes
+
+Héroes de David Rubín, es un comic que cuenta los 12 trabajos de Heracles. Me ha gustado mucho, se lee super rápido, a pesar de ser una historia conocida, pero está muy bien contada,  en ocasiones es muy duro, supongo que como los relatos originales, aunque no podemos olvidar que es una adaptación, hay momentos bastante descarnados. El tema me interesa por ver fórmulas de adaptación de mitos, en este caso David Rubín lo tiene más o menos fácil porque utiliza el lenguaje de los superheroes, lo cual cuadra muy bien. Pero a mí no me interesa mucho para mi proyecto.
+
+# Sandman
+
+Sandman, de Nail Gaiman, es uno de los comics más conocidos del siglo pasado, y yo, como nunca había tenido acceso a este mundillo, pues no lo conocía, con el rollo de la adaptaicón de Netflix me había puesto a leer algunos y ya he leído bastantes, volvemos con ese interés por actualizar los mitos, en el caso de Gaiman, la verdad es que lo hace muy bien, la obra no es especialmente entretenida, como sí que lo es Héroes, porque tiene un ritmo mucho más lento, pero lo cierto es que  la imaginación que desborda y el mundo que crea son increibles, hay situaciones que realmente te dejan sorprendido, sientes que las posibilidades son infinitas. 
+
+
