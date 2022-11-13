@@ -1,11 +1,6 @@
 ---
-tags: [general, bibliografia]
+tags: [general, libro, análisis, bibliografia]
 categories: [general]
-#date: 2021-08-08 13:14:15
-#excerpt: ''
-#image: 'BASEURL/assets/blog/img/.png'
-#description:
-permalink: none
 title: 'Comentario a: "Dias contados", "Merlín e Familia" y "Azucre"'
 ---
 
