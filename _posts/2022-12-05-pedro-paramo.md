@@ -1,8 +1,8 @@
-----
+---
 tags: [bibliografia, novela, misterio, muertos]
 categories: [bibliografia, reseña]
 title: 'Pédro Páramo'
-----
+---
 
 # Los personajes
 
