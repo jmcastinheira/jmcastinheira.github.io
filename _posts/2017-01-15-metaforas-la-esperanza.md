@@ -12,7 +12,8 @@ categories:
 tags:
   - Categoría Blog 2
 ---
-A los que sufren
+
+>A los que sufren
 
 > なげだしてまだ陽のある脚  
 > _Nagedashite mada hi no aru ashi_  
@@ -33,7 +34,7 @@ El haiku habla con silencios. No es exagerado afirmar que en él importa tanto o
 
 Bien, dividiremos el poema en dos partes, la tácita, la que Santôka se ha callado, y la expresa. Siempre siguiendo la interpretación de Vicente Haya.
 
-**La penumbra**:
+# La penumbra:
 
 El poema no dice expresamente que su protagonista se encuentra recostado con las piernas encogidas (para estirar las piernas hay que haberlas encogido antes, esto es claro) así que podemos entenderlo así. También podemos imaginar, sin mucho esfuerzo, que su protagonista se encuentra en la penumbra, a oscuras. Pero no sólo eso, tenemos que ser más sutiles ¡El protagonista **se ha ido quedando** en la penumbra! (aquí es clave ese _todavía_).
 
@@ -43,7 +44,7 @@ Uno no tiene que hacer nada para quedar en la sombra. Simplemente hay veces en l
 
 Pero es un irse aparente, porque; porque el sol nunca se va del todo.
 
-**Al estirar las piernas / todavía hay sol**
+# Al estirar las piernas / todavía hay sol
 
 Creo que ahora el haiku gana sentido por sí mismo; su sentido se ha hecho evidente con sólo expresar lo que callaba. «_Al estirar las piernas / todavía hay sol_» . Yo creo que hay poco más que decir.
 

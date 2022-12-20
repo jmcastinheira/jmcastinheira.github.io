@@ -3,7 +3,6 @@ id: 127
 title: 'Metáforas equivocadas: La felicidad'
 date: 2017-01-15T20:24:37+00:00
 author: Aulo
-layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=127
 permalink: /metaforas-equivocadas-la-felicidad/
 image: /wp-content/uploads/daisies-1202571_640.jpg
@@ -12,9 +11,8 @@ categories:
 tags:
   - Categoría Blog 2
 ---
-<p style="text-align: right;">
-  A Marga.
-</p>
+
+>  A Marga.
 
 Seguimos con las metáforas equivocadas. En este caso respecto a un tema que supongo que a todos nos preocupa más tarde o más temprano. Como ya saben ustedes, a veces me da por pensar poéticamente, porque poéticamente, con metáforas; es como realmente pensamos.
 
@@ -22,7 +20,7 @@ Solemos hablar del «Camino a la felicidad» muchos libros de auto ayuda utiliza
 
 En el fondo de esta metáfora se confunden los términos _situs_ y _locus._ De hecho la felicidad, sería una especie de «[locus amoenus](http://es.wikipedia.org/wiki/Locus_amoenus)«. Pero vamos a Zubiri para que nos aclare el lío. Hay un texto que me gusta mucho, en él nos explica que los seres vivientes se encuentran «entre» las cosas:
 
-> Y este «entre» tiene dos caracteres. Uno de instalación: el viviente se halla _colocado_ entre las cosas, tiene su _locus_ determinado entre ellas. Otro modal: el viviente así colocado está dispuesto o _situado_ en determinada forma frente a ellas, tiene su _situs._ La categoría del _situs_, que no desempeñó ningún papel en la filosofía de Aristóteles, muestra su portentosa originalidad e importancia en el ****tema de la vida. Colocación y situación, _locus_ y _situs_, tomados en toda su amplitud y no sólo en sentido espacial, son los dos conceptos radicales en este punto. No son dos conceptos independientes. El _situs_ se funda en el _locus_; no hay situación sin colocación. Pero no se identifican; una misma colocación puede dar lugar a situaciones muy diversas. ([&#8230;](http://www.zubiri.org/works/spanishworks/hombrerealidadpersonal.htm))
+> Y este «entre» tiene dos caracteres. Uno de instalación: el viviente se halla _colocado_ entre las cosas, tiene su _locus_ determinado entre ellas. Otro modal: el viviente así colocado está dispuesto o _situado_ en determinada forma frente a ellas, tiene su _situs._ La categoría del _situs_, que no desempeñó ningún papel en la filosofía de Aristóteles, muestra su portentosa originalidad e importancia en el ****tema de la vida. Colocación y situación, _locus_ y _situs_, tomados en toda su amplitud y no sólo en sentido espacial, son los dos conceptos radicales en este punto. No son dos conceptos independientes. El _situs_ se funda en el _locus_; no hay situación sin colocación. Pero no se identifican; una misma colocación puede dar lugar a situaciones muy diversas. ([Ver Zubiri](http://www.zubiri.org/works/spanishworks/hombrerealidadpersonal.htm))
 
 Es decir, no es lo mismo estar en una situación que estar en un lugar. Con el tema de la felicidad ha habido una derivación del _situs_ al locus y no está de más que regresemos a los orígenes. En nuestra opinión sería más adecuado entender la felicidad como una situación en la que una persona se encuentra, «_me encuentro felizmente casado_» dicen algunos. Hasta aquí hemos hecho una pequeña matización a la metáfora.
 
@@ -45,9 +43,8 @@ Una es un pequeño cuento de [Tony de Mello](http://es.wikipedia.org/wiki/Anthon
 >   * «Podrías sentarte y disfrutar de la vida», Respondió el industrial.
 >   * «¿Y qué crees que estoy haciendo en este preciso momento?» respondió el satisfecho pescador.
 > 
-> (&#8230;)»
 
-y otra es un poema de <a href="http://entelequia.bligoo.com/content/view/100327/Miguel-d-Ors.html#content-top" class="broken_link" rel="nofollow">Miguel D&#8217;Ors</a> llamado «Aniversario» del grandiosísimo libro «[Hacia otra luz más pura](http://books.google.es/books?id=WCF0wnQJYrwC&lpg=PA62&ots=7gitF5B1lH&dq=%22la%20felicidad%20consiste%20en%20no%20ser%20feliz%20y%20que%20no%20te%20importe%22&pg=PA62#v=onepage&q=Aniversario&f=false)«;
+y otra es un poema de <a href="http://entelequia.bligoo.com/content/view/100327/Miguel-d-Ors.html#content-top" class="broken_link" rel="nofollow">Miguel D&#8217;Ors</a> llamado «Aniversario» del grandiosísimo libro «[Hacia otra luz más pura](http://books.google.es/books?id=WCF0wnQJYrwC&lpg=PA62&ots=7gitF5B1lH&dq=%22la%20felicidad%20consiste%20en%20no%20ser%20feliz%20y%20que%20no%20te%20importe%22&pg=PA62#v=onepage&q=Aniversario&f=false)»;
 
 > Eran casi las nueve cuando reapareciste.  
 > Yo te esperaba tejiendo y destejiendo  
@@ -71,6 +68,6 @@ y otra es un poema de <a href="http://entelequia.bligoo.com/content/view/100327/
 > y zumo de tomate.  
 > Y en el segundo sorbo ya viene a mí el furor poético:  
 > «_La Felicidad consiste en no ser feliz  
-> y que no te importe._«
+> y que no te importe._»
 
 Evidentemente, no es que haya que conformarse y quedarse quietos, a fin de cuentas <a href="http://entelequia.bligoo.com/content/view/603675/in-Itinere.html#content-top" class="broken_link" rel="nofollow">siempre estamos caminando.</a>

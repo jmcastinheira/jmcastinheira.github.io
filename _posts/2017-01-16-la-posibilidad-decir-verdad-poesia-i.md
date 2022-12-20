@@ -3,7 +3,6 @@ id: 796
 title: De la posibilidad de decir verdad en poesía I
 date: 2017-01-16T18:49:13+00:00
 author: Aulo
-layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=796
 permalink: /la-posibilidad-decir-verdad-poesia-i/
 image: /wp-content/uploads/Senegal_village_well.jpg
@@ -13,14 +12,13 @@ categories:
 tags:
   - Categoría Blog 2
 ---
+
 Este es un problema que me ha preocupado desde hace tiempo; al menos desde que leí el famoso poema de Fernando Pessoa:
 
 > El poeta es un fingidor.  
 > Finge tan profundamente  
 > Que hasta finge que es dolor  
 > El dolor que en verdad siente.
-> 
-> (&#8230;)
 
 El problema ha sido tratado por autores como Goethe, [Nieztche](http://www.raco.cat/index.php/Convivium/article/view/73242/98871), [Heidegger](http://serbal.pntic.mec.es/%7Ecmunoz11/uriarte34.pdf), María Zambrano&#8230; Pero ellos han tratado el problema desde el punto de vista filosófico; nosotros, que no estamos a su altura, vamos a tomar un prisma un poco menos ambicioso. De primera mano, vamos a situarnos en la visión poética, no en la filosófica, así que no queremos hablar de «La Verdad» nos basta con ser capaces de decir algo verdadero en poesía, sea lo que sea.
 

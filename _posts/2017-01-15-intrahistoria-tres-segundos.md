@@ -3,7 +3,6 @@ id: 724
 title: 'Intrahistoria: Tres segundos'
 date: 2017-01-15T12:32:04+00:00
 author: Uxío Pérez
-layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=724
 permalink: /intrahistoria-tres-segundos/
 image: /wp-content/uploads/Carretera_misterio-640x288.jpg
@@ -13,6 +12,7 @@ tags:
   - Categoría Blog 2
   - Relato
 ---
+
 **[Uxío PR]** En el coche, camino al trabajo, podemos ver todos los días, aproximadamente a las ocho menos cuarto de la mañana, a la misma persona durante tres segundos. No es tiempo suficiente para fijarse en alguien, pero al hacerlo brevemente todos los días durante años, esa persona pasa a formar una pequeña parte de tu vida. Hasta el punto de sorprenderte cuando no la ves, te preguntas si le habrá pasado algo pues es extrañísimo que falte a su cita.
 
 Este hombre al que vemos, está siempre de pie. Apoya su pierna derecha sobre un pequeño muro, justo en frente del ayuntamiento de Mos;  evidentemente debe trabajar allí, pero llega antes de tiempo para leer el periódico que sostiene en su pierna y así obtener mejor luz.
