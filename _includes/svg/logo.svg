@@ -14,7 +14,7 @@
    height="24px"
    viewBox="0 0 24 24"
    id="svg6"
-   sodipodi:docname="icon.svg"
+   sodipodi:docname="logo.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata12">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,9 +43,9 @@
      inkscape:window-height="720"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="7.7288136"
+     inkscape:zoom="21.367487"
+     inkscape:cx="11.172122"
+     inkscape:cy="12.707271"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -56,36 +56,36 @@
 	.st0{fill:#515151;}
 </style>
   <g
-     transform="matrix(1.087664,0,0,1.087664,-16.776425,-269.84892)"
-     id="g32"
-     style="fill:#4d4d4d">
-    <flowRoot
-       transform="matrix(0.22579815,-0.21496211,0.21496211,0.22579815,-27.255028,219.50186)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       id="flowRoot10"
-       xml:space="preserve"><flowRegion
-         id="flowRegion12"
-         style="fill:#4d4d4d"><rect
-           y="196.8054"
-           x="37.142857"
-           height="93.169136"
-           width="111.20554"
-           id="rect14"
-           style="fill:#4d4d4d" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'GFS Gazis';-inkscape-font-specification:'GFS Gazis, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d"
-         id="flowPara16">...</flowPara></flowRoot>    <flowRoot
-       transform="matrix(1.2203124,0,0,1.2203124,-16.033089,-22.803674)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       id="flowRoot22"
-       xml:space="preserve"><flowRegion
-         id="flowRegion24"
-         style="fill:#4d4d4d"><rect
-           y="203.48318"
-           x="23.68503"
-           height="154.90775"
-           width="43.358887"
-           id="rect26"
-           style="fill:#4d4d4d" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;font-family:'TeX Gyre Chorus';-inkscape-font-specification:'TeX Gyre Chorus, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d"
-         id="flowPara28">e</flowPara></flowRoot>  </g>
+     id="flowRoot10"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none"
+     transform="matrix(0.22462136,-0.25402054,0.25402054,0.22462136,-49.974904,-26.173545)"
+     aria-label="...">
+    <path
+       inkscape:connector-curvature="0"
+       id="path16"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'GFS Gazis';-inkscape-font-specification:'GFS Gazis, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d"
+       d="m 42.742578,230.35531 c 0,-1.24 -0.96,-2.24 -2.2,-2.24 -1.16,0 -2.16,1 -2.16,2.24 0,1.16 1,2.2 2.16,2.2 1.24,0 2.2,-1.04 2.2,-2.2 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path18"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'GFS Gazis';-inkscape-font-specification:'GFS Gazis, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d"
+       d="m 49.617578,230.35531 c 0,-1.24 -0.96,-2.24 -2.2,-2.24 -1.16,0 -2.16,1 -2.16,2.24 0,1.16 1,2.2 2.16,2.2 1.24,0 2.2,-1.04 2.2,-2.2 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path20"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'GFS Gazis';-inkscape-font-specification:'GFS Gazis, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d"
+       d="m 56.492578,230.35531 c 0,-1.24 -0.96,-2.24 -2.2,-2.24 -1.16,0 -2.16,1 -2.16,2.24 0,1.16 1,2.2 2.16,2.2 1.24,0 2.2,-1.04 2.2,-2.2 z" />
+  </g>
+  <g
+     id="flowRoot22"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.07534149;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="matrix(1.3272899,0,0,1.3272899,-34.926904,-294.54996)"
+     aria-label="e">
+    <path
+       inkscape:connector-curvature="0"
+       id="path23"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;font-family:'TeX Gyre Chorus';-inkscape-font-specification:'TeX Gyre Chorus, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.07534149;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 39.225014,234.35791 c -0.112726,-0.0582 -0.456643,-0.37671 -0.478102,-0.60316 -1.48,1.2 -4.101365,3.3583 -6.141365,3.3583 -2.24,0 -2.44,-2.4 -2.4,-3.96 0.92,-0.44 4.84,-3.4 5.64,-4 1.48,-1.2 2.56,-2.48 2.56,-4.36 0,-1.32 -0.8,-2.32 -2.28,-2.32 -1.44,0 -2.68,0.72 -4.12,1.84 -3.52,2.72 -4.76,7.2 -4.76,10.96 0,2.44 1,4.16 3.44,4.16 3.08,0 6.899467,-3.43514 8.539467,-5.07514 z m -3.779467,-8.44486 c 0,2.88 -3.28,4.52 -5.2,6 0.16,-2 1.68,-7.68 3.96,-7.68 0.88,0 1.24,0.8 1.24,1.68 z"
+       sodipodi:nodetypes="ccsccsscsscscss" />
+  </g>
 </svg>
