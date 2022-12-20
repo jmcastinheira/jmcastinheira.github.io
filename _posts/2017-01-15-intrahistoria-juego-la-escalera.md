@@ -2,7 +2,8 @@
 id: 711
 title: 'Intrahistoria: El juego de la escalera'
 date: 2017-01-15T12:55:05+00:00
-author: Uxío Pérez
+author: Uxio
+# layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=711
 permalink: /intrahistoria-juego-la-escalera/
 image: /wp-content/uploads/stairs-803558_640.jpg
@@ -13,7 +14,6 @@ tags:
   - Categoría Blog 2
   - Relato
 ---
-
 **[Uxió PR]** Hace ya muchos años, más que la percepción que tengo de ellos. Cuando era niño, tenía un amigo con una desbordante imaginación. Era tal que nos contagiaba a todos con sus inquietudes. Un día me llamó por teléfono porque tenía una sorpresa que enseñarme. Allá fui, me condujo hasta unas largas escaleras que nunca había visto. Esto era muy raro porque nuestro barrio lo conocíamos como la palma de la mano.
 
 Las escaleras eran muy largas, con un pequeño descanso llano en el medio. La sorpresa, eran unos extraños tubos de plástico. Por entonces no me había dado cuenta, pero analizándolo, hoy sé que se trataba de la parte de abajo de una mesa de bar, con la parte de inferior en forma de cuadrado, y las patas en forma triangular hacia arriba. La verdad, no tenía ni idea de en qué consistía la sorpresa.

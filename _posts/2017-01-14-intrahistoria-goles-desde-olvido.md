@@ -2,7 +2,8 @@
 id: 740
 title: 'Intrahistoria: Goles desde el olvido'
 date: 2017-01-14T16:51:15+00:00
-author: Uxío Pérez
+author: Uxio
+# layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=740
 permalink: /intrahistoria-goles-desde-olvido/
 image: /wp-content/uploads/futbol-1000x288.jpg
@@ -12,6 +13,13 @@ tags:
   - Categoría Blog 2
   - Relato
 ---
+<div id="attachment_1186" style="width: 310px" class="wp-caption alignleft">
+  <a href="http://entelequia.info/wp-content/uploads/futbol.jpg"><img aria-describedby="caption-attachment-1186" class="size-medium wp-image-1186" src="http://entelequia.info/wp-content/uploads/futbol-300x199.jpg" alt="Imagen futbol" width="300" height="199" srcset="http://entelequia.info/wp-content/uploads/futbol-300x199.jpg 300w, http://entelequia.info/wp-content/uploads/futbol-768x509.jpg 768w, http://entelequia.info/wp-content/uploads/futbol-1024x679.jpg 1024w, http://entelequia.info/wp-content/uploads/futbol-452x300.jpg 452w, http://entelequia.info/wp-content/uploads/futbol.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  
+  <p id="caption-attachment-1186" class="wp-caption-text">
+    Imagen de http://images.memorix.nl
+  </p>
+</div>
 
 **[Uxío PR]** Volviendo a mi casa, en solitario, de otro modo nunca me habría puesto a pensar en estas cosas, me fijé en un hombre de los que ahora llaman “sin-techo”, que se acurrucaba con timidez entre un buzón de correos y una señal de prohibido aparcar, en frente de un escaparate con una enorme pantalla de plasma en la que puede verse el fútbol.
 

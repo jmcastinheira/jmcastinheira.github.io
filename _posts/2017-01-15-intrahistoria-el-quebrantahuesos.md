@@ -2,7 +2,8 @@
 id: 532
 title: 'Intrahistoria: El Quebrantahuesos'
 date: 2017-01-15T13:06:07+00:00
-author: Uxío Pérez
+author: Uxio
+# layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=532
 permalink: /intrahistoria-el-quebrantahuesos/
 image: /wp-content/uploads/leisure-1379445_640.jpg
@@ -12,6 +13,7 @@ tags:
   - Categoría Blog 2
   - Relato
 ---
+<img class="alignleft" src="http://www.mejorconbici.com/fotoproductos/13-131120062036041.jpg" width="188" height="133" />
 
 **[Uxío PR]** El ciclismo es un deporte increíble. Es fácil iniciarse. Como se suele decir la bicicleta es muy agradecida. Si esta semana rodamos todos los días diez kilómetros, la siguiente seremos capaces de rodar veinte. Sin embargo, si lo dejamos una semana nos olvidaremos hasta de montar en bici.
 

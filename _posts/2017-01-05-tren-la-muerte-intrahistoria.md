@@ -2,7 +2,8 @@
 id: 579
 title: El tren de la muerte (Intrahistoria)
 date: 2017-01-05T17:40:20+00:00
-author: Aulo
+author: Jmcastinheira
+# layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=579
 permalink: /tren-la-muerte-intrahistoria/
 image: /wp-content/uploads/v-640x288.jpg
@@ -12,14 +13,21 @@ tags:
   - Categoría Blog 2
   - Relato
 ---
+<div id="attachment_1178" style="width: 310px" class="wp-caption alignleft">
+  <a href="http://entelequia.info/wp-content/uploads/v.jpg"><img aria-describedby="caption-attachment-1178" class="wp-image-1178 size-medium" src="http://entelequia.info/wp-content/uploads/v-300x200.jpg" alt="Imagen vias de tren" width="300" height="200" srcset="http://entelequia.info/wp-content/uploads/v-300x200.jpg 300w, http://entelequia.info/wp-content/uploads/v-451x300.jpg 451w, http://entelequia.info/wp-content/uploads/v.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  
+  <p id="caption-attachment-1178" class="wp-caption-text">
+    De pixabay.com
+  </p>
+</div>
 
-Lo interesante y peligroso de las intrahistorias es que pasaron en realidad y siempre puede suceder que alguien te diga que no es aśi como sucedio; transcribo ahora el texto de Moncho donde me comenta mis faltas a la verdad en torno a la intrahistoria que yo había titulado «El tren.»
+**[Moncho]** _Lo interesante y peligroso de las intrahistorias es que pasaron en realidad y siempre puede suceder que alguien te diga que no es aśi como sucedio; transcribo ahora el texto de Moncho donde me comenta mis faltas a la verdad en torno a la intrahistoria que yo había titulado «El tren.»_
 
 _José, hemos perpetrado un acto horrible. Algo así como preparar una fabada de lata en el microondas para agasajar a nuestros invitados cuando lo teníamos todo para hacer un buen puchero: materia prima de primera calidad, fuego lento y la paciencia y el cariño necesarios para ello. La culpa ha sido mía en gran parte por no haber sabido transmitirte el sentimiento que inspira Natalia al contar su historia. Estoy seguro que de haber estado en un sitio tranquilo degustando una copa de Somontano en lugar de ir a 100 Km/h por sinuosas carreteras escuchando hip hop cuando te referí la historia, el resultado hubiera sido otro._  
-
+_ _  
 _Ahí va mi versión de los hechos que paradójicamente se apoyará en la tuya. No estoy muy familiarizado con el género de la intrahistoria pero un poco de sensacionalismo no le vendrá mal para hacerlo más vendible._
 
-# El tren de la muerte**.
+**El tren de la muerte**.
 
 Hoy Natalia es una señora de ochenta años a quien podemos encontrar paseando de buena mañana por el casco viejo de Avilés. Venerable testigo de un momento irrepetible de nuestra historia. Mujer generosa que de vez  en cuando vuelve de sus recuerdos para compartirlos con quienes quieren aprender.
 
