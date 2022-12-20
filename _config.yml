@@ -20,7 +20,7 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Diario de proyectos
+title   : Entelequia
 description: > # this means to ignore newlines until "Language & timezone"
   Este es el diario de proyectos de José Castinneira
 permalink: none
@@ -39,7 +39,7 @@ author:
   name      : José Castinneira
   url       : jmcastinheira.github.io
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  bio       : Intento de escritor.
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : aulo # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -57,6 +57,13 @@ author:
 ##############################
 repository: jmcastinheira/jmcastinheira.github.io
 repository_tree: master
+
+## => Creating page for authors: https://genicsblog.com/gouravkhunger/adding-multiple-authors-to-a-jekyll-blog-got-easier
+##############################
+collections:
+  authors:
+    output: true
+    permalink: /author/:author/
 
 
 ## => Paths
