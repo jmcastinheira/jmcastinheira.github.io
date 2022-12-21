@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=794
 permalink: /intrahistoria-amanece/
-image: /wp-content/uploads/morning-1889265_640.jpg
+image: /docs/assets/images/morning-1889265_640.jpg
 categories:
   - Intrahistorias
 tags:
-  - Categoría Blog 2
+  - Blog
   - Relato
 ---
 <div>

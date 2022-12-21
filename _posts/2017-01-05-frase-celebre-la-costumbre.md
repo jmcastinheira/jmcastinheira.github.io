@@ -6,11 +6,11 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=474
 permalink: /frase-celebre-la-costumbre/
-image: /wp-content/uploads/pensador.jpg
+image: /docs/assets/images/pensador.jpg
 categories:
   - Citas
 tags:
-  - Categoría Blog 2
+  - Blog
 ---
 > «No hay mejor cosa que terminar de acostumbrarse a que todo anda mal, para empezar a ser feliz»
 > 

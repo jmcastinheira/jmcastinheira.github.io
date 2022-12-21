@@ -6,11 +6,11 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=724
 permalink: /intrahistoria-tres-segundos/
-image: /wp-content/uploads/Carretera_misterio-640x288.jpg
+image: /docs/assets/images/Carretera_misterio-640x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Categoría Blog 2
+  - Blog
   - Relato
 ---
 **[Uxío PR]** En el coche, camino al trabajo, podemos ver todos los días, aproximadamente a las ocho menos cuarto de la mañana, a la misma persona durante tres segundos. No es tiempo suficiente para fijarse en alguien, pero al hacerlo brevemente todos los días durante años, esa persona pasa a formar una pequeña parte de tu vida. Hasta el punto de sorprenderte cuando no la ves, te preguntas si le habrá pasado algo pues es extrañísimo que falte a su cita.

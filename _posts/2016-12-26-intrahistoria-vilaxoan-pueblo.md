@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=246
 permalink: /intrahistoria-vilaxoan-pueblo/
-image: /wp-content/uploads/Porto_de_Vilaxoán._Vilagarcía_de_Arousa._Galiza_VV04.jpg
+image: /docs/assets/images/Porto_de_Vilaxoán._Vilagarcía_de_Arousa._Galiza_VV04.jpg
 categories:
   - Intrahistorias
 tags:
-  - Categoría Blog 2
+  - Blog
   - Relato
 ---
 Hace tiempo que no escribo en el blog. Hoy quiero contar una cosa. Hace unos años nos fuimos a vivir a un pequeño pueblo de Vilagarcía de Arousa llamado Vilaxoán. Es un pequeño pueblo marinero. La gente de Vilaxoán tiene un carácter especial, son gente luchadora que ha vivido mucho. No tienen miedo, están acostumbrados a bregar con tormentas y tempestades. El mar tiene estas cosas. La rudeza del viento, la rudeza de la humedad y el marisqueo, son cosas que crean carácter. Y luego la droga, claro. Todo crea carácter.

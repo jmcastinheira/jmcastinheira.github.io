@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=781
 permalink: /autores-francisco-quevedo/
-image: /wp-content/uploads/writing-828911_640-640x288.jpg
+image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
   - Autores
 tags:
-  - Categoría Blog 2
+  - Blog
 ---
 Después de pensarlo un poco he decidido continuar con este análisis personal de los que, podríamos llamar, «poetas de mi vida». Uno de ellos, sin duda de los primeros con los que me encontré en mi infancia, fue precisamente Francisco de Quevedo. Aunque mi lectura por la poesía comenzó con los romances clásicos, [«El cantar del mio Cid»](http://es.wikisource.org/wiki/Cantar_del_M%C3%ADo_Cid), [El romance del infante Arnaldos](http://es.wikisource.org/wiki/El_infante_Arnaldos "infante arnaldos"), que me sabía de memoria, Quevedo fue una revolución.
 

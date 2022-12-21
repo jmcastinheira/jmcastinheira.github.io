@@ -6,7 +6,7 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=626
 permalink: /bibliobus-bibliocamello-prestamos-carceles-rompiendo-las-barreras-la-biblioteca/
-image: /wp-content/uploads/book-610189_640.jpg
+image: /docs/assets/images/book-610189_640.jpg
 categories:
   - Artículo
   - Contextopedia

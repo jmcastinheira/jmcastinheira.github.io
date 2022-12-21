@@ -6,15 +6,15 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=579
 permalink: /tren-la-muerte-intrahistoria/
-image: /wp-content/uploads/v-640x288.jpg
+image: /docs/assets/images/v-640x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Categoría Blog 2
+  - Blog
   - Relato
 ---
 <div id="attachment_1178" style="width: 310px" class="wp-caption alignleft">
-  <a href="http://entelequia.info/wp-content/uploads/v.jpg"><img aria-describedby="caption-attachment-1178" class="wp-image-1178 size-medium" src="http://entelequia.info/wp-content/uploads/v-300x200.jpg" alt="Imagen vias de tren" width="300" height="200" srcset="http://entelequia.info/wp-content/uploads/v-300x200.jpg 300w, http://entelequia.info/wp-content/uploads/v-451x300.jpg 451w, http://entelequia.info/wp-content/uploads/v.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://entelequia.info/docs/assets/images/v.jpg"><img aria-describedby="caption-attachment-1178" class="wp-image-1178 size-medium" src="http://entelequia.info/docs/assets/images/v-300x200.jpg" alt="Imagen vias de tren" width="300" height="200" srcset="http://entelequia.info/docs/assets/images/v-300x200.jpg 300w, http://entelequia.info/docs/assets/images/v-451x300.jpg 451w, http://entelequia.info/docs/assets/images/v.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-1178" class="wp-caption-text">
     De pixabay.com

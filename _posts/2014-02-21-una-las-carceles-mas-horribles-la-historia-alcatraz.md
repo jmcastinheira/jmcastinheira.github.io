@@ -14,11 +14,11 @@ wpgs_updating:
   - "0"
 wpgs_laste_komentis:
   - 2017-02-21 15:56:00
-image: /wp-content/uploads/morning-1889265_640.jpg
+image: /docs/assets/images/morning-1889265_640.jpg
 categories:
   - Artículo
 tags:
-  - Categoría Blog 2
+  - Blog
 ---
 <img class="alignleft" src="http://www.grupoelron.org/im3/laroca.jpg" width="250" height="150" align="left" border="0" />
 

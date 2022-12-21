@@ -6,11 +6,11 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=532
 permalink: /intrahistoria-el-quebrantahuesos/
-image: /wp-content/uploads/leisure-1379445_640.jpg
+image: /docs/assets/images/leisure-1379445_640.jpg
 categories:
   - Intrahistorias
 tags:
-  - Categoría Blog 2
+  - Blog
   - Relato
 ---
 <img class="alignleft" src="http://www.mejorconbici.com/fotoproductos/13-131120062036041.jpg" width="188" height="133" />

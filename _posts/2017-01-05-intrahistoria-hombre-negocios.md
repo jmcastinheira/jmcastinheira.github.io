@@ -6,15 +6,15 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=567
 permalink: /intrahistoria-hombre-negocios/
-image: /wp-content/uploads/boy-1835937_640-640x288.jpg
+image: /docs/assets/images/boy-1835937_640-640x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Categoría Blog 2
+  - Blog
   - Relato
 ---
 <div id="attachment_1164" style="width: 220px" class="wp-caption alignleft">
-  <a href="http://entelequia.info/wp-content/uploads/boy-1835937_640.jpg"><img aria-describedby="caption-attachment-1164" class=" wp-image-1164" src="http://entelequia.info/wp-content/uploads/boy-1835937_640.jpg" alt="Imagen niño" width="210" height="159" srcset="http://entelequia.info/wp-content/uploads/boy-1835937_640.jpg 640w, http://entelequia.info/wp-content/uploads/boy-1835937_640-300x225.jpg 300w, http://entelequia.info/wp-content/uploads/boy-1835937_640-400x300.jpg 400w" sizes="(max-width: 210px) 100vw, 210px" /></a>
+  <a href="http://entelequia.info/docs/assets/images/boy-1835937_640.jpg"><img aria-describedby="caption-attachment-1164" class=" wp-image-1164" src="http://entelequia.info/docs/assets/images/boy-1835937_640.jpg" alt="Imagen niño" width="210" height="159" srcset="http://entelequia.info/docs/assets/images/boy-1835937_640.jpg 640w, http://entelequia.info/docs/assets/images/boy-1835937_640-300x225.jpg 300w, http://entelequia.info/docs/assets/images/boy-1835937_640-400x300.jpg 400w" sizes="(max-width: 210px) 100vw, 210px" /></a>
   
   <p id="caption-attachment-1164" class="wp-caption-text">
     Imagen de pixabay.com

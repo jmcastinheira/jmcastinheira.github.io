@@ -6,7 +6,7 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=323
 permalink: /retorica-ann-nixon-cooper-la-nina-rajoy/
-image: /wp-content/uploads/pensador.jpg
+image: /docs/assets/images/pensador.jpg
 categories:
   - Artículo
 tags:

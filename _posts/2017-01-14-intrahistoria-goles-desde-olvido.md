@@ -6,15 +6,15 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=740
 permalink: /intrahistoria-goles-desde-olvido/
-image: /wp-content/uploads/futbol-1000x288.jpg
+image: /docs/assets/images/futbol-1000x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Categoría Blog 2
+  - Blog
   - Relato
 ---
 <div id="attachment_1186" style="width: 310px" class="wp-caption alignleft">
-  <a href="http://entelequia.info/wp-content/uploads/futbol.jpg"><img aria-describedby="caption-attachment-1186" class="size-medium wp-image-1186" src="http://entelequia.info/wp-content/uploads/futbol-300x199.jpg" alt="Imagen futbol" width="300" height="199" srcset="http://entelequia.info/wp-content/uploads/futbol-300x199.jpg 300w, http://entelequia.info/wp-content/uploads/futbol-768x509.jpg 768w, http://entelequia.info/wp-content/uploads/futbol-1024x679.jpg 1024w, http://entelequia.info/wp-content/uploads/futbol-452x300.jpg 452w, http://entelequia.info/wp-content/uploads/futbol.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://entelequia.info/docs/assets/images/futbol.jpg"><img aria-describedby="caption-attachment-1186" class="size-medium wp-image-1186" src="http://entelequia.info/docs/assets/images/futbol-300x199.jpg" alt="Imagen futbol" width="300" height="199" srcset="http://entelequia.info/docs/assets/images/futbol-300x199.jpg 300w, http://entelequia.info/docs/assets/images/futbol-768x509.jpg 768w, http://entelequia.info/docs/assets/images/futbol-1024x679.jpg 1024w, http://entelequia.info/docs/assets/images/futbol-452x300.jpg 452w, http://entelequia.info/docs/assets/images/futbol.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-1186" class="wp-caption-text">
     Imagen de http://images.memorix.nl

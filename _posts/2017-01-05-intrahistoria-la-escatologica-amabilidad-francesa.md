@@ -6,16 +6,16 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=398
 permalink: /intrahistoria-la-escatologica-amabilidad-francesa/
-image: /wp-content/uploads/Paris_ciudad_rio-640x288.jpg
+image: /docs/assets/images/Paris_ciudad_rio-640x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Categoría Blog 2
+  - Blog
   - Relato
   - Uxio
 ---
 <div id="attachment_1188" style="width: 310px" class="wp-caption alignleft">
-  <a href="http://entelequia.info/wp-content/uploads/Paris_ciudad_rio.jpg"><img aria-describedby="caption-attachment-1188" class="size-medium wp-image-1188" src="http://entelequia.info/wp-content/uploads/Paris_ciudad_rio-300x200.jpg" alt="Imagen Notre Dame" width="300" height="200" srcset="http://entelequia.info/wp-content/uploads/Paris_ciudad_rio-300x200.jpg 300w, http://entelequia.info/wp-content/uploads/Paris_ciudad_rio-450x300.jpg 450w, http://entelequia.info/wp-content/uploads/Paris_ciudad_rio.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://entelequia.info/docs/assets/images/Paris_ciudad_rio.jpg"><img aria-describedby="caption-attachment-1188" class="size-medium wp-image-1188" src="http://entelequia.info/docs/assets/images/Paris_ciudad_rio-300x200.jpg" alt="Imagen Notre Dame" width="300" height="200" srcset="http://entelequia.info/docs/assets/images/Paris_ciudad_rio-300x200.jpg 300w, http://entelequia.info/docs/assets/images/Paris_ciudad_rio-450x300.jpg 450w, http://entelequia.info/docs/assets/images/Paris_ciudad_rio.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-1188" class="wp-caption-text">
     Imagen pixabay.com/en/users/Frivolouswhim

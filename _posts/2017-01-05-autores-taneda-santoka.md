@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=145
 permalink: /autores-taneda-santoka/
-image: /wp-content/uploads/writing-828911_640-640x288.jpg
+image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
   - Autores
 tags:
-  - Categoría Blog 2
+  - Blog
 ---
 [Taneda Santôka](http://en.wikipedia.org/wiki/Taneda_Sant%C5%8Dka), y aunque nadie lo conozca, es probablemente uno de los mejores poetas que haya dado la literatura universal; lo digo sin más, así, como se dice cualquier cosa, y mi mano no tiembla al escribirlo.
 

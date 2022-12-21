@@ -14,11 +14,11 @@ wpgs_updating:
   - "0"
 wpgs_laste_komentis:
   - 2017-03-01 10:54:17
-image: /wp-content/uploads/book-610189_640.jpg
+image: /docs/assets/images/book-610189_640.jpg
 categories:
   - Artículo
 tags:
-  - Categoría Blog 2
+  - Blog
   - tipografia
 ---
 Después de haber analizado, siguiendo nuestro curioso <a href="http://entelequia.bligoo.com/content/view/526478/El-arte-invisible-de-los-tipos.html" class="broken_link" rel="nofollow">interés tipográfico</a> los tipos góticos y los romanos, nos vamos a centrar en la evolución que estos últimos siguieron, dejando para un último post, los tipos de palo seco y otras creaciones.

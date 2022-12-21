@@ -14,11 +14,11 @@ blogger_permalink:
   - /2007/06/inici-d-lado-oscuro-del-corazn.html
 blogger_internal:
   - /feeds/5306117009195603500/posts/default/7329750233933576494
-image: /wp-content/uploads/morning-1889265_640.jpg
+image: /docs/assets/images/morning-1889265_640.jpg
 categories:
   - Poesía
 tags:
-  - Categoría Blog 2
+  - Blog
 format: video
 ---
 <div></p>

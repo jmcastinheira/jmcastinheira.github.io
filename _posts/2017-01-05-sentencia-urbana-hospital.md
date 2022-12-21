@@ -6,11 +6,11 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=491
 permalink: /sentencia-urbana-hospital/
-image: /wp-content/uploads/pensador.jpg
+image: /docs/assets/images/pensador.jpg
 categories:
   - Citas
 tags:
-  - Categoría Blog 2
+  - Blog
 ---
 > No soy tan joven para tener que abortar, mi hermana pequeña está ahora en consulta por su segundo embarazo»
 > 

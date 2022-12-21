@@ -6,16 +6,16 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=571
 permalink: /intrahistoria-el-pensamiento/
-image: /wp-content/uploads/Carretera_misterio-640x288.jpg
+image: /docs/assets/images/Carretera_misterio-640x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Categoría Blog 2
+  - Blog
   - Relato
   - Uxio
 ---
 <div id="attachment_1182" style="width: 310px" class="wp-caption alignleft">
-  <a href="http://entelequia.info/wp-content/uploads/Carretera_misterio.jpg"><img aria-describedby="caption-attachment-1182" class="size-medium wp-image-1182" src="http://entelequia.info/wp-content/uploads/Carretera_misterio-300x200.jpg" alt="Imagen carretera con niebla" width="300" height="200" srcset="http://entelequia.info/wp-content/uploads/Carretera_misterio-300x200.jpg 300w, http://entelequia.info/wp-content/uploads/Carretera_misterio-451x300.jpg 451w, http://entelequia.info/wp-content/uploads/Carretera_misterio.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://entelequia.info/docs/assets/images/Carretera_misterio.jpg"><img aria-describedby="caption-attachment-1182" class="size-medium wp-image-1182" src="http://entelequia.info/docs/assets/images/Carretera_misterio-300x200.jpg" alt="Imagen carretera con niebla" width="300" height="200" srcset="http://entelequia.info/docs/assets/images/Carretera_misterio-300x200.jpg 300w, http://entelequia.info/docs/assets/images/Carretera_misterio-451x300.jpg 451w, http://entelequia.info/docs/assets/images/Carretera_misterio.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-1182" class="wp-caption-text">
     Imagen de pixabay.com/en/users/mkrause

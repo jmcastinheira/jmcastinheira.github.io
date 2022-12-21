@@ -6,11 +6,11 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=581
 permalink: /fallece-michael-crichton/
-image: /wp-content/uploads/writing-828911_640-640x288.jpg
+image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
   - Autores
 tags:
-  - Categoría Blog 2
+  - Blog
   - Uxio
 ---
 **[Uxío PR]** El novelista estadounidense Michael Crichton ha fallecido a los 66 años de edad tras una lucha contra el cáncer cuya tipología ha sido mantenida en privado.

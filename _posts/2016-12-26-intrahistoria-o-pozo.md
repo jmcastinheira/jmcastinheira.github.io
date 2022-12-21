@@ -6,11 +6,11 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=354
 permalink: /intrahistoria-o-pozo/
-image: /wp-content/uploads/Senegal_village_well.jpg
+image: /docs/assets/images/Senegal_village_well.jpg
 categories:
   - Intrahistorias
 tags:
-  - Categoría Blog 2
+  - Blog
   - Relato
 ---
 **O Pozo**
