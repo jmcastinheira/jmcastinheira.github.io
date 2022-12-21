@@ -14,12 +14,12 @@ blogger_permalink:
   - /2007/11/las-cinco-leyes-de-la-biblioteconoma.html
 blogger_internal:
   - /feeds/5306117009195603500/posts/default/4931214586737329872
-image: /docs/assets/images/writing-828911_640-640x288.jpg
+image: /wp-content/uploads/writing-828911_640-640x288.jpg
 categories:
   - Artículo
   - Contextopedia
 tags:
-  - Blog
+  - Categoría Blog 2
   - Recursos
   - Ruido
   - Uxio

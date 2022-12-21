@@ -6,7 +6,7 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=504
 permalink: /evento-tunguska-cien-anos-despues/
-image: /docs/assets/images/asteroide.jpg
+image: /wp-content/uploads/asteroide.jpg
 categories:
   - Artículo
 tags:

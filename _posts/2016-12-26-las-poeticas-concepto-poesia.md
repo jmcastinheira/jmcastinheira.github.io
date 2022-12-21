@@ -6,12 +6,12 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=350
 permalink: /las-poeticas-concepto-poesia/
-image: /docs/assets/images/501809933_493e27290b-500x288.jpg
+image: /wp-content/uploads/501809933_493e27290b-500x288.jpg
 categories:
   - Artículo
   - Poesía
 tags:
-  - Blog
+  - Categoría Blog 2
 ---
 Aunque no esté todavía capacitado para escribir un artículo como el que podría llevar este título, hace tiempo que no escribo nada, y como a fin de cuentas algo puedo decir y el que piensa demasiado como nadar se acaba ahogando, me voy a lanzar a compartir algunas consideraciones sobre este tipo de cosas.
 

@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=429
 permalink: /frase-celebre-mente-activa/
-image: /docs/assets/images/pensador.jpg
+image: /wp-content/uploads/pensador.jpg
 categories:
   - Citas
 tags:
-  - Blog
+  - Categoría Blog 2
 format: cita
 ---
 > “Pensamos básicamente en ver la televisión para desconectar el cerebro, y utilizar el ordenador cuando quieres volver a encenderlo.”

@@ -6,7 +6,7 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=506
 permalink: /los-20-fenomenos-meteorologicos-mas-sorprendentes-parte-iii/
-image: /docs/assets/images/tormenta.jpg
+image: /wp-content/uploads/tormenta.jpg
 categories:
   - Artículo
 tags:

@@ -6,11 +6,12 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=711
 permalink: /intrahistoria-juego-la-escalera/
-image: /docs/assets/images/stairs-803558_640.jpg
+image: /wp-content/uploads/stairs-803558_640.jpg
 categories:
   - Intrahistorias
 tags:
-  - Blog
+  - Categoría Blog 1
+  - Categoría Blog 2
   - Relato
 ---
 **[Uxió PR]** Hace ya muchos años, más que la percepción que tengo de ellos. Cuando era niño, tenía un amigo con una desbordante imaginación. Era tal que nos contagiaba a todos con sus inquietudes. Un día me llamó por teléfono porque tenía una sorpresa que enseñarme. Allá fui, me condujo hasta unas largas escaleras que nunca había visto. Esto era muy raro porque nuestro barrio lo conocíamos como la palma de la mano.

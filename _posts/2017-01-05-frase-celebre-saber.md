@@ -6,11 +6,11 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=481
 permalink: /frase-celebre-saber/
-image: /docs/assets/images/pensador.jpg
+image: /wp-content/uploads/pensador.jpg
 categories:
   - Citas
 tags:
-  - Blog
+  - Categoría Blog 2
 ---
 > Lo que sabemos es una gota de agua; lo que ignoramos es el océano.
 > 

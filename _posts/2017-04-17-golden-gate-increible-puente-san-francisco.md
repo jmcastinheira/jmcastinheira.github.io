@@ -6,7 +6,7 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=644
 permalink: /golden-gate-increible-puente-san-francisco/
-image: /docs/assets/images/golden-gate-bridge-388917_640.jpg
+image: /wp-content/uploads/golden-gate-bridge-388917_640.jpg
 categories:
   - Artículo
 tags:

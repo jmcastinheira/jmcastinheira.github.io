@@ -14,11 +14,11 @@ blogger_permalink:
   - /2007/07/leyendo-6-de-nora-mendez.html
 blogger_internal:
   - /feeds/5306117009195603500/posts/default/5065481011625378948
-image: /docs/assets/images/DSC0092.jpg
+image: /wp-content/uploads/DSC0092.jpg
 categories:
   - Poema
 tags:
-  - Blog
+  - Categoría Blog 2
 ---
 Tengo pocas piedras en los bolsillos,  
 quizá una que se me escapó de la boca  

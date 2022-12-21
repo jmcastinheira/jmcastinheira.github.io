@@ -6,11 +6,12 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=751
 permalink: /intrahistoria-el-hyundai/
-image: /docs/assets/images/Carretera_misterio-640x288.jpg
+image: /wp-content/uploads/Carretera_misterio-640x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Blog
+  - Categoría Blog 1
+  - Categoría Blog 2
   - Relato
 ---
 <p style="text-align: left;">

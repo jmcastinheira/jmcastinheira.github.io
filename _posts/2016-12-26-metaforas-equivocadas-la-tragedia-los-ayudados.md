@@ -6,12 +6,12 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=325
 permalink: /metaforas-equivocadas-la-tragedia-los-ayudados/
-image: /docs/assets/images/boy-1835937_640-640x288.jpg
+image: /wp-content/uploads/boy-1835937_640-640x288.jpg
 categories:
   - Artículo
   - Metaforas
 tags:
-  - Blog
+  - Categoría Blog 2
 ---
 Una versión anterior de este artículo ha sido publicado en [Rebelión.org](http://www.rebelion.org/noticia.php?id=111862)
 

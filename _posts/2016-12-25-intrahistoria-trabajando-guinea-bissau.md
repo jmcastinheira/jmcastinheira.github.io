@@ -6,11 +6,11 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=209
 permalink: /intrahistoria-trabajando-guinea-bissau/
-image: /docs/assets/images/boy-1835937_640-640x288.jpg
+image: /wp-content/uploads/boy-1835937_640-640x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Blog
+  - Categoría Blog 2
   - Relato
 ---
 Por Uxío P.R.

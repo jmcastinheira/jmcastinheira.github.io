@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=726
 permalink: /intrahistoria-dolores/
-image: /docs/assets/images/Porto_de_Vilaxoán._Vilagarcía_de_Arousa._Galiza_VV04.jpg
+image: /wp-content/uploads/Porto_de_Vilaxoán._Vilagarcía_de_Arousa._Galiza_VV04.jpg
 categories:
   - Intrahistorias
 tags:
-  - Blog
+  - Categoría Blog 2
   - Relato
 ---
 Siguiendo con nuestras intrahistorias, quería hablaros de Dolores. Una anciana que vive en un pueblecito del ayuntamiento de Vilagarcía de Arousa, Vilaxoán.

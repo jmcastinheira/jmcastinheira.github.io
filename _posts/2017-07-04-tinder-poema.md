@@ -6,7 +6,7 @@ author: Jmcastinheira
 # layout: post
 guid: http://entelequia.info/?p=1544
 permalink: /tinder-poema/
-image: /docs/assets/images/book-610189_640.jpg
+image: /wp-content/uploads/book-610189_640.jpg
 categories:
   - Poema
 ---

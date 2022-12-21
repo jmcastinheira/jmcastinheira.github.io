@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=743
 permalink: /intrahistoria-el-pintor/
-image: /docs/assets/images/501809933_493e27290b-500x288.jpg
+image: /wp-content/uploads/501809933_493e27290b-500x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Blog
+  - Categoría Blog 2
   - Relato
 ---
 <div id="body-138438" class="content-body">

@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=433
 permalink: /frase-celebre-la-educacion-expandida-cambio/
-image: /docs/assets/images/pensador.jpg
+image: /wp-content/uploads/pensador.jpg
 categories:
   - Citas
 tags:
-  - Blog
+  - Categoría Blog 2
 format: cita
 ---
 > La educación puede suceder en cualquier momento y en cualquier lugar. Ruben Días ([Zemos98](http://www.zemos98.org/))

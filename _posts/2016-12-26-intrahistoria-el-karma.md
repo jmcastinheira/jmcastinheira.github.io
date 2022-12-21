@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=262
 permalink: /intrahistoria-el-karma/
-image: /docs/assets/images/cropped-Carretera_misterio-825x510.jpg
+image: /wp-content/uploads/cropped-Carretera_misterio-825x510.jpg
 categories:
   - Intrahistorias
 tags:
-  - Blog
+  - Categoría Blog 2
   - Relato
 ---
 Afortunadamente volvemos a las intrahistorias, una de las secciones de entelequia&#8230; que más me gustan. En este caso me la ha enviado **Andrea Br** previa petición por mi parte; os transcribo su intrahistoria tal y como me la envió.

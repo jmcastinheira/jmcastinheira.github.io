@@ -6,11 +6,11 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=636
 permalink: /intrahistoria-miercoles-copas/
-image: /docs/assets/images/futbol-1000x288.jpg
+image: /wp-content/uploads/futbol-1000x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Blog
+  - Categoría Blog 2
   - Relato
   - Uxio
 ---

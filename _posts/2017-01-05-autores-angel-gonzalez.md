@@ -6,11 +6,12 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=810
 permalink: /autores-angel-gonzalez/
-image: /docs/assets/images/writing-828911_640-640x288.jpg
+image: /wp-content/uploads/writing-828911_640-640x288.jpg
 categories:
   - Autores
 tags:
-  - Blog
+  - Categoría Blog 1
+  - Categoría Blog 2
 ---
 Otro poeta que conocí en mi época de facultad fue precisamente a [Ángel Gonzalez](http://es.wikipedia.org/wiki/%C3%81ngel_Gonz%C3%A1lez). Cuando pubiqué el este post por primera vez en entelequia acababan de [nombrarle](http://www.lne.es/secciones/noticia.jsp?pRef=1842_46_584686__SociedadyCultura-Angel-Gonzalez-Juan-Jose-Millas-honoris-causa-vida-larga-literatura-corta) _doctor honoris causa_ por la universidad de Oviedo. La noticia de su muerte en el 2008 la podéis leer [aquí](http://cadenaser.com/ser/2008/01/12/cultura/1200097030_850215.html). Sé que a amigos míos no les gusta su poesía, a mi sí. Como es normal hay poemas que me gustan más que otros; pero aunque el señor Angel Gonzalez sólo hubiera escrito este poema: «Ayer» (que abajo os dejo) estaría igualmente entre mis poetas preferidos. Os dejo «Para que yo me llame Ángel Gonzalez» en el programa «Hoy por hoy» de la cadena SER:
 

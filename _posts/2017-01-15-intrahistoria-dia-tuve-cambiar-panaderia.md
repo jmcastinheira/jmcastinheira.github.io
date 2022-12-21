@@ -6,11 +6,11 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=421
 permalink: /intrahistoria-dia-tuve-cambiar-panaderia/
-image: /docs/assets/images/niña-1000x288.jpg
+image: /wp-content/uploads/niña-1000x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Blog
+  - Categoría Blog 2
   - Relato
 ---
 **[Uxío PR]** Esta intrahistoria es quizá la más vergonzante de las que he escrito. Lo cierto es que las ocasiones en las que lo he contando la gente ha reaccionado de distintas maneras. He podido ver cierta curiosidad durante el relato. Por todo esto he considerado que podría ser una intrahistoria interesante.

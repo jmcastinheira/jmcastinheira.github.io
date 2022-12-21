@@ -6,7 +6,7 @@ author: Jmcastinheira
 # layout: post
 guid: http://entelequia.info/?p=1441
 permalink: /dedicatoria/
-image: /docs/assets/images/writing-828911_640-640x288.jpg
+image: /wp-content/uploads/writing-828911_640-640x288.jpg
 categories:
   - Blog
   - Poema

@@ -6,16 +6,16 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=557
 permalink: /intrahistoria-reunion-bibliotecarios/
-image: /docs/assets/images/501809933_493e27290b-500x288.jpg
+image: /wp-content/uploads/501809933_493e27290b-500x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Blog
+  - Categoría Blog 2
   - Relato
   - Uxio
 ---
 <div id="attachment_1166" style="width: 310px" class="wp-caption alignleft">
-  <a href="http://entelequia.info/docs/assets/images/501809933_493e27290b.jpg"><img aria-describedby="caption-attachment-1166" class="wp-image-1166 size-medium" src="http://entelequia.info/docs/assets/images/501809933_493e27290b-300x225.jpg" alt="Imagen lío de cuerdas" width="300" height="225" srcset="http://entelequia.info/docs/assets/images/501809933_493e27290b-300x225.jpg 300w, http://entelequia.info/docs/assets/images/501809933_493e27290b-400x300.jpg 400w, http://entelequia.info/docs/assets/images/501809933_493e27290b.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://entelequia.info/wp-content/uploads/501809933_493e27290b.jpg"><img aria-describedby="caption-attachment-1166" class="wp-image-1166 size-medium" src="http://entelequia.info/wp-content/uploads/501809933_493e27290b-300x225.jpg" alt="Imagen lío de cuerdas" width="300" height="225" srcset="http://entelequia.info/wp-content/uploads/501809933_493e27290b-300x225.jpg 300w, http://entelequia.info/wp-content/uploads/501809933_493e27290b-400x300.jpg 400w, http://entelequia.info/wp-content/uploads/501809933_493e27290b.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-1166" class="wp-caption-text">
     Imagen de http://farm1.static.flickr.com/228/501809933_493e27290b.jpg

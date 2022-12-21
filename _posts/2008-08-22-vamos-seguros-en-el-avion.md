@@ -6,7 +6,7 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=599
 permalink: /vamos-seguros-en-el-avion/
-image: /docs/assets/images/avion.jpg
+image: /wp-content/uploads/avion.jpg
 categories:
   - Artículo
   - Opiniones

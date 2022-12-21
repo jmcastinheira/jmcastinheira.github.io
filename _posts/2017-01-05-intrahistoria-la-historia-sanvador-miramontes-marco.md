@@ -6,11 +6,11 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=656
 permalink: /intrahistoria-la-historia-sanvador-miramontes-marco/
-image: /docs/assets/images/501809933_493e27290b-500x288.jpg
+image: /wp-content/uploads/501809933_493e27290b-500x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Blog
+  - Categoría Blog 2
   - Relato
   - Uxio
 ---

@@ -14,12 +14,12 @@ blogger_permalink:
   - /2007/04/xavier-zubiri.html
 blogger_internal:
   - /feeds/5306117009195603500/posts/default/580834351771635442
-image: /docs/assets/images/writing-828911_640-640x288.jpg
+image: /wp-content/uploads/writing-828911_640-640x288.jpg
 categories:
   - Autores
   - Filosofía
 tags:
-  - Blog
+  - Categoría Blog 2
   - Ellacuría
   - Zubiri
 ---

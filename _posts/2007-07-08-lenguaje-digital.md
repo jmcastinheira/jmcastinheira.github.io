@@ -14,13 +14,13 @@ blogger_permalink:
   - /2007/07/lenguaje-digital.html
 blogger_internal:
   - /feeds/5306117009195603500/posts/default/2885404123927013325
-image: /docs/assets/images/mujer_telefono-640x288.jpg
+image: /wp-content/uploads/mujer_telefono-640x288.jpg
 categories:
   - Artículo
   - Contextopedia
   - Poesía
 tags:
-  - Blog
+  - Categoría Blog 2
   - Comunicación
   - Digital
   - lenguaje

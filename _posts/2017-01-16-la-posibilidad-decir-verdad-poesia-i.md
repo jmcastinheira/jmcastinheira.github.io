@@ -6,12 +6,12 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=796
 permalink: /la-posibilidad-decir-verdad-poesia-i/
-image: /docs/assets/images/Senegal_village_well.jpg
+image: /wp-content/uploads/Senegal_village_well.jpg
 categories:
   - Artículo
   - Poesía
 tags:
-  - Blog
+  - Categoría Blog 2
 ---
 Este es un problema que me ha preocupado desde hace tiempo; al menos desde que leí el famoso poema de Fernando Pessoa:
 

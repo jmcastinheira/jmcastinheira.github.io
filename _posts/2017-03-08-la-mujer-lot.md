@@ -14,7 +14,7 @@ wpgs_updating:
   - "0"
 wpgs_laste_komentis:
   - 2017-03-08 21:58:43
-image: /docs/assets/images/szymborska.png
+image: /wp-content/uploads/szymborska.png
 categories:
   - Autores
   - Blog
@@ -23,7 +23,7 @@ tags:
   - Szymborska
 ---
 <div id="attachment_1524" style="width: 310px" class="wp-caption alignleft">
-  <a href="http://entelequia.info/docs/assets/images/szymborska.png"><img aria-describedby="caption-attachment-1524" class="size-medium wp-image-1524" src="http://entelequia.info/docs/assets/images/szymborska-300x199.png" alt="" width="300" height="199" srcset="http://entelequia.info/docs/assets/images/szymborska-300x199.png 300w, http://entelequia.info/docs/assets/images/szymborska-768x509.png 768w, http://entelequia.info/docs/assets/images/szymborska.png 802w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://entelequia.info/wp-content/uploads/szymborska.png"><img aria-describedby="caption-attachment-1524" class="size-medium wp-image-1524" src="http://entelequia.info/wp-content/uploads/szymborska-300x199.png" alt="" width="300" height="199" srcset="http://entelequia.info/wp-content/uploads/szymborska-300x199.png 300w, http://entelequia.info/wp-content/uploads/szymborska-768x509.png 768w, http://entelequia.info/wp-content/uploads/szymborska.png 802w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-1524" class="wp-caption-text">
     Modificación de una fotografía de Soren Andersson .

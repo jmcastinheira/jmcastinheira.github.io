@@ -6,16 +6,16 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=587
 permalink: /intrahistoria-recuerdos-aquel-barrio/
-image: /docs/assets/images/niña-1000x288.jpg
+image: /wp-content/uploads/niña-1000x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Blog
+  - Categoría Blog 2
   - Relato
   - Uxio
 ---
 <div id="attachment_1169" style="width: 310px" class="wp-caption alignleft">
-  <a href="http://entelequia.info/docs/assets/images/niña.jpg"><img aria-describedby="caption-attachment-1169" class="wp-image-1169 size-medium" src="http://entelequia.info/docs/assets/images/niña-300x171.jpg" alt="Imagen niña con globos" width="300" height="171" srcset="http://entelequia.info/docs/assets/images/niña-300x171.jpg 300w, http://entelequia.info/docs/assets/images/niña-768x437.jpg 768w, http://entelequia.info/docs/assets/images/niña.jpg 1024w, http://entelequia.info/docs/assets/images/niña-500x284.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://entelequia.info/wp-content/uploads/niña.jpg"><img aria-describedby="caption-attachment-1169" class="wp-image-1169 size-medium" src="http://entelequia.info/wp-content/uploads/niña-300x171.jpg" alt="Imagen niña con globos" width="300" height="171" srcset="http://entelequia.info/wp-content/uploads/niña-300x171.jpg 300w, http://entelequia.info/wp-content/uploads/niña-768x437.jpg 768w, http://entelequia.info/wp-content/uploads/niña.jpg 1024w, http://entelequia.info/wp-content/uploads/niña-500x284.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-1169" class="wp-caption-text">
     Imagen de https://c2.staticflickr.com/4/3884/14249428718_61ab6cf7f3_b.jpg

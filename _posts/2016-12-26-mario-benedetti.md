@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=441
 permalink: /mario-benedetti/
-image: /docs/assets/images/writing-828911_640-640x288.jpg
+image: /wp-content/uploads/writing-828911_640-640x288.jpg
 categories:
   - Autores
 tags:
-  - Blog
+  - Categoría Blog 2
 ---
 El otro día publicábamos [esto](http://www.youtube.com/watch?v=pGN6M0FxzEw).
 

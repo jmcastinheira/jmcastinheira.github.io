@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=368
 permalink: /autores-georg-cantor-podemos-listar-infinito/
-image: /docs/assets/images/writing-828911_640-640x288.jpg
+image: /wp-content/uploads/writing-828911_640-640x288.jpg
 categories:
   - Autores
 tags:
-  - Blog
+  - Categoría Blog 2
 ---
 Curiosamente, me encuentro en mi lector de feeds (liferea, por si alguien tiene interés) con dos entradas relacionadas en blogs distintos; por un lado «[El infinito y más allá, los números transfinitos Aleph](http://labellateoria.blogspot.com/2009/12/el-infinito-y-mas-alla-los-numeros.html)» del blog La bella teoría, y por otro lado «¿[Se puede medir el infinito](http://www.genciencia.com/matematicas/se-puede-medir-el-infinito-i)?» Me parece curioso porque recientemente me encuentro en medio de un máster en «Lógica y filosofía de la ciencia» vaya usted a saber porqué; y ahí fue donde me presentaron al amigo [Cantor](http://es.wikipedia.org/wiki/Georg_Cantor), un tipo muy curioso.
 

@@ -14,12 +14,12 @@ wpgs_updating:
   - "0"
 wpgs_laste_komentis:
   - 2017-03-08 21:46:05
-image: /docs/assets/images/szymborska.png
+image: /wp-content/uploads/szymborska.png
 categories:
   - Autores
   - Poema
 tags:
-  - Blog
+  - Categoría Blog 2
   - Szymborska
 ---
 Conocí la obra de Wislawa Szymborska gracias a Miguel d&#8217;Ors. En un libro suyo le dedicaba un poema. Yo no sabía ni quien era Szymborska ni me sonaba de nada; es posible que en esos intentos infantiles de pronunciar palabras impronunciables haya salido, como por azar, este nombre raro suyo, [quien sabe&#8230;](http://amediavoz.com/szymborska.htm#AMOR%20A%20PRIMERA%20VISTA) El caso es que tuve curiosidad y afortunadamente la busqué en internet, claro, me la encontré a ella, con toda su fuerza y la dulzura de quien lo sabe todo, de quien aún sin quererlo mira a los demás con compasión y que, sin poder evitarlo, lleva en su palabra la belleza,

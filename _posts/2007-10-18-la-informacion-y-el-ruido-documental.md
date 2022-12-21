@@ -14,13 +14,14 @@ blogger_permalink:
   - /2007/10/la-informacin-y-el-ruido-documental.html
 blogger_internal:
   - /feeds/5306117009195603500/posts/default/9216608292050382202
-image: /docs/assets/images/book-610189_640.jpg
+image: /wp-content/uploads/book-610189_640.jpg
 categories:
   - Artículo
   - Aulo
   - Contextopedia
 tags:
-  - Blog
+  - Categoría Blog 1
+  - Categoría Blog 2
   - Ruido
   - Uxio
 ---

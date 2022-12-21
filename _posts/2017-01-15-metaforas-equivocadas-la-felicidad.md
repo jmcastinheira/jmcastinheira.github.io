@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=127
 permalink: /metaforas-equivocadas-la-felicidad/
-image: /docs/assets/images/daisies-1202571_640.jpg
+image: /wp-content/uploads/daisies-1202571_640.jpg
 categories:
   - Metaforas
 tags:
-  - Blog
+  - Categoría Blog 2
 ---
 <p style="text-align: right;">
   A Marga.

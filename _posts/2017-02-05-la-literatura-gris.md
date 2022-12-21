@@ -6,11 +6,11 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=674
 permalink: /la-literatura-gris/
-image: /docs/assets/images/pensador.jpg
+image: /wp-content/uploads/pensador.jpg
 categories:
   - Contextopedia
 tags:
-  - Blog
+  - Categoría Blog 2
 ---
 <div id="body-151923" class="content-body">
   <p align="justify">

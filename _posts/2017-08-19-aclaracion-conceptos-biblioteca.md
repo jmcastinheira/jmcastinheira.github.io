@@ -6,7 +6,7 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=624
 permalink: /aclaracion-conceptos-biblioteca/
-image: /docs/assets/images/book-610189_640.jpg
+image: /wp-content/uploads/book-610189_640.jpg
 categories:
   - Artículo
   - Contextopedia

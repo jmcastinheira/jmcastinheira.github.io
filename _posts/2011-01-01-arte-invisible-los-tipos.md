@@ -14,11 +14,11 @@ wpgs_updating:
   - "0"
 wpgs_laste_komentis:
   - 2017-03-01 10:57:37
-image: /docs/assets/images/writing-828911_640-640x288.jpg
+image: /wp-content/uploads/writing-828911_640-640x288.jpg
 categories:
   - Artículo
 tags:
-  - Blog
+  - Categoría Blog 2
   - tipografia
 ---
 Se hablado bastante del arte efímero, pero no se habla tanto de lo que se ha dado en llamar [el arte invisible](http://www.elpais.com/fotogaleria/Arte/Tipografia/Tipografia/Arte/4708-1/elpgal/); no es fácil imaginar un tipo de arte que tengamos presente todos los días, a todas horas y en todos los lugares y que además sea tan, tan sutil que apenas podamos percibirlo; sería como si pudiéramos ver a través del dibujo. Bueno ¿que tal si os digo que este arte existe, que lo estás viendo ahora mismo, y que simplemente se llama tipografía?
@@ -71,7 +71,7 @@ De la Garamond se suele resaltar la e minúscula y la t, también minúscula; a 
 
 Otra tipografía romana, también bellísima, es la creada por el inglés [William Caslon](http://es.wikipedia.org/wiki/William_Caslon); que se basó en el tipo Garamond para crear la que es considerada la primera tipografía propiamente inglesa y que lleva su nombre. Como curiosidad diremos que la Caslon fue utilizada en la «[Declaración de independencia de EEUU](http://es.wikipedia.org/wiki/Declaraci%C3%B3n_de_independencia)» es curiosa la «A» mayúscula, la «Q» mayúscula cursiva y las itálicas en general.
 
-Después vino el gran **[John Baskerville](http://www.unostiposduros.com/docs/assets/images/2008/12/los-tipos-de-baskerville.pdf)**,  con lo que os enlazo hay información suficiente.
+Después vino el gran **[John Baskerville](http://www.unostiposduros.com/wp-content/uploads/2008/12/los-tipos-de-baskerville.pdf)**,  con lo que os enlazo hay información suficiente.
 
 ![](http://i275.photobucket.com/albums/jj287/Auluses/Baskerville.jpg?v=1251118459488 "http://i275.photobucket.com/albums/jj287/Auluses/Baskerville.jpg") 
 

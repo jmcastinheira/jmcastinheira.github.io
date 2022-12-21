@@ -6,15 +6,15 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=682
 permalink: /intrahistoria-mistos-pal-purrua/
-image: /docs/assets/images/Cerillas_fuego-640x288.jpg
+image: /wp-content/uploads/Cerillas_fuego-640x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Blog
+  - Categoría Blog 2
   - Relato
 ---
 <div id="attachment_1175" style="width: 310px" class="wp-caption alignleft">
-  <a href="http://entelequia.info/docs/assets/images/Cerillas_fuego.jpg"><img aria-describedby="caption-attachment-1175" class="wp-image-1175 size-medium" src="http://entelequia.info/docs/assets/images/Cerillas_fuego-300x225.jpg" alt="imagen de cerillas" width="300" height="225" srcset="http://entelequia.info/docs/assets/images/Cerillas_fuego-300x225.jpg 300w, http://entelequia.info/docs/assets/images/Cerillas_fuego-400x300.jpg 400w, http://entelequia.info/docs/assets/images/Cerillas_fuego.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://entelequia.info/wp-content/uploads/Cerillas_fuego.jpg"><img aria-describedby="caption-attachment-1175" class="wp-image-1175 size-medium" src="http://entelequia.info/wp-content/uploads/Cerillas_fuego-300x225.jpg" alt="imagen de cerillas" width="300" height="225" srcset="http://entelequia.info/wp-content/uploads/Cerillas_fuego-300x225.jpg 300w, http://entelequia.info/wp-content/uploads/Cerillas_fuego-400x300.jpg 400w, http://entelequia.info/wp-content/uploads/Cerillas_fuego.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-1175" class="wp-caption-text">
     Imagen de pixabay.com

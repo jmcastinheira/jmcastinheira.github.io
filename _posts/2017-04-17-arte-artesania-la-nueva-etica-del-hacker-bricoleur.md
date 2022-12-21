@@ -6,13 +6,13 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=534
 permalink: /arte-artesania-la-nueva-etica-del-hacker-bricoleur/
-image: /docs/assets/images/501809933_493e27290b-500x288.jpg
+image: /wp-content/uploads/501809933_493e27290b-500x288.jpg
 categories:
   - Artículo
 tags:
   - arte
 ---
-<div id="body-434867" class="content-body"><img class="alignleft" src="http://mungbean.org/blog/docs/assets/images/2007/12/hraunblom63.jpg" width="209" height="196" />Hoy pude asistir a una conferencia de Jünger Mich sobre <a href="http://es.wikipedia.org/wiki/Bauhaus_%28escuela%29">la Bauhaus</a> en la facultad de Bellas Artes de Pontevedra. No es que el tema sea algo que me preocupe habitualmente, pero como ya decimos en <a href="http://entelequia.bligoo.com" class="broken_link" rel="nofollow">entelequia</a> nos preocupa todo lo que tenga que ver con el conocimiento.
+<div id="body-434867" class="content-body"><img class="alignleft" src="http://mungbean.org/blog/wp-content/uploads/2007/12/hraunblom63.jpg" width="209" height="196" />Hoy pude asistir a una conferencia de Jünger Mich sobre <a href="http://es.wikipedia.org/wiki/Bauhaus_%28escuela%29">la Bauhaus</a> en la facultad de Bellas Artes de Pontevedra. No es que el tema sea algo que me preocupe habitualmente, pero como ya decimos en <a href="http://entelequia.bligoo.com" class="broken_link" rel="nofollow">entelequia</a> nos preocupa todo lo que tenga que ver con el conocimiento.
   </p>
   
   <p>

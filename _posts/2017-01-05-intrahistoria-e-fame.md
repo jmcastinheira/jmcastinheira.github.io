@@ -6,15 +6,15 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=591
 permalink: /intrahistoria-e-fame/
-image: /docs/assets/images/queso-640x288.jpg
+image: /wp-content/uploads/queso-640x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Blog
+  - Categoría Blog 2
   - Relato
 ---
 <div id="attachment_1184" style="width: 310px" class="wp-caption alignleft">
-  <a href="http://entelequia.info/docs/assets/images/queso.jpg"><img aria-describedby="caption-attachment-1184" class="wp-image-1184 size-medium" src="http://entelequia.info/docs/assets/images/queso-300x200.jpg" alt="Imagen quesos" width="300" height="200" srcset="http://entelequia.info/docs/assets/images/queso-300x200.jpg 300w, http://entelequia.info/docs/assets/images/queso-451x300.jpg 451w, http://entelequia.info/docs/assets/images/queso.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://entelequia.info/wp-content/uploads/queso.jpg"><img aria-describedby="caption-attachment-1184" class="wp-image-1184 size-medium" src="http://entelequia.info/wp-content/uploads/queso-300x200.jpg" alt="Imagen quesos" width="300" height="200" srcset="http://entelequia.info/wp-content/uploads/queso-300x200.jpg 300w, http://entelequia.info/wp-content/uploads/queso-451x300.jpg 451w, http://entelequia.info/wp-content/uploads/queso.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-1184" class="wp-caption-text">
     Imagen de pixabay.com/en/users/Pexels

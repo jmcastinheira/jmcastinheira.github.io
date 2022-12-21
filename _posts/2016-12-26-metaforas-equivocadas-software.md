@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=240
 permalink: /metaforas-equivocadas-software/
-image: /docs/assets/images/mujer_telefono-640x288.jpg
+image: /wp-content/uploads/mujer_telefono-640x288.jpg
 categories:
   - Metaforas
 tags:
-  - Blog
+  - Categoría Blog 2
 ---
 > _«Poner patentes a licencias sobre el software es como poner patentes sobre las receteas culinarias. Nadie podría comer a menos que pagara por la licencia de la receta»». **[Richard Stallman](http://www.stallman.org/)**_
 

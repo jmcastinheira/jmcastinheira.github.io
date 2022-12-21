@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=113
 permalink: /metaforas-la-esperanza/
-image: /docs/assets/images/morning-1889265_640.jpg
+image: /wp-content/uploads/morning-1889265_640.jpg
 categories:
   - Metaforas
 tags:
-  - Blog
+  - Categoría Blog 2
 ---
 A los que sufren
 

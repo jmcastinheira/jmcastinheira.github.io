@@ -6,7 +6,7 @@ author: Jmcastinheira
 # layout: post
 guid: http://entelequia.info/?p=1469
 permalink: /poema-servilletas/
-image: /docs/assets/images/320px-Servilletas_sevillanas.jpg
+image: /wp-content/uploads/320px-Servilletas_sevillanas.jpg
 categories:
   - Poema
 ---

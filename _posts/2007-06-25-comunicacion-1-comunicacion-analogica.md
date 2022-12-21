@@ -14,13 +14,13 @@ blogger_permalink:
   - /2007/06/comunicacin-1-lenguaje-analgico.html
 blogger_internal:
   - /feeds/5306117009195603500/posts/default/5699482426377877329
-image: /docs/assets/images/niña_telefono-328x288.jpg
+image: /wp-content/uploads/niña_telefono-328x288.jpg
 categories:
   - Artículo
   - Contextopedia
 tags:
   - Analógico
-  - Blog
+  - Categoría Blog 2
   - Comunicación
   - Digital
   - TGS

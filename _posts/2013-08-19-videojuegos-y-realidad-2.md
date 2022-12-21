@@ -6,7 +6,7 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=771
 permalink: /videojuegos-y-realidad-2/
-image: /docs/assets/images/GaveOver.jpg
+image: /wp-content/uploads/GaveOver.jpg
 categories:
   - Artículo
   - Opiniones
