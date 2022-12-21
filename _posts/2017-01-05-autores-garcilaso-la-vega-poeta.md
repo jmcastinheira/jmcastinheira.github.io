@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=703
 permalink: /autores-garcilaso-la-vega-poeta/
-image: /wp-content/uploads/writing-828911_640-640x288.jpg
+image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
   - Autores
 tags:
-  - Categoría Blog 2
+  - Blog
 ---
 <div id="body-144874" class="content-body"><img class="alignleft" src="http://www.spanish-books.net/masters/garcilaso.jpg" width="150" height="192" />
   </p>

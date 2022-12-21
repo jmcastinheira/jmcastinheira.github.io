@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=766
 permalink: /autores-becquer-otras-cosas/
-image: /wp-content/uploads/writing-828911_640-640x288.jpg
+image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
   - Autores
 tags:
-  - Categoría Blog 2
+  - Blog
 ---
 Hablaremos un poco de [Gustavo Adolfo Bécquer](http://es.wikipedia.org/wiki/Gustavo_Adolfo_B%C3%A9cquer), otro poeta que leí en mi juventud&#8230; Lo leí hasta la saciedad. Llegué a aprenderme muchísimas rimas de memoria. Incluso es posible que mis primeros pinitos en la poesía fueran simple imitación de sus rimas: la [IV](http://es.wikisource.org/wiki/Rima_IV), la [VII](http://es.wikisource.org/wiki/Rima_VII), la [XI](http://es.wikisource.org/wiki/Rima_XI) con la que me sentía identificadísimo y aún hoy, la [XIII](http://es.wikisource.org/wiki/Rima_XIII), esta, la [XV](http://es.wikisource.org/wiki/Rima_XV) le gustaba a Moncho ¡Ah! y esta, la [XVII,](http://es.wikisource.org/wiki/Rima_XVII) que fue la primera que aprendí de memoria para clase de literatura; había escogido la más corta ¡¡Claro!! (bien podía haber escogido esta [XX](http://es.wikisource.org/wiki/Rima_XX) otra) y claro la famosísima [XXI](http://es.wikisource.org/wiki/Rima_XX) y la [XXIII.](http://es.wikisource.org/wiki/Rima_XXIII) A mi me gustaba la [XXX](http://es.wikisource.org/wiki/Rima_XXX), por lo que significa. La [XXXVIII](http://es.wikisource.org/wiki/Rima_XXXVIII), y clarisimamente la [LIII](http://es.wikisource.org/wiki/Rima_LIII), que yo había musicado. La [LX&#8230;](http://es.wikisource.org/wiki/Rima_LX)  En fin hay tantas que no se pueden dejar de nombrar. Pongo aquí mi preferida, que repetía y repetía como expresión de mi tristeza:
 

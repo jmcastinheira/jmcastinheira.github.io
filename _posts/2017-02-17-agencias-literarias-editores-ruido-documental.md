@@ -6,7 +6,7 @@ author: Jmcastinheira
 # layout: post
 guid: http://entelequia.info/?p=1476
 permalink: /agencias-literarias-editores-ruido-documental/
-image: /wp-content/uploads/book-610189_640.jpg
+image: /docs/assets/images/book-610189_640.jpg
 categories:
   - Blog
   - Opiniones
@@ -15,7 +15,7 @@ tags:
   - devolucion
 ---
 <div id="attachment_1473" style="width: 310px" class="wp-caption alignleft">
-  <a href="http://entelequia.info/wp-content/uploads/book-610189_640.jpg"><img aria-describedby="caption-attachment-1473" class="size-medium wp-image-1473" src="http://entelequia.info/wp-content/uploads/book-610189_640-300x198.jpg" alt="Libro" width="300" height="198" srcset="http://entelequia.info/wp-content/uploads/book-610189_640-300x198.jpg 300w, http://entelequia.info/wp-content/uploads/book-610189_640.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://entelequia.info/docs/assets/images/book-610189_640.jpg"><img aria-describedby="caption-attachment-1473" class="size-medium wp-image-1473" src="http://entelequia.info/docs/assets/images/book-610189_640-300x198.jpg" alt="Libro" width="300" height="198" srcset="http://entelequia.info/docs/assets/images/book-610189_640-300x198.jpg 300w, http://entelequia.info/docs/assets/images/book-610189_640.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-1473" class="wp-caption-text">
     De https://pixabay.com/en/users/congerdesign

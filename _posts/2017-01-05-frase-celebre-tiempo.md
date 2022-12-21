@@ -6,11 +6,11 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=466
 permalink: /frase-celebre-tiempo/
-image: /wp-content/uploads/pensador.jpg
+image: /docs/assets/images/pensador.jpg
 categories:
   - Citas
 tags:
-  - Categoría Blog 2
+  - Blog
 ---
 > El tiempo es como un río que arrastra rápidamente todo lo que nace.
 > 

@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=431
 permalink: /metaforas-equivocadas-amor/
-image: /wp-content/uploads/niña-1000x288.jpg
+image: /docs/assets/images/niña-1000x288.jpg
 categories:
   - Metaforas
 tags:
-  - Categoría Blog 2
+  - Blog
 ---
 **El amor no es una cosa**. No es ni un lugar al que haya que llegar, ni [nada que haya que encontrar](http://www.google.es/search?hl=es&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&hs=sMM&q=en+busca+del+amor&btnG=Buscar&meta=), ni [un estado de locura transitoria](http://depsicologia.com/el-enamoramiento-un-estado-de-locura-transitoria/).
 

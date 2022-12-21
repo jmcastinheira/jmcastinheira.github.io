@@ -6,15 +6,15 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=419
 permalink: /intrahistoria-el-telefono/
-image: /wp-content/uploads/niña_telefono-328x288.jpg
+image: /docs/assets/images/niña_telefono-328x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Categoría Blog 2
+  - Blog
   - Relato
 ---
 <div id="attachment_1190" style="width: 303px" class="wp-caption alignleft">
-  <a href="http://entelequia.info/wp-content/uploads/niña_telefono.jpg"><img aria-describedby="caption-attachment-1190" class=" wp-image-1190" src="http://entelequia.info/wp-content/uploads/niña_telefono.jpg" alt="Imagen, niña al teléfono" width="293" height="351" /></a>
+  <a href="http://entelequia.info/docs/assets/images/niña_telefono.jpg"><img aria-describedby="caption-attachment-1190" class=" wp-image-1190" src="http://entelequia.info/docs/assets/images/niña_telefono.jpg" alt="Imagen, niña al teléfono" width="293" height="351" /></a>
   
   <p id="caption-attachment-1190" class="wp-caption-text">
     Imagen de Zaragozaciudad.net

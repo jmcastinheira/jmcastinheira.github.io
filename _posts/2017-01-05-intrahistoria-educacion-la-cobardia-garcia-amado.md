@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=709
 permalink: /intrahistoria-educacion-la-cobardia-garcia-amado/
-image: /wp-content/uploads/boy-1835937_640-640x288.jpg
+image: /docs/assets/images/boy-1835937_640-640x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Categoría Blog 2
+  - Blog
   - Relato
 ---
 Hoy quiero incluir aquí un texto, una intrahistoria. No sé si ocurrió realmente aunque sin duda puede estar ocurriendo en todo instante; el texto está tomado de [Dura Lex](http://garciamado.blogspot.com) de García Amado, un blog que desde hace poco tengo incluido en mi [feevy](http://feevy.com/); espero que os guste:

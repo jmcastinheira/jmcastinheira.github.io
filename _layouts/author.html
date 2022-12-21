@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% assign author = site.data.authors[page.author] %}
+<!--
+  Now you can use the author variable.
+  It has all the data as defined inside _data/authors.yml for the current author.
+-->
+
+  <head>
+    <!-- See how we can use values inside the author variable. -->
+    <meta name="description" content={{ author.bio }}>
+    <!-- other stuff -->
+  </head>
+
+  <body>
+    <h1>{{ author.name }}</h1>
+    <p>{{ author.bio }}</p>
+
+    {% assign links = author.socials %}
+    <a href="{{ link.twitter }}">Twitter</a>
+    <a href="{{ link.github }}">GitHub</a>
+
+    <!--
+      Here we get all the posts by the author of the current page.
+      And then render a post preview box for each of the post.
+    -->
+    {% assign posts = site.posts | where_exp:"item", "item.author == page.author" %}
+    {% for post in posts %}
+      {% include postbox.html %}
+    {% endfor %}
+  </body>
+
+</html>

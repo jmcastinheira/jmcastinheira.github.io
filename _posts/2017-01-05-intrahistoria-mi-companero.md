@@ -6,16 +6,16 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=747
 permalink: /intrahistoria-mi-companero/
-image: /wp-content/uploads/mujer_telefono-640x288.jpg
+image: /docs/assets/images/mujer_telefono-640x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Categoría Blog 2
+  - Blog
   - Relato
   - Uxio
 ---
 <div id="attachment_1171" style="width: 310px" class="wp-caption alignleft">
-  <a href="http://entelequia.info/wp-content/uploads/mujer_telefono.jpg"><img aria-describedby="caption-attachment-1171" class="wp-image-1171 size-medium" src="http://entelequia.info/wp-content/uploads/mujer_telefono-300x188.jpg" alt="Imagen de telefono" width="300" height="188" srcset="http://entelequia.info/wp-content/uploads/mujer_telefono-300x188.jpg 300w, http://entelequia.info/wp-content/uploads/mujer_telefono-480x300.jpg 480w, http://entelequia.info/wp-content/uploads/mujer_telefono.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://entelequia.info/docs/assets/images/mujer_telefono.jpg"><img aria-describedby="caption-attachment-1171" class="wp-image-1171 size-medium" src="http://entelequia.info/docs/assets/images/mujer_telefono-300x188.jpg" alt="Imagen de telefono" width="300" height="188" srcset="http://entelequia.info/docs/assets/images/mujer_telefono-300x188.jpg 300w, http://entelequia.info/docs/assets/images/mujer_telefono-480x300.jpg 480w, http://entelequia.info/docs/assets/images/mujer_telefono.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-1171" class="wp-caption-text">
     Imagen de pixabay.com

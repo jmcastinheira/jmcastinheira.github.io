@@ -6,15 +6,15 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=559
 permalink: /intrahistoria-maruja/
-image: /wp-content/uploads/Días_calientes.jpg
+image: /docs/assets/images/Días_calientes.jpg
 categories:
   - Intrahistorias
 tags:
-  - Categoría Blog 2
+  - Blog
   - Relato
 ---
 <div id="attachment_1365" style="width: 310px" class="wp-caption alignleft">
-  <a href="http://entelequia.info/wp-content/uploads/Días_calientes.jpg"><img aria-describedby="caption-attachment-1365" class="size-medium wp-image-1365" src="http://entelequia.info/wp-content/uploads/Días_calientes-300x231.jpg" alt="" width="300" height="231" srcset="http://entelequia.info/wp-content/uploads/Días_calientes-300x231.jpg 300w, http://entelequia.info/wp-content/uploads/Días_calientes.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://entelequia.info/docs/assets/images/Días_calientes.jpg"><img aria-describedby="caption-attachment-1365" class="size-medium wp-image-1365" src="http://entelequia.info/docs/assets/images/Días_calientes-300x231.jpg" alt="" width="300" height="231" srcset="http://entelequia.info/docs/assets/images/Días_calientes-300x231.jpg 300w, http://entelequia.info/docs/assets/images/Días_calientes.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-1365" class="wp-caption-text">
     De wikipedia.org/wiki/Archivo:Días_calientes.jpg

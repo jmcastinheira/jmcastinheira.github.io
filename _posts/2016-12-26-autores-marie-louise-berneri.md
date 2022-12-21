@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=514
 permalink: /autores-marie-louise-berneri/
-image: /wp-content/uploads/writing-828911_640-640x288.jpg
+image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
   - Autores
 tags:
-  - Categoría Blog 2
+  - Blog
 ---
 Todo empezó cuando decidí buscar bibliografía de autores anarquistas. Me fui yo a la librería Michelena de Pontevedra a buscar libros de [Bakunin](http://es.wikipedia.org/wiki/Bakunin), [Malatesta](http://es.wikipedia.org/wiki/Errico_Malatesta) o [Kropotkin](http://es.wikipedia.org/wiki/Kropotkin) que era los que conocía yo por aquel entonces. Estamos hablando de cuando yo estaba en el instituto&#8230;.
 

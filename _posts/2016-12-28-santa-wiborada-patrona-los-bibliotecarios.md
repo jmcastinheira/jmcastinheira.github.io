@@ -6,7 +6,7 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=569
 permalink: /santa-wiborada-patrona-los-bibliotecarios/
-image: /wp-content/uploads/writing-828911_640-640x288.jpg
+image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
   - Autores
 tags:
@@ -14,7 +14,7 @@ tags:
   - Uxio
 ---
 <div style="width: 301px" class="wp-caption alignleft">
-  <img class="size-full" src="http://www.preguntasantoral.es/wp-content/uploads/2010/09/Miniatura.jpg?v=1329904229300" alt="Imagen Santa Wiboranda extraída de la web preguntasantoral.es" width="291" height="500" />
+  <img class="size-full" src="http://www.preguntasantoral.es/docs/assets/images/2010/09/Miniatura.jpg?v=1329904229300" alt="Imagen Santa Wiboranda extraída de la web preguntasantoral.es" width="291" height="500" />
   
   <p class="wp-caption-text">
     Imagen Santa Wiboranda extraída de la web preguntasantoral.es

@@ -6,11 +6,11 @@ author: Uxio
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=406
 permalink: /frase-celebre-aprender-del-gato/
-image: /wp-content/uploads/pensador.jpg
+image: /docs/assets/images/pensador.jpg
 categories:
   - Citas
 tags:
-  - Categoría Blog 2
+  - Blog
 ---
 > Quien coge un gato por la cola aprende de gatos como un 44% más rápido que el que se limita a contemplarlos.
 > 

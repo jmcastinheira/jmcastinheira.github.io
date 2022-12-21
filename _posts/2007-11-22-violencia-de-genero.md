@@ -12,7 +12,7 @@ blogger_author:
   - Aulo
 blogger_internal:
   - /feeds/5306117009195603500/posts/default/759729334674337929
-image: /wp-content/uploads/320px-Servilletas_sevillanas.jpg
+image: /docs/assets/images/320px-Servilletas_sevillanas.jpg
 categories:
   - Artículo
   - Aulo

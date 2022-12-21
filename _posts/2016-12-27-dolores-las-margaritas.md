@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=665
 permalink: /dolores-las-margaritas/
-image: /wp-content/uploads/daisies-1202571_640.jpg
+image: /docs/assets/images/daisies-1202571_640.jpg
 categories:
   - Intrahistorias
 tags:
-  - Categoría Blog 2
+  - Blog
   - Relato
 ---
 <div id="body-153138" class="content-body"><img class="alignleft" src="http://www.jggweb.com/wp-content/margaritas785b.jpg" width="196" height="150" align="left" border="0" />Ya había hablado de Dolores en alguna ocasión, ahora me toca otra vez en una nueva historia, por lo que luego les digo.

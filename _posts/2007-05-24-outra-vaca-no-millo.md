@@ -14,11 +14,11 @@ blogger_permalink:
   - /2007/05/outra-vaca-no-millo.html
 blogger_internal:
   - /feeds/5306117009195603500/posts/default/4925895342710886010
-image: /wp-content/uploads/writing-828911_640-640x288.jpg
+image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
   - Autores
 tags:
-  - Categoría Blog 2
+  - Blog
   - Iglesia
   - Iniciativas
   - noticias

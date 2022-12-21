@@ -6,15 +6,15 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=753
 permalink: /intrahistoria-concepto/
-image: /wp-content/uploads/520px-Miguel_de_Unamuno_Meurisse_1925-520x288.jpg
+image: /docs/assets/images/520px-Miguel_de_Unamuno_Meurisse_1925-520x288.jpg
 categories:
   - Intrahistorias
 tags:
-  - Categoría Blog 2
+  - Blog
   - Relato
 ---
 <div id="attachment_1199" style="width: 270px" class="wp-caption alignleft">
-  <a href="http://entelequia.info/wp-content/uploads/520px-Miguel_de_Unamuno_Meurisse_1925.jpg"><img aria-describedby="caption-attachment-1199" class="size-medium wp-image-1199" src="http://entelequia.info/wp-content/uploads/520px-Miguel_de_Unamuno_Meurisse_1925-260x300.jpg" alt="Imagen Miguel de Unamuno" width="260" height="300" srcset="http://entelequia.info/wp-content/uploads/520px-Miguel_de_Unamuno_Meurisse_1925-260x300.jpg 260w, http://entelequia.info/wp-content/uploads/520px-Miguel_de_Unamuno_Meurisse_1925.jpg 520w" sizes="(max-width: 260px) 100vw, 260px" /></a>
+  <a href="http://entelequia.info/docs/assets/images/520px-Miguel_de_Unamuno_Meurisse_1925.jpg"><img aria-describedby="caption-attachment-1199" class="size-medium wp-image-1199" src="http://entelequia.info/docs/assets/images/520px-Miguel_de_Unamuno_Meurisse_1925-260x300.jpg" alt="Imagen Miguel de Unamuno" width="260" height="300" srcset="http://entelequia.info/docs/assets/images/520px-Miguel_de_Unamuno_Meurisse_1925-260x300.jpg 260w, http://entelequia.info/docs/assets/images/520px-Miguel_de_Unamuno_Meurisse_1925.jpg 520w" sizes="(max-width: 260px) 100vw, 260px" /></a>
   
   <p id="caption-attachment-1199" class="wp-caption-text">
     Imagen de commons.wikimedia.org

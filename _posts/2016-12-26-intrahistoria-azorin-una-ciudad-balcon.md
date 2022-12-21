@@ -6,11 +6,11 @@ author: Jmcastinheira
 # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=225
 permalink: /intrahistoria-azorin-una-ciudad-balcon/
-image: /wp-content/uploads/balcony-1700201_640.jpg
+image: /docs/assets/images/balcony-1700201_640.jpg
 categories:
   - Intrahistorias
 tags:
-  - Categoría Blog 2
+  - Blog
   - Relato
 ---
 Este texto es un perfecto ejemplo de intrahistoria de la mano de un escritor que sin quererlo yo, y sin quererlo él, por supuesto, ha venido siempre de mi mano, aunque hasta ahora no lo había yo leído seriamente, quizás no estaba preparado. Cuando leí este texto, hace poco, quedé asombrado de la radical sencillez de su estilo aparentemtente neutro y descriptivo, pero aún más de la profundidad rotunda de su narrativa. Toda una obra de arte. Es un texto largo, pero tiene cabida aquí porqué sin duda es la cima de toda intrahistoria. Compañeros de bitácora, nunca llegaremos a escribir algo como esto:

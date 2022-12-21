@@ -14,11 +14,11 @@ wpgs_updating:
   - "0"
 wpgs_laste_komentis:
   - 2017-02-18 15:35:47
-image: /wp-content/uploads/Carretera_misterio-640x288.jpg
+image: /docs/assets/images/Carretera_misterio-640x288.jpg
 categories:
   - Poema
 tags:
-  - Categoría Blog 2
+  - Blog
 ---
 Comparto con vosotros un Romance que recitaba mi abuela, ella no se lo sabía entero, pero hoy lo hemos recuperado, es del poeta gallego [Francisco Añón](http://es.wikipedia.org/wiki/Francisco_A%C3%B1%C3%B3n).
 
