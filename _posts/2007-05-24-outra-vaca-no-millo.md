@@ -17,6 +17,7 @@ blogger_internal:
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
   - Autores
+  - Blog
 tags:
   - Blog
   - Iglesia
