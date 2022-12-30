@@ -1,0 +1,45 @@
+---
+author: Jmcastinheira
+date: 2016-12-26
+generator: pandoc
+title: Pequeño estudio de la mentira II.
+categories:
+- Poema
+
+viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+---
+
+::: {#title-block-header}
+# Pequeño estudio de la mentira II. {#pequeño-estudio-de-la-mentira-ii. .title}
+
+Aulo
+
+2016-12-26T00:04:31+00:00
+:::
+
+[Grabado sin
+relieve](http://tonterias.com/data/200105/1014_Papel-arrugado.jpg)
+
+grito atragantado y
+
+sin sonido,
+
+[papel manchado](http://www.las2001noches.com/n58/mancha.jpg);
+
+risa sin ruído
+
+eso es el poema.
+
+ 
+
+Palabras que se mueren cuando escribo...
+
+Quizás nazcan de nuevo
+
+salpicadas en tu boca;
+
+ahora,
+
+en este beso
+
+que acabas de darme.
