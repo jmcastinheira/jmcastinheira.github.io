@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# ¿Donde está «La clave»? {#donde-está-la-clave .title}
-
-Aulo
-
-2016-12-26T20:17:27+00:00
-:::
 
 Hace tiempo que llevo meditando sobre este tema; no es desconocido que
 la televisión es un basurero de imágenes vacías y escasamente relevantes

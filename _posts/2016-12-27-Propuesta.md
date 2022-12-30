@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Propuesta {#propuesta .title}
-
-Aulo
-
-2016-12-27T18:29:46+00:00
-:::
 
 ::: {style="text-align: justify;"}
 [![](http://148.213.20.78/JL/TICUSES/manos.jpg){style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 200px;"

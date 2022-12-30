@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Identidad digital. {#identidad-digital. .title}
-
-Aulo
-
-2016-12-25T23:05:25+00:00
-:::
 
 El domingo estuve viendo la conferencia de Juan Freire sobre identidades
 digitales, que podéis [ver en su

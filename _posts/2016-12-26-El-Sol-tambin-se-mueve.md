@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# ¡¡¡El Sol también se mueve!!! {#el-sol-también-se-mueve .title}
-
-Aulo
-
-2016-12-26T09:43:58+00:00
-:::
 
 Por Uxío P.R
 

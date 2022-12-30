@@ -12,12 +12,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Explicación a experimento 4 {#explicación-a-experimento-4 .title}
-
-Aulo
-
-2016-12-27T18:31:50+00:00
-:::
 
 ::: {style="text-align: justify;"}
 Como habéis podido comprobar el poema titulado «hoy» tiene un montón de

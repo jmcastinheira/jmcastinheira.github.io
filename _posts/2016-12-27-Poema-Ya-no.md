@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Poema: Ya no... {#poema-ya-no .title}
-
-Aulo
-
-2016-12-27T15:01:46+00:00
-:::
 
 <div>
 

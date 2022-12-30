@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Concepto: Blog {#concepto-blog .title}
-
-Aulo
-
-2016-12-27T12:20:04+00:00
-:::
 
 ::: {data-align="justify"}
 Este post fue publicado en el foro de la Fundación Xavier Zubiri, junto

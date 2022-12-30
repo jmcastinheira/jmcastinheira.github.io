@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Movimiento contra la Miseria {#movimiento-contra-la-miseria .title}
-
-Aulo
-
-2016-12-28T23:20:18+00:00
-:::
 
 ::: {#central-container .clearfix}
 ::: {#center-wrapper}

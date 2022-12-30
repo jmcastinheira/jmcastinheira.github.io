@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Nuevo cambio en nuestra televisión: HD, Blu-Ray... ¿Merece la pena? {#nuevo-cambio-en-nuestra-televisión-hd-blu-ray-merece-la-pena .title}
-
-Aulo
-
-2016-12-26T09:11:26+00:00
-:::
 
 # 
 

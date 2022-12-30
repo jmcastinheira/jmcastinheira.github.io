@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La reforma del aborto en España. {#la-reforma-del-aborto-en-españa. .title}
-
-Aulo
-
-2016-12-26T10:48:31+00:00
-:::
 
 Después de unos días del anuncio de la propuesta, en España, de una ley
 de plazos del aborto creo que podemos, con cierta tranquilidad analizar

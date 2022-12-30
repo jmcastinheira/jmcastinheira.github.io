@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Las siete maravillas del mundo antiguo. Dos mundos, catorce maravillas (Parte I) {#las-siete-maravillas-del-mundo-antiguo.-dos-mundos-catorce-maravillas-parte-i .title}
-
-Aulo
-
-2016-12-26T01:02:08+00:00
-:::
 
 ![coloso-rodas-209.jpg](http://www.entelequia.bligoo.com/media/users/1/79903/images/public/4621/coloso-rodas-209.jpg?v=1294660373362)
 

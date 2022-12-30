@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# ¿Matan las escuelas la creatividad?. La educación que viene. {#matan-las-escuelas-la-creatividad.-la-educación-que-viene. .title}
-
-Aulo
-
-2016-12-26T00:59:54+00:00
-:::
 
 \[Por Uxío\] Cuánto tiempo sin publicar en Entelequia, intentaré
 dedicarle más tiempo a partir de ahora, para compensar, os traigo un

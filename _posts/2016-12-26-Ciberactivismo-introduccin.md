@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Ciberactivismo. (introducción) {#ciberactivismo.-introducción .title}
-
-Aulo
-
-2016-12-26T22:52:06+00:00
-:::
 
 Pretendo con este post, y los que vengan, responder a una pregunta
 dificil que me hizo TO+no+ de

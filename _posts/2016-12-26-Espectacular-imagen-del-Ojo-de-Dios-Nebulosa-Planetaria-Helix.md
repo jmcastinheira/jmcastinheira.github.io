@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Espectacular imagen del «Ojo de Dios» (Nebulosa Planetaria Helix) {#espectacular-imagen-del-ojo-de-dios-nebulosa-planetaria-helix .title}
-
-Aulo
-
-2016-12-26T19:37:32+00:00
-:::
 
 \[Uxío PR\] El Observatorio Europeo Austral (ESO, por sus siglas en
 inglés) ha publicado una impresionante imagen de la nebulosa planetaria

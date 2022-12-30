@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Autores: Monseñor Oscar Romero \| 24 de Marzo. {#autores-monseñor-oscar-romero-24-de-marzo. .title}
-
-Aulo
-
-2017-01-03T17:01:31+00:00
-:::
 
 Coloco aquí este texto de [Nora
 Méndez](http://puertadenora.blogspot.com/2008/03/24-marzo-monseor-romero-vive.html),

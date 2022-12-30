@@ -8,15 +8,6 @@ categories:
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
-# Status activae civitatis {#status-activae-civitatis .title}
-
-Aulo
-
-2007-05-28T12:17:00+00:00
-:::
-
-::: {style="text-align: justify;"}
 Exactamente mi participación en el [sistema político
 Español](http://www.elpais.com/comunes/2007/elecciones/) ha durado 1´07
 minutos desde las 14:00 a las 14:01 de la tarde, el tiempo exacto que
@@ -49,7 +40,8 @@ elegidos (aunque no los llamen así, quizá por falsa modestia, quizá por
 estética; imagínense llamar a Esperanza Aguirre «la elegida») así es
 nuestra Democracia mal llamada
 [Representativa](http://es.wikipedia.org/wiki/Democracia_representativa)
-y mal llamada [Democracia](http://es.wikipedia.org/wiki/Democracia).\
+y mal llamada [Democracia](http://es.wikipedia.org/wiki/Democracia).
+
 Mal llamada representativa porque
 [Representar](http://www.bibliojuridica.org/libros/libro.htm?l=709) es
 hacer presente la voluntad de alguien ausente ante un tercero, tenemos
@@ -65,15 +57,16 @@ representado es el pueblo y el representante el parlamento, pero...
 pueblo? (cosa curiosa que alguien necesite representante para tratar
 consigo mismo) ¿desde cuándo la voluntad del representante se debe
 imponer a la del propio representado? ¡¡Imagínense a cualquiera de
-nosotros dando instrucciones al parlamento!! (y no, [el derecho de
-petición](http://www.congreso.es/constitucion/constitucion/indice/sinopsis/sinopsis.jsp?art=29&tipo=2)
-poco supone)\
+nosotros dando instrucciones al parlamento!! (y no, [el derecho de petición](http://www.congreso.es/constitucion/constitucion/indice/sinopsis/sinopsis.jsp?art=29&tipo=2)
+poco supone.
+
 Son estas manías de tratar lo público en términos privatisticos; creo y
 es probable que me equivoque que fue el señor
 [Burke](http://www.der.uva.es/constitucional/materiales/libros/Burke.pdf)
 el primero que trató este tema en las elecciones de Bristol de 1774 y
 fue en favor del mandato representativo y en pro de un supuesto bien
-común; seguramente, Burke, que no era tonto, tenía buena intención.\
+común; seguramente, Burke, que no era tonto, tenía buena intención.
+
 Y digo que mal llamada democracia, porque parece ser, que en las
 verdaderas democracias, los cargos públicos eran a sorteo!!! y
 obligaciones inexcusables así como duración reducida de los mandatos, se
@@ -84,7 +77,9 @@ partidos](http://www.inicia.es/de/cgarciam/Defrancisco.htm) o de
 [Partitocracia,](http://es.wikipedia.org/wiki/Partitocracia) por todas
 estas y algunas otras cosas soy
 [Anarquista](http://es.wikipedia.org/wiki/Anarquismo) donde ya no es que
-todos sean elegibles sino es que todos son elegidos.\
-Saludos\
+todos sean elegibles sino es que todos son elegidos.
+
+Saludos
+
 JMCastinneira
-:::
+

@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Herramientas para salir de la crisis I {#herramientas-para-salir-de-la-crisis-i .title}
-
-Aulo
-
-2016-12-26T00:29:58+00:00
-:::
 
 En vista de que las cosas se ponen cada vez peor, y que poco o nada
 anticipa que las cosas vayan a cambiar, he empezado a tararear como hago

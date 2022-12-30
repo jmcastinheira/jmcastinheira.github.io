@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Sobre el futuro hoy: Organizaciones sociales {#sobre-el-futuro-hoy-organizaciones-sociales .title}
-
-Aulo
-
-2016-12-28T17:08:10+00:00
-:::
 
 ***1. «He visto otros mundos pero están en este», o la riqueza de
 mundos***:

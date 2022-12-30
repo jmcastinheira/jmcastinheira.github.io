@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Elecciones en Galicia; el voto en blanco... {#elecciones-en-galicia-el-voto-en-blanco .title}
-
-Aulo
-
-2016-12-26T00:05:25+00:00
-:::
 
 **..o la noluntad.**
 

@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Fringe y la filosofía del lenguaje I {#fringe-y-la-filosofía-del-lenguaje-i .title}
-
-Aulo
-
-2016-12-26T00:36:12+00:00
-:::
 
 ¿Están los significados en la cabeza?
 

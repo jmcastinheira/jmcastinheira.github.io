@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La población más aislada del mundo {#la-población-más-aislada-del-mundo .title}
-
-Aulo
-
-2016-12-26T00:25:58+00:00
-:::
 
 *\[Por Uxío\]* ¿Te has preguntado alguna vez cuál es la población más
 aislada del mundo?  Pues este solitario récord le corresponde a la

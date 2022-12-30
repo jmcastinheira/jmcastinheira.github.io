@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Huevos de Pascua. {#huevos-de-pascua. .title}
-
-Aulo
-
-2016-12-26T20:35:37+00:00
-:::
 
 ::: {#body-361148 .content-body}
 ![](http://www.webdelacasa.com/docs/assets/images/2008/03/huevos_pascua_4.jpg){.alignleft

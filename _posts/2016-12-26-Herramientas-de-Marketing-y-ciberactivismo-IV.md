@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Herramientas de Marketing y ciberactivismo IV. {#herramientas-de-marketing-y-ciberactivismo-iv. .title}
-
-Aulo
-
-2016-12-26T20:37:40+00:00
-:::
 
 Hace tiempo que tengo este artículo a medio escribir, y que casi da por
 finalizado el [libro sobre

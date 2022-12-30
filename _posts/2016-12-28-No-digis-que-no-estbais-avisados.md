@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# No digáis que no estábais avisados. {#no-digáis-que-no-estábais-avisados. .title}
-
-Aulo
-
-2016-12-28T23:17:55+00:00
-:::
 
 Yo no digo nada, pero me bastaba a mi tener la mitad de lucidez que este
 compañero de 92 años, [José Luis

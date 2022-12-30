@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# El turismo en la sociedad actual {#el-turismo-en-la-sociedad-actual .title}
-
-Aulo
-
-2016-12-27T11:52:45+00:00
-:::
 
 \[Bertus\_\] Vivimos en un mundo repleto de multitud de medios
 científicos y tecnológicos, determinado por la globalización, y con unos

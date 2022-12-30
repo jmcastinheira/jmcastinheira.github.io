@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# No estamos solos... en nuestra órbita {#no-estamos-solos-en-nuestra-órbita .title}
-
-Aulo
-
-2016-12-26T00:49:35+00:00
-:::
 
 \[Por Uxío\] Estamos viviendo días de **especial interés para la
 astronomía**, si hace apenas unos días el Hubble descubría [la cuarta

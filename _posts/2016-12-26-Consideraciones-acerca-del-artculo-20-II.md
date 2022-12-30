@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Consideraciones acerca del artículo 20. II {#consideraciones-acerca-del-artículo-20.-ii .title}
-
-Aulo
-
-2016-12-26T09:08:36+00:00
-:::
 
 **2.** **¿Son las webs de enlaces ejercicio de la libertad de
 expresión?**

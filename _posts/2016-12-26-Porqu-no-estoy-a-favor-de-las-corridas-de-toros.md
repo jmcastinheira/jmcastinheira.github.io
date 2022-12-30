@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Porqué no estoy a favor de las corridas de toros {#porqué-no-estoy-a-favor-de-las-corridas-de-toros .title}
-
-Aulo
-
-2016-12-26T00:36:40+00:00
-:::
 
 A caballo de la siguiente intervención de Jesús Mosterín en el Parlament
 Catalán de hace ya algún tiempo, se ha suscitado un debate en otros

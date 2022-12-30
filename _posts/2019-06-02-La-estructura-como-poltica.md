@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La estructura como política {#la-estructura-como-política .title}
-
-Aulo
-
-2019-06-02T22:08:37+00:00
-:::
 
 En la facultad de derecho, hace ya muchos años, leí un libro de [Pereira
 Menaut](https://gl.wikipedia.org/wiki/Antonio-Carlos_Pereira_Menaut)

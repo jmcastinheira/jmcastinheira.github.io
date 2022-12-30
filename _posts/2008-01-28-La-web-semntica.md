@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La web semántica {#la-web-semántica .title}
-
-Uxío Pérez
-
-2008-01-28T17:36:00+00:00
-:::
 
 [![](){style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 320px;"
 border="0"}]()

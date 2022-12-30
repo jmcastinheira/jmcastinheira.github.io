@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Buscadores internet: Guía básica {#buscadores-internet-guía-básica .title}
-
-Aulo
-
-2016-12-27T13:15:14+00:00
-:::
 
 ::: {#body-136524 .content-body}
 [![](http://www.cosassencillas.com/docs/assets/images/2007/12/BuscarinformacinmediantelaWeb2.0_A2B6/busquedas.gif){.alignleft

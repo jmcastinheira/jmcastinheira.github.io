@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Consideraciones sobre la democracia económica {#consideraciones-sobre-la-democracia-económica .title}
-
-Aulo
-
-2016-12-26T08:48:47+00:00
-:::
 
 No voy a explicar lo que es la democracia económica, ni intentar ningúna
 definición para la misma, me remito a la propia

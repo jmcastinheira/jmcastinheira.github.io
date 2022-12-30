@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Noticia sobre las matanzas de la Uca {#noticia-sobre-las-matanzas-de-la-uca .title}
-
-Aulo
-
-2016-12-28T23:17:56+00:00
-:::
 
 Hoy he visto este artículo en Soitu, sobre «[Los asesinatos de los
 jesuítas en El

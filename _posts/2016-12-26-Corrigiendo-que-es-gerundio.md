@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Corrigiendo que es gerundio. {#corrigiendo-que-es-gerundio. .title}
-
-Aulo
-
-2016-12-26T20:18:51+00:00
-:::
 
 Parece ser que la [Secretaría de Estado de
 Comunicación](http://www.mpr.es/Ministerio+de+la+Presidencia/SecretariaEstadoComunicacion/funciones.htm) 

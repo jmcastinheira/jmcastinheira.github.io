@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Historia de Nintendo {#historia-de-nintendo .title}
-
-Aulo
-
-2016-12-28T23:17:54+00:00
-:::
 
 Hoy hablamos de [Uxio P.R](http://entelequia.bligoo.com/tag/uxio).
 coautor de esta bitácora (en la que firma como

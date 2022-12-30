@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Herramientas del ciberactivista. II La estructura. {#herramientas-del-ciberactivista.-ii-la-estructura. .title}
-
-Aulo
-
-2016-12-26T22:47:09+00:00
-:::
 
 **Estrategia:**
 

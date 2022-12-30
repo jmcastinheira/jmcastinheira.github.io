@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La gripe y las extrañas coincidencias {#la-gripe-y-las-extrañas-coincidencias .title}
-
-Aulo
-
-2016-12-26T00:02:51+00:00
-:::
 
 Hoy vi en las noticias, fue sólo un flash breve, que [el director del
 centro de investigaciones biológicas del CSIC estaba

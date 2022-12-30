@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Música Gallega {#música-gallega .title}
-
-Aulo
-
-2007-11-13T23:42:00+00:00
-:::
 
 ::: {style="text-align: center;"}
 [![](http://www.agal-gz.org/blogues/media/Galiza-Vaca.jpg){style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;"

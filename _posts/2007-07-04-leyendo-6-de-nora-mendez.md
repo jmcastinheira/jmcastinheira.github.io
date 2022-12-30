@@ -20,6 +20,7 @@ categories:
 tags:
   - Blog
 ---
+
 Tengo pocas piedras en los bolsillos,  
 quizá una que se me escapó de la boca  
 y otra pequeña  

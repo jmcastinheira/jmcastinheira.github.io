@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Sistema electoral. {#sistema-electoral. .title}
-
-Aulo
-
-2016-12-27T12:07:25+00:00
-:::
 
 Recibo de [otromundoesposible](http://www.otromundoesposible.com/) la
 iniciativa de modificar la ley electoral que se dice injusta en algunos

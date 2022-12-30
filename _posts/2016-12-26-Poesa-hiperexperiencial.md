@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Poesía hiperexperiencial {#poesía-hiperexperiencial .title}
-
-Aulo
-
-2016-12-26T19:48:57+00:00
-:::
 
 ::: {#body-449819 .content-body}
 ![](http://www.literaturalibre.com/docs/assets/images/2007/11/mujer-manos-frio.jpg){.alignleft

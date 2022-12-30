@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La conciencia hecha software o el sueño de la razón II {#la-conciencia-hecha-software-o-el-sueño-de-la-razón-ii .title}
-
-Aulo
-
-2016-12-26T00:48:12+00:00
-:::
 
 Seguimos con los prerrequisitos para entender el proyecto de la
 Inteligencia Artificial. Quizá sea necesario repasarse la primera parte

@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Mentiras sobre Guantánamo, y otra vez el silencio. {#mentiras-sobre-guantánamo-y-otra-vez-el-silencio. .title}
-
-Aulo
-
-2016-12-26T20:19:17+00:00
-:::
 
 Y otra vez Iñaki:
 

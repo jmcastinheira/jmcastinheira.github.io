@@ -26,6 +26,7 @@ tags:
   - TGS
   - Watzlawick
 ---
+
 En este artículo vamos a intentar preocuparnos un poco más de qué es eso que se ha dado en llamar [comunicación](http://entelequia.info/tag/comunicacion/). Comenzaremos por intentar definir qué es la comunicación analógica y la [comunicación digital](http://entelequia.info/lenguaje-digital/) cuales son las relaciones entre ellas, y por último haremos un pequeño estudio del [contexto](http://entelequia.info/contexto/) en el que se produce la comunicación y por ende de [la realidad.](http://lorealenelespejo.blogspot.com/2007/05/realidad.html)
 
 Por lenguaje analógico entendemos todo acto comunicativo con fuerza impositiva, es decir que impresiona a los intervinientes (no es lo mismo que alguien se despida de ti diciendo: «venga Juan, un beso» que que te dé un beso realmente, este beso se impone porque es real) además, la comunicación analógica tiene fuerza constitutiva del contexto; esto es, establece relaciones, sea entre los interlocutores ( puede ser, según [Watzlawic](https://es.wikipedia.org/wiki/Paul_Watzlawick), relación simétrica o de igualdad, relación complementaria o de jerarquía y relación de [metacomplementaria](https://es.wikipedia.org/wiki/Enfoque_interaccional#5..C2.BA_Axioma:_Interacci.C3.B3n_Sim.C3.A9trica)) o bien entre ellos con el ambiente (explicaremos esto al hablar del contexto).

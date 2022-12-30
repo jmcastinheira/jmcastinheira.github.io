@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La Wii entra en la iglesia {#la-wii-entra-en-la-iglesia .title}
-
-Aulo
-
-2016-12-28T23:17:54+00:00
-:::
 
 La Iglesia de la Comunidad de Mission Bay en San Francisco, está
 utilizando un Jesús-Mii para atraer a más personas y anunciar sus

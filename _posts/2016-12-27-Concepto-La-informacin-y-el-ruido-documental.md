@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Concepto: La información y el ruido documental {#concepto-la-información-y-el-ruido-documental .title}
-
-Aulo
-
-2016-12-27T15:35:08+00:00
-:::
 
 ::: {data-align="justify"}
 \[Uxío PR\] La información es, a día de hoy, el activo intangible de

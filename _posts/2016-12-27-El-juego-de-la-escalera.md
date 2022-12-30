@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# El juego de la escalera {#el-juego-de-la-escalera .title}
-
-Aulo
-
-2016-12-27T11:56:08+00:00
-:::
 
 Hace ya muchos años, más que la percepción que tengo de ellos, cuando yo
 era niño, tenía un amigo con una desbordante imaginación, era tal que

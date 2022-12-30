@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# El pueblo gitano y las formas de vida. {#el-pueblo-gitano-y-las-formas-de-vida. .title}
-
-Aulo
-
-2016-12-26T00:18:01+00:00
-:::
 
 La ética no es un cúmulo de normas invisibles que vuela sobre las
 cabezas de los puritanos. La ética es una cuestión de carácter.

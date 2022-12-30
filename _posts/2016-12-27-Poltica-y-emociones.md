@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Política y emociones {#política-y-emociones .title}
-
-Aulo
-
-2016-12-27T15:14:31+00:00
-:::
 
 Los que de vez en cuando se acercan a esta bitácora, saben que no suelo
 hablar de temas políticos, en este artículo diré algunas cosas que

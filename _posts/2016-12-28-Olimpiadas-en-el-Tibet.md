@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Olimpiadas en el Tibet. {#olimpiadas-en-el-tibet. .title}
-
-Aulo
-
-2016-12-28T23:17:54+00:00
-:::
 
 [![tibet
 olimpiadas](http://farm4.static.flickr.com/3239/2348754671_d2f16f4bd3_o.jpg){.aligncenter

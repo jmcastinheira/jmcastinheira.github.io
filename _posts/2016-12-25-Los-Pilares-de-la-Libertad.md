@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Los Pilares de la Libertad {#los-pilares-de-la-libertad .title}
-
-Aulo
-
-2016-12-25T23:13:11+00:00
-:::
 
 Por Juan Vidal Fraga.
 

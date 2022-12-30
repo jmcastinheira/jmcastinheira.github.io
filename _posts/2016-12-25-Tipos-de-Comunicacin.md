@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Tipos de Comunicación {#tipos-de-comunicación .title}
-
-Aulo
-
-2016-12-25T23:04:43+00:00
-:::
 
 <div>
 

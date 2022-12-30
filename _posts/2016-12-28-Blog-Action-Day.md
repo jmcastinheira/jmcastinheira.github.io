@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Blog Action Day. {#blog-action-day. .title}
-
-Aulo
-
-2016-12-28T23:17:55+00:00
-:::
 
 Hacía, bastante tiempo que no escribía en el blog, bueno, una serie de
 ocupaciones me tenían atrapado, entre ellas un examen de opo que

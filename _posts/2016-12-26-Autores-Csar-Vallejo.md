@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Autores: César Vallejo {#autores-césar-vallejo .title}
-
-Aulo
-
-2016-12-26T23:08:26+00:00
-:::
 
 Nunca se puede decir lo suficiente de César Vallejo. Uno de mis poetas
 preferidos. Su fuerza poética y su estilo inconfundible. Su pasión... y

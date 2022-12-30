@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Autores: Aaron Swartz {#autores-aaron-swartz .title}
-
-Aulo
-
-2016-12-26T00:22:37+00:00
-:::
 
 Conocí la historia de [Aaron
 Swartz](http://es.wikipedia.org/wiki/Aaron_Swartz) el mismo día de su

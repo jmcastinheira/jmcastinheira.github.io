@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Aparentemente sin título (y sentido) {#aparentemente-sin-título-y-sentido .title}
-
-Aulo
-
-2016-12-28T23:17:55+00:00
-:::
 
 \[Uxío PR\] Caramba, cada vez que quiero publicar lo tengo más difícil,
 últimamente no me he pasado mucho por aquí, y he tenido que hacerlo

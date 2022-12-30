@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# El tamaño en el Universo, ¿te sientes pequeño? {#el-tamaño-en-el-universo-te-sientes-pequeño .title}
-
-Aulo
-
-2016-12-26T19:33:44+00:00
-:::
 
 \[Uxío PR\] Hay un pensamiento sobre el que me encanta reflexionar desde
 que era pequeño, la inmensidad del Universo, uno puede pararse a

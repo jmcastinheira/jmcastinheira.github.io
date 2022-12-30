@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Identidad e identitarismo. {#identidad-e-identitarismo. .title}
-
-Aulo
-
-2016-12-26T22:30:45+00:00
-:::
 
 Seguimos con el debate, o quizás ya no debate sino colaboración en
 búsqueda de un concepto de identidad que nos conforme.

@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La política emocional {#la-política-emocional .title}
-
-Aulo
-
-2007-11-16T20:31:00+00:00
-:::
 
 ::: {style="text-align: justify;"}
 [![](http://serv.rn.cl/editorial/wp-content/politica9ap.jpg){style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 200px;"

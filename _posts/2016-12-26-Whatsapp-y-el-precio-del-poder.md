@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Whatsapp y el precio del poder {#whatsapp-y-el-precio-del-poder .title}
-
-Aulo
-
-2016-12-26T00:20:09+00:00
-:::
 
 Deberíamos empezar a considerar si queremos un mundo en donde todas las
 comunicaciones pasen por el control de una única empresa.

@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Pericles y la Red SOStenible {#pericles-y-la-red-sostenible .title}
-
-Aulo
-
-2016-12-26T09:10:58+00:00
-:::
 
 ::: {#body-702323 .content-body}
 Siguiendo los pasos de la lucha por la libertad en la red los

@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Poema: Enganchado {#poema-enganchado .title}
-
-Aulo
-
-2016-12-27T15:30:07+00:00
-:::
 
 <div>
 

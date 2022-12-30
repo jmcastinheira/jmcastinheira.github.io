@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Sobre identidad y sujeto {#sobre-identidad-y-sujeto .title}
-
-Aulo
-
-2016-12-28T23:04:52+00:00
-:::
 
 El otro dia,
 [comentabamos](http://entelequia.bligoo.com/content/view/197041/Sobre_las_comunidades.html)

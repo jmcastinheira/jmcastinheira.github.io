@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Caminando hacia ningún sitio. {#caminando-hacia-ningún-sitio. .title}
-
-Aulo
-
-2016-12-25T23:14:49+00:00
-:::
 
 por Juan Vidal Fraga
 

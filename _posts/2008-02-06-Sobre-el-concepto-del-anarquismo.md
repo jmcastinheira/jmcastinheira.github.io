@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Sobre el concepto del anarquismo. {#sobre-el-concepto-del-anarquismo. .title}
-
-Aulo
-
-2008-02-06T13:49:00+00:00
-:::
 
 ::: {z="" style="text-align: justify;"}
 [Sobre la palabra:]{z=""

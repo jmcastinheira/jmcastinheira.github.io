@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Asunto Torres Mora {#asunto-torres-mora .title}
-
-Aulo
-
-2016-12-28T23:20:18+00:00
-:::
 
 Parece ser que ayer, día 15, el secretario de cultura del PSOE Torres
 Mora escribe [este

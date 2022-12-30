@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Herramientas para salir de la crisis II {#herramientas-para-salir-de-la-crisis-ii .title}
-
-Aulo
-
-2016-12-26T00:28:52+00:00
-:::
 
 [![4544044430_555b8fd3e4_o.jpg](http://i275.photobucket.com/albums/jj287/Auluses/4544044430_555b8fd3e4_o.jpg?v=1336651222661){width="286"
 height="325"}Hablábamos el otro

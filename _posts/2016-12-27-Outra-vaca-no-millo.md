@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Outra vaca no millo {#outra-vaca-no-millo .title}
-
-Aulo
-
-2016-12-27T18:31:50+00:00
-:::
 
 ::: {style="text-align: justify;"}
 [![](http://www.ideal.es/granada/prensa/fotos/200611/12/010D7GRA-LGR-P1_1.jpg){style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 200px;"

@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Me gusta que te encuentres en el verso. {#me-gusta-que-te-encuentres-en-el-verso. .title}
-
-Aulo
-
-2016-12-28T15:33:10+00:00
-:::
 
 <div>
 

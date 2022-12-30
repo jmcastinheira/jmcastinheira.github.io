@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Blogs y Wikis: Sistemas de gestión de contenido {#blogs-y-wikis-sistemas-de-gestión-de-contenido .title}
-
-Aulo
-
-2016-12-27T12:17:56+00:00
-:::
 
 ::: {#body-135534 .content-body}
 ::: {data-align="justify"}

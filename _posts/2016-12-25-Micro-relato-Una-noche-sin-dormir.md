@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# \[Micro-relato\] Una noche sin dormir {#micro-relato-una-noche-sin-dormir .title}
-
-Aulo
-
-2016-12-25T23:59:45+00:00
-:::
 
 Por Uxío P.R.
 

@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Metáforas equivocadas: el amor {#metáforas-equivocadas-el-amor .title}
-
-Aulo
-
-2016-12-26T10:05:08+00:00
-:::
 
 El amor no es eso que nos dicen, no es ni un lugar al que haya que
 llegar, o [una cosa que haya que

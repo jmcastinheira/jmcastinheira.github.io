@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Concepto: Las Clasificaciones en la Empresa {#concepto-las-clasificaciones-en-la-empresa .title}
-
-Aulo
-
-2016-12-27T15:25:25+00:00
-:::
 
 ::: {#body-132079 .content-body}
 ::: {#body-132079 .content-body}

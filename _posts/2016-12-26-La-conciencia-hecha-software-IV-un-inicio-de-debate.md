@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La conciencia hecha software IV (un inicio de debate) {#la-conciencia-hecha-software-iv-un-inicio-de-debate .title}
-
-Aulo
-
-2016-12-26T00:43:20+00:00
-:::
 
 Los proyectos abuelos de la inteligencia artificial, como venimos
 viendo, se inician lentamente en la época de la ilustración; pero poco a

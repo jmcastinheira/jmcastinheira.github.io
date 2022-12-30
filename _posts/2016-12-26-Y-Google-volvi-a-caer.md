@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Y Google volvió a caer... {#y-google-volvió-a-caer .title}
-
-Aulo
-
-2016-12-26T19:42:16+00:00
-:::
 
 ::: {#body-454297 .content-body}
 ![](http://www.our-picks.com/docs/assets/images/2007/04/gmail-logo-google-tm.jpg){.alignleft

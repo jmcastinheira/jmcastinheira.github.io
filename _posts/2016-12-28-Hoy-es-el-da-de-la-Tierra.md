@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Hoy es el día de la Tierra {#hoy-es-el-día-de-la-tierra .title}
-
-Aulo
-
-2016-12-28T23:20:19+00:00
-:::
 
 Por Uxio PR
 

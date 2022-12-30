@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Mamá quiero ser Indiano o ¿qué es Entelequia?... {#mamá-quiero-ser-indiano-o-qué-es-entelequia .title}
-
-Aulo
-
-2016-12-26T10:01:16+00:00
-:::
 
 ... O un poco de todo lo que he aprendido.
 

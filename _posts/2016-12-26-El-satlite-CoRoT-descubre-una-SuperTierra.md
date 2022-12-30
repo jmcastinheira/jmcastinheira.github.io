@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# El satélite CoRoT descubre una SuperTierra {#el-satélite-corot-descubre-una-supertierra .title}
-
-Aulo
-
-2016-12-26T19:57:51+00:00
-:::
 
 ::: {#body-443748 .content-body}
 ![](http://www.iac.es/img/prensa/prensa573_697m.jpg){.alignleft

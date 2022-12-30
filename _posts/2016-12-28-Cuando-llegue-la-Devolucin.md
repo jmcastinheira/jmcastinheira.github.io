@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Cuando llegue la Devolución. {#cuando-llegue-la-devolución. .title}
-
-Aulo
-
-2016-12-28T23:17:54+00:00
-:::
 
 ::: {#body-146510 .content-body}
 He estado probando con [Pixton](http://www.pixton.com/), una utilidad

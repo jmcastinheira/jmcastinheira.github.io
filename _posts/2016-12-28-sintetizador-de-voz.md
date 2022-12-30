@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# sintetizador de voz {#sintetizador-de-voz .title}
-
-Aulo
-
-2016-12-28T23:21:36+00:00
-:::
 
 ::: {style="text-align: justify;"}
 Hola, acabo de añadir un sintetizador de voz que hemos encontrado en la

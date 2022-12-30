@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La pobreza {#la-pobreza .title}
-
-Aulo
-
-2016-12-26T21:07:37+00:00
-:::
 
 Uno no puede dejar de preguntarse cuales son las causas de la situación
 en la que nos encontramos, qué es lo que hace posible este derroche de

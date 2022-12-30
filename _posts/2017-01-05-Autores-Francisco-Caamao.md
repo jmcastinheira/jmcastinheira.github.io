@@ -12,12 +12,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Autores: Francisco Caamaño {#autores-francisco-caamaño .title}
-
-Aulo
-
-2017-01-05T17:40:20+00:00
-:::
 
 Conocí a Francisco Caamaño cuando estaba en segundo de carrera, en la
 facultad de Derecho de la USC; llevabamos al menos un mes de clase con

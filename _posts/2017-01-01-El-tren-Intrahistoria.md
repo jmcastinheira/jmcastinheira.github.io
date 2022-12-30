@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# El tren (Intrahistoria) {#el-tren-intrahistoria .title}
-
-Aulo
-
-2017-01-01T17:53:32+00:00
-:::
 
 ::: {#attachment_1178 .wp-caption .alignleft style="width: 310px"}
 [![Imagen vias de

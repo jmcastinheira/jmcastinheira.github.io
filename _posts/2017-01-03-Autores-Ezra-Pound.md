@@ -13,12 +13,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Autores: Ezra Pound {#autores-ezra-pound .title}
-
-Aulo
-
-2017-01-03T16:25:12+00:00
-:::
 
 Ezra Pound fue, sin duda, un personaje controvertido. Tanto por su forma
 de ser, como por sus opiniones. Nunca se callaba lo que pensaba...

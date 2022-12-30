@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Regresando. {#regresando. .title}
-
-Aulo
-
-2016-12-26T22:19:49+00:00
-:::
 
 Bueno, tras estas pequeñas vacaciones, tengo la necesidad de regresar,
 es una necesidad, claro, porque hay que estar en el mundo, y ahora este

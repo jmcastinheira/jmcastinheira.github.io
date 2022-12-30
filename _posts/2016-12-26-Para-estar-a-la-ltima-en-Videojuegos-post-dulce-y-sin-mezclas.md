@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Para estar a la última en Videojuegos (post dulce y sin mezclas) {#para-estar-a-la-última-en-videojuegos-post-dulce-y-sin-mezclas .title}
-
-Aulo
-
-2016-12-26T22:14:04+00:00
-:::
 
 Pues ante la dejadez de mi compañero me dispongo a escribir un pequeño
 post en el que contaros de una manera amena lo último de lo último en

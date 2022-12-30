@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Me gusta Leer {#me-gusta-leer .title}
-
-Aulo
-
-2016-12-26T09:27:22+00:00
-:::
 
 \[Uxío PR\] Por casualidades de la vida, en la red social de facebook,
 uno de mis contactos compartió un video con sus amigos, y me llamó el

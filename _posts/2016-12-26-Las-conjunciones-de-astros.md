@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Las conjunciones de astros {#las-conjunciones-de-astros .title}
-
-Aulo
-
-2016-12-26T00:34:18+00:00
-:::
 
 Por Uxio PR
 

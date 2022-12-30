@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Iglesia y Política {#iglesia-y-política .title}
-
-Aulo
-
-2007-03-26T12:16:00+00:00
-:::
 
 ::: {style="text-align: justify;"}
 De un tiempo a esta parte parece que la Iglesia, representada aquí por

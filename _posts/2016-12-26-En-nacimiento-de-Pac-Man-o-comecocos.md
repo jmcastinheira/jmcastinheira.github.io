@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# En nacimiento de Pac-Man (o comecocos) {#en-nacimiento-de-pac-man-o-comecocos .title}
-
-Aulo
-
-2016-12-26T22:46:03+00:00
-:::
 
 Uno de los personajes más famosos y reconocibles de todos los tiempos en
 el mundo de los videojuegos es Pac-man, también conocido en España como

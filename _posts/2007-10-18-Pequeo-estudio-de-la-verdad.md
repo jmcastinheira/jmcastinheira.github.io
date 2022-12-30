@@ -9,15 +9,6 @@ categories:
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
-# Pequeño estudio de la verdad {#pequeño-estudio-de-la-verdad .title}
-
-Aulo
-
-2007-10-18T09:32:00+00:00
-:::
-
-::: {style="text-align: justify;font-family:lucida grande;"}
 [Quiero comunicar que desde hace tiempo he puesto en la
 ]{style="font-family:lucida grande;"}[[Biblioteca]{style="font-family:lucida grande;"}](http://lorealenelespejo.blogspot.com/2007/05/docuteca.html)[
 un libro de poesía mío, llamado
@@ -35,10 +26,8 @@ Para descargarlo en pdf
 no quedó muy bien el formato así que es probable que lo cambie. Es un
 libro que ya había escrito yo hace tiempo, y que ahora he decidido sacar
 a la luz, aunque sea así, timidamente. En principio es la versión
-definitiva, pero no descarto cambios. Un saludo\
+definitiva, pero no descarto cambios. Un saludo
 
-\
 Actualizo: Ya tenemos las primeras críticas (y son buenas!) cortesía de
 [Nora
 Méndez](http://puertadenora.blogspot.com/2007/10/leyendo-pequeo-estudio-de-la-verdad-el.html)\
-:::

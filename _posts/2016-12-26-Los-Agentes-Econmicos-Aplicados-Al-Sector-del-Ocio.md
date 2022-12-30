@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Los Agentes Económicos Aplicados Al Sector del Ocio {#los-agentes-económicos-aplicados-al-sector-del-ocio .title}
-
-Aulo
-
-2016-12-26T20:04:38+00:00
-:::
 
 \[Bertus\_\] Después de un tiempo en la sombra, vuelvo a colaborar con
 mi amigo Aulo, que hacía tiempo que lo tenía abandonado, y que no sirva

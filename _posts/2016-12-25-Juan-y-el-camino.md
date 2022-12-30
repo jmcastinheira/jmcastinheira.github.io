@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Juan y el camino {#juan-y-el-camino .title}
-
-Aulo
-
-2016-12-25T23:11:27+00:00
-:::
 
 El día 19 nos hemos despertado en Pontevedra con una gran ausencia;
 [Juan](http://entelequia.bligoo.com/content/view/514268/Autores-Juan-Vidal-Fraga.html#content-top)

@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Sobre la reforma de las tasas judiciales {#sobre-la-reforma-de-las-tasas-judiciales .title}
-
-Aulo
-
-2016-12-26T00:24:40+00:00
-:::
 
 No puedo hacer ahora una valoración detenida de la reforma operada por
 el [Real Decreto-ley

@@ -12,12 +12,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Intrahistorias {#intrahistorias .title}
-
-Aulo
-
-2017-01-06T16:20:49+00:00
-:::
 
 ::: {#attachment_1199 .wp-caption .alignleft style="width: 270px"}
 [![Imagen Miguel de

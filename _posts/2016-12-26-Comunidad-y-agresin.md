@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Comunidad y agresión. {#comunidad-y-agresión. .title}
-
-Aulo
-
-2016-12-26T22:23:37+00:00
-:::
 
 Es que tiran de mi, me provocan y no puede ser, con lo tranquilo que
 estaba y en mi silencio...

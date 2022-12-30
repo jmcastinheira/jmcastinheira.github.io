@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Libros de Dominio Publico {#libros-de-dominio-publico .title}
-
-Aulo
-
-2016-12-27T14:40:46+00:00
-:::
 
 En la bitácora de [David de Ugarte](http://www.deugarte.com/) hemos
 visto esta [interesante

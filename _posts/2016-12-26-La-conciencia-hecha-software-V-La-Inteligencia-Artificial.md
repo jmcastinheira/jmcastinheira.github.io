@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La conciencia hecha software V: La Inteligencia Artificial {#la-conciencia-hecha-software-v-la-inteligencia-artificial .title}
-
-Aulo
-
-2016-12-26T00:33:24+00:00
-:::
 
 Intentaremos responder a la pregunta **¿Qué es la inteligencia
 artificial?**

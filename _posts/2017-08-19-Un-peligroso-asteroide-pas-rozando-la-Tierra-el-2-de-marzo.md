@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Un peligroso asteroide pasó rozando la Tierra el 2 de marzo (Tunguska a punto de repetirse) {#un-peligroso-asteroide-pasó-rozando-la-tierra-el-2-de-marzo-tunguska-a-punto-de-repetirse .title}
-
-Uxío Pérez
-
-2017-08-19T10:13:38+00:00
-:::
 
 ::: {#body-460172 .content-body}
 **![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/%28253%29_mathilde.jpg/260px-%28253%29_mathilde.jpg){.alignleft

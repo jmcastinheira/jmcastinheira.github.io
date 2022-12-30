@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Software para bloc de Notas: TiddlyWiki {#software-para-bloc-de-notas-tiddlywiki .title}
-
-Aulo
-
-2016-12-27T15:21:11+00:00
-:::
 
 He estado colocando algunas novedades en el blog, como la creación de
 una página que se basa en un software llamado

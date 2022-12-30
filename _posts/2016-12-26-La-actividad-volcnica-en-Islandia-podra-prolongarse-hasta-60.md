@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La actividad volcánica en Islandia podría prolongarse hasta 60 años {#la-actividad-volcánica-en-islandia-podría-prolongarse-hasta-60-años .title}
-
-Aulo
-
-2016-12-26T09:00:19+00:00
-:::
 
 Por Uxío.
 

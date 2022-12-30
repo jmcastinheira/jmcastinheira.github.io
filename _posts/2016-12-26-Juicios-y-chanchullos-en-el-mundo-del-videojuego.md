@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Juicios y chanchullos en el mundo del videojuego {#juicios-y-chanchullos-en-el-mundo-del-videojuego .title}
-
-Aulo
-
-2016-12-26T20:12:15+00:00
-:::
 
 Hoy os traigo un artículo que he escrito para
 [DsWii](http://dswii.es/){target="_blank"}, sin duda la mejor página web

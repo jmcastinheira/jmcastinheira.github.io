@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Concepto del Sujeto y el anarquismo {#concepto-del-sujeto-y-el-anarquismo .title}
-
-Aulo
-
-2016-12-27T12:09:50+00:00
-:::
 
 Es notorio que la concepción que uno tenga sobre el sujeto es de suma
 importancia, sobre todo en cuestiones politicas y sociales; sin

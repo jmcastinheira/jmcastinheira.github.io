@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Sentencia urbana, frase célebre (nueva sección de Entelequia) {#sentencia-urbana-frase-célebre-nueva-sección-de-entelequia .title}
-
-Aulo
-
-2016-12-26T19:39:18+00:00
-:::
 
 Inauguramos hoy una nueva sección en Entelequia, como deduciréis por el
 título, se trata de breves entradas en las que una frase o un corto

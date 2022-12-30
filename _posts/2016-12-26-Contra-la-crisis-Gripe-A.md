@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Contra la crisis Gripe A {#contra-la-crisis-gripe-a .title}
-
-Aulo
-
-2016-12-26T09:37:24+00:00
-:::
 
 Aprovecho para recuperar el [famoso
 documental](http://www.google.es/search?q=Operaci%C3%B3n+pandemia&ie=utf-8&oe=utf-8&aq=t&rls=com)

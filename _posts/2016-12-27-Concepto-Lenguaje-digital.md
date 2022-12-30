@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Concepto: Lenguaje digital {#concepto-lenguaje-digital .title}
-
-Aulo
-
-2016-12-27T18:20:45+00:00
-:::
 
 <div>
 

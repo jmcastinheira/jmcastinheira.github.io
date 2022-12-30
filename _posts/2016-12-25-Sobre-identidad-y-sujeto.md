@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Sobre identidad y sujeto. {#sobre-identidad-y-sujeto. .title}
-
-Aulo
-
-2016-12-25T23:49:18+00:00
-:::
 
 Después de haber analizado, siguiendo nuestro curioso [interés
 tipografico](http://entelequia.bligoo.com/content/view/526478/El-arte-invisible-de-los-tipos.html)

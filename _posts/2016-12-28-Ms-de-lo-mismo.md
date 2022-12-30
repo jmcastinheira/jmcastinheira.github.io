@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Más de lo mismo {#más-de-lo-mismo .title}
-
-Aulo
-
-2016-12-28T23:01:48+00:00
-:::
 
 ::: {style="text-align: justify;"}
 Antes de continuar el camino por las sendas de mi mente, la Realidad

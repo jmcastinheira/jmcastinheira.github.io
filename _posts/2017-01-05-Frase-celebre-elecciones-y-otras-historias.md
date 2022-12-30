@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Frase celebre: elecciones y otras historias. {#frase-celebre-elecciones-y-otras-historias. .title}
-
-Aulo
-
-2017-01-05T17:22:27+00:00
-:::
 
 > *Vota a aquel que prometa menos. Será el que menos te decepcione.»*
 >

@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# e... Novedades en entelequia... \[info\] {#e-novedades-en-entelequia-info .title}
-
-Aulo
-
-2016-12-28T23:20:19+00:00
-:::
 
 e...
 

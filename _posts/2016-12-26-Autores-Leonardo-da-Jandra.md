@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Autores: Leonardo da Jandra {#autores-leonardo-da-jandra .title}
-
-Aulo
-
-2016-12-26T00:23:10+00:00
-:::
 
 Gracias a Manuel Gago de [Capitulo
 0](http://www.manuelgago.org/blog/index.php/2009/08/14/un-raro-intelectual-chamado-leonardo-da-jandra/),

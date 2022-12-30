@@ -12,12 +12,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# De la Comunidad y la fraternidad. {#de-la-comunidad-y-la-fraternidad. .title}
-
-Aulo
-
-2016-12-26T22:29:37+00:00
-:::
 
 En atención a este
 [post](http://carlosboyle.blogspot.com/2008/06/por-qu-nadie-habla-de-fraternidad.html)

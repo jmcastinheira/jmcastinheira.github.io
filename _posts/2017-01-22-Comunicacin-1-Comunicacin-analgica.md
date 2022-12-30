@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Comunicación 1. Comunicación analógica: {#comunicación-1.-comunicación-analógica .title}
-
-Aulo
-
-2017-01-22T18:21:39+00:00
-:::
 
 En este artículo vamos a intentar preocuparnos un poco más de qué es eso
 que se ha dado en llamar comunicación. Comenzaremos por intentar definir

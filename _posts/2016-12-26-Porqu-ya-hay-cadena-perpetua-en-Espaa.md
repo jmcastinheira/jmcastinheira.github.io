@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Porqué ya hay cadena perpetua en España {#porqué-ya-hay-cadena-perpetua-en-españa .title}
-
-Aulo
-
-2016-12-26T00:15:41+00:00
-:::
 
 El caos jurídico en el que se está metiendo España últimamente sólo
 puede ser superado por la hipocresía de algunos y por la dejadez de

@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Más google, o mas bien menos... {#más-google-o-mas-bien-menos .title}
-
-Aulo
-
-2016-12-26T10:56:16+00:00
-:::
 
 Porque vuelve a fallar; [ahora google
 docs](http://periodistas21.blogspot.com/2009/03/documentos-filtrados-en-google-docs.html)...

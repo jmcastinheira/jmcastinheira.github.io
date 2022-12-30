@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Maravillosas imágenes de la Aurora Polar {#maravillosas-imágenes-de-la-aurora-polar .title}
-
-Aulo
-
-2016-12-26T09:06:31+00:00
-:::
 
 ![](http://www.lareserva.com/home/fimage/bor3.jpg?v=1268039375545)
 

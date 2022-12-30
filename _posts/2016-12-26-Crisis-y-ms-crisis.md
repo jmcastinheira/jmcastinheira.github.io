@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Crisis y más crisis {#crisis-y-más-crisis .title}
-
-Aulo
-
-2016-12-26T21:12:23+00:00
-:::
 
 Por fin mi compañero y amigo se ha decidido a escribir, tan sólo has
 sido necesarias unas cuantas amenazas por el chat de Gmail para

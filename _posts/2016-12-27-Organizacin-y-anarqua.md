@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Organización y anarquía {#organización-y-anarquía .title}
-
-Aulo
-
-2016-12-27T11:43:10+00:00
-:::
 
 ::: {data-align="justify"}
 En el libro que recensionamos las menciones a la organización abarcan

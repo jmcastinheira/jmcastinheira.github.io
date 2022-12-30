@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Frase Célebre: La Riqueza {#frase-célebre-la-riqueza .title}
-
-Aulo
-
-2016-12-26T09:07:36+00:00
-:::
 
 > El que no considera lo que tiene como la riqueza más grande, es
 > desdichado, aunque sea dueño del mundo.

@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# ¿Es necesaria la filosofía en la ciencia? {#es-necesaria-la-filosofía-en-la-ciencia .title}
-
-Aulo
-
-2016-12-26T00:09:10+00:00
-:::
 
 La verdad es que uno llega cansado a casa, sólo tiene ganas de acostarse
 y dormir; pero quien sabe porqué demonios a uno le entra esa gusa de ver

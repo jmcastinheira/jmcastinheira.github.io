@@ -8,15 +8,6 @@ categories:
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
-# Explicación a paradojas pragmáticas {#explicación-a-paradojas-pragmáticas .title}
-
-Aulo
-
-2007-06-18T11:25:00+00:00
-:::
-
-::: {style="text-align: justify;"}
 [![](http://img149.imageshack.us/img149/5528/sealesoz1.jpg){style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 200px;"
 border="0"}](http://img149.imageshack.us/img149/5528/sealesoz1.jpg)Hemos
 hablado ya de las paradojas lógicas y ahora nos toca hacerlo de las
@@ -29,12 +20,8 @@ directamente a nuestra conducta, y sobre todo en la medida que nuestra
 conducta se rige por normas ¿Pero qué pasa cuando esas normas son
 paradójicas?.
 
-::: {style="text-align: justify;"}
-    Paradoja pragmática la hay cuando se da una contradicción entre los /[niveles analógico/]/(http://lorealenelespejo.blogspot.com/2007/06/explicacin-experimento-4.html/) (o relacional) y digital de la comunicación (la norma se conoce porque es comunicada) así pues en el ejemplo «no obedezcas esta norma» se impone una relación de sometimiento (obedece me) en el plano analógico, y una comunicación contradictoria con ella en el nivel digital (no obedezcas esta norma) así pues un sujeto que reciba esta comunicación no puede regir su conducta; pongamos que quisiera obedecer, tendría que hacerlo desobedeciendo y si quisiera desobedecerla la estaría obedeciendo realmente, así pues no puede salir de este llamado /[«doble vinculo»/]/(http://es.wikipedia.org/wiki/Doble_V%C3%ADnculo/) por la Escuela de Palo Alto, que será la causa de muchos de los tipos de Squizofrenia; el squizofrenico estaría según la teoría de Bateson y Watzlawick en una situación análoga a esta.
-:::
-:::
+Paradoja pragmática la hay cuando se da una contradicción entre los [niveles analógico](http://lorealenelespejo.blogspot.com/2007/06/explicacin-experimento-4.html) (o relacional) y digital de la comunicación (la norma se conoce porque es comunicada) así pues en el ejemplo «no obedezcas esta norma» se impone una relación de sometimiento (obedece me) en el plano analógico, y una comunicación contradictoria con ella en el nivel digital (no obedezcas esta norma) así pues un sujeto que reciba esta comunicación no puede regir su conducta; pongamos que quisiera obedecer, tendría que hacerlo desobedeciendo y si quisiera desobedecerla la estaría obedeciendo realmente, así pues no puede salir de este llamado [«doble vinculo»](http://es.wikipedia.org/wiki/Doble_V%C3%ADnculo) por la Escuela de Palo Alto, que será la causa de muchos de los tipos de Squizofrenia; el squizofrenico estaría según la teoría de Bateson y Watzlawick en una situación análoga a esta.
 
-::: {style="text-align: justify;"}
 El caso de la otra paradoja es también interesante y realmente similar,
 pero lo que me importa resaltar de ello, es que el sistema de la
 democracia representativa nos coloca muchas veces en este tipo de
@@ -52,4 +39,3 @@ vinculados a tener derecho a la libertad, es decir nos ordenan que
 seamos libres salvo que nos digan otra cosa, en fin, aún así hay
 doctrinas que evitan estas paradojas hablando de un espacio libre de
 derecho etc..
-:::

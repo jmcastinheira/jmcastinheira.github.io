@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Sobre el futuro hoy {#sobre-el-futuro-hoy .title}
-
-Aulo
-
-2016-12-25T23:34:42+00:00
-:::
 
 ***1. «He visto otros mundos pero están en este», o la riqueza de
 mundos***:

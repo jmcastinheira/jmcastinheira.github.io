@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Pequeño estudio de la mentira. {#pequeño-estudio-de-la-mentira. .title}
-
-Aulo
-
-2016-12-27T11:36:03+00:00
-:::
 
 ::: {#body-150397 .content-body .clearfix}
 ¡Ya no hay [poesía](http://docs.google.com/View?docid=dk4fxk2_6g9sgft)!

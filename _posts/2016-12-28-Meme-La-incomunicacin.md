@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Meme: La incomunicación {#meme-la-incomunicación .title}
-
-Aulo
-
-2016-12-28T22:55:14+00:00
-:::
 
 ::: {style="text-align: justify;"}
 No entiendo esta manía de la gente de vivir aislados en su mundo,

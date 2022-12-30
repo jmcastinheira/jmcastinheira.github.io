@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Un estado que no defenderé {#un-estado-que-no-defenderé .title}
-
-Aulo
-
-2016-12-26T01:03:50+00:00
-:::
 
 gente que ha decidido estudiar Derecho adquiere un sutil respeto por las
 **Instituciones**, no por las *instituciones* en sentido físico, claro;

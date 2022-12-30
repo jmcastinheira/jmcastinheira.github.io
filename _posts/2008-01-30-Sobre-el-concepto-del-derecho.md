@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Sobre el concepto del derecho. {#sobre-el-concepto-del-derecho. .title}
-
-Aulo
-
-2008-01-30T21:02:00+00:00
-:::
 
 Había estado pensando hacer un artículo un poco complejo sobre [el
 derecho y la

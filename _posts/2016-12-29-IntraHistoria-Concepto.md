@@ -12,12 +12,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# IntraHistoria: Concepto {#intrahistoria-concepto .title}
-
-Aulo
-
-2016-12-29T23:36:31+00:00
-:::
 
 He decidido inaugurar sección, su titulo ya lo habéis visto, se trata de
 Intrahistoria, concepto acuñado por Unamuno para designar las historias

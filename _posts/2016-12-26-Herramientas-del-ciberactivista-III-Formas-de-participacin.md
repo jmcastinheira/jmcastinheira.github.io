@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Herramientas del ciberactivista III (Formas de participación) {#herramientas-del-ciberactivista-iii-formas-de-participación .title}
-
-Aulo
-
-2016-12-26T22:44:23+00:00
-:::
 
 ::: {#body-176816 .content-body}
 ![](http://espaiobertsocialista.files.wordpress.com/2007/10/participacion.jpg){.alignleft

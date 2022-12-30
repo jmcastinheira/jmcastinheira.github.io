@@ -12,12 +12,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Un poco de Soup? {#un-poco-de-soup .title}
-
-Aulo
-
-2016-12-27T18:29:46+00:00
-:::
 
 ::: {style="text-align: justify;"}
 [Soup](http://aulo.soup.io/) es un servicio de gestión de contenidos a

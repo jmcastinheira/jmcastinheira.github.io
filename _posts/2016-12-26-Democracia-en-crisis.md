@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Democracia en crisis {#democracia-en-crisis .title}
-
-Aulo
-
-2016-12-26T00:51:53+00:00
-:::
 
 Supongo que siempre es buen momento para repasar el estado de los
 sistemas que permiten organizarnos, pararse un instante y examinar el

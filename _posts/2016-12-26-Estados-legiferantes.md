@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Estados legiferantes {#estados-legiferantes .title}
-
-Aulo
-
-2016-12-26T00:40:27+00:00
-:::
 
 Seré breve. Sé que ya lo he repetido un montón de veces, pero fijaos que
 los de arriba parecen no escucharme. Aquí en España, desde hace bastante

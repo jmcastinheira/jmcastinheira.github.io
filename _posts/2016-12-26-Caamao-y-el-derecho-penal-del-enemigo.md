@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Caamaño y el derecho penal del enemigo {#caamaño-y-el-derecho-penal-del-enemigo .title}
-
-Aulo
-
-2016-12-26T09:24:06+00:00
-:::
 
 He estado leyendo la reforma del código penal que ha sido presentada por
 el gobierno hace [unas pocas

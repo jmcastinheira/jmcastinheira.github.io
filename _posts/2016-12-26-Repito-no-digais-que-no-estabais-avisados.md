@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Repito, no digais que no estabais avisados. {#repito-no-digais-que-no-estabais-avisados. .title}
-
-Aulo
-
-2016-12-26T10:06:48+00:00
-:::
 
 Hace poco publicábamos una interesante [entrevista a José Luis
 Sampedro](http://entelequia.bligoo.com/content/view/441290/No-digais-que-no-estabais-avisados.html)

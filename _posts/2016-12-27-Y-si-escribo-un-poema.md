@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Y si escribo un poema..? {#y-si-escribo-un-poema.. .title}
-
-Aulo
-
-2016-12-27T13:09:54+00:00
-:::
 
 Y si escribo un poema
 

@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Experimento 1. (Lo absoluto) {#experimento-1.-lo-absoluto .title}
-
-Aulo
-
-2016-12-25T23:41:39+00:00
-:::
 
 Imaginemos el siguiente experimento, cogemos una vara de tres colores,
 blanco, gris y negro; la ponemos en el suelo y enseñamos a un chimpancé

@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Concepto: Violencia de Género {#concepto-violencia-de-género .title}
-
-Aulo
-
-2016-12-27T15:08:27+00:00
-:::
 
 [![No violencia contra la
 mujer](http://farm3.static.flickr.com/2276/2045931365_6b52e451aa_m.jpg){.aligncenter

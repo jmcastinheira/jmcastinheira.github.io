@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Sobre el 3D en el cine {#sobre-el-3d-en-el-cine .title}
-
-Aulo
-
-2016-12-26T00:03:35+00:00
-:::
 
 ![sala-de-cine.jpg](http://www.amenito.com/uploads/sala-de-cine.jpg?v=1275908780144){width="196"
 height="138"}

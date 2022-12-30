@@ -12,12 +12,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Autores: Miguel d´Ors {#autores-miguel-dors .title}
-
-Aulo
-
-2017-01-02T16:34:17+00:00
-:::
 
 He mencionado a [Miguel d´Ors
 Lois](http://es.wikipedia.org/wiki/Miguel_d%27Ors) en otras ocasiones.

@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Concepto: La web semántica {#concepto-la-web-semántica .title}
-
-Aulo
-
-2016-12-27T13:33:52+00:00
-:::
 
 ::: {#body-132054 .content-body}
 <div>

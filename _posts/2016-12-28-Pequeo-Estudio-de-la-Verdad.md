@@ -12,12 +12,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Pequeño Estudio de la Verdad {#pequeño-estudio-de-la-verdad .title}
-
-Aulo
-
-2016-12-28T22:52:33+00:00
-:::
 
 ::: {style="text-align: center;"}
 [![](http://www.magazinedigital.com/media/1458.jpg){style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;"

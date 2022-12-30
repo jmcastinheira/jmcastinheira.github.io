@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Poyekhali! \[Documental First Orbit ya disponible\] {#poyekhali-documental-first-orbit-ya-disponible .title}
-
-Aulo
-
-2016-12-26T00:58:01+00:00
-:::
 
 ![gagarin1.jpg](http://3.bp.blogspot.com/_Cc7nxts8C5A/S8MecadoISI/AAAAAAAAArw/un_lY5XXw3w/s1600/gagarin1.jpg?v=1302509648909){width="342"
 height="238"}

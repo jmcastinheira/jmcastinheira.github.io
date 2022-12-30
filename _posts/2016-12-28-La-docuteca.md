@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La docuteca {#la-docuteca .title}
-
-Aulo
-
-2016-12-28T23:17:55+00:00
-:::
 
 Acabo de introducir definitivamente nuestro buscador personalizado en
 Entelequa; se llama Docuteca y ya estaba en un pequeño widget en la

@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La conciencia hecha software o el sueño de la razón III {#la-conciencia-hecha-software-o-el-sueño-de-la-razón-iii .title}
-
-Aulo
-
-2016-12-26T00:44:33+00:00
-:::
 
 Como hemos dicho en los dos artículos anteriores era urgente encontrar
 una demostración absoluta de la consistencia y completud de la Teoría

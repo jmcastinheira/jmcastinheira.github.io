@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La vida como amor {#la-vida-como-amor .title}
-
-Aulo
-
-2016-12-26T10:08:49+00:00
-:::
 
 De un tiempo a esta parte me he dado cuenta de que quizá haya que
 renunciar ya a explicar la realidad con teorías, por muy complicadas y

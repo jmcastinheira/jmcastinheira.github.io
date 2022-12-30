@@ -12,12 +12,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Autores: Gioconda Belli {#autores-gioconda-belli .title}
-
-Aulo
-
-2017-01-05T17:40:20+00:00
-:::
 
 No recuerdo exactamente quién fué la primera persona que me recomendó a
 [Gioconda.](http://es.wikipedia.org/wiki/Gioconda_Belli) Puede que haya

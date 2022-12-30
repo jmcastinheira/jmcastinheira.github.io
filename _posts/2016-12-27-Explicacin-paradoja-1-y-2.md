@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Explicación paradoja 1 y 2 {#explicación-paradoja-1-y-2 .title}
-
-Aulo
-
-2016-12-27T18:32:13+00:00
-:::
 
 ::: {style="text-align: justify;"}
 [![](http://matematica2.giusti-ec.com.ar/EJEMPLOS/la%20ultima%20hora%20-%20la%20paradoja%20de%20russell.jpg){style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 200px;"

@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La terrorífica historia de la muerte de un vampiro (+18) {#la-terrorífica-historia-de-la-muerte-de-un-vampiro-18 .title}
-
-Aulo
-
-2016-12-26T09:46:24+00:00
-:::
 
 Por Uxio P.R.
 

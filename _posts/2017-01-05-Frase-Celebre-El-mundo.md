@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Frase Celebre: El mundo {#frase-celebre-el-mundo .title}
-
-Aulo
-
-2017-01-05T17:02:46+00:00
-:::
 
 > «La cumbre de Londres es el estreno de algo mucho más grande que la
 > crisis: el primer decreto ley de un auténtico gobierno mundial»

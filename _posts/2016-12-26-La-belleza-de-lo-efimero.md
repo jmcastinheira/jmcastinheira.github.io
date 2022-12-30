@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La belleza de lo efimero. {#la-belleza-de-lo-efimero. .title}
-
-Aulo
-
-2016-12-26T10:49:14+00:00
-:::
 
 Hoy he visto [este
 corto,](http://garciamedia.com/latinamerica/blog/articles/la_brevedad/)

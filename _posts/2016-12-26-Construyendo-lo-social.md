@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Construyendo lo social {#construyendo-lo-social .title}
-
-Aulo
-
-2016-12-26T00:58:47+00:00
-:::
 
 Tras la lectura de un articulo de [Las indias
 Electrónicas](http://lasindias.coop/facebook-el-%C2%ABefecto-boy-scout%C2%BB-y-la-necesidad-de-dar-un-canal-articulado-a-la-adhesion/)

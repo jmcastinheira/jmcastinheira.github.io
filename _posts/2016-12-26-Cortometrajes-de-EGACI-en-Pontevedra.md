@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Cortometrajes de EGACI en Pontevedra {#cortometrajes-de-egaci-en-pontevedra .title}
-
-Aulo
-
-2016-12-26T10:16:45+00:00
-:::
 
 Hoy pude asistir a un [festival de
 cortometrajes](http://www.youtube.com/watch?v=FrjyRkuJLCU) en el Teatro

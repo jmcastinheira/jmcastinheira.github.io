@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# El Pulsar de Chandra o la mano de Dios. {#el-pulsar-de-chandra-o-la-mano-de-dios. .title}
-
-Aulo
-
-2016-12-26T10:17:34+00:00
-:::
 
 [La belleza de las
 nebulosas](http://es.wikipedia.org/wiki/Anexo:Objetos_Messier) es ya

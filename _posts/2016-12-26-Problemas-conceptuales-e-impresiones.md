@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Problemas conceptuales e impresiones. {#problemas-conceptuales-e-impresiones. .title}
-
-Aulo
-
-2016-12-26T22:22:41+00:00
-:::
 
 **Lo analógico y lo digital.\
 **

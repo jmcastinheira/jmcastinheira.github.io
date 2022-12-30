@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Oso republicano absuelto por la Audiencia Nacional. {#oso-republicano-absuelto-por-la-audiencia-nacional. .title}
-
-Aulo
-
-2016-12-28T23:17:55+00:00
-:::
 
 <div>
 

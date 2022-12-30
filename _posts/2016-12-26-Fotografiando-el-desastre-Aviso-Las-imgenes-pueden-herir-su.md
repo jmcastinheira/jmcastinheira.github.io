@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Fotografiando el desastre (Aviso: Las imágenes pueden herir su sensibilidad) {#fotografiando-el-desastre-aviso-las-imágenes-pueden-herir-su-sensibilidad .title}
-
-Aulo
-
-2016-12-26T00:56:20+00:00
-:::
 
 \[Por Uxío\] Hoy he leído una noticia en el periódico «El País», que me
 ha traído muy malos recuerdos, la foto de la que hablo es un increíble

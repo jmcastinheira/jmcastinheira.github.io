@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La fotografía de las tres galaxias {#la-fotografía-de-las-tres-galaxias .title}
-
-Aulo
-
-2016-12-26T00:48:50+00:00
-:::
 
 ![eso1126a.jpg](http://www.entelequia.bligoo.com/media/users/1/79903/images/public/4621/eso1126a.jpg?v=1311923377127)
 

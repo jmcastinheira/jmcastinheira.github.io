@@ -12,12 +12,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Blogs para hoy y siempre. {#blogs-para-hoy-y-siempre. .title}
-
-Aulo
-
-2016-12-28T23:17:56+00:00
-:::
 
 ::: {#body-461542 .content-body}
 ![imagen de

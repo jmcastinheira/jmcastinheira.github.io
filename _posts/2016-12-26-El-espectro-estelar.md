@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# El espectro estelar {#el-espectro-estelar .title}
-
-Aulo
-
-2016-12-26T00:41:47+00:00
-:::
 
 \[Por Uxío\] Como ya hemos visto en otras ocasiones, en nuestro Universo
 **todos los elementos que lo integran están en movimiento**, de pequeños

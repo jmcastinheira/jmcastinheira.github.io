@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Sobre las comunidades. {#sobre-las-comunidades. .title}
-
-Aulo
-
-2016-12-26T22:35:51+00:00
-:::
 
 No puedo dejar de comentar aquí, el último post de David de Ugarte sobre
 la participación y [las

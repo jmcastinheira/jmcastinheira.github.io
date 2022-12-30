@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Debatiendo Google {#debatiendo-google .title}
-
-Aulo
-
-2016-12-26T19:51:18+00:00
-:::
 
 El otro día estabamos a la espera de un posible debate blogosférico, (o
 blogogaláxico si atendemos a las matizaciones de

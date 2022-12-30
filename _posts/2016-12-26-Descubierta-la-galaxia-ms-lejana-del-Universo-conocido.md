@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Descubierta la galaxia más lejana del Universo conocido {#descubierta-la-galaxia-más-lejana-del-universo-conocido .title}
-
-Aulo
-
-2016-12-26T00:27:31+00:00
-:::
 
 Un equipo de astrónomos ha descubierto la galaxia más lejana encontrada
 hasta la fecha con la ayuda de los **telescopios Subaru (Japón) y Keck

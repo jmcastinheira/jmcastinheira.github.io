@@ -9,13 +9,6 @@ categories:
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
-# No más palabras {#no-más-palabras .title}
-
-Aulo
-
-2007-06-16T18:00:00+00:00
-:::
 
 ¡No más [palabras](http://moebio.com/santiago/bacterias/),\
 no más

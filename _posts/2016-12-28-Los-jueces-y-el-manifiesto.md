@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Los jueces y el manifiesto. {#los-jueces-y-el-manifiesto. .title}
-
-Aulo
-
-2016-12-28T23:17:54+00:00
-:::
 
 ::: {data-align="justify"}
 Ha salido a la palestra el comunicado que abajo recojo de, creo que 130

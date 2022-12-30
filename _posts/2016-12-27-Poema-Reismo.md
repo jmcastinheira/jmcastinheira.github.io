@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Poema: Reismo {#poema-reismo .title}
-
-Aulo
-
-2016-12-27T16:06:26+00:00
-:::
 
 Desde este
 [abrazo](http://www.elmundodetotio.cl/docs/assets/images/2007/01/abrazo.JPG)

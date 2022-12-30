@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Autores: Juan Vidal Fraga. {#autores-juan-vidal-fraga. .title}
-
-Aulo
-
-2017-01-05T17:40:20+00:00
-:::
 
 Juan Vidal no fue sólo un abogado importante de la provincia de
 Pontevedra como someramente rezaba en la placa del que fue su despacho,

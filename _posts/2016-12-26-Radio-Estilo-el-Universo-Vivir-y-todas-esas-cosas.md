@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Radio Estilo, el Universo, Vivir y todas esas cosas {#radio-estilo-el-universo-vivir-y-todas-esas-cosas .title}
-
-Aulo
-
-2016-12-26T09:28:17+00:00
-:::
 
 Bueno, llevo un montón sin escribir nada, una serie de ocupacioes me
 tenían atareado, pero en fin dicen que la vida es una ocupación

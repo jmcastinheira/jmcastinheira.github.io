@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Manifiesto en defensa de los derechos fundamentales en internet {#manifiesto-en-defensa-de-los-derechos-fundamentales-en-internet .title}
-
-Aulo
-
-2016-12-28T23:20:18+00:00
-:::
 
 No puedo dejar de compartir este manifiesto. Pero no sólo yo, internet
 está llena de adhesiones a él, basta con buscar, incluso entrecomillado

@@ -12,12 +12,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Autores: Juan Gélman {#autores-juan-gélman .title}
-
-Aulo
-
-2017-01-02T16:50:14+00:00
-:::
 
 ::: {#body-99475 .content-body}
 ![](http://prairial.free.fr/images/gelman/Gelman3.jpg){.alignleft

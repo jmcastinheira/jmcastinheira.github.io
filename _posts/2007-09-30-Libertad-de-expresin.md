@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Libertad de expresión {#libertad-de-expresión .title}
-
-Aulo
-
-2007-09-30T10:24:00+00:00
-:::
 
 [Por favor, que no se nos quiten la palabra]{style="font-size:100%;"}
 

@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Una Biblia del siglo IV accesible para todos {#una-biblia-del-siglo-iv-accesible-para-todos .title}
-
-Aulo
-
-2016-12-28T23:04:53+00:00
-:::
 
 **Por Uxío PR**
 

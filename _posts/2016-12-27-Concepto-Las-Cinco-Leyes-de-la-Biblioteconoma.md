@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Concepto: Las Cinco Leyes de la Biblioteconomía {#concepto-las-cinco-leyes-de-la-biblioteconomía .title}
-
-Aulo
-
-2016-12-27T15:19:19+00:00
-:::
 
 ::: {data-align="justify"}
 \[Por Uxío PR\] Antes de hablar sobre la clasificación colonada de

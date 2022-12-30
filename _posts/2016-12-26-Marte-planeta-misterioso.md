@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Marte, planeta misterioso {#marte-planeta-misterioso .title}
-
-Aulo
-
-2016-12-26T10:12:11+00:00
-:::
 
 \[Uxío PR\] Desde los inicios de la astronomía, **nuestro planeta vecino
 ha suscitado gran interés y perplejidad a científicos, astrónomos y

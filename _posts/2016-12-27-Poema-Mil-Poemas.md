@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Poema: Mil Poemas {#poema-mil-poemas .title}
-
-Aulo
-
-2016-12-27T16:03:54+00:00
-:::
 
 Mil
 [poemas](http://www.google.es/search?q=poemas&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:es-ES:official&client=firefox-a)

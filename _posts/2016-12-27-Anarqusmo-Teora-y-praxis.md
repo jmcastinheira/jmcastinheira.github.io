@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Anarquísmo: Teoría y praxis. {#anarquísmo-teoría-y-praxis. .title}
-
-Aulo
-
-2016-12-27T13:15:45+00:00
-:::
 
 Hemos dicho que empezaríamos por hacer un breve análisis de qué se
 entiende por el Socialismo libertario según las ideas expuestas por

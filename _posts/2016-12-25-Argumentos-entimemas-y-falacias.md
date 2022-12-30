@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Argumentos, entimemas y falacias. {#argumentos-entimemas-y-falacias. .title}
-
-Aulo
-
-2016-12-25T23:29:01+00:00
-:::
 
 Más que explicar la definición de estos conceptos prefiero ir a los
 casos concretos; a fin de cuentas así es cómo se aprende.

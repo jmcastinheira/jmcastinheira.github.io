@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La verguenza se llama silencio. {#la-verguenza-se-llama-silencio. .title}
-
-Aulo
-
-2016-12-26T20:20:48+00:00
-:::
 
 ::: {#body-377369 .content-body .clearfix}
 A [García

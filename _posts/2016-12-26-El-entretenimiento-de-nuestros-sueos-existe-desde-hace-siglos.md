@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# El entretenimiento de nuestros sueños existe desde hace siglos {#el-entretenimiento-de-nuestros-sueños-existe-desde-hace-siglos .title}
-
-Aulo
-
-2016-12-26T09:31:06+00:00
-:::
 
 Texto de [Isaac
 Asimov](http://es.wikipedia.org/wiki/Isaac_Asimov){target="_blank"}

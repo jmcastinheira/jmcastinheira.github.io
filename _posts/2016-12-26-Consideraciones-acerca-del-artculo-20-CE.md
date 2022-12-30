@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Consideraciones acerca del artículo 20 CE {#consideraciones-acerca-del-artículo-20-ce .title}
-
-Aulo
-
-2016-12-26T09:17:08+00:00
-:::
 
 Y ya sabemos lo que dice el 20 no? :
 

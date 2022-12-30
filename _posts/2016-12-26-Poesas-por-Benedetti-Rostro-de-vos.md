@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Poesías por Benedetti: Rostro de vos {#poesías-por-benedetti-rostro-de-vos .title}
-
-Aulo
-
-2016-12-26T10:12:55+00:00
-:::
 
 Abraham Canales de
 «[Otromundoesposible](http://www.otromundoesposible.com/?p=3161)»

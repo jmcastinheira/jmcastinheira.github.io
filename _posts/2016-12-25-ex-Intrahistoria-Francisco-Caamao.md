@@ -12,12 +12,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# ex-Intrahistoria: Francisco Caamaño {#ex-intrahistoria-francisco-caamaño .title}
-
-Aulo
-
-2016-12-25T23:26:44+00:00
-:::
 
 <div>
 

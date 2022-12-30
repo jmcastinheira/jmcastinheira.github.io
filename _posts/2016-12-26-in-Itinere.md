@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# in Itinere {#in-itinere .title}
-
-Aulo
-
-2016-12-26T09:32:58+00:00
-:::
 
 ![](http://i275.photobucket.com/albums/jj287/Auluses/camino.jpg?v=1252590320431 "http://i275.photobucket.com/albums/jj287/Auluses/camino.jpg"){.alignleft
 width="145" height="219"}

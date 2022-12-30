@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Literatura, Música y Documental {#literatura-música-y-documental .title}
-
-Aulo
-
-2016-12-27T18:31:50+00:00
-:::
 
 ::: {style="text-align: center;"}
 [![](http://www.cefetce.br/Noticias/pictures/musica.jpg){style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 200px;"

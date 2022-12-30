@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Mil poemas {#mil-poemas .title}
-
-Aulo
-
-2016-12-27T18:31:21+00:00
-:::
 
 [![](http://2.bp.blogspot.com/_WnvNz0PVdLM/RusP0Ltg1uI/AAAAAAAAACA/ld5l6iccs74/s200/1353620241_8f7f780dd8_m.jpg){#BLOGGER_PHOTO_ID_5110195591353259746
 style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;"

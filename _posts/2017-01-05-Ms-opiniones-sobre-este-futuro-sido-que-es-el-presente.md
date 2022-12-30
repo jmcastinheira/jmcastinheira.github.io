@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Más opiniones sobre este futuro sido que es el presente. {#más-opiniones-sobre-este-futuro-sido-que-es-el-presente. .title}
-
-Aulo
-
-2017-01-05T16:57:55+00:00
-:::
 
 Y otra vez Iñaki.
 

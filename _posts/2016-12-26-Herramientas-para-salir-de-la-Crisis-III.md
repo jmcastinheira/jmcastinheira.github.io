@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Herramientas para salir de la Crisis III {#herramientas-para-salir-de-la-crisis-iii .title}
-
-Aulo
-
-2016-12-26T00:26:51+00:00
-:::
 
 Después de los post anteriores sobre este tema [Herramientas para salir
 de la Crisis

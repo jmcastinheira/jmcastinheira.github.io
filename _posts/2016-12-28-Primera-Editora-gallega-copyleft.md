@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Primera Editora gallega copyleft. {#primera-editora-gallega-copyleft. .title}
-
-Aulo
-
-2016-12-28T23:17:55+00:00
-:::
 
 ::: {#body-375525 .content-body}
 ::: {#ads-parked-10 .ads-parked-10}

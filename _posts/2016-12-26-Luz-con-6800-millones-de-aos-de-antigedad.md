@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Luz con 6.800 millones de años de antigüedad {#luz-con-6.800-millones-de-años-de-antigüedad .title}
-
-Aulo
-
-2016-12-26T10:50:34+00:00
-:::
 
 \[Uxío PR\] Un grupo de científicos de varias nacionalidades están
 llevando a cabo un interesante proyecto, combinar dos telescopios de

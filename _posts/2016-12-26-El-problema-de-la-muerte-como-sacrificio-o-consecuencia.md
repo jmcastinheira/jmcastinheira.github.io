@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# El problema de la muerte como sacrificio o consecuencia. {#el-problema-de-la-muerte-como-sacrificio-o-consecuencia. .title}
-
-Aulo
-
-2016-12-26T10:44:39+00:00
-:::
 
 Y llega la Semana Santa y todo se tiñe de imágenes, símbolos y temas de
 naturaleza religiosa, queramos o no estamos metidos de lleno en la

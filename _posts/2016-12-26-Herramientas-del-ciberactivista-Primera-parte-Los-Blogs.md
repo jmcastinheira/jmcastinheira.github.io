@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Herramientas del ciberactivista. (Primera parte: Los Blogs) {#herramientas-del-ciberactivista.-primera-parte-los-blogs .title}
-
-Aulo
-
-2016-12-26T22:50:28+00:00
-:::
 
 ::: {#body-167332 .content-body}
 ![](http://static.flickr.com/46/165217727_816036c82e_o.jpg){.alignleft

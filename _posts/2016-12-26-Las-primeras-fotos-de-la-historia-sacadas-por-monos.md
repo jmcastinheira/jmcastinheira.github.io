@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Las primeras fotos de la historia sacadas por monos {#las-primeras-fotos-de-la-historia-sacadas-por-monos .title}
-
-Aulo
-
-2016-12-26T00:50:26+00:00
-:::
 
 ![monkey-takes-photo-001-550x366.jpg](http://static.betazeta.com/www.veoverde.com/docs/assets/images/2011/07/monkey-takes-photo-001-550x366.jpg?v=1309953818887)
 

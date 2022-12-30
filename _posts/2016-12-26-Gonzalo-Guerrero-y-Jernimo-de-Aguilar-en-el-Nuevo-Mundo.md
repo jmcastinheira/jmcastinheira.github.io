@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Gonzalo Guerrero y Jerónimo de Aguilar en el Nuevo Mundo {#gonzalo-guerrero-y-jerónimo-de-aguilar-en-el-nuevo-mundo .title}
-
-Uxío Pérez
-
-2016-12-26T08:34:40+00:00
-:::
 
 ::: {#body-882976 .content-body}
 ::: {#ads-parked-10 .ads-parked-10}

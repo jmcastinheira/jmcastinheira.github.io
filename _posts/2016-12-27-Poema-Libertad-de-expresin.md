@@ -12,12 +12,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Poema: Libertad de expresión {#poema-libertad-de-expresión .title}
-
-Aulo
-
-2016-12-27T15:49:41+00:00
-:::
 
 Por favor, que no nos quiten la palabra
 

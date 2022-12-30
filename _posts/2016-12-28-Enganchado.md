@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Enganchado {#enganchado .title}
-
-Aulo
-
-2016-12-28T22:51:16+00:00
-:::
 
 ::: {style="text-align: left; font-family: courier new;"}
 [Llenarme las venas\

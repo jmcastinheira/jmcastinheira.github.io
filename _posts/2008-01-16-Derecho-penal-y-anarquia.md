@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Derecho penal y anarquia {#derecho-penal-y-anarquia .title}
-
-Aulo
-
-2008-01-16T17:16:00+00:00
-:::
 
 ::: {style="text-align: justify;"}
 Una de las mayores preocupaciones que he tenido y tengo actualmente es

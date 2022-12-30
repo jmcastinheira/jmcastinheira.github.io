@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# El Observatorio Europeo Austral descubre seis exoplanetas que van «al reves» {#el-observatorio-europeo-austral-descubre-seis-exoplanetas-que-van-al-reves .title}
-
-Aulo
-
-2016-12-26T09:00:50+00:00
-:::
 
 ![http://www.elpais.com/recorte/20100412elpepusoc_10/XXLCO/Ies/Planetas_otras_estrellas.jpg](http://www.elpais.com/recorte/20100412elpepusoc_10/XXLCO/Ies/Planetas_otras_estrellas.jpg?v=1271421650910 "http://www.elpais.com/recorte/20100412elpepusoc_10/XXLCO/Ies/Planetas_otras_estrellas.jpg"){width="486"
 height="325"}

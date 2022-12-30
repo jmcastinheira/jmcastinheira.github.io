@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Herramientas. {#herramientas. .title}
-
-Aulo
-
-2016-12-27T11:48:46+00:00
-:::
 
 Una lista de herramientas muy útiles de lo que [se ha
 llamado](http://entelequia.bligoo.com/content/view/135528/Qu_es_un_blog.html)

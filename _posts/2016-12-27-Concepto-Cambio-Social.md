@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Concepto: Cambio Social {#concepto-cambio-social .title}
-
-Aulo
-
-2016-12-27T15:26:59+00:00
-:::
 
 ::: {#central-container .clearfix}
 ::: {#center-wrapper}

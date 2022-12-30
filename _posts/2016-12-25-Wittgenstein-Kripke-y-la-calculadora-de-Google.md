@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Wittgenstein, Kripke y la calculadora de Google {#wittgenstein-kripke-y-la-calculadora-de-google .title}
-
-Aulo
-
-2016-12-25T23:32:35+00:00
-:::
 
 Creo que hace siglos que no escribo en el blog... mejor no lo compruebo
 porque me asusto seguro. La cuestión es que he estado bastante ocupado

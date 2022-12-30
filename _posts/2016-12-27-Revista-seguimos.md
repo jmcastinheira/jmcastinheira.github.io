@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Revista (seguimos) {#revista-seguimos .title}
-
-Aulo
-
-2016-12-27T13:37:51+00:00
-:::
 
 ::: {#body-132057 .content-body}
 [![](http://escritores.files.wordpress.com/2007/06/foto-revista-internet.jpg){.alignleft

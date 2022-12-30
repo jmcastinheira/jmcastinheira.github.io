@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Blogs: Consejos y problemas {#blogs-consejos-y-problemas .title}
-
-Aulo
-
-2016-12-27T12:14:22+00:00
-:::
 
 Una vez determinado en el post anterior ¿Qué es un blog?; nos toca
 examinar un poco el cómo se hace un blog, ocupándonos en esta entrada de

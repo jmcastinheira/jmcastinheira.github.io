@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La conciencia hecha software I: El sueño de la razon. {#la-conciencia-hecha-software-i-el-sueño-de-la-razon. .title}
-
-Aulo
-
-2016-12-26T01:00:43+00:00
-:::
 
 **O ¿Pueden pensar las máquinas?**
 

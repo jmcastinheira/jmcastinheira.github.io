@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Libertad, igualdad, fraternidad. {#libertad-igualdad-fraternidad. .title}
-
-Aulo
-
-2016-12-25T22:57:57+00:00
-:::
 
 Hoy me pasa un poco como a Roger Wolfe;
 

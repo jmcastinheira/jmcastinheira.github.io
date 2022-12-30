@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Seguimos con el Tibet {#seguimos-con-el-tibet .title}
-
-Aulo
-
-2016-12-28T23:17:54+00:00
-:::
 
 Seguimos con el Tibet cuando China acaba de admitir que han asesinado a
 más manifestantes de los que inicialmente reconocían, y a día de hoy

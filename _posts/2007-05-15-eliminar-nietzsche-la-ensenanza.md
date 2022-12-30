@@ -8,7 +8,7 @@ guid: http://enteleq1-cp23.wordpresstemporal.com/?p=806
 permalink: /eliminar-nietzsche-la-ensenanza/
 image: /docs/assets/images/pensador.jpg
 categories:
-  - Filosofía
+  - Concepto
   - Opiniones
 tags:
   - educacion
@@ -17,6 +17,7 @@ tags:
   - Sociedad
   - Uxio
 ---
+
 [Uxío PR] Gracias a la página web «El escorpión», que dispone de una corresponsal finlandesa, nos hemos enterado de una noticia que realmente llama la atención, antes de nada hay que saber que Finlandia es uno de los países con mejor educación del mundo, por ello aún llama más la atención:
 
 «El contenido de la asignatura de Filosofía ha saltado a la opinión pública como consecuencia de la tragedia de la escuela de Jokela. El culpable de las muertes, un estudiante de bachillerato, citaba en sus mensajes las obras de Platón y de Nietzsche. El Consejero de Educación encargado de la asignatura de Filosofía, Pekka Elo, exigió desde las páginas del diario Helsingin Sanomat que los profesores adopten una actitud crítica hacia Platón y afirmó que estudiar a Nietzsche no es imprescindible en el curso básico obligatorio de Filosofía en los institutos».

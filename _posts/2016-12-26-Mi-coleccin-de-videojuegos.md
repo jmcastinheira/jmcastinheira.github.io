@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Mi colección de videojuegos {#mi-colección-de-videojuegos .title}
-
-Aulo
-
-2016-12-26T09:01:27+00:00
-:::
 
 Hace unos 19 años, un niño fue invitado por un amigo a su casa, en la
 que éste le mostró diferentes juegos de mesa, balones de fútbol, y un

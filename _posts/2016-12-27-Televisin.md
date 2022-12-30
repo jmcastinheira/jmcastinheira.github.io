@@ -11,12 +11,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Televisión {#televisión .title}
-
-Aulo
-
-2016-12-27T18:29:46+00:00
-:::
 
 ::: {style="text-align: justify;"}
 Bueno, un poco apurado pero inauguramos sección en la bitácora, tenemos

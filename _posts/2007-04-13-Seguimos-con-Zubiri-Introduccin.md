@@ -9,8 +9,6 @@ categories:
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-# Seguimos con Zubiri (Introducción) {#seguimos-con-zubiri-introducción .title}
-
 Llegó la hora de la verdad, no quería enfrentarme a ella, pero lo
 prometido es deuda, advierto lo que es evidente, y es que en este
 pequeño espacio, y con esta mía pequeña cabeza poco puedo yo deciros

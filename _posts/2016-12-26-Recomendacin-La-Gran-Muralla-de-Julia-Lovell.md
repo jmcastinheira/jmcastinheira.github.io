@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Recomendación: La Gran Muralla de Julia Lovell {#recomendación-la-gran-muralla-de-julia-lovell .title}
-
-Uxío Pérez
-
-2016-12-26T22:37:19+00:00
-:::
 
 ::: {#body-196172 .content-body}
 ![](http://www.antartica.cl/antartica/gfx_libros/144/9789871117390.jpg){.alignleft

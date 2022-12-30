@@ -9,12 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# La otra conquista de la Luna {#la-otra-conquista-de-la-luna .title}
-
-Aulo
-
-2016-12-26T09:41:36+00:00
-:::
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Apollo_11_lunar_module.jpg/300px-Apollo_11_lunar_module.jpg?v=1248081038136 "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Apollo_11_lunar_module.jpg/300px-Apollo_11_lunar_module.jpg"){.alignleft
 width="193" height="185"}Por Uxío

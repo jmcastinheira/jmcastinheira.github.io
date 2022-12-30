@@ -10,12 +10,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Artículos más leídos de entelequia. {#artículos-más-leídos-de-entelequia. .title}
-
-Aulo
-
-2016-12-28T23:17:55+00:00
-:::
 
 Creo que no es mal momento, ahora que empezamos otro año, de hacer una
 pequeña recopilación de los diez artículos que sea por tal o cual cosa,
