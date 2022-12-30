@@ -20,7 +20,6 @@ categories:
   - Filosofía
 tags:
   - Blog
-  - Ernesto Cardenal
   - Teología de la liberación
 ---
 <div style="text-align: justify;">

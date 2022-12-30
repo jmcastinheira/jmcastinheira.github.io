@@ -20,8 +20,6 @@ categories:
   - Filosofía
 tags:
   - Blog
-  - Ellacuría
-  - Ernesto Cardenal
   - Teología de la liberación
 ---
 He decidido, hacer un ciclo sobre algunas personas que me parecen interesantes, pensé en llamarlo «autores raretes» como me dicen en el comentario pero no me parecía serio ni suficientemente adecuado para las personas que voy a tratar, y ya que hemos empezado por hablar de iglesia y política, y ya que está de actualidad parece oportuno que los primeros sean Ignacio Ellacuría y el próximo día Jon Sobrino.  
