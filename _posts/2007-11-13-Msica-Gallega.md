@@ -10,8 +10,7 @@ tags:
 - Música
 ---
 
-[![](http://www.agal-gz.org/blogues/media/Galiza-Vaca.jpg){style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;"
-border="0"}](http://www.agal-gz.org/blogues/media/Galiza-Vaca.jpg)
+[![](http://www.agal-gz.org/blogues/media/Galiza-Vaca.jpg)](http://www.agal-gz.org/blogues/media/Galiza-Vaca.jpg)
 
 imagen de: <http://www.agal-gz.org/blogues/media/Galiza-Vaca.jpg>
 
@@ -80,4 +79,8 @@ Mejor pásate por «[A Regueifa](http://www.aregueifa.net)«Aún así ponemos al
 
 # Anexos: 
 
-[Cantantes e intérpretes gallegos](http://users.servicios.retecal.es/soyra)[Más Grupos e intérpretes](http://gl.wikipedia.org/wiki/Category:Grupos_de_m%C3%BAsica_de_Galicia/)Visita también [Conversas](http://www.conversas.org/gal/conversas.htm/)y el programa [Doa doa](http://www.crtvg.es/TVG/acarta.asp?prog=257/)Y la productora [Flalcatruada](http://www.falcatruada.com)
+- [Cantantes e intérpretes gallegos](http://users.servicios.retecal.es/soyra)
+- [Más Grupos e intérpretes](http://gl.wikipedia.org/wiki/Category:Grupos_de_m%C3%BAsica_de_Galicia/)
+- Visita también [Conversas](http://www.conversas.org/gal/conversas.htm/) 
+- y el programa [Doa doa](http://www.crtvg.es/TVG/acarta.asp?prog=257/)
+- Y la productora [Flalcatruada](http://www.falcatruada.com)
