@@ -55,64 +55,64 @@ Las dejamos dichas, pero no nos vemos con fuerzas para analizarlas todas (ya hem
 
 ## Cantautor:
 
-- [Amancio Prada](http://www.blogger.com/Amancio%20Prada/) (audio [1](http://www.amancioprada.com/archivo.htm/) y [2](http://www.google.es/search?q=site:http://www.goear.com/+amancio+prada&hl=gl&client=firefox-a&rls=org.mozilla:es-ES:official&start=0&sa=N/)) ([video](http://video.google.es/videosearch?q=%22Amancio+prada%22/))
-- [Andrés do Barro](http://www.andresdobarro.com) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=http%3A%2F%2Fwww.goear.com%2F+%22andres+do+barro%22&btnG=Procurar&meta=/)) ([video](http://video.google.es/videosearch?q=andr%C3%A9s+%22do+barro%22/))
+- [Amancio Prada](http://www.blogger.com/Amancio%20Prada/) (audio [1](http://www.amancioprada.com/archivo.htm/) y [2](http://www.google.es/search?q=site:http://www.goear.com/+amancio+prada&hl=gl&client=firefox-a&rls=org.mozilla:es-ES:official&start=0&sa=N/)) ([Búsqueda](https://www.google.es/search?q=%22Amancio+prada%22/))
+- [Andrés do Barro](http://www.andresdobarro.com) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=http%3A%2F%2Fwww.goear.com%2F+%22andres+do+barro%22&btnG=Procurar&meta=/)) ([Búsqueda](https://www.google.es/search?q=andr%C3%A9s+%22do+barro%22/))
 - [Antón Seoane](http://www.mujeractual.com/entrevistas/milladoiro)
 - [Anxo Rei](http://www.anxorei.es) ([audio](http://www.anxorei.es)) ([video](http://es.youtube.com/watch?v=uBQnxcpvqmk/))
 - [Benedicto](http://www.blogoteca.com/chiscandounollo) ([audio](http://www.aregueifa.net/benedictoebibiano.htm/))
 - [Bibiano](http://www.bibiano.org) ([audio](http://www.bibiano.org/mambo/index.php?option=com_docman&Itemid=28/)) ([video](http://es.youtube.com/watch?v=_5bqKTdg0rc/))
-- [Emilio Cao](http://www.emiliocao.com) ([video](http://video.google.es/videosearch?q=Emilio+cao/))
+- [Emilio Cao](http://www.emiliocao.com) ([Búsqueda](https://www.google.es/search?q=Emilio+cao/))
 - [Juan Pardo](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+juan+pardo&btnG=Procurar&meta=/)
-- [Luis Emilio Batallán](http://www.xeracion.com/nova/3249.html/) ([audio](http://www.goear.com/listen.php?v=5fc2c7a/)) ([video](http://video.google.es/videosearch?q=%22Luis+emilio+Batall%C3%A1n%22/))
-- [Miro Casabella](http://www.ghastaspista.com/orvallo.php/) ([video](http://video.google.es/videosearch?q=Miro+Casabella/)) ([más](http://www.ghastaspista.com/historia/treboada.php/))
-- [Rodrigo Romaní](http://www.boa.es/promocion/rodrigo_romani/10002031.htm/) ([video](http://video.google.es/videosearch?q=%22Rodrigo+romani%22/))
-- [Suso Vaamonde](http://usuarios.lycos.es/susovaamonde) ([video](http://video.google.es/videosearch?q=suso+vaamonde/))
-- [Uxía Senlle](http://gl.wikipedia.org/wiki/Ux%C3%ADa_Senlle/) ([video](http://video.google.es/videosearch?q=Ux%C3%ADa+senlle/)) 
+- [Luis Emilio Batallán](http://www.xeracion.com/nova/3249.html/) ([audio](http://www.goear.com/listen.php?v=5fc2c7a/)) ([Búsqueda](https://www.google.es/search?q=%22Luis+emilio+Batall%C3%A1n%22/))
+- [Miro Casabella](http://www.ghastaspista.com/orvallo.php/) ([Búsqueda](https://www.google.es/search?q=Miro+Casabella/)) ([más](http://www.ghastaspista.com/historia/treboada.php/))
+- [Rodrigo Romaní](http://www.boa.es/promocion/rodrigo_romani/10002031.htm/) ([Búsqueda](https://www.google.es/search?q=%22Rodrigo+romani%22/))
+- [Suso Vaamonde](http://usuarios.lycos.es/susovaamonde) ([Búsqueda](https://www.google.es/search?q=suso+vaamonde/))
+- [Uxía Senlle](http://gl.wikipedia.org/wiki/Ux%C3%ADa_Senlle/) ([Búsqueda](https://www.google.es/search?q=Ux%C3%ADa+senlle/)) 
 - Y muchos [más](http://www.ghastaspista.com/historia)
 
 ## Folk
 
 Aquí quiero distinguir entre el folk clásico que voy a llamar popular (porque viene del pueblo)
 
-- [A Roda](http://www.grupoaroda.com/index.php/) (audio [1](http://www.grupoaroda.com/index.php?page=gravacions/) y [2](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=http%3A%2F%2Fwww.goear.com%2F+%22A+Roda%22&btnG=Procurar&meta=/)) ([video](http://video.google.es/videosearch?q=%22A+Roda%22/))
-- [Fuxan os Ventos](http://www.fuxanosventos.net) ([audio](http://www.fuxanosventos.net/audio.htm/)) ([video](http://video.google.es/videosearch?q=%22fuxan+os+ventos%22/))
-- [Voces Ceibes](http://www.blogoteca.com/chiscandounollo) ([video](http://video.google.es/videosearch?q=voces+ceibes/))[](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+xenreira&btnG=Procurar&meta=/)
+- [A Roda](http://www.grupoaroda.com/index.php/) (audio [1](http://www.grupoaroda.com/index.php?page=gravacions/) y [2](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=http%3A%2F%2Fwww.goear.com%2F+%22A+Roda%22&btnG=Procurar&meta=/)) ([Búsqueda](https://www.google.es/search?q=%22A+Roda%22/))
+- [Fuxan os Ventos](http://www.fuxanosventos.net) ([audio](http://www.fuxanosventos.net/audio.htm/)) ([Búsqueda](https://www.google.es/search?q=%22fuxan+os+ventos%22/))
+- [Voces Ceibes](http://www.blogoteca.com/chiscandounollo) ([Búsqueda](https://www.google.es/search?q=voces+ceibes/))[](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+xenreira&btnG=Procurar&meta=/)
 
 y la música celta: 
 
 (esta es imposible de abarcar, pásate por [aquí](http://users.servicios.retecal.es/soyra)) 
 
-- [Berrogüetto](http://www.berroguetto.com) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Berrog%C3%BCetto&btnG=Procurar&meta=/)) ([video](http://video.google.es/videosearch?q=Berrog%C3%BCetto&so=0/))
-- [Cantigas e Agarimos](http://www.cantigaseagarimos.com) ([video](http://video.google.es/videosearch?q=Cantigas+e+agarimos/))
-- [Carlos Nuñez](http://www.carlos-nunez.com) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Carlos+Nu%C3%B1ez%22&btnG=Procurar&meta=/)) ([video](http://video.google.es/videosearch?q=%22Carlos+Nu%C3%B1ez%22/))[Cristina Pato](http://www.cristinapato.com) ([video](http://video.google.es/videosearch?q=%22Cristina+pato%22/))
-- [Fia na Roca](http://www.fianaroca.com) ([video](http://video.google.es/videosearch?q=%22fia+na+roca%22/))
-- [Leilía](http://www.leilia.net) ([audio](http://www.leilia.net)) ([video](http://video.google.es/videosearch?q=Leilia/))
-- [Luar na Lubre](http://www.luarnalubre.com) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F++Luar+na+lubre&btnG=Procurar&meta=/)) ([video](http://video.google.es/videosearch?q=%22Luar+na+lubre%22/))[Milladoiro](http://www.milladoiro.com) [(audio)](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+Milladoiro&btnG=Procurar&meta=/) ([video](http://video.google.es/videosearch?q=Milladoiro/))
-- [Susana Seivane](http://www.susanaseivane.com) ([video](http://video.google.es/videosearch?q=%22Susana+Seivane%22/))
-- [Xacarandaina ](http://reyromay.blogia.com/2005/053102-xacarandaina.php/)([video](http://video.google.es/videosearch?q=xacarandaina/))
-- [Xosé Manuel Budiño](http://www.xosemanuelbudino.com) ([video](http://video.google.es/videosearch?q=%22Xos%C3%A9+Manuel+budi%C3%B1o%22))
+- [Berrogüetto](http://www.berroguetto.com) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Berrog%C3%BCetto&btnG=Procurar&meta=/)) ([Búsqueda](https://www.google.es/search?q=Berrog%C3%BCetto&so=0/))
+- [Cantigas e Agarimos](http://www.cantigaseagarimos.com) ([Búsqueda](https://www.google.es/search?q=Cantigas+e+agarimos/))
+- [Carlos Nuñez](http://www.carlos-nunez.com) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Carlos+Nu%C3%B1ez%22&btnG=Procurar&meta=/)) ([Búsqueda](https://www.google.es/search?q=%22Carlos+Nu%C3%B1ez%22/))[Cristina Pato](http://www.cristinapato.com) ([Búsqueda](https://www.google.es/search?q=%22Cristina+pato%22/))
+- [Fia na Roca](http://www.fianaroca.com) ([Búsqueda](https://www.google.es/search?q=%22fia+na+roca%22/))
+- [Leilía](http://www.leilia.net) ([audio](http://www.leilia.net)) ([Búsqueda](https://www.google.es/search?q=Leilia/))
+- [Luar na Lubre](http://www.luarnalubre.com) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F++Luar+na+lubre&btnG=Procurar&meta=/)) ([Búsqueda](https://www.google.es/search?q=%22Luar+na+lubre%22/))[Milladoiro](http://www.milladoiro.com) [(audio)](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+Milladoiro&btnG=Procurar&meta=/) ([Búsqueda](https://www.google.es/search?q=Milladoiro/))
+- [Susana Seivane](http://www.susanaseivane.com) ([Búsqueda](https://www.google.es/search?q=%22Susana+Seivane%22/))
+- [Xacarandaina ](http://reyromay.blogia.com/2005/053102-xacarandaina.php/)([Búsqueda](https://www.google.es/search?q=xacarandaina/))
+- [Xosé Manuel Budiño](http://www.xosemanuelbudino.com) ([Búsqueda](https://www.google.es/search?q=%22Xos%C3%A9+Manuel+budi%C3%B1o%22))
 
 ## Electrónica, Pop, Rock, Alternativa, Blues; 
 
 Mejor pásate por «[A Regueifa](http://www.aregueifa.net)«Aún así ponemos algunos: (seguimos en proceso de construcción) vide [Rock Bravú](http://gl.wikipedia.org/wiki/Brav%C3%BA/). algunos [más](http://rockengalicia.creatuforo.com/ver-tema-7-rockengalicia.html/)
 
-- [A banda de Poi](http://www.abandadepoi.com) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22A+Banda+de+poi%22&btnG=Procurar&meta=/)) ([video](http://video.google.es/videosearch?q=%22A+Banda+de+Poi%22/))
-- [Astarot](http://www.astarot.es) ([video](http://video.google.es/videosearch?q=Astarot/))
-- [Herdeiros da Crus](http://gl.wikipedia.org/wiki/Heredeiros_da_crus/) ([video](http://video.google.es/videosearch?q=%22Herdeiros+da+crus%22/))
-- [Mercedes Peón](http://www.mercedespeon.es) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Mercedes+Peon%22&btnG=Procurar&meta=/)) ([video](http://video.google.es/videosearch?q=%22Mercedes+peon%22/))
-- [Os Diplomáticos de Monte Alto](http://es.wikipedia.org/wiki/Os_Diplom%C3%A1ticos_de_Monte-Alto/) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Os+diplom%C3%A1ticos+de+monte+alto%22&btnG=Procurar&meta=/)) ([video](http://video.google.es/videosearch?q=%22Os+diplom%C3%A1ticos+de+monte+alto%22/))
-- [Os Resentidos](http://es.wikipedia.org/wiki/Os_Resentidos/) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Os+resentidos%22&btnG=Procurar&meta=/)) ([video](http://video.google.es/videosearch?q=%22os+resentidos%22/))
+- [A banda de Poi](http://www.abandadepoi.com) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22A+Banda+de+poi%22&btnG=Procurar&meta=/)) ([Búsqueda](https://www.google.es/search?q=%22A+Banda+de+Poi%22/))
+- [Astarot](http://www.astarot.es) ([Búsqueda](https://www.google.es/search?q=Astarot/))
+- [Herdeiros da Crus](http://gl.wikipedia.org/wiki/Heredeiros_da_crus/) ([Búsqueda](https://www.google.es/search?q=%22Herdeiros+da+crus%22/))
+- [Mercedes Peón](http://www.mercedespeon.es) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Mercedes+Peon%22&btnG=Procurar&meta=/)) ([Búsqueda](https://www.google.es/search?q=%22Mercedes+peon%22/))
+- [Os Diplomáticos de Monte Alto](http://es.wikipedia.org/wiki/Os_Diplom%C3%A1ticos_de_Monte-Alto/) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Os+diplom%C3%A1ticos+de+monte+alto%22&btnG=Procurar&meta=/)) ([Búsqueda](https://www.google.es/search?q=%22Os+diplom%C3%A1ticos+de+monte+alto%22/))
+- [Os Resentidos](http://es.wikipedia.org/wiki/Os_Resentidos/) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Os+resentidos%22&btnG=Procurar&meta=/)) ([Búsqueda](https://www.google.es/search?q=%22os+resentidos%22/))
 - [Xenreira](http://gl.wikipedia.org/wiki/Xenreira/) ([audio)](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+xenreira&btnG=Procurar&meta=/)
 
 ## Algunos grupos nacidos en Galicia, (en castellano pues): 
 
-- [Deluxe](http://www.xoel.com) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+deluxe&btnG=Procurar&meta=/)) ([video](http://video.google.es/videosearch?q=deluxe/))
-- [Los Limones](http://www.loslimones.com) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Los+limones%22&btnG=Procurar&meta=/)) ([video](http://video.google.es/videosearch?q=%22Los+limones%22/))
-- [Los piratas](http://es.wikipedia.org/wiki/Los_Piratas/) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Los+Piratas%22&btnG=Procurar&meta=/)) ([video](http://video.google.es/videosearch?q=%22Los+piratas%22/))
-- [Los Suaves](http://lossuaves.iespana.es/suaves.html/) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Los+Suaves%22&btnG=Procurar&meta=/)) ([video](http://video.google.es/videosearch?q=%22Los+suaves%22/))
-- [Los Tamara](http://es.wikipedia.org/wiki/Los_Tamara/) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&hs=e2j&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22los+tamara%22&btnG=Procurar&meta=/)) ([video](http://video.google.es/videosearch?q=%22Los+tamara%22/))
-- [Killer Barbies](http://www.killerbarbies.tk) ([video](http://video.google.es/videosearch?q=%22Killer+barbies%22/))
-- [Siniestro Total](http://www.siniestro.com) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Siniestro+total%22&btnG=Procurar&meta=/)) ([video](http://video.google.es/videosearch?q=%22Siniestro+total%22/))
+- [Deluxe](http://www.xoel.com) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+deluxe&btnG=Procurar&meta=/)) ([Búsqueda](https://www.google.es/search?q=deluxe/))
+- [Los Limones](http://www.loslimones.com) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Los+limones%22&btnG=Procurar&meta=/)) ([Búsqueda](https://www.google.es/search?q=%22Los+limones%22/))
+- [Los piratas](http://es.wikipedia.org/wiki/Los_Piratas/) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Los+Piratas%22&btnG=Procurar&meta=/)) ([Búsqueda](https://www.google.es/search?q=%22Los+piratas%22/))
+- [Los Suaves](http://lossuaves.iespana.es/suaves.html/) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Los+Suaves%22&btnG=Procurar&meta=/)) ([Búsqueda](https://www.google.es/search?q=%22Los+suaves%22/))
+- [Los Tamara](http://es.wikipedia.org/wiki/Los_Tamara/) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&hs=e2j&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22los+tamara%22&btnG=Procurar&meta=/)) ([Búsqueda](https://www.google.es/search?q=%22Los+tamara%22/))
+- [Killer Barbies](http://www.killerbarbies.tk) ([Búsqueda](https://www.google.es/search?q=%22Killer+barbies%22/))
+- [Siniestro Total](http://www.siniestro.com) ([audio](http://www.google.es/search?hl=gl&client=firefox-a&rls=org.mozilla%3Aes-ES%3Aofficial&q=site%3Ahttp%3A%2F%2Fwww.goear.com%2F+%22Siniestro+total%22&btnG=Procurar&meta=/)) ([Búsqueda](https://www.google.es/search?q=%22Siniestro+total%22/))
 
 # Anexos: 
 
