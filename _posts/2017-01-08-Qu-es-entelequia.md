@@ -5,9 +5,7 @@ generator: pandoc
 title: ¿Qué es entelequia...?
 categories:
   - Blog
-- Frase
-
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Frase
 ---
 
 
