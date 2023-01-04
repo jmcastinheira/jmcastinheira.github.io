@@ -6,7 +6,6 @@ title: Un peligroso asteroide pasó rozando la Tierra el 2 de marzo
 categories:
   - Blog
   - Concepto
-  (Tunguska a punto de repetirse)
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
