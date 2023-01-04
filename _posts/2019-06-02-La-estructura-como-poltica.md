@@ -5,7 +5,7 @@ generator: pandoc
 title: La estructura como política
 categories:
   - Blog
-- Concepto
+  - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
