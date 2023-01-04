@@ -5,16 +5,14 @@ generator: pandoc
 title: Un peligroso asteroide pasó rozando la Tierra el 2 de marzo
 categories:
   - Blog
-- Concepto
+  - Concepto
   (Tunguska a punto de repetirse)
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
+**![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/%28253%29_mathilde.jpg/260px-%28253%29_mathilde.jpg)
 
-
-::: {#body-460172 .content-body}
-**![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/%28253%29_mathilde.jpg/260px-%28253%29_mathilde.jpg){.alignleft
-width="260" height="161"}\[Por Uxío PR\] Nuevo aviso** para la Tierra,
+[Por Uxío PR\] Nuevo aviso** para la Tierra,
 el asteroide DD45, que fue descubierto el pasado 27 de febrero, cuando
 se encontraba a gran distancia, **ha pasado rozando la Tierra el pasado
 lunes día 2 de marzo.**
