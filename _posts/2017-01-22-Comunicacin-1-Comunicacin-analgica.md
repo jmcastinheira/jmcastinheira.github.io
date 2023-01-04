@@ -5,9 +5,7 @@ generator: pandoc
 title: "Comunicación 1. Comunicación analógica:"
 categories:
   - Blog
-- Concepto
-
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
 ---
 
 
