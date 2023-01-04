@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Más google, o mas bien menos...
 categories:
+  - Blog
 - Autores
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Porque vuelve a fallar; [ahora google
 docs](http://periodistas21.blogspot.com/2009/03/documentos-filtrados-en-google-docs.html)...

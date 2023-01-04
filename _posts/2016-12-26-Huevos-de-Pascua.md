@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Huevos de Pascua.
 categories:
+  - Blog
 - Intrahistoria
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-361148 .content-body}
 ![](http://www.webdelacasa.com/docs/assets/images/2008/03/huevos_pascua_4.jpg){.alignleft

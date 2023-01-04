@@ -3,16 +3,17 @@ id: 198
 title: 'Autores: Nora Méndez'
 date: 2017-01-05T17:40:20+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=198
 permalink: /autores-nora-mendez/
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Autores
 ---
 <p align="left">
-  <a href="http://entelequia.info/docs/assets/images/Nora.jpeg"><img class="alignleft size-full wp-image-1601" src="http://entelequia.info/docs/assets/images/Nora.jpeg" alt="Fotografía de Nora Méndez" width="200" height="143" /></a>Por fin hemos llegado, hoy hablamos de <a href="http://es.wikipedia.org/wiki/Nora_M%C3%A9ndez">Nora</a>; mariposa-mujer / mujer-fantasma, un beso en un libro, voz y verso.
-</p>
+  [![](http://entelequia.info/docs/assets/images/Nora.jpeg)](http://entelequia.info/docs/assets/images/Nora.jpeg)Por fin hemos llegado, hoy hablamos de [Nora](http://es.wikipedia.org/wiki/Nora_M%C3%A9ndez); mariposa-mujer / mujer-fantasma, un beso en un libro, voz y verso.
+
 
 La conocí, gracias a [Txanba](http://nopronunciesminombre.blogspot.com/), seguramente, porque ella apareció en mi blog con su llave maestra, y [entró](http://lorealenelespejo.blogspot.com/2007/06/hoy.html), claro «como Pedro por su casa» lo cual, debo decir, que no sólo me agradó, sino que me hacía falta. Se presenta como miembro destacado de la nueva poesía salvadoreña. Cuando la conocí, me encontré de repente con bastantes libros de acceso libre, lo que ella llama «librogs» y en un principio, pensé; «otro poeta más en la blogosfera» pero Nora no es una «poeta más» sin duda no lo es, y de eso me di bien cuenta yo cuando leí «Seis» sobre todo cuando escuché su recital en Alemania; y entonces le escribí este poema: «[leyendo 6 de Nora Méndez](http://lorealenelespejo.blogspot.com/2007/07/leyendo-6-de-nora-mendez.html)» en respuesta a este poema de «Seis»
 

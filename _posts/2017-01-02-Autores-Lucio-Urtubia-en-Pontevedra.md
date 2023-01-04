@@ -4,12 +4,13 @@ date: 2017-01-02
 generator: pandoc
 title: "Autores: Lucio Urtubia en Pontevedra."
 categories:
+  - Blog
 - Autores
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 El dia 21 de noviembre, creo que del 2008, tuve la suerte de asistir, en
 el edificios de los sindicatos de Pontevedra a una de las charlas de

@@ -4,12 +4,13 @@ date: 2016-12-28
 generator: pandoc
 title: Primera Editora gallega copyleft.
 categories:
+  - Blog
 - Poesía
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-375525 .content-body}
 ::: {#ads-parked-10 .ads-parked-10}

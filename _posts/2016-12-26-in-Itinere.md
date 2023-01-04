@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: in Itinere
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ![](http://i275.photobucket.com/albums/jj287/Auluses/camino.jpg?v=1252590320431 "http://i275.photobucket.com/albums/jj287/Auluses/camino.jpg"){.alignleft
 width="145" height="219"}

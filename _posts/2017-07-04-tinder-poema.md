@@ -3,11 +3,12 @@ id: 1544
 title: 'Tinder: Poema'
 date: 2017-07-04T20:52:45+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://entelequia.info/?p=1544
 permalink: /tinder-poema/
 image: /docs/assets/images/book-610189_640.jpg
 categories:
+  - Blog
   - Poema
 ---
 Hoy todos se conocen  

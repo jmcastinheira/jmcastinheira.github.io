@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: La población más aislada del mundo
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 *\[Por Uxío\]* ¿Te has preguntado alguna vez cuál es la población más
 aislada del mundo?  Pues este solitario récord le corresponde a la

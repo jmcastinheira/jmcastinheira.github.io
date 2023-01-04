@@ -4,11 +4,12 @@ date: 2016-12-28
 generator: pandoc
 title: Los jueces y el manifiesto.
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {data-align="justify"}
 Ha salido a la palestra el comunicado que abajo recojo de, creo que 130

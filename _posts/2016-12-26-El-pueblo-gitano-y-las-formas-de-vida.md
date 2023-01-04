@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: El pueblo gitano y las formas de vida.
 categories:
+  - Blog
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 La ética no es un cúmulo de normas invisibles que vuela sobre las
 cabezas de los puritanos. La ética es una cuestión de carácter.

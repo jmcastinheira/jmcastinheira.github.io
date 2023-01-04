@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Herramientas del ciberactivista III (Formas de participación)
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-176816 .content-body}
 ![](http://espaiobertsocialista.files.wordpress.com/2007/10/participacion.jpg){.alignleft

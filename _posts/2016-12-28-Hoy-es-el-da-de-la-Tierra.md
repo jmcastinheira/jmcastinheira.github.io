@@ -4,11 +4,12 @@ date: 2016-12-28
 generator: pandoc
 title: Hoy es el día de la Tierra
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Por Uxio PR
 

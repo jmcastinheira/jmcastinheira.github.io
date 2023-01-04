@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: El Observatorio Europeo Austral descubre seis exoplanetas que van
 categories:
+  - Blog
 - Concepto
   «al reves»
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ![http://www.elpais.com/recorte/20100412elpepusoc_10/XXLCO/Ies/Planetas_otras_estrellas.jpg](http://www.elpais.com/recorte/20100412elpepusoc_10/XXLCO/Ies/Planetas_otras_estrellas.jpg?v=1271421650910 "http://www.elpais.com/recorte/20100412elpepusoc_10/XXLCO/Ies/Planetas_otras_estrellas.jpg"){width="486"
 height="325"}

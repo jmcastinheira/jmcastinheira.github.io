@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: El entretenimiento de nuestros sueños existe desde hace siglos
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Texto de [Isaac
 Asimov](http://es.wikipedia.org/wiki/Isaac_Asimov){target="_blank"}

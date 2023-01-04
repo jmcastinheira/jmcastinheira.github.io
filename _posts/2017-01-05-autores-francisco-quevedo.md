@@ -3,11 +3,12 @@ id: 781
 title: 'Autores: Francisco de Quevedo.'
 date: 2017-01-05T17:40:20+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=781
 permalink: /autores-francisco-quevedo/
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Autores
 tags:
   - Blog
@@ -40,13 +41,12 @@ En los poemas que encontré ya no sólo me hicieron sonreír como «[Poderoso ca
 
 Enlaces:
 
-<div align="justify">
+
   <ul>
     <li>
       Biografía y obra: en <a title="Quevedo" href="http://es.wikisource.org/wiki/Francisco_de_Quevedo">Wikisource</a>
     </li>
     <li>
-      <a href="http://www.cervantesvirtual.com/FichaAutor.html?Ref=6">En Cervantes Virtual</a>. (con audio)
+      [En Cervantes Virtual](http://www.cervantesvirtual.com/FichaAutor.html?Ref=6). (con audio)
     </li>
   </ul>
-</div>

@@ -4,11 +4,12 @@ date: 2016-12-28
 generator: pandoc
 title: sintetizador de voz
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {style="text-align: justify;"}
 Hola, acabo de añadir un sintetizador de voz que hemos encontrado en la

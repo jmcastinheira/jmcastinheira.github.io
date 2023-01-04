@@ -4,12 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: "Autores: Leonardo da Jandra"
 categories:
+  - Blog
 - Autores
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
-
-::: {#title-block-header}
 
 Gracias a Manuel Gago de [Capitulo
 0](http://www.manuelgago.org/blog/index.php/2009/08/14/un-raro-intelectual-chamado-leonardo-da-jandra/),

@@ -4,6 +4,7 @@ date: 2017-01-02
 generator: pandoc
 title: "Autores: Juan Gélman"
 categories:
+  - Blog
 - Autores
 - Poesía
 - Poema
@@ -11,7 +12,7 @@ categories:
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-99475 .content-body}
 ![](http://prairial.free.fr/images/gelman/Gelman3.jpg){.alignleft

@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Porqué ya hay cadena perpetua en España
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 El caos jurídico en el que se está metiendo España últimamente sólo
 puede ser superado por la hipocresía de algunos y por la dejadez de

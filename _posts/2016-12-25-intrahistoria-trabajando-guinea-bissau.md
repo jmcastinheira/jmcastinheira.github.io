@@ -3,11 +3,12 @@ id: 209
 title: 'Intrahistoria: Trabajando en Guinea-Bissau'
 date: 2016-12-25T23:59:02+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=209
 permalink: /intrahistoria-trabajando-guinea-bissau/
 image: /docs/assets/images/boy-1835937_640-640x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog
@@ -23,7 +24,7 @@ Por Uxío P.R.
 
 Me daban un 4&#215;4 y allá me iba a instalar antenas a los lugares más recónditos, no tienen carreteras sino caminos marcados por el paso de los vehículos por la selva, cada poco tiempo me encontraba un «control» del ejército.
 
-<img class="aligncenter" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kenema-Kailahun_Road.jpg/800px-Kenema-Kailahun_Road.jpg?v=1288339317774" alt="800px-Kenema-Kailahun_Road.jpg" width="401" height="254" /> 
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kenema-Kailahun_Road.jpg/800px-Kenema-Kailahun_Road.jpg?v=1288339317774) 
 
 A saber si eran militares oficiales, o unos cualquiera, pero no tenían reparos en dispararte con los kalashnikovs, si te lo saltabas; era muy fácil pasar sin darte cuenta porque apenas eran una caña apoyada en un barril, pero si te los saltabas te disparaban, así que había que ir muy atento.
 
@@ -35,7 +36,7 @@ Buff, había veces que lo pasabas realmente mal, vas con el GPS y un teléfono s
 
 Lo peor era el clima, intentaba hacer los viajes largos los días que más soleado estaba, pero a medio camino, miraba al cielo y ya estaba cerrado, las lluvias son como un monzón.
 
-<img class="aligncenter" src="http://4.bp.blogspot.com/_34PE0ZEgM80/S-pKaKhj1jI/AAAAAAAAMEY/YA5iYXxmcI4/s1600/guinea+bissau+wallpaper+%282%29.jpg?v=1288339422829" alt="guinea+bissau+wallpaper+%282%29.jpg" width="384" height="288" /> 
+![](http://4.bp.blogspot.com/_34PE0ZEgM80/S-pKaKhj1jI/AAAAAAAAMEY/YA5iYXxmcI4/s1600/guinea+bissau+wallpaper+%282%29.jpg?v=1288339422829) 
 
 Y claro, no hay asfalto y todo se embarra, en ocasiones no había 4&#215;4 que se mantuviese en el camino, imagina, a 20 por hora y derrapando hacia todos lados, volanteando y contravolanteando.
 

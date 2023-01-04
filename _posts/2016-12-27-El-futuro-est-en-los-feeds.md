@@ -4,6 +4,7 @@ date: 2016-12-27
 generator: pandoc
 title: ¡¡¡El futuro está en los feeds!!!
 categories:
+  - Blog
 - Intrahistoria
 - Autores
 - Poesía
@@ -12,7 +13,7 @@ categories:
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Para mi es evidente que con la cantidad de información que se produce
 hoy día en internet, sobre todo en el mundo de los blogs, pero no

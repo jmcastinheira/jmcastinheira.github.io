@@ -4,27 +4,22 @@ date: 2016-12-25
 generator: pandoc
 title: Identidad digital.
 categories:
+  - Blog
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
-
 El domingo estuve viendo la conferencia de Juan Freire sobre identidades
-digitales, que podéis [ver en su
-blog](http://nomada.blogs.com/jfreire/2009/03/las-personas-debemos-tener-identidad-digital-cmo-construirla-sesin-web-de-la-generalitat-de-catalunya.html);
+digitales, que podéis [ver en su blog](http://nomada.blogs.com/jfreire/2009/03/las-personas-debemos-tener-identidad-digital-cmo-construirla-sesin-web-de-la-generalitat-de-catalunya.html);
 es un tema que me resulta realmente interesante; no voy a decir casi
 nada sobre lo que dijo Juan, pero la mención del término identidad me ha
 suscitado algunas cuestiones; en primer lugar y no es que quiera ponerme
 especialmente filosófico ¿Qué es la identidad?
 
-Bueno, la Wikipedia [no ayuda mucho con el
-tema](http://es.wikipedia.org/wiki/Identidad), la verdad; y no es que
+Bueno, la Wikipedia [no ayuda mucho con el tema](http://es.wikipedia.org/wiki/Identidad), la verdad; y no es que
 aqui seamos unos expertos en esto pero creo que puedo decir algunas
-cosas, al menos porque ya hemos [debatido largo y tendido sobre
-cuestiones que le
-afectan](http://entelequia.bligoo.com/content/view/199717/Sobre_identidad_y_sujeto.html).
+cosas, al menos porque ya hemos [debatido largo y tendido sobre cuestiones que le afectan](http://entelequia.bligoo.com/content/view/199717/Sobre_identidad_y_sujeto.html).
 
 Por no separarnos demasiado de la conferencia de Juan Freire, podemos
 afirmar con él que se tiene una única identidad, (bueno, no sé si tener
@@ -87,18 +82,15 @@ Tenemos a [Niclolás
 Boubaki](http://thales.cica.es/rd/Recursos/rd97/Biografias/15-2-b-b.html)
 que «*fue*» [un matemático francés
 inexistente](http://es.wikipedia.org/wiki/Nicolas_Bourbaki) que hizo
-importantes aportes a la matemática del siglo XX; o tenemos a [Ofèlia
-Dracs](http://es.wikipedia.org/wiki/Of%C3%A8lia_Dracs), una escritora
-catalana también inexistente; o ya más modernamente tenemos a [Luther
-Blissett](http://es.wikipedia.org/wiki/Luther_Blissett_%28seud%C3%B3nimo_colectivo%29);
+importantes aportes a la matemática del siglo XX; o tenemos a [Ofèlia Dracs](http://es.wikipedia.org/wiki/Of%C3%A8lia_Dracs), una escritora
+catalana también inexistente; o ya más modernamente tenemos a [Luther Blissett](http://es.wikipedia.org/wiki/Luther_Blissett_%28seud%C3%B3nimo_colectivo%29);
 a quien curiosamente conocí de su «*existencia*» en la biblioteca de
 Pontevedra; había allí una chica con un libro que se llamaba
 «[Q](http://www.casadellibro.com/libro-q/2900000889188)» lo cual me
 pareció curioso, y a la mínima oportunidad me hice con el nombre de su
 autor, un tal Luther Blissett del que yo no había oído hablar en mi
 vida; y era cosa normal porque no existía; por último mencionamos a la
-[fundación de Wu
-Ming](http://www.wumingfoundation.com/italiano/bio_castellano.htm)
+[fundación de Wu Ming](http://www.wumingfoundation.com/italiano/bio_castellano.htm)
 sucesora de Luther Blisset.
 
 Bueno, ¿qué pasa con todos estos casos? Pues lo hemos dicho; que tienen

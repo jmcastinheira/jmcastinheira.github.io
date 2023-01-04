@@ -4,12 +4,13 @@ date: 2016-12-28
 generator: pandoc
 title: Sobre identidad y sujeto
 categories:
+  - Blog
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 El otro dia,
 [comentabamos](http://entelequia.bligoo.com/content/view/197041/Sobre_las_comunidades.html)

@@ -4,6 +4,7 @@ date: 2017-01-05
 generator: pandoc
 title: Adios lastfm, Hola Jamendo.
 categories:
+  - Blog
 - Frase
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---

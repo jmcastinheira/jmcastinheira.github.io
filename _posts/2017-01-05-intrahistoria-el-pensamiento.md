@@ -3,11 +3,12 @@ id: 571
 title: 'Intrahistoria: El pensamiento'
 date: 2017-01-05T17:40:20+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=571
 permalink: /intrahistoria-el-pensamiento/
 image: /docs/assets/images/Carretera_misterio-640x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog
@@ -19,8 +20,8 @@ tags:
   
   <p id="caption-attachment-1182" class="wp-caption-text">
     Imagen de pixabay.com/en/users/mkrause
-  </p>
-</div>
+  
+
 
 **[Uxío]** Esta intrahistoria puede que resulte ser un poco extraña, pero son de esas cosas que a uno se le pasa por la cabeza, y hasta se asusta de que tales pensamientos fluyan por sus neuronas. Al final diré que estaba muy cansado y ya no regía bien.
 

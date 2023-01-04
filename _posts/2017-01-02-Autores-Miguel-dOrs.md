@@ -4,6 +4,7 @@ date: 2017-01-02
 generator: pandoc
 title: "Autores: Miguel d´Ors"
 categories:
+  - Blog
 - Autores
 - Poesía
 - Poema
@@ -11,7 +12,7 @@ categories:
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 He mencionado a [Miguel d´Ors
 Lois](http://es.wikipedia.org/wiki/Miguel_d%27Ors) en otras ocasiones.

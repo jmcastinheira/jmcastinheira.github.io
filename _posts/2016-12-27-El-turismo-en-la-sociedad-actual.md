@@ -4,11 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: El turismo en la sociedad actual
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 \[Bertus\_\] Vivimos en un mundo repleto de multitud de medios
 científicos y tecnológicos, determinado por la globalización, y con unos

@@ -4,12 +4,11 @@ date: 2016-12-25
 generator: pandoc
 title: Argumentos, entimemas y falacias.
 categories:
+  - Blog
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
-
-::: {#title-block-header}
 
 Más que explicar la definición de estos conceptos prefiero ir a los
 casos concretos; a fin de cuentas así es cómo se aprende.
@@ -43,10 +42,8 @@ conocer si han sido formadas adecuadamente o no, a fin de cuentas nadie
 puede decir que sabe algo si no ha llegado a ese conocimiento de un modo
 más o menos justificado (bueno... otro día comentamos la excelente
 crítica de [Gettier](http://es.wikipedia.org/wiki/Edmund_Gettier) sobre
-esta idea, el cual ha dedicado casi [toda su
-obra](http://www.box.net/encoded/8685887/85630343/dc32d8b9ee3b752288903874258bfbea)
-a comentar [este
-problema](http://es.wikipedia.org/wiki/Problema_de_Gettier)).
+esta idea, el cual ha dedicado casi [toda su obra](http://www.box.net/encoded/8685887/85630343/dc32d8b9ee3b752288903874258bfbea)
+a comentar [este problema](http://es.wikipedia.org/wiki/Problema_de_Gettier)).
 
 No existe, que yo conozca, ningún método eficaz para producir argumentos
 válidos; lo que sí existen son normas que, más o menos, uno debe
@@ -89,8 +86,7 @@ Urugayo](http://www.youtube.com/watch?v=jYbRg6QXJDo), por poner uno de
 tantos tristes ejemplos (conste que desconozco la situación en la que
 este altercado se produjo, pero no parece un argumento legítimo desde el
 punto de vista de la retórica). Evidentemente uno no puede argumentar
-cuando otro le está apuntando a uno [con una
-pistola](http://www.youtube.com/watch?v=kbvc8-KrhfQ) en la cabeza;
+cuando otro le está apuntando a uno [con una pistola](http://www.youtube.com/watch?v=kbvc8-KrhfQ) en la cabeza;
 tampoco con un
 [zapato](http://es.wikipedia.org/wiki/Incidente_del_zapato_%28Jrushchov%29);
 aunque haya veces que [sacar los zapatos sea
@@ -228,7 +224,6 @@ protestar por semejante insulto tácito. No sé cómo continuaría el debate
 pero si Castelar hubiera dicho «yo nunca dije tal cosa» es claro que
 está negando una premisa que ha dejado implícita.
 
- 
 
 Dejo para otro día los otros 5 principios de Van Eemeren de una buena
 argumentación.

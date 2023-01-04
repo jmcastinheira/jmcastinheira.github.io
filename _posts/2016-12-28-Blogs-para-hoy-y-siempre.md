@@ -4,6 +4,7 @@ date: 2016-12-28
 generator: pandoc
 title: Blogs para hoy y siempre.
 categories:
+  - Blog
 - Intrahistoria
 - Autores
 - Poema
@@ -11,7 +12,7 @@ categories:
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-461542 .content-body}
 ![imagen de

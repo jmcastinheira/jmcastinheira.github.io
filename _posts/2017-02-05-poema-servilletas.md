@@ -3,11 +3,12 @@ id: 1469
 title: 'Poema: Servilletas'
 date: 2017-02-05T11:32:40+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://entelequia.info/?p=1469
 permalink: /poema-servilletas/
 image: /docs/assets/images/320px-Servilletas_sevillanas.jpg
 categories:
+  - Blog
   - Poema
 ---
 Hay quien se limpia la boca  
@@ -42,4 +43,3 @@ Vaya si te pareces a la poesía.
 
 <p style="text-align: right;">
   José Castinneira
-</p>

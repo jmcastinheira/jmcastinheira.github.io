@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Un estado que no defenderé
 categories:
+  - Blog
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 gente que ha decidido estudiar Derecho adquiere un sutil respeto por las
 **Instituciones**, no por las *instituciones* en sentido físico, claro;

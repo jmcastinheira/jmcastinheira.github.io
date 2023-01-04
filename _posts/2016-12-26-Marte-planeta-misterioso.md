@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Marte, planeta misterioso
 categories:
+  - Blog
 - Frase
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 \[Uxío PR\] Desde los inicios de la astronomía, **nuestro planeta vecino
 ha suscitado gran interés y perplejidad a científicos, astrónomos y

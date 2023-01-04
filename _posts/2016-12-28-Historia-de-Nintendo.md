@@ -4,11 +4,12 @@ date: 2016-12-28
 generator: pandoc
 title: Historia de Nintendo
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Hoy hablamos de [Uxio P.R](http://entelequia.bligoo.com/tag/uxio).
 coautor de esta bitácora (en la que firma como

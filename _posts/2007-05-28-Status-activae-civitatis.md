@@ -4,6 +4,7 @@ date: 2007-05-28
 generator: pandoc
 title: Status activae civitatis
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---

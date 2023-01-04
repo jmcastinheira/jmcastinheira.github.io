@@ -4,13 +4,14 @@ date: 2016-12-26
 generator: pandoc
 title: Consideraciones sobre la democracia económica
 categories:
+  - Blog
 - Metáforas
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 No voy a explicar lo que es la democracia económica, ni intentar ningúna
 definición para la misma, me remito a la propia

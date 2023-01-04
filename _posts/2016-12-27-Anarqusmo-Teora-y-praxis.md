@@ -4,13 +4,14 @@ date: 2016-12-27
 generator: pandoc
 title: "Anarquísmo: Teoría y praxis."
 categories:
+  - Blog
 - Autores
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Hemos dicho que empezaríamos por hacer un breve análisis de qué se
 entiende por el Socialismo libertario según las ideas expuestas por

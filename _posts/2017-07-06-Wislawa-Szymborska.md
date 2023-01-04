@@ -4,13 +4,14 @@ date: 2017-07-06
 generator: pandoc
 title: Wislawa Szymborska
 categories:
+  - Blog
 - Poesía
 - Poema
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Ahora mismo tengo sobre mi mesa, cuatro libros de Wislawa. Uno es la
 antología «Saltaré sobre el fuego» de Nordica Libros, es una edición muy

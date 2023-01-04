@@ -3,7 +3,7 @@ id: 137
 title: 'Poema: El Borracho y el eco.'
 date: 2012-12-25T23:04:00+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=137
 permalink: /poema-borracho-eco/
 wpgs_notice_id:
@@ -16,6 +16,7 @@ wpgs_laste_komentis:
   - 2017-02-18 15:35:47
 image: /docs/assets/images/Carretera_misterio-640x288.jpg
 categories:
+  - Blog
   - Poema
 tags:
   - Blog

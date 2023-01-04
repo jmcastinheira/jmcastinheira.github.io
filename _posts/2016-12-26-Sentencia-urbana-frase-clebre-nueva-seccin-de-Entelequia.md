@@ -4,13 +4,14 @@ date: 2016-12-26
 generator: pandoc
 title: Sentencia urbana, frase célebre (nueva sección de Entelequia)
 categories:
+  - Blog
 - Intrahistoria
 - Frase
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Inauguramos hoy una nueva sección en Entelequia, como deduciréis por el
 título, se trata de breves entradas en las que una frase o un corto

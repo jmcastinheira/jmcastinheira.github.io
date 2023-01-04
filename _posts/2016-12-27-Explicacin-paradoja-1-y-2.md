@@ -4,12 +4,13 @@ date: 2016-12-27
 generator: pandoc
 title: Explicación paradoja 1 y 2
 categories:
+  - Blog
 - Frase
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {style="text-align: justify;"}
 [![](http://matematica2.giusti-ec.com.ar/EJEMPLOS/la%20ultima%20hora%20-%20la%20paradoja%20de%20russell.jpg){style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 200px;"

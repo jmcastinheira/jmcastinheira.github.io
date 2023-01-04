@@ -4,13 +4,14 @@ date: 2016-12-26
 generator: pandoc
 title: Las siete maravillas del mundo antiguo. Dos mundos, catorce
 categories:
+  - Blog
 - Poema
 
   maravillas (Parte I)
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ![coloso-rodas-209.jpg](http://www.entelequia.bligoo.com/media/users/1/79903/images/public/4621/coloso-rodas-209.jpg?v=1294660373362)
 

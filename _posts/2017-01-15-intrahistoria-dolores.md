@@ -3,11 +3,12 @@ id: 726
 title: 'Intrahistoria: Dolores'
 date: 2017-01-15T12:42:40+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=726
 permalink: /intrahistoria-dolores/
 image: /docs/assets/images/Porto_de_Vilaxoán._Vilagarcía_de_Arousa._Galiza_VV04.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog

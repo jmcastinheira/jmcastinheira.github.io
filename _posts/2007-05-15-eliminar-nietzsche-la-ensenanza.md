@@ -3,11 +3,12 @@ id: 806
 title: ¿Eliminar a Nietzsche de la enseñanza?
 date: 2007-05-15T08:58:10+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=806
 permalink: /eliminar-nietzsche-la-ensenanza/
 image: /docs/assets/images/pensador.jpg
 categories:
+  - Blog
   - Concepto
   - Opiniones
 tags:

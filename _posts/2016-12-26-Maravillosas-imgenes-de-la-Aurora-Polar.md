@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Maravillosas imágenes de la Aurora Polar
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ![](http://www.lareserva.com/home/fimage/bor3.jpg?v=1268039375545)
 

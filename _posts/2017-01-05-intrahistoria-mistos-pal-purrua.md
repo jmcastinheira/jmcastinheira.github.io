@@ -3,11 +3,12 @@ id: 682
 title: 'Intrahistoria: ¡Mistos pal Purrúa!'
 date: 2017-01-05T17:40:20+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=682
 permalink: /intrahistoria-mistos-pal-purrua/
 image: /docs/assets/images/Cerillas_fuego-640x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog
@@ -18,8 +19,8 @@ tags:
   
   <p id="caption-attachment-1175" class="wp-caption-text">
     Imagen de pixabay.com
-  </p>
-</div>
+  
+
 
 Siempre me cuentan esta historia. Desde que era pequeño la vengo escuchando. Parece ser que la abuela de mi madre, Mamá Consuelo, tenía una tienda de esas donde se venden cosas de todo tipo; una especie de ultramarinos, supongo. Ellos vivían allá en Bouzas, pueblecito que ahora forma parte de Vigo, provincia de Pontevedra.
 

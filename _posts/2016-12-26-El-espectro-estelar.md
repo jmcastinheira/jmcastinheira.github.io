@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: El espectro estelar
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 \[Por Uxío\] Como ya hemos visto en otras ocasiones, en nuestro Universo
 **todos los elementos que lo integran están en movimiento**, de pequeños

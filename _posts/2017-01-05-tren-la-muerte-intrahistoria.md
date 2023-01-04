@@ -3,11 +3,12 @@ id: 579
 title: El tren de la muerte (Intrahistoria)
 date: 2017-01-05T17:40:20+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=579
 permalink: /tren-la-muerte-intrahistoria/
 image: /docs/assets/images/v-640x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog
@@ -18,8 +19,8 @@ tags:
   
   <p id="caption-attachment-1178" class="wp-caption-text">
     De pixabay.com
-  </p>
-</div>
+  
+
 
 **[Moncho]** _Lo interesante y peligroso de las intrahistorias es que pasaron en realidad y siempre puede suceder que alguien te diga que no es aśi como sucedio; transcribo ahora el texto de Moncho donde me comenta mis faltas a la verdad en torno a la intrahistoria que yo había titulado «El tren.»_
 

@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Fringe y la filosofía del lenguaje I
 categories:
+  - Blog
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ¿Están los significados en la cabeza?
 

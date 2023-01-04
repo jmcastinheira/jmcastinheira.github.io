@@ -4,12 +4,13 @@ date: 2016-12-28
 generator: pandoc
 title: Movimiento contra la Miseria
 categories:
+  - Blog
 - Autores
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {#central-container .clearfix}
 ::: {#center-wrapper}

@@ -4,13 +4,14 @@ date: 2016-12-26
 generator: pandoc
 title: "La conciencia hecha software V: La Inteligencia Artificial"
 categories:
+  - Blog
 - Autores
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Intentaremos responder a la pregunta **¿Qué es la inteligencia
 artificial?**

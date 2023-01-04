@@ -4,6 +4,7 @@ date: 2007-06-18
 generator: pandoc
 title: Explicación a paradojas pragmáticas
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---

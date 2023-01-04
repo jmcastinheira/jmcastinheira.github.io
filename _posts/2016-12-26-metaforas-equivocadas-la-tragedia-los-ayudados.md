@@ -3,11 +3,12 @@ id: 325
 title: 'Metáforas equivocadas: La tragedia de los ayudados'
 date: 2016-12-26T01:07:33+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=325
 permalink: /metaforas-equivocadas-la-tragedia-los-ayudados/
 image: /docs/assets/images/boy-1835937_640-640x288.jpg
 categories:
+  - Blog
   - Artículo
   - Metaforas
 tags:
@@ -21,7 +22,7 @@ Dejadme estructurar el artículo en dos secciones; una breve aproximación al co
 
 **El problema.**
 
-Cuando comencé la lectura de los «Cuadernos Azul y Marrón» de Wittgenstein leí la siguiente pregunta «¿Cuál es el significado de significar?» Es, evidentemente, una pregunta filosófica. En cierto sentido provocó en mi una pequeña bofetada cerebral, si es que algo así puede decirse. Actualmente creo que esta pregunta es una pregunta con trampa aunque Wittgenstein sea precisamente uno de los filósofos más preocupados en <a href="http://misterioysinsentido.blogspot.com/2007/05/enseando-la-mosca-escapar-del-frasco.html" class="broken_link" rel="nofollow">sacar a la mosca de la botella</a>, en este caso, creo yo, no lo puede conseguir.
+Cuando comencé la lectura de los «Cuadernos Azul y Marrón» de Wittgenstein leí la siguiente pregunta «¿Cuál es el significado de significar?» Es, evidentemente, una pregunta filosófica. En cierto sentido provocó en mi una pequeña bofetada cerebral, si es que algo así puede decirse. Actualmente creo que esta pregunta es una pregunta con trampa aunque Wittgenstein sea precisamente uno de los filósofos más preocupados en [sacar a la mosca de la botella](http://misterioysinsentido.blogspot.com/2007/05/enseando-la-mosca-escapar-del-frasco.html), en este caso, creo yo, no lo puede conseguir.
 
 Considero fundamental el momento de elección de las preguntas si queremos encontrar la respuesta que verdaderamente buscamos. Esto parece sugerir algo como lo que sigue; podemos preguntar algo que no nos ayude a encontrar la respuesta que buscamos ¿Es esto posible? Para que esto sea posible deberíamos tener una especie de disposición a buscar una respuesta que todavía no ha sido expresada con una pregunta; esto no es tan raro ¿o acaso son las preguntas las que crean el problema? Aunque hay algunas preguntas que autoproblemáticas, es evidente que otras intentan expresar un problema real.
 

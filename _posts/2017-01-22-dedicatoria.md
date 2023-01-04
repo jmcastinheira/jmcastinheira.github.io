@@ -3,11 +3,12 @@ id: 1441
 title: Dedicatoria
 date: 2017-01-22T19:57:38+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://entelequia.info/?p=1441
 permalink: /dedicatoria/
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Blog
   - Poema
 ---

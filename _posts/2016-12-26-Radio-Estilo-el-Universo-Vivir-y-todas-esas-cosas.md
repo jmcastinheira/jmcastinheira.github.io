@@ -4,13 +4,14 @@ date: 2016-12-26
 generator: pandoc
 title: Radio Estilo, el Universo, Vivir y todas esas cosas
 categories:
+  - Blog
 - Intrahistoria
 - Poema
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Bueno, llevo un montón sin escribir nada, una serie de ocupacioes me
 tenían atareado, pero en fin dicen que la vida es una ocupación

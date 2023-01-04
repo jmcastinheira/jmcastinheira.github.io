@@ -4,13 +4,14 @@ date: 2016-12-26
 generator: pandoc
 title: "Metáforas equivocadas: el amor"
 categories:
+  - Blog
 - Metáforas
 - Poema
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 El amor no es eso que nos dicen, no es ni un lugar al que haya que
 llegar, o [una cosa que haya que

@@ -3,11 +3,12 @@ id: 711
 title: 'Intrahistoria: El juego de la escalera'
 date: 2017-01-15T12:55:05+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=711
 permalink: /intrahistoria-juego-la-escalera/
 image: /docs/assets/images/stairs-803558_640.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog

@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Whatsapp y el precio del poder
 categories:
+  - Blog
 - Frase
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Deberíamos empezar a considerar si queremos un mundo en donde todas las
 comunicaciones pasen por el control de una única empresa.

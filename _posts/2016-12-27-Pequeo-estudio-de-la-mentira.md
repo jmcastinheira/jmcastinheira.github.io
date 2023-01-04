@@ -4,13 +4,14 @@ date: 2016-12-27
 generator: pandoc
 title: Pequeño estudio de la mentira.
 categories:
+  - Blog
 - Frase
 - Poesía
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-150397 .content-body .clearfix}
 ¡Ya no hay [poesía](http://docs.google.com/View?docid=dk4fxk2_6g9sgft)!

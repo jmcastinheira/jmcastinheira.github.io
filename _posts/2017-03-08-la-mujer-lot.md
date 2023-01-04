@@ -3,7 +3,7 @@ id: 1523
 title: La mujer de Lot
 date: 2017-03-08T21:58:34+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://entelequia.info/?p=1523
 permalink: /la-mujer-lot/
 wpgs_notice_id:
@@ -16,6 +16,7 @@ wpgs_laste_komentis:
   - 2017-03-08 21:58:43
 image: /docs/assets/images/szymborska.png
 categories:
+  - Blog
   - Autores
   - Blog
   - Poema
@@ -27,8 +28,8 @@ tags:
   
   <p id="caption-attachment-1524" class="wp-caption-text">
     Modificación de una fotografía de Soren Andersson .
-  </p>
-</div>
+  
+
 
 Antes de que acabe el día quería compartir con vosotros este poema de [Wislawa Zymborska.](https://es.wikipedia.org/wiki/Wis%C5%82awa_Szymborska) Ha sido, aún sin haberla conocido, una de mis maestras poéticas. [Ya lo hemos comentado aquí](http://entelequia.info/autores-wislawa-szymborska/). Escribiré sobre ella en el marco de la iniciativa «[Adopta a una autora](https://adoptaunaautorablog.wordpress.com/)«, Wislawa sigue siendo cima de la literatura universal, poco puedo exagerar sobre el interés que me suscitan sus poemas y la sensación que dejan tras su lectura; es una cotidianeidad mágica, una ternura misteriosa; es la propia definición de la poesía :
 

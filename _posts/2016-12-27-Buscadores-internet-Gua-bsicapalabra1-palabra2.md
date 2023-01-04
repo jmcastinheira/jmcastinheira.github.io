@@ -4,12 +4,13 @@ date: 2016-12-27
 generator: pandoc
 title: "Buscadores internet: Guía básica"
 categories:
+  - Blog
 - Frase
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-136524 .content-body}
 [![](http://www.cosassencillas.com/docs/assets/images/2007/12/BuscarinformacinmediantelaWeb2.0_A2B6/busquedas.gif){.alignleft

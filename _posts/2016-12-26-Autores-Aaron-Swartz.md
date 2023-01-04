@@ -4,12 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: "Autores: Aaron Swartz"
 categories:
+  - Blog
 - Autores
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
-
-::: {#title-block-header}
 
 Conocí la historia de [Aaron
 Swartz](http://es.wikipedia.org/wiki/Aaron_Swartz) el mismo día de su

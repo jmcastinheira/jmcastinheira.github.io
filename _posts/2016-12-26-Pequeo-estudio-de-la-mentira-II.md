@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Pequeño estudio de la mentira II.
 categories:
+  - Blog
 - Poema
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 [Grabado sin
 relieve](http://tonterias.com/data/200105/1014_Papel-arrugado.jpg)

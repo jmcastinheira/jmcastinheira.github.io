@@ -4,13 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Comunidad y agresión.
 categories:
+  - Blog
 - Frase
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
-
-::: {#title-block-header}
 
 Es que tiran de mi, me provocan y no puede ser, con lo tranquilo que
 estaba y en mi silencio...
@@ -24,8 +23,7 @@ Está bien, amigo Carlos, está bien.
 
 Este es la propuesta de conceptuación del término Fraternidad que hace
 Carlos Boyle desde su blog «Reflexiones Siesteras» en su último post
-«[de comunidades y
-trollers](http://carlosboyle.blogspot.com/2008/06/de-comunidades-y-trolles.html)«.
+«[de comunidades y trollers](http://carlosboyle.blogspot.com/2008/06/de-comunidades-y-trolles.html)«.
 
 En primer lugar, creo, que Carlos se refiere a los sujetos en las
 Comunidades digitales, esto es, aquellas que se constituyen en contextos

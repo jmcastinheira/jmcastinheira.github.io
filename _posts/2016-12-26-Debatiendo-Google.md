@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Debatiendo Google
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 El otro día estabamos a la espera de un posible debate blogosférico, (o
 blogogaláxico si atendemos a las matizaciones de

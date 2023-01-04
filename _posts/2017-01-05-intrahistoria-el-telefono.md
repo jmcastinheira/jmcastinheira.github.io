@@ -3,11 +3,12 @@ id: 419
 title: 'Intrahistoria: El teléfono'
 date: 2017-01-05T17:40:20+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=419
 permalink: /intrahistoria-el-telefono/
 image: /docs/assets/images/niña_telefono-328x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog
@@ -18,8 +19,8 @@ tags:
   
   <p id="caption-attachment-1190" class="wp-caption-text">
     Imagen de Zaragozaciudad.net
-  </p>
-</div>
+  
+
 
 «**O teléfono**»
 

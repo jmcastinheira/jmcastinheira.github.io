@@ -4,6 +4,7 @@ date: 2016-12-27
 generator: pandoc
 title: Un poco de Soup?
 categories:
+  - Blog
 - Autores
 - Concepto
 - Poesía
@@ -11,7 +12,7 @@ categories:
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {style="text-align: justify;"}
 [Soup](http://aulo.soup.io/) es un servicio de gestión de contenidos a

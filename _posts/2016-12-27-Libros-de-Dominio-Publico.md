@@ -4,12 +4,13 @@ date: 2016-12-27
 generator: pandoc
 title: Libros de Dominio Publico
 categories:
+  - Blog
 - Autores
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 En la bitácora de [David de Ugarte](http://www.deugarte.com/) hemos
 visto esta [interesante

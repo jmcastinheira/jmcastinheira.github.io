@@ -1,6 +1,7 @@
 ---
 tags: [libro, Hemingway, análisis]
-categories: [Análisis]
+categories:
+  - Blog [Análisis]
 title: 'El viejo y el mar'
 ---
 

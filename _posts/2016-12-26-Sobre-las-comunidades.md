@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Sobre las comunidades.
 categories:
+  - Blog
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 No puedo dejar de comentar aquí, el último post de David de Ugarte sobre
 la participación y [las

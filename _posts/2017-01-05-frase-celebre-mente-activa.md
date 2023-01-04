@@ -3,11 +3,12 @@ id: 429
 title: 'Frase Célebre: Mente Activa'
 date: 2017-01-05T17:40:21+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=429
 permalink: /frase-celebre-mente-activa/
 image: /docs/assets/images/pensador.jpg
 categories:
+  - Blog
   - Citas
 tags:
   - Blog

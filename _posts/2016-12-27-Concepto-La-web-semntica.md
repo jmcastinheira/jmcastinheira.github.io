@@ -4,12 +4,13 @@ date: 2016-12-27
 generator: pandoc
 title: "Concepto: La web semántica"
 categories:
+  - Blog
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-132054 .content-body}
 <div>
@@ -17,7 +18,7 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 
 
 ::: {data-align="justify"}
-    <a href="http://www.csus.edu/indiv/d/dowdenb/graphics/penguin-logic.jpg"><img class="alignleft" src="http://www.csus.edu/indiv/d/dowdenb/graphics/penguin-logic.jpg" width="320" height="335" align="left" border="0" /></a>Hoy os traigo un artículo que me ha gustado tanto, que he decidido compartirlo con todos los lectores de «Lo Real en el Espejo», se trata de un artículo de Pablo Castells, de la Universidad Autónoma de Madrid, en la que en trece cortas páginas nos explica maravillosamente este concepto con ejemplos incluidos.
+    [![](http://www.csus.edu/indiv/d/dowdenb/graphics/penguin-logic.jpg)](http://www.csus.edu/indiv/d/dowdenb/graphics/penguin-logic.jpg)Hoy os traigo un artículo que me ha gustado tanto, que he decidido compartirlo con todos los lectores de «Lo Real en el Espejo», se trata de un artículo de Pablo Castells, de la Universidad Autónoma de Madrid, en la que en trece cortas páginas nos explica maravillosamente este concepto con ejemplos incluidos.
 :::
 
 ::: {data-align="justify"}

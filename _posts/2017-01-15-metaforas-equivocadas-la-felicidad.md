@@ -3,18 +3,19 @@ id: 127
 title: 'Metáforas equivocadas: La felicidad'
 date: 2017-01-15T20:24:37+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=127
 permalink: /metaforas-equivocadas-la-felicidad/
 image: /docs/assets/images/daisies-1202571_640.jpg
 categories:
+  - Blog
   - Metaforas
 tags:
   - Blog
 ---
 <p style="text-align: right;">
   A Marga.
-</p>
+
 
 Seguimos con las metáforas equivocadas. En este caso respecto a un tema que supongo que a todos nos preocupa más tarde o más temprano. Como ya saben ustedes, a veces me da por pensar poéticamente, porque poéticamente, con metáforas; es como realmente pensamos.
 
@@ -47,7 +48,7 @@ Una es un pequeño cuento de [Tony de Mello](http://es.wikipedia.org/wiki/Anthon
 > 
 > (&#8230;)»
 
-y otra es un poema de <a href="http://entelequia.bligoo.com/content/view/100327/Miguel-d-Ors.html#content-top" class="broken_link" rel="nofollow">Miguel D&#8217;Ors</a> llamado «Aniversario» del grandiosísimo libro «[Hacia otra luz más pura](http://books.google.es/books?id=WCF0wnQJYrwC&lpg=PA62&ots=7gitF5B1lH&dq=%22la%20felicidad%20consiste%20en%20no%20ser%20feliz%20y%20que%20no%20te%20importe%22&pg=PA62#v=onepage&q=Aniversario&f=false)«;
+y otra es un poema de [Miguel D&#8217;Ors](http://entelequia.bligoo.com/content/view/100327/Miguel-d-Ors.html#content-top) llamado «Aniversario» del grandiosísimo libro «[Hacia otra luz más pura](http://books.google.es/books?id=WCF0wnQJYrwC&lpg=PA62&ots=7gitF5B1lH&dq=%22la%20felicidad%20consiste%20en%20no%20ser%20feliz%20y%20que%20no%20te%20importe%22&pg=PA62#v=onepage&q=Aniversario&f=false)«;
 
 > Eran casi las nueve cuando reapareciste.  
 > Yo te esperaba tejiendo y destejiendo  
@@ -73,4 +74,4 @@ y otra es un poema de <a href="http://entelequia.bligoo.com/content/view/100327/
 > «_La Felicidad consiste en no ser feliz  
 > y que no te importe._«
 
-Evidentemente, no es que haya que conformarse y quedarse quietos, a fin de cuentas <a href="http://entelequia.bligoo.com/content/view/603675/in-Itinere.html#content-top" class="broken_link" rel="nofollow">siempre estamos caminando.</a>
+Evidentemente, no es que haya que conformarse y quedarse quietos, a fin de cuentas [siempre estamos caminando.](http://entelequia.bligoo.com/content/view/603675/in-Itinere.html#content-top)

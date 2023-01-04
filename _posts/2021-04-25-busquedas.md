@@ -1,6 +1,7 @@
 ---
 tags: [dudas]
-categories: [gaviotas]
+categories:
+  - Blog [gaviotas]
 title: 'Búquedas'
 ---
 

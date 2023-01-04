@@ -4,12 +4,13 @@ date: 2016-12-27
 generator: pandoc
 title: "Concepto: Cambio Social"
 categories:
+  - Blog
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {#central-container .clearfix}
 ::: {#center-wrapper}
@@ -19,7 +20,7 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
           <div id="body-132081" class="content-body">
             <div>
               
-                <a href="http://media.argentina.indymedia.org/uploads/2002/07/zcambiosocial.jpg"><img class="alignleft" src="http://media.argentina.indymedia.org/uploads/2002/07/zcambiosocial.jpg" alt="" width="202" height="269" border="0" /></a>Hace tiempo que me ronda esta pregunta por la cabeza ¿Qué es lo que hace posible /[un cambio social/]/(http://es.wikipedia.org/wiki/Cambio_social/)? yo no soy sociólogo, ni politólogo, así que no puedo avanzar respuestas grandiosas; no sé si quiera si es necesario contestar a esta pregunta para producir un /[cambio social/]/(http://amp-pr.org/mundonuevo//), probablemente no.
+                [![](http://media.argentina.indymedia.org/uploads/2002/07/zcambiosocial.jpg)](http://media.argentina.indymedia.org/uploads/2002/07/zcambiosocial.jpg)Hace tiempo que me ronda esta pregunta por la cabeza ¿Qué es lo que hace posible /[un cambio social/]/(http://es.wikipedia.org/wiki/Cambio_social/)? yo no soy sociólogo, ni politólogo, así que no puedo avanzar respuestas grandiosas; no sé si quiera si es necesario contestar a esta pregunta para producir un /[cambio social/]/(http://amp-pr.org/mundonuevo//), probablemente no.
               
               
               

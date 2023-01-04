@@ -4,6 +4,7 @@ date: 2016-12-27
 generator: pandoc
 title: "Poema: Libertad de expresión"
 categories:
+  - Blog
 - Frase
 - Poesía
 - Poema
@@ -11,7 +12,7 @@ categories:
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Por favor, que no nos quiten la palabra
 

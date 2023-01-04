@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: El internet que viene y algunas opiniones
 categories:
+  - Blog
 - Frase
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-559086 .content-body}
 ![](http://wpcontent.answers.com/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/300px-Internet_map_1024.jpg?v=1247268662652 "http://wpcontent.answers.com/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/300px-Internet_map_1024.jpg"){.alignleft

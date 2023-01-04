@@ -1,6 +1,7 @@
 ---
 tags: [bibliografia, novela, misterio, muertos]
-categories: [bibliografia, reseña]
+categories:
+  - Blog [bibliografia, reseña]
 title: 'Pédro Páramo'
 ---
 

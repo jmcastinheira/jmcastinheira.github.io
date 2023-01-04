@@ -4,12 +4,13 @@ date: 2017-01-03
 generator: pandoc
 title: "Autores: Monseñor Oscar Romero \\| 24 de Marzo."
 categories:
+  - Blog
 - Autores
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Coloco aquí este texto de [Nora
 Méndez](http://puertadenora.blogspot.com/2008/03/24-marzo-monseor-romero-vive.html),

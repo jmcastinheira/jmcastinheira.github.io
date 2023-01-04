@@ -3,11 +3,12 @@ id: 113
 title: 'Metáforas: La esperanza'
 date: 2017-01-15T20:34:50+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=113
 permalink: /metaforas-la-esperanza/
 image: /docs/assets/images/morning-1889265_640.jpg
 categories:
+  - Blog
   - Metaforas
 tags:
   - Blog

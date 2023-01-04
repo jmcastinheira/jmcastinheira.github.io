@@ -4,15 +4,16 @@ date: 2016-12-26
 generator: pandoc
 title: Gonzalo Guerrero y Jerónimo de Aguilar en el Nuevo Mundo
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-882976 .content-body}
 ::: {#ads-parked-10 .ads-parked-10}
-     <img class="alignleft" src="http://entelequia.bligoo.com/media/users/1/79903/images/public/4621/nuevo_mundo.jpeg?v=1279135116248" alt="nuevo_mundo.jpeg" /><strong>Por Uxío P.R.</strong>Cuanto tiempo hacía que deseaba dedicar un pequeño artículo a dos hombres que representan como ninguno lo que fue la conquista del Nuevo Mundo en pleno siglo XVI.
+     ![](http://entelequia.bligoo.com/media/users/1/79903/images/public/4621/nuevo_mundo.jpeg?v=1279135116248)<strong>Por Uxío P.R.</strong>Cuanto tiempo hacía que deseaba dedicar un pequeño artículo a dos hombres que representan como ninguno lo que fue la conquista del Nuevo Mundo en pleno siglo XVI.
 :::
 
 Por todos es conocida las historias de Hernán Cortés, que con su

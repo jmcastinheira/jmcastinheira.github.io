@@ -3,11 +3,12 @@ id: 246
 title: 'Intrahistoria: Vilaxoán, el pueblo.'
 date: 2016-12-26T00:24:10+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=246
 permalink: /intrahistoria-vilaxoan-pueblo/
 image: /docs/assets/images/Porto_de_Vilaxoán._Vilagarcía_de_Arousa._Galiza_VV04.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog

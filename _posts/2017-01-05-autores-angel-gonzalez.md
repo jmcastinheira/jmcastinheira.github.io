@@ -3,11 +3,12 @@ id: 810
 title: 'Autores: Ángel Gonzalez'
 date: 2017-01-05T17:40:20+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=810
 permalink: /autores-angel-gonzalez/
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Autores
 tags:
   - Blog

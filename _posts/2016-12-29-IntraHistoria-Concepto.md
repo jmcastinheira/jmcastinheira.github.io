@@ -4,6 +4,7 @@ date: 2016-12-29
 generator: pandoc
 title: "IntraHistoria: Concepto"
 categories:
+  - Blog
 - Intrahistoria
 - Autores
 - Concepto
@@ -11,7 +12,7 @@ categories:
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 He decidido inaugurar sección, su titulo ya lo habéis visto, se trata de
 Intrahistoria, concepto acuñado por Unamuno para designar las historias

@@ -1,6 +1,7 @@
 ---
 tags: [video, cambios]
-categories: [gaviotas]
+categories:
+  - Blog [gaviotas]
 title: 'Narrativa'
 ---
 

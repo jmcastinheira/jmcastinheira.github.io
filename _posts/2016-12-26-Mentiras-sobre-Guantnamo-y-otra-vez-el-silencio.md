@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Mentiras sobre Guantánamo, y otra vez el silencio.
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Y otra vez Iñaki:
 

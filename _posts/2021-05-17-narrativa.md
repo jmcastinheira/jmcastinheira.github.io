@@ -1,6 +1,7 @@
 ---
 tags: [video, situaciones]
-categories: [gaviotas]
+categories:
+  - Blog [gaviotas]
 date: 2021-05-17 15:14:15
 title: 'Narrativa'
 ---

@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: "Maravillas de la naturaleza: Los cefalópodos"
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Por Uxío PR.
 

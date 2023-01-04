@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: La pobreza
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Uno no puede dejar de preguntarse cuales son las causas de la situación
 en la que nos encontramos, qué es lo que hace posible este derroche de

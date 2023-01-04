@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Poyekhali! \[Documental First Orbit ya disponible\]
 categories:
+  - Blog
 - Frase
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ![gagarin1.jpg](http://3.bp.blogspot.com/_Cc7nxts8C5A/S8MecadoISI/AAAAAAAAArw/un_lY5XXw3w/s1600/gagarin1.jpg?v=1302509648909){width="342"
 height="238"}

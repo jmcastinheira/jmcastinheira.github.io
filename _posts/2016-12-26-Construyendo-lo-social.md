@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Construyendo lo social
 categories:
+  - Blog
 - Metáforas
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Tras la lectura de un articulo de [Las indias
 Electrónicas](http://lasindias.coop/facebook-el-%C2%ABefecto-boy-scout%C2%BB-y-la-necesidad-de-dar-un-canal-articulado-a-la-adhesion/)

@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: La fotografía de las tres galaxias
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ![eso1126a.jpg](http://www.entelequia.bligoo.com/media/users/1/79903/images/public/4621/eso1126a.jpg?v=1311923377127)
 

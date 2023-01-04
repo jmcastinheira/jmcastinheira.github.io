@@ -4,6 +4,7 @@ date: 2007-10-28
 generator: pandoc
 title: Ciberpoesia o Poesia impresiva
 categories:
+  - Blog
 - Poesía
 - Poema
 

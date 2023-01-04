@@ -4,11 +4,12 @@ date: 2019-06-02
 generator: pandoc
 title: La estructura como política
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 En la facultad de derecho, hace ya muchos años, leí un libro de [Pereira
 Menaut](https://gl.wikipedia.org/wiki/Antonio-Carlos_Pereira_Menaut)

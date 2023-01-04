@@ -3,11 +3,12 @@ id: 368
 title: 'Autores: Georg Cantor ¿Podemos listar el infinito?'
 date: 2017-01-05T17:40:20+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=368
 permalink: /autores-georg-cantor-podemos-listar-infinito/
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Autores
 tags:
   - Blog

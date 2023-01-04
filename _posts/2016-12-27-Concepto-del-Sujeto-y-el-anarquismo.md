@@ -4,13 +4,14 @@ date: 2016-12-27
 generator: pandoc
 title: Concepto del Sujeto y el anarquismo
 categories:
+  - Blog
 - Autores
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Es notorio que la concepción que uno tenga sobre el sujeto es de suma
 importancia, sobre todo en cuestiones politicas y sociales; sin

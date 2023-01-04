@@ -3,11 +3,12 @@ id: 421
 title: 'Intrahistoria: El día que tuve que cambiar de panadería'
 date: 2017-01-15T11:50:05+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=421
 permalink: /intrahistoria-dia-tuve-cambiar-panaderia/
 image: /docs/assets/images/niña-1000x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog

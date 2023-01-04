@@ -4,11 +4,12 @@ date: 2016-12-28
 generator: pandoc
 title: No digáis que no estábais avisados.
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Yo no digo nada, pero me bastaba a mi tener la mitad de lucidez que este
 compañero de 92 años, [José Luis

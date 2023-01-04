@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: La reforma del aborto en España.
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Después de unos días del anuncio de la propuesta, en España, de una ley
 de plazos del aborto creo que podemos, con cierta tranquilidad analizar

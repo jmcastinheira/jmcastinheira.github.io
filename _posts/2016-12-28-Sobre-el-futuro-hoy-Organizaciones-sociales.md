@@ -4,11 +4,12 @@ date: 2016-12-28
 generator: pandoc
 title: "Sobre el futuro hoy: Organizaciones sociales"
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ***1. «He visto otros mundos pero están en este», o la riqueza de
 mundos***:

@@ -4,12 +4,13 @@ date: 2016-12-28
 generator: pandoc
 title: Manifiesto en defensa de los derechos fundamentales en internet
 categories:
+  - Blog
 - Autores
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 No puedo dejar de compartir este manifiesto. Pero no sólo yo, internet
 está llena de adhesiones a él, basta con buscar, incluso entrecomillado

@@ -4,11 +4,12 @@ date: 2016-12-28
 generator: pandoc
 title: Noticia sobre las matanzas de la Uca
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Hoy he visto este artículo en Soitu, sobre «[Los asesinatos de los
 jesuítas en El

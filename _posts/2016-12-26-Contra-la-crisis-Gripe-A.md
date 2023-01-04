@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Contra la crisis Gripe A
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Aprovecho para recuperar el [famoso
 documental](http://www.google.es/search?q=Operaci%C3%B3n+pandemia&ie=utf-8&oe=utf-8&aq=t&rls=com)

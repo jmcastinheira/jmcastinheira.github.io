@@ -4,14 +4,11 @@ date: 2016-12-25
 generator: pandoc
 title: Tipos de Comunicación
 categories:
+  - Blog
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
-
-::: {#title-block-header}
-
-<div>
 
 No voy aquí a hacer un estudio, ni siquiera breve sobre la comunicación,
 creo que eso supera mis posibilidades en un ciento por ciento, pero me
@@ -32,10 +29,6 @@ otro lado](http://lorealenelespejo.blogspot.com/) el papel que juega el
 [contexto](http://entelequia.bligoo.com/content/view/132099/Contexto.html)
 en la comunicación.
 
-
-
-<div>
-
 A parte de la distinción entre [comunicación
 analógica](http://entelequia.bligoo.com/content/view/132113/Comunicaci_n_1_Comunicaci_n_anal_gica.html),
 y [comunicación
@@ -45,14 +38,6 @@ la misma, dual o grupal, si es una comunicación que afecta a un grupo de
 personas; ambas pueden ser, a su ver, recíprocas (en el primer caso
 tendríamos un diálogo) o unilaterales (que en ambos casos podríamos
 denominar monólogo).
-
-
-
-<div>
-
-
-
-<div>
 
 Centrándonos en la grupal; nos interesan dos tipos de comunicación que
 denominaremos en
@@ -68,7 +53,8 @@ Central](http://es.wikipedia.org/wiki/Estado_unitario), [Estado
 Federal](http://es.wikipedia.org/wiki/Federaci%C3%B3n), y [estado
 Confederal](http://es.wikipedia.org/wiki/Confederaci%C3%B3n), más allá
 de ello estaríamos ya en el mundo de las sociedades internacionales de
-estados.\
+estados.
+
 En la comunicación reticular centralizada existe un
 [atractor](http://es.wikipedia.org/wiki/Atractor) interno que gestiona y
 dirige todo el proceso comunicativo, de forma tal que la comunicación
@@ -80,20 +66,13 @@ analógica](http://entelequia.bligoo.com/content/view/132113/Comunicaci_n_1_Comu
 Un ejemplo más visual en cuanto a la forma de este tipo de situación
 sería una manzana, en la que el corazón de la misma sería el atractor.
 
-
-
-<div>
-
-
-
-<div>
-
 En la comunicación reticular descentralizada existen distintos
 atractores internos pero integrados de forma tal que se puede decir que
 actúa como una única red frente al contexto; siguiendo con los ejemplos
 frutículas, la forma sería pareja a una naranja en la que existirían
 distintas unidades cada una con su atractor integradas en un todo
-común.\
+común.
+
 La comunicación reticular distribuida la podríamos comparar, por poner
 un caso en el que no parece que exista un único centro o atractor, con
 el vuelo de una bandada
@@ -103,14 +82,6 @@ descrita magistralmente por
 el Canto V de [«Les chants du
 Maldoror».](http://64.233.183.104/custom?q=cache:DbQFUhPJZboJ:www.zonalibre.org/blog/dedosdisparados/archives/Blog_regalitoLautreamont%2520-%2520Los%2520Cantos%2520de%2520Maldoror.doc+lautreamont&hl=es&ct=clnk&cd=9&client=pub-7034176198234559)
 En este caso la forma de la red sería como la de un racimo de uvas.
-
-
-
-<div>
-
-
-
-<div>
 
 Ahora debo matizar más y poner de relieve otro tipo de comunicación que
 podemos denominar entre nosotros comunicación de
@@ -134,7 +105,8 @@ un tipo de comunicación de atractor externo o meramente externa; ya que
 todo contexto va a actuar como uno o varios atractores externos y por
 tanto afectar al proceso comunicativo estrictamente reticular, no basta
 con decir que la información externa a la red es
-[ruído](http://es.wikipedia.org/wiki/Ruido).\
+[ruído](http://es.wikipedia.org/wiki/Ruido).
+
 Continuamos otro día.
 
 

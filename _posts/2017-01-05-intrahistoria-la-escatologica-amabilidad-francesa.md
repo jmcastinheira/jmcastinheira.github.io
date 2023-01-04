@@ -3,11 +3,12 @@ id: 398
 title: 'Intrahistoria: La escatológica amabilidad francesa'
 date: 2017-01-05T17:40:20+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=398
 permalink: /intrahistoria-la-escatologica-amabilidad-francesa/
 image: /docs/assets/images/Paris_ciudad_rio-640x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog
@@ -19,8 +20,8 @@ tags:
   
   <p id="caption-attachment-1188" class="wp-caption-text">
     Imagen pixabay.com/en/users/Frivolouswhim
-  </p>
-</div>
+  
+
 
 **[Por Uxío PR]** Mi viaje a París fue uno de los que más me han gustado. Sin duda lo recomiendo a todo el mundo; especialmente para aquellos que viajan en pareja. Un aspecto que me llamó la atención fue la exquisita amabilidad francesa. Que nadie piense cosas raras por el título. Tanto en el la forma de hablar como en el comportamiento nos llevan cierta ventaja nuestros vecinos franceses.
 

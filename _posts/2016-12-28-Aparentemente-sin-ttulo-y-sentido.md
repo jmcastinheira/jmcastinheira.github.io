@@ -4,11 +4,12 @@ date: 2016-12-28
 generator: pandoc
 title: Aparentemente sin título (y sentido)
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 \[Uxío PR\] Caramba, cada vez que quiero publicar lo tengo más difícil,
 últimamente no me he pasado mucho por aquí, y he tenido que hacerlo

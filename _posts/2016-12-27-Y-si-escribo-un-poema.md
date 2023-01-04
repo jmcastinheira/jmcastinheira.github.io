@@ -4,12 +4,13 @@ date: 2016-12-27
 generator: pandoc
 title: Y si escribo un poema..?
 categories:
+  - Blog
 - Poema
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Y si escribo un poema
 

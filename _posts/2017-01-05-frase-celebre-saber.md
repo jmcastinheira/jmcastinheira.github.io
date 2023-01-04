@@ -3,11 +3,12 @@ id: 481
 title: 'Frase Célebre: El Saber'
 date: 2017-01-05T17:40:21+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=481
 permalink: /frase-celebre-saber/
 image: /docs/assets/images/pensador.jpg
 categories:
+  - Blog
   - Citas
 tags:
   - Blog

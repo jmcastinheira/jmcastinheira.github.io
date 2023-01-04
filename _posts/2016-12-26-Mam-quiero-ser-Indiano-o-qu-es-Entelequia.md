@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Mamá quiero ser Indiano o ¿qué es Entelequia?...
 categories:
+  - Blog
 - Frase
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ... O un poco de todo lo que he aprendido.
 

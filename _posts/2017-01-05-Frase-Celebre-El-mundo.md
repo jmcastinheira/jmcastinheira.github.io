@@ -4,12 +4,13 @@ date: 2017-01-05
 generator: pandoc
 title: "Frase Celebre: El mundo"
 categories:
+  - Blog
 - Frase
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 > «La cumbre de Londres es el estreno de algo mucho más grande que la
 > crisis: el primer decreto ley de un auténtico gobierno mundial»

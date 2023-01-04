@@ -4,6 +4,7 @@ date: 2017-01-05
 generator: pandoc
 title: "Autores: Francisco Caamaño"
 categories:
+  - Blog
 - Intrahistoria
 - Autores
 - Concepto
@@ -11,7 +12,7 @@ categories:
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Conocí a Francisco Caamaño cuando estaba en segundo de carrera, en la
 facultad de Derecho de la USC; llevabamos al menos un mes de clase con

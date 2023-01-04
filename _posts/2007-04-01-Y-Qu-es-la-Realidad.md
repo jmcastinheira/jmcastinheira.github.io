@@ -4,6 +4,7 @@ date: 2007-04-01
 generator: pandoc
 title: Y... ¿Qué es la Realidad?
 categories:
+  - Blog
 - Autores
 - Concepto
 

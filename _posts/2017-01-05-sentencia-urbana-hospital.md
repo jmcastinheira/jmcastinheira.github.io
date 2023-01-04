@@ -3,11 +3,12 @@ id: 491
 title: 'Sentencia urbana: En el hospital'
 date: 2017-01-05T17:40:20+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=491
 permalink: /sentencia-urbana-hospital/
 image: /docs/assets/images/pensador.jpg
 categories:
+  - Blog
   - Citas
 tags:
   - Blog

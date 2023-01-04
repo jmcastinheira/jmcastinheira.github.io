@@ -4,12 +4,13 @@ date: 2016-12-27
 generator: pandoc
 title: "Poema: Enganchado"
 categories:
+  - Blog
 - Poema
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 <div>
 

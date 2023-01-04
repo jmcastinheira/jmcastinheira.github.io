@@ -4,18 +4,16 @@ date: 2008-02-06
 generator: pandoc
 title: Sobre el concepto del anarquismo.
 categories:
+  - Blog
 - Autores
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+# Sobre la palabra:
 
-::: {z="" style="text-align: justify;"}
-[Sobre la palabra:]{z=""
-style="font-weight: bold; text-decoration: underline;"} En mi opinión
-uno de los mayores problemas del anarquismo es que lleva el no en el
+En mi opinión uno de los mayores problemas del anarquismo es que lleva el no en el
 nombre, me explico, es muy dificil determinar una identidad y definir
 una corriente ideológica de forma negativa, es decir, diciendo a lo que
 se opone y no lo que propone, porque por oponer nos podemos oponer a
@@ -48,7 +46,8 @@ Socialismo libertario como destino histórico de esta doctrina, quizá el
 anarquismo sea uno de los motores necesarios para llegar allá, de
 momento no lo sé.
 
-[Sobre el concepto.]{style="font-weight: bold;"}\
+# Sobre el concepto.
+
 Buscamos pues lo que define positivamente la anarquía y lo que es la
 anarquía por si misma, y no por oposición a algo. Tenemos a mano: «16
 tesis sobre Anarquismo» de Carlos Diaz y Félix García, y vamos a hacer
@@ -59,7 +58,6 @@ define el anarquismo negativamente, otra vez, al menos en sus 10
 primeras tesis (quizá antitesis) aunque bien podemos justificar a sus
 autores que intentan poner en claro algunas confusiones sobre la
 ideología que nos ocupa:
-:::
 
 1.  El anarquismo no es una forma de socialismo utópico.
 2.  No es pequeño-burgués
@@ -78,32 +76,14 @@ ideología que nos ocupa:
 15. Es disciplina.
 16. Es aporético.
 
-::: {z="" style="text-align: justify;"}
-      Podemos tomar, en solución de lo que nos preocupa, estas tesis/antitesis como temas a tratar para una correcta conceptualización del término, estos son: Relación entre teoría y praxis (tesis 1ª, 7ª, 13ª, 14ª, 10ª y 16ª); relación hombre-sociedad-estado (tesis 2ª, 3ª, 8ª y 9ª); la organización (tesis 4ª); el sujeto (tesis 5ª y 6ª), libertad-seguridad (tesis 11ª), la responsabilidad (tesis 15ª) por tanto si sistematizamos y alteramos un poco el orden tenemos&#8230;  
-      
-      <ol z>
-        <li z>
-          Relación teoría y praxis.
-        </li>
-        <li z>
-          El sujeto.
-        </li>
-        <li z>
-          Organización.
-        </li>
-        <li z>
-          Relación libertad/seguridad.
-        </li>
-        <li z>
-          Responsabilidad.
-        </li>
-        <li z>
-          Relación hombre/sociedad/estado.
-        </li>
-      </ol>
-      
-      
-        Estos son los seis temas que vamos a tratar, quizá mejor otro día&#8230;
-      
-    
-:::
+Podemos tomar, en solución de lo que nos preocupa, estas tesis/antitesis como temas a tratar para una correcta conceptualización del término, estos son: Relación entre teoría y praxis (tesis 1ª, 7ª, 13ª, 14ª, 10ª y 16ª); relación hombre-sociedad-estado (tesis 2ª, 3ª, 8ª y 9ª); la organización (tesis 4ª); el sujeto (tesis 5ª y 6ª), libertad-seguridad (tesis 11ª), la responsabilidad (tesis 15ª) por tanto si sistematizamos y alteramos un poco el orden tenemos&#8230;  
+
+- Relación teoría y praxis.
+- El sujeto.
+- Organización.
+- Relación libertad/seguridad.
+- Responsabilidad.
+- Relación hombre/sociedad/estado.
+
+Estos son los seis temas que vamos a tratar, quizá mejor otro día&#8230;
+

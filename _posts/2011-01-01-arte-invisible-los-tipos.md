@@ -3,7 +3,7 @@ id: 204
 title: El arte invisible de los tipos
 date: 2011-01-01T10:54:36+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=204
 permalink: /arte-invisible-los-tipos/
 wpgs_notice_id:
@@ -16,6 +16,7 @@ wpgs_laste_komentis:
   - 2017-03-01 10:57:37
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Artículo
 tags:
   - Blog
@@ -23,7 +24,7 @@ tags:
 ---
 Se hablado bastante del arte efímero, pero no se habla tanto de lo que se ha dado en llamar [el arte invisible](http://www.elpais.com/fotogaleria/Arte/Tipografia/Tipografia/Arte/4708-1/elpgal/); no es fácil imaginar un tipo de arte que tengamos presente todos los días, a todas horas y en todos los lugares y que además sea tan, tan sutil que apenas podamos percibirlo; sería como si pudiéramos ver a través del dibujo. Bueno ¿que tal si os digo que este arte existe, que lo estás viendo ahora mismo, y que simplemente se llama tipografía?
 
-No me voy a poner a hacer un tratado de tipografía, simplemente recogo aquí los tipos que más me han gustado y que me parecen verdaderas obras de arte; si quieres ver una clasificación más completa que la que aquí presentamos pásate por <a href="http://www.imageandart.com/tutoriales/tipografia/familias_tipograficas_1.htm" class="broken_link" rel="nofollow">aqui</a>. Además recomendaría la lectura de un fabuloso libro del diseñador catalán Enric Satué, llamado «[_Arte en tipografía y Tipografía en el arte_](http://www.casadellibro.com/libro-arte-en-la-tipografia-y-tipografia-en-el-arte-compendio-de-tipog-rafia-artistica/2900001205576)» del cual tenemos la suerte de contar con las siguientes [imágenes](http://www.elpais.com/fotogaleria/Arte/Tipografia/Tipografia/Arte/4708-1/elpgal/) que son de <a href="http://blogs.que.es/3043/2007/12/2/las-letras-engrandecidas-arte" class="broken_link" rel="nofollow">una exposición</a> relacionada con el mismo libro. La obra que adjuntamos es «Physis» de Chillida.
+No me voy a poner a hacer un tratado de tipografía, simplemente recogo aquí los tipos que más me han gustado y que me parecen verdaderas obras de arte; si quieres ver una clasificación más completa que la que aquí presentamos pásate por [aqui](http://www.imageandart.com/tutoriales/tipografia/familias_tipograficas_1.htm). Además recomendaría la lectura de un fabuloso libro del diseñador catalán Enric Satué, llamado «[_Arte en tipografía y Tipografía en el arte_](http://www.casadellibro.com/libro-arte-en-la-tipografia-y-tipografia-en-el-arte-compendio-de-tipog-rafia-artistica/2900001205576)» del cual tenemos la suerte de contar con las siguientes [imágenes](http://www.elpais.com/fotogaleria/Arte/Tipografia/Tipografia/Arte/4708-1/elpgal/) que son de [una exposición](http://blogs.que.es/3043/2007/12/2/las-letras-engrandecidas-arte) relacionada con el mismo libro. La obra que adjuntamos es «Physis» de Chillida.
 
 La clásificación que se utiliza en el libro mencionado es la siguiente:
 
@@ -41,7 +42,7 @@ La clásificación que se utiliza en el libro mencionado es la siguiente:
 
 Primero fue un tal Johannes Gensfleisch, llamado [Gutemberg](http://es.wikipedia.org/wiki/Johannes_Gutenberg), que utilizaba una [tipografía gótica](http://es.wikipedia.org/wiki/Letra_g%C3%B3tica); esta tipografía imita un poco las formas antiguas, es muy adornada, y probalbemente es quizá la más artística, en el sentido tradicional, ahora bien, su fuerte no es la sutileza y la legibilidad; aunque desde entonces ha sido utilizada hasta nuestros días, de hecho es sorprendente la cantidad de veces que nos la podemos encontrar por la calle teniendo en cuenta que proviene del siglo XII; es la tipografía de [los grupos de Heavy](http://sofia-sj.blogspot.com/2009/08/frases-celebres-del-heavy-metal-1.html), de los [tatuajes](http://images.google.es/images?hl=es&client=firefox-a&rls=com.ubuntu%3Aen-US%3Aofficial&um=1&sa=1&q=frases+tatuajes&btnG=Buscar+im%C3%A1genes&aq=f&oq=); algunos locales la usan en sus carteles; es habitual en las marcas de [cerveza](http://www.estrellagalicia.es/html/es/00_HOME/00_home.asp) así como en las portadas de [algunos periódicos](http://www.lavozdegalicia.es/portada/index.htm); aunque su historia está claramente ligada al espíritu alemán, primero Lutero, luego el mismísimo Hitler llegó a considerarla como la tipografía nacional, la aria; al menos hasta que creyó que era [demasiado parecida a la tipografía hebrea](http://visualmente.blogspot.com/2005/06/la-historia-secreta-de-la-tipografa.html). Una de los tipos más famosos es el tipo [Fraktur](http://en.wikipedia.org/wiki/Fraktur_%28script%29).
 
-Poco más voy a decir ya que hay mucho de lo que hablar, para extender información este pequeño artículo de <a href="http://gabinetepericialsoler.com/index_archivos/descargas/documentoscopia/escrituragotica.pdf" class="broken_link" rel="nofollow">Juan José Marcos</a>. Y una web de descargas de tipos góticos por <a href="http://moorstation.org/typoasis/designers/steffmann/index.htm" target="_blank">Dieter Steffman.</a>
+Poco más voy a decir ya que hay mucho de lo que hablar, para extender información este pequeño artículo de [Juan José Marcos](http://gabinetepericialsoler.com/index_archivos/descargas/documentoscopia/escrituragotica.pdf). Y una web de descargas de tipos góticos por [Dieter Steffman.](http://moorstation.org/typoasis/designers/steffmann/index.htm)
 
 &nbsp;
 
@@ -112,10 +113,10 @@ Y ya con esto acabamos con las romanas, dejamos, no obstante, un pequeño resume
   * [Pradell](http://es.wikipedia.org/wiki/Pradell_%28tipograf%C3%ADa%29) ([ejemplo](http://www.tdc.org/news/2002Results/Pradell.html)) ([Andreu Balius](http://www.andreubalius.com/), 2003).
 
 <div>
-</div>
+
 
 Como curiosidad podemos incluir una recreación tipográfica basada en la columna de trajano que es el [tipo Trajan](http://es.letrag.com/tipografia.php?id=145) y que es también una tipografía muy presente en nuestras vidas, sin ir más lejos en las portadas de la mayoría de los títulos de películas, y si no se creen que una de las tipografías más antiguas aparezce en las pantallas más modernas, sean o no de plasma, vean este [video](http://goodiebag.tv/episodes/06_trajan_is_the_movie_font.htm).
 
-Dejamos para otro día los <a href="http://entelequia.bligoo.com/content/view/602160/El-arte-invisible-de-los-tipos-II.html#content-top" class="broken_link" rel="nofollow">tipos Neoclásicos, los Egipcios</a>; y por su puesto&#8230; Los tipos de Palo.
+Dejamos para otro día los [tipos Neoclásicos, los Egipcios](http://entelequia.bligoo.com/content/view/602160/El-arte-invisible-de-los-tipos-II.html#content-top); y por su puesto&#8230; Los tipos de Palo.
 
 (Imagenes de la Wikipedia)

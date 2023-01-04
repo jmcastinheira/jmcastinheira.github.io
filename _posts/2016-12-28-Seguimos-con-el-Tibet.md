@@ -4,11 +4,12 @@ date: 2016-12-28
 generator: pandoc
 title: Seguimos con el Tibet
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Seguimos con el Tibet cuando China acaba de admitir que han asesinado a
 más manifestantes de los que inicialmente reconocían, y a día de hoy

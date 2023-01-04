@@ -3,11 +3,12 @@ id: 796
 title: De la posibilidad de decir verdad en poesía I
 date: 2017-01-16T18:49:13+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=796
 permalink: /la-posibilidad-decir-verdad-poesia-i/
 image: /docs/assets/images/Senegal_village_well.jpg
 categories:
+  - Blog
   - Artículo
   - Poesía
 tags:
@@ -46,7 +47,7 @@ Ahora, como suena un poco cursi, podemos modificarla, «desestrofarla» levement
 
 Vale, no es el mejor poema del mundo pero da el pego. Lo acabo de hacer sin pensar en nada; no estoy más triste que de costumbre, ni sé de qué lamento se habla, ni qué es ese amor que tanto hiere. Simplemente he tomado las palabras más usadas en poesía y las he juntado. Luego he usado un tono triste y punto.
 
-Estoy seguro que poco a poco podría ir haciendo poemas de más y más calidad con esta técnica, independientemente de la «realidad» de lo dicho. Reconozco que ahora estoy un poco desentrenado, pero en «<a href="http://entelequia.bligoo.com/content/view/452552/Libro_Pequeno_estudio_de_la_verdad.html" class="broken_link" rel="nofollow">Pequeño estudio de la verdad</a>» utilizé, un poco, esta idea de «desestrofar»; aunque allí sí que intentamos ser sinceros, y no nos quejamos del resultado.
+Estoy seguro que poco a poco podría ir haciendo poemas de más y más calidad con esta técnica, independientemente de la «realidad» de lo dicho. Reconozco que ahora estoy un poco desentrenado, pero en «[Pequeño estudio de la verdad](http://entelequia.bligoo.com/content/view/452552/Libro_Pequeno_estudio_de_la_verdad.html)» utilizé, un poco, esta idea de «desestrofar»; aunque allí sí que intentamos ser sinceros, y no nos quejamos del resultado.
 
 Está claro que un poema como el que acabamos de hacer no dice nada real ¿no? Sin embargo, algunos poetas han defendido que el poema se independiza de su autor; así que realmente no importa si el autor sentía o no lo que dice que sentía, lo que importa es la verdad del poema en si mismo. Según esta idea el poema adquiriría una verdad propia fundada en su coherencia interna. Es decir, nos sonaría raro si alguien dijera «tanto te quiero que huyo cuando te veo»&#8230; No sé, eso no parece coherente. Por el contrario parecen más coherentes otras expresiones como «me muero si no estás» o «por ti me muero» etc&#8230; Veamos la última famosa estrofa de [este poema](http://www.lcc.uma.es/%7Eperez/sonetos/garcilaso.html) del gran Garcilaso:
 

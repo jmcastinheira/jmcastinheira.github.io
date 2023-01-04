@@ -1,6 +1,7 @@
 ---
 tags: [ania, serpiente, análisis]
-categories: [Análisis]
+categories:
+  - Blog [Análisis]
 title: 'La Serpiente'
 ---
 

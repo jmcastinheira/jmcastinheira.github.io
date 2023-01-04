@@ -1,6 +1,7 @@
 ---
 tags: [situaciones, mirada]
-categories: [gaviotas]
+categories:
+  - Blog [gaviotas]
 title: 'Videos no grabados'
 ---
 

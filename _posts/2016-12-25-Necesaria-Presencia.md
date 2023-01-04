@@ -4,15 +4,12 @@ date: 2016-12-25
 generator: pandoc
 title: Necesaria Presencia
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
-
 Por Juan Vidal Fraga.
-
- 
 
 Lo sepan o no, todos los seres humanos necesitamos su presencia. La
 vida, sin ella, es algo roto, pobre y triste. Su ausencia genera un

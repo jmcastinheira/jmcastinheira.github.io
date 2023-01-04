@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Consideraciones acerca del artículo 20. II
 categories:
+  - Blog
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 **2.** **¿Son las webs de enlaces ejercicio de la libertad de
 expresión?**

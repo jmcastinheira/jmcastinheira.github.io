@@ -3,11 +3,12 @@ id: 557
 title: 'Intrahistoria: Reunión de Bibliotecarios'
 date: 2017-01-05T17:40:20+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=557
 permalink: /intrahistoria-reunion-bibliotecarios/
 image: /docs/assets/images/501809933_493e27290b-500x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog
@@ -19,8 +20,8 @@ tags:
   
   <p id="caption-attachment-1166" class="wp-caption-text">
     Imagen de http://farm1.static.flickr.com/228/501809933_493e27290b.jpg
-  </p>
-</div>
+  
+
 
 Hoy voy a contar una pequeña intrahistoria que me resulta especialmente divertida al estar relacionada con mi profesión, la de bibliotecario o documentalista. Ocurrió hace ya un tiempo, tanto que casi podría decir lo de en una galaxia muy lejana.
 

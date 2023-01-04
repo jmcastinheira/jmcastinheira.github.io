@@ -3,11 +3,12 @@ id: 581
 title: Fallece Michael Crichton
 date: 2016-12-28T23:12:29+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=581
 permalink: /fallece-michael-crichton/
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Autores
 tags:
   - Blog

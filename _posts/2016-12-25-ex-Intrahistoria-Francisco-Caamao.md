@@ -4,16 +4,13 @@ date: 2016-12-25
 generator: pandoc
 title: "ex-Intrahistoria: Francisco Caamaño"
 categories:
+  - Blog
 - Intrahistoria
 - Autores
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
-
-::: {#title-block-header}
-
-<div>
 
 Conocí a Francisco Caamaño cuando estaba en segundo de carrera, en la
 f[acultad de Derecho de la
@@ -56,8 +53,6 @@ y nos explicó algo de la hipotética constitución de
 un tal artículo [9.3
 CE](http://noticias.juridicas.com/base_datos/Admin/constitucion.tp.html)
 no teníamos ni idea.
-
-
 
 Bueno, el caso es que tras este profesor sustituto y un buen día, sin
 que nadie nos dijera nada; apareció antes de tiempo (porque las clases

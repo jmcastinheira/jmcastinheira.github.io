@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Porqué no estoy a favor de las corridas de toros
 categories:
+  - Blog
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 A caballo de la siguiente intervención de Jesús Mosterín en el Parlament
 Catalán de hace ya algún tiempo, se ha suscitado un debate en otros

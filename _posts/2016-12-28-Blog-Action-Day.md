@@ -4,12 +4,13 @@ date: 2016-12-28
 generator: pandoc
 title: Blog Action Day.
 categories:
+  - Blog
 - Autores
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Hacía, bastante tiempo que no escribía en el blog, bueno, una serie de
 ocupaciones me tenían atrapado, entre ellas un examen de opo que

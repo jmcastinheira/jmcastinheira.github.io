@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Pericles y la Red SOStenible
 categories:
+  - Blog
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-702323 .content-body}
 Siguiendo los pasos de la lucha por la libertad en la red los

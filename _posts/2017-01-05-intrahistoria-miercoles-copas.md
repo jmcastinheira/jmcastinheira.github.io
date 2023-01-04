@@ -3,11 +3,12 @@ id: 636
 title: 'Intrahistoria: Miércoles de copas'
 date: 2017-01-05T17:40:20+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=636
 permalink: /intrahistoria-miercoles-copas/
 image: /docs/assets/images/futbol-1000x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog
@@ -19,8 +20,8 @@ tags:
   
   <p class="wp-caption-text">
     Imagen de http://images.memorix.nl
-  </p>
-</div>
+  
+
 
 **[Uxío PR]** Ésta es la segunda intrahistoria que tiene como fondo el fútbol, aunque lo sorprendente de ella no es exactamente este deporte. Fue algo que me ocurrió hace unos cuatro años, en la ciudad gallega de Ferrol. Era un miércoles de esos que ponen un gran partido de copa de Europa, pero era necesario estar abonado a un canal de pago para verlo.
 

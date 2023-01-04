@@ -4,6 +4,7 @@ date: 2007-04-23
 generator: pandoc
 title: Equivocación 1. (Zubiri)
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---

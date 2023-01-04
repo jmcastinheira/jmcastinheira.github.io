@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Consideraciones acerca del artículo 20 CE
 categories:
+  - Blog
 - Autores
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Y ya sabemos lo que dice el 20 no? :
 

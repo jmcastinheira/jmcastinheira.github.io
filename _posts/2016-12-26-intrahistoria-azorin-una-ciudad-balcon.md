@@ -3,11 +3,12 @@ id: 225
 title: 'Intrahistoria: Azorín, Una ciudad y un balcón.'
 date: 2016-12-26T00:06:11+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=225
 permalink: /intrahistoria-azorin-una-ciudad-balcon/
 image: /docs/assets/images/balcony-1700201_640.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog
@@ -59,4 +60,3 @@ En el primer balcón de la izquierda, allá en la casa de piedra que está en la
 Imagen de: «<http://www.arteyfotografia.com.ar/contenido/objetos/10/df/57/10df57684a9a1c3e3b612cbdaa542fb579a39a1e/8197_1238429126672456.jpg>»
 
 <div id="ads-parked-11" class="ads-parked-11">
-</div>

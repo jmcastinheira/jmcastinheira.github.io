@@ -4,6 +4,7 @@ date: 2007-04-13
 generator: pandoc
 title: Seguimos con Zubiri (Introducción)
 categories:
+  - Blog
 - Frase
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes

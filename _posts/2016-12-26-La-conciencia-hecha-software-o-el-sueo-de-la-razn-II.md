@@ -4,13 +4,14 @@ date: 2016-12-26
 generator: pandoc
 title: La conciencia hecha software o el sueño de la razón II
 categories:
+  - Blog
 - Autores
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Seguimos con los prerrequisitos para entender el proyecto de la
 Inteligencia Artificial. Quizá sea necesario repasarse la primera parte

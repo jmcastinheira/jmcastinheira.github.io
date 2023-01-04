@@ -4,11 +4,12 @@ date: 2017-01-05
 generator: pandoc
 title: Más opiniones sobre este futuro sido que es el presente.
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Y otra vez Iñaki.
 

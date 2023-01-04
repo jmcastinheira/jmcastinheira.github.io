@@ -1,6 +1,7 @@
 ---
 tags: [cuevas_del_valle, matanzas ]
-categories: [matanzas, canciones, alma]
+categories:
+  - Blog [matanzas, canciones, alma]
 title: 'Cancionero'
 ---
 

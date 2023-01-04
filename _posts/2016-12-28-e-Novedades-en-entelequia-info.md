@@ -4,12 +4,13 @@ date: 2016-12-28
 generator: pandoc
 title: e... Novedades en entelequia... \[info\]
 categories:
+  - Blog
 - Poesía
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 e...
 

@@ -3,7 +3,7 @@ id: 963
 title: 'Comunicación analógica:'
 date: 2007-06-25T12:01:00+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/comunicacion-1-comunicacion-analogica/
 permalink: /comunicacion-1-comunicacion-analogica/
 blogger_blog:
@@ -16,6 +16,7 @@ blogger_internal:
   - /feeds/5306117009195603500/posts/default/5699482426377877329
 image: /docs/assets/images/niña_telefono-328x288.jpg
 categories:
+  - Blog
   - Artículo
   - Contextopedia
 tags:

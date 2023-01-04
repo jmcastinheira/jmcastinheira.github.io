@@ -4,6 +4,7 @@ date: 2007-11-04
 generator: pandoc
 title: Pequeño estudio de la verdad (estudio)
 categories:
+  - Blog
 - Frase
 - Poesía
 - Poema

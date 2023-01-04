@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Herramientas para salir de la crisis I
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 En vista de que las cosas se ponen cada vez peor, y que poco o nada
 anticipa que las cosas vayan a cambiar, he empezado a tararear como hago

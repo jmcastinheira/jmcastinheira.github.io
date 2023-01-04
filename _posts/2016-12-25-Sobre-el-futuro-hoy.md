@@ -4,14 +4,14 @@ date: 2016-12-25
 generator: pandoc
 title: Sobre el futuro hoy
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
 
-***1. «He visto otros mundos pero están en este», o la riqueza de
-mundos***:
+# «He visto otros mundos pero están en este», o la riqueza de
+mundos:
 
 Conozco en el blog de [David de
 Ugarte](http://www.deugarte.com/sobre-los-paises-virtuales) (*que
@@ -52,7 +52,7 @@ modo en que tenemos de cubrir necesidades) **¿Cómo vamos a hablar de
 identidades nacionales, si no estamos seguros de poder hablar de
 identidades personales?**.
 
-***2. Organizar todos los mundos.***
+# 2. Organizar todos los mundos.
 
 Si queremos conseguir posibilitar la organización de un conjunto de
 personas (vamos a evitar por tanto el término de identidades personales)
@@ -105,7 +105,7 @@ infinitas historias, con infinitas culturas, con infinitas lenguas?**
 cada una de las identidades personales de todas las personas, en cada
 uno de los contextos posibles).
 
-***2. 1 ¿Cómo?***
+## 2. 1 ¿Cómo?
 
 Ahora hay que tener en cuenta dos consideraciones, que **el poder no es
 más que un modo muy concreto de organización**, el que responde a un
@@ -122,7 +122,7 @@ eficientes que la derivada de la centralización del poder, pero antes
 debemos analizar la comunicación misma, y es lo que constituye la
 segunda consideración.
 
-**2.1.1 La comunicación como fundamento de la organización**:
+### 2.1.1 La comunicación como fundamento de la organización:
 
 Por otro lado hemos de ser también conscientes de que **para que la
 comunicación sea posible es necesario partir ya de algo común**, porque
@@ -180,7 +180,7 @@ complejidad está más cercana a la realidad, porque es más dinámica,
 tiene menos exigencias, y por tanto es más adaptativa y difífilmente
 dejará de ser informativa.
 
-**2.1.2 ¿Cómo es una organización basada en comunicación distribuída?**
+### 2.1.2 ¿Cómo es una organización basada en comunicación distribuída?
 
 Aunque nosotros hemos propuesto el experimento del «[Proyecto
 Pericles](http://entelequia.bligoo.com/content/view/677538/Manifiesto-nuevas-reuniones-y-el-Proyecto-Pericles.html#content-top)»
@@ -204,7 +204,7 @@ sociedad civil se organize por medio de filés acabe emergiendo una
 organización política?** Y tenemos que decir,
 [probablemente](http://lasindias.net/indianopedia/Objetivos_de_la_fil%C3%A9_a_25_a%C3%B1os).
 
-**3. Concluyendo.**
+# 3. Concluyendo.
 
 La lucha de toda organización ha de ser el mantenimiento de una
 comunicación con una densidad comunicativa siempre suficiente, y esto

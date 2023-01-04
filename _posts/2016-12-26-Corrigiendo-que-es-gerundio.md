@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Corrigiendo que es gerundio.
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Parece ser que la [Secretaría de Estado de
 Comunicación](http://www.mpr.es/Ministerio+de+la+Presidencia/SecretariaEstadoComunicacion/funciones.htm) 

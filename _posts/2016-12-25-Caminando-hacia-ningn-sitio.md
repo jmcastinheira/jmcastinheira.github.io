@@ -4,13 +4,12 @@ date: 2016-12-25
 generator: pandoc
 title: Caminando hacia ningún sitio.
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
-
-por Juan Vidal Fraga
+Este es un artículo de Juan Vidal Fraga
 
 Nunca me pareció correcto reducir el adjetivo camaleón, a ese simpático
 animalito que cambia de color según el lugar en que se encuentre. Todo

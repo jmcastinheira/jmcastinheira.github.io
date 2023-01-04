@@ -3,23 +3,24 @@ id: 569
 title: Santa Wiborada, Patrona de los Bibliotecarios
 date: 2016-12-28T23:12:29+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=569
 permalink: /santa-wiborada-patrona-los-bibliotecarios/
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Autores
 tags:
   - bibiloteconomia
   - Uxio
 ---
 <div style="width: 301px" class="wp-caption alignleft">
-  <img class="size-full" src="http://www.preguntasantoral.es/docs/assets/images/2010/09/Miniatura.jpg?v=1329904229300" alt="Imagen Santa Wiboranda extraída de la web preguntasantoral.es" width="291" height="500" />
+  ![](http://www.preguntasantoral.es/docs/assets/images/2010/09/Miniatura.jpg?v=1329904229300)
   
   <p class="wp-caption-text">
     Imagen Santa Wiboranda extraída de la web preguntasantoral.es
-  </p>
-</div>
+  
+
 
 [Por Uxío PR] Pues hoy,cosas que pasan, voy a daros a conocer a la patrona de los bibliotecarios, una santa llamada Santa Wiborada, cuyas acciones y sacrificios le valieron para ser, además, la primera mujer canonizada por un Papa, Clemente II en el 1047, ya ha llovido&#8230;
 

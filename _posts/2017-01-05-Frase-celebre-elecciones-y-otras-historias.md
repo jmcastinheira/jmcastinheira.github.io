@@ -4,12 +4,13 @@ date: 2017-01-05
 generator: pandoc
 title: "Frase celebre: elecciones y otras historias."
 categories:
+  - Blog
 - Frase
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 > *Vota a aquel que prometa menos. Será el que menos te decepcione.»*
 >

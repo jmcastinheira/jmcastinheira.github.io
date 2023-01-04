@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: ¡¡¡El Sol también se mueve!!!
 categories:
+  - Blog
 - Frase
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Por Uxío P.R
 

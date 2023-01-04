@@ -3,11 +3,12 @@ id: 466
 title: 'Frase Célebre: El Tiempo'
 date: 2017-01-05T17:40:20+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=466
 permalink: /frase-celebre-tiempo/
 image: /docs/assets/images/pensador.jpg
 categories:
+  - Blog
   - Citas
 tags:
   - Blog

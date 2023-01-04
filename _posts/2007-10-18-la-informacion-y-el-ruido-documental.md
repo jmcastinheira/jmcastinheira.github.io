@@ -3,7 +3,7 @@ id: 937
 title: La información y el ruido documental
 date: 2007-10-18T15:39:00+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/la-informacion-y-el-ruido-documental/
 permalink: /la-informacion-y-el-ruido-documental/
 blogger_blog:
@@ -16,6 +16,7 @@ blogger_internal:
   - /feeds/5306117009195603500/posts/default/9216608292050382202
 image: /docs/assets/images/book-610189_640.jpg
 categories:
+  - Blog
   - Artículo
   - Aulo
   - Contextopedia
@@ -38,4 +39,4 @@ El fenómeno del ruido documental se produce cuando, tras realizar una búsqueda
 El ruido y el silencio documental se presentan debido a diferentes causas. Una de ellas es la ausencia de una utilización óptima y adecuada de lenguajes documentales que normalicen y orienten los procesos de análisis de la información y por ende los procesos de recuperación de la misma. Con tanta información, parece evidente que debemos prestar atención a su optimización.
 
 <a href="http://creativecommons.org/licenses/by/2.5/es/" rel="license"><img style="border-width: 0pt;" src="http://i.creativecommons.org/l/by/2.5/es/80x15.png" alt="Creative Commons License" /></a>  
-<span style="font-style: italic; font-size: 78%;">«Información y Ruído documental»</span> <span style="font-size: 78%;">by <a href="http://www.blogger.com/profile/16561070545784607328" rel="cc:attributionURL">Uxio PR</a><br /> is licensed under a <a href="http://creativecommons.org/licenses/by/2.5/es/" rel="license">Creative Commons Recoñecemento 2.5 España License</a>.</span>
+<span style="font-style: italic; font-size: 78%;">«Información y Ruído documental» by [Uxio PR](http://www.blogger.com/profile/16561070545784607328) is licensed under a [Creative Commons Recoñecemento 2.5 España License](http://creativecommons.org/licenses/by/2.5/es/).

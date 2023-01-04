@@ -4,13 +4,14 @@ date: 2016-12-27
 generator: pandoc
 title: Revista (seguimos)
 categories:
+  - Blog
 - Autores
 - Poema
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-132057 .content-body}
 [![](http://escritores.files.wordpress.com/2007/06/foto-revista-internet.jpg){.alignleft

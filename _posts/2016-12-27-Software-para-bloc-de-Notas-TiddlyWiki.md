@@ -4,12 +4,13 @@ date: 2016-12-27
 generator: pandoc
 title: "Software para bloc de Notas: TiddlyWiki"
 categories:
+  - Blog
 - Poesía
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 He estado colocando algunas novedades en el blog, como la creación de
 una página que se basa en un software llamado

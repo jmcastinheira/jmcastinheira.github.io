@@ -4,6 +4,7 @@ date: 2007-11-13
 generator: pandoc
 title: Música Gallega
 categories:
+  - Blog
 - Concepto
 - Música
 tags:

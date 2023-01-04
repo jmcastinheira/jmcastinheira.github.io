@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: La belleza de lo efimero.
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Hoy he visto [este
 corto,](http://garciamedia.com/latinamerica/blog/articles/la_brevedad/)

@@ -4,12 +4,13 @@ date: 2017-01-01
 generator: pandoc
 title: El tren (Intrahistoria)
 categories:
+  - Blog
 - Intrahistoria
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {#attachment_1178 .wp-caption .alignleft style="width: 310px"}
 [![Imagen vias de

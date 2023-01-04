@@ -4,6 +4,7 @@ date: 2007-11-05
 generator: pandoc
 title: Las Clasificaciones en la Empresa
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---

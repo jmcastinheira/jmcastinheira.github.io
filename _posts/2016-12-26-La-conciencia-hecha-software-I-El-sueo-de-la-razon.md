@@ -4,12 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: "La conciencia hecha software I: El sueño de la razon."
 categories:
+  - Blog
 - Concepto
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 **O ¿Pueden pensar las máquinas?**
 

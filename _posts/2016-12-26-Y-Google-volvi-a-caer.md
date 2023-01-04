@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Y Google volvió a caer...
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-454297 .content-body}
 ![](http://www.our-picks.com/docs/assets/images/2007/04/gmail-logo-google-tm.jpg){.alignleft

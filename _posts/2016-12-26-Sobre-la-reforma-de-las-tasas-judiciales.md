@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Sobre la reforma de las tasas judiciales
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 No puedo hacer ahora una valoración detenida de la reforma operada por
 el [Real Decreto-ley

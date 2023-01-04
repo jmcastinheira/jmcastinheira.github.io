@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: "Norilsk: Una ciudad en un infierno"
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 \[Por Uxío\] Es el núcleo urbano más al norte de Siberia, tras Múrmansk,
 que se encuentra al norte del Círculo Polar Ártico. Norilsk y Yakutsk

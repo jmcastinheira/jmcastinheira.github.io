@@ -4,13 +4,14 @@ date: 2016-12-26
 generator: pandoc
 title: Democracia en crisis
 categories:
+  - Blog
 - Autores
 - Frase
 
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Supongo que siempre es buen momento para repasar el estado de los
 sistemas que permiten organizarnos, pararse un instante y examinar el

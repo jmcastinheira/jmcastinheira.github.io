@@ -4,11 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Luz con 6.800 millones de años de antigüedad
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 \[Uxío PR\] Un grupo de científicos de varias nacionalidades están
 llevando a cabo un interesante proyecto, combinar dos telescopios de

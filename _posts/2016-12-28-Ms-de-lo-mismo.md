@@ -4,11 +4,12 @@ date: 2016-12-28
 generator: pandoc
 title: Más de lo mismo
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 ::: {style="text-align: justify;"}
 Antes de continuar el camino por las sendas de mi mente, la Realidad

@@ -4,11 +4,12 @@ date: 2016-12-25
 generator: pandoc
 title: \[Micro-relato\] Una noche sin dormir
 categories:
+  - Blog
 - Concepto
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-::: {#title-block-header}
+
 
 Por Uxío P.R.
 
