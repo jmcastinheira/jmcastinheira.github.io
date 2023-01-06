@@ -3,11 +3,12 @@ id: 431
 title: 'Metáforas equivocadas: El amor'
 date: 2017-01-15T20:07:38+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=431
 permalink: /metaforas-equivocadas-amor/
 image: /docs/assets/images/niña-1000x288.jpg
 categories:
+  - Blog
   - Metaforas
 tags:
   - Blog

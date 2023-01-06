@@ -1,6 +1,7 @@
 ---
 tags: [general, bibliografia]
-categories: [general]
+categories:
+  - Blog [general]
 #date: 2021-08-08 13:14:15
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'

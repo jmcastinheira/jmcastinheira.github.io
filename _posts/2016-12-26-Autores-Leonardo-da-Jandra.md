@@ -4,13 +4,21 @@ date: 2016-12-26
 generator: pandoc
 title: "Autores: Leonardo da Jandra"
 categories:
+<<<<<<< HEAD
   - Autores
 
+=======
+  - Blog
+- Autores
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 Gracias a Manuel Gago de [Capitulo
 0](http://www.manuelgago.org/blog/index.php/2009/08/14/un-raro-intelectual-chamado-leonardo-da-jandra/),
 conozco a este autor que la verdad me interesó profundamente, a

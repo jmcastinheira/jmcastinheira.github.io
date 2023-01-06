@@ -3,11 +3,12 @@ id: 240
 title: 'Metáforas equivocadas: El Software.'
 date: 2016-12-26T00:21:39+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=240
 permalink: /metaforas-equivocadas-software/
 image: /docs/assets/images/mujer_telefono-640x288.jpg
 categories:
+  - Blog
   - Metaforas
 tags:
   - Blog

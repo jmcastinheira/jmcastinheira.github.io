@@ -3,7 +3,7 @@ id: 1000
 title: Jon Sobrino
 date: 2007-03-30T12:42:00+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/jon-sobrino/
 permalink: /jon-sobrino/
 blogger_blog:
@@ -16,6 +16,7 @@ blogger_internal:
   - /feeds/5306117009195603500/posts/default/4870664310185628349
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Autores
   - Filosofía
 tags:

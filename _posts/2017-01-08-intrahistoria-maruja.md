@@ -3,11 +3,12 @@ id: 559
 title: 'Intrahistoria: Maruja'
 date: 2017-01-08T22:54:02+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=559
 permalink: /intrahistoria-maruja/
 image: /docs/assets/images/Días_calientes.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog
@@ -18,8 +19,8 @@ tags:
   
   <p id="caption-attachment-1365" class="wp-caption-text">
     De wikipedia.org/wiki/Archivo:Días_calientes.jpg
-  </p>
-</div>
+  
+
 
 María se llamaba Maruja, hija de Mariana. Ella era, como se decía antes, de alta e importante condición. Pero a Maruja le parecían pamplinas los excesos de importancia ciertamente a su casa iban las marquesas, no sé si este era el título, de Rubianes; condesas de Romanones, ministros como Montero Ríos, dueños de pazos y destinos que nunca un marinero podría soñar; pero iban, eso si, a pelar patatas o hacer la comida&#8230; Porque doña Maruja tenía un padrastro en el dedo y una inteligencia que superaba la media. Otras veces era Maruja la que se acercaba a que le invitaran, otra vez las dueñas de flamantes edificaciones o de fincas llenas de verde y agua que bañaba el jardín. La mayor parte del tiempo se acercaba a sus amigas las Carrechas, dueñas del Lagar, un pazo convertido en restaurante. Aún lo recuerdo cuando todavía estaba vestido de arte y agricultura; y no luego que lo dejaron moderno y lujoso, y dónde, según creo, habían desterrado ya, el lagar que le daba nombre. Allí Maruja nunca pagó un sólo plato, aunque les aseguro que la comida del Lagar era digna de un buen sueldo.
 

@@ -3,7 +3,7 @@ id: 204
 title: El arte invisible de los tipos
 date: 2011-01-01T10:54:36+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=204
 permalink: /arte-invisible-los-tipos/
 wpgs_notice_id:
@@ -16,6 +16,7 @@ wpgs_laste_komentis:
   - 2017-03-01 10:57:37
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Artículo
 tags:
   - Blog
@@ -112,7 +113,7 @@ Y ya con esto acabamos con las romanas, dejamos, no obstante, un pequeño resume
   * [Pradell](http://es.wikipedia.org/wiki/Pradell_%28tipograf%C3%ADa%29) ([ejemplo](http://www.tdc.org/news/2002Results/Pradell.html)) ([Andreu Balius](http://www.andreubalius.com/), 2003).
 
 <div>
-</div>
+
 
 Como curiosidad podemos incluir una recreación tipográfica basada en la columna de trajano que es el [tipo Trajan](http://es.letrag.com/tipografia.php?id=145) y que es también una tipografía muy presente en nuestras vidas, sin ir más lejos en las portadas de la mayoría de los títulos de películas, y si no se creen que una de las tipografías más antiguas aparezce en las pantallas más modernas, sean o no de plasma, vean este [video](http://goodiebag.tv/episodes/06_trajan_is_the_movie_font.htm).
 

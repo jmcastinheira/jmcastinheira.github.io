@@ -3,11 +3,12 @@ id: 339
 title: 'Autores: Paul Otlet, y su visión del libro electrónico'
 date: 2016-12-28T23:09:30+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=339
 permalink: /autores-paul-otlet-vision-del-libro-electronico/
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Autores
 tags:
   - Blog

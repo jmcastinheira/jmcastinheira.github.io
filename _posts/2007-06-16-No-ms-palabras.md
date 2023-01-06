@@ -4,8 +4,13 @@ date: 2007-06-16
 generator: pandoc
 title: No más palabras
 categories:
+<<<<<<< HEAD
   - Poema
 
+=======
+  - Blog
+- Poema
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 

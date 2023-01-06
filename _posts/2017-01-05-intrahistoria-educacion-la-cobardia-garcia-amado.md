@@ -3,11 +3,12 @@ id: 709
 title: 'Intrahistoria: Educación para la cobardía (García Amado)'
 date: 2017-01-05T17:40:20+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=709
 permalink: /intrahistoria-educacion-la-cobardia-garcia-amado/
 image: /docs/assets/images/boy-1835937_640-640x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog

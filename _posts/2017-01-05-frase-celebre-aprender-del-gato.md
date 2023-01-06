@@ -3,11 +3,12 @@ id: 406
 title: 'Frase Célebre: Aprender del gato'
 date: 2017-01-05T17:40:20+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=406
 permalink: /frase-celebre-aprender-del-gato/
 image: /docs/assets/images/pensador.jpg
 categories:
+  - Blog
   - Citas
 tags:
   - Blog

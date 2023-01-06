@@ -3,11 +3,12 @@ id: 740
 title: 'Intrahistoria: Goles desde el olvido'
 date: 2017-01-14T16:51:15+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=740
 permalink: /intrahistoria-goles-desde-olvido/
 image: /docs/assets/images/futbol-1000x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog
@@ -18,8 +19,8 @@ tags:
   
   <p id="caption-attachment-1186" class="wp-caption-text">
     Imagen de http://images.memorix.nl
-  </p>
-</div>
+  
+
 
 **[Uxío PR]** Volviendo a mi casa, en solitario, de otro modo nunca me habría puesto a pensar en estas cosas, me fijé en un hombre de los que ahora llaman “sin-techo”, que se acurrucaba con timidez entre un buzón de correos y una señal de prohibido aparcar, en frente de un escaparate con una enorme pantalla de plasma en la que puede verse el fútbol.
 

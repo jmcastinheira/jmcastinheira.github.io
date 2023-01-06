@@ -4,7 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: "Fotografiando el desastre (Aviso: Las imágenes pueden herir su
 categories:
+<<<<<<< HEAD
   - Concepto
+=======
+  - Blog
+- Concepto
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
   sensibilidad)"
 
 ---

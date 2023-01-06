@@ -4,12 +4,20 @@ date: 2016-12-25
 generator: pandoc
 title: Los Pilares de la Libertad
 categories:
+<<<<<<< HEAD
   - Concepto
 
 ---
 
 
 
+=======
+  - Blog
+- Concepto
+viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+---
+
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 Por Juan Vidal Fraga.
 
 A LIBERTAD,como todo, necesita algo que la sustente, no se mantiene en

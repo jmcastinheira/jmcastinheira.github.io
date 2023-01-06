@@ -4,8 +4,14 @@ date: 2007-11-05
 generator: pandoc
 title: Las Clasificaciones en la Empresa
 categories:
+<<<<<<< HEAD
   - Concepto
 
+=======
+  - Blog
+- Concepto
+viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 ---
 
 [![](http://www.therhodesgroup.com/images/images/CitiCorp-Library-Tower--Gas.jpg){style="margin: 0px 10px 10px 0px; float: left; width: 200px;"

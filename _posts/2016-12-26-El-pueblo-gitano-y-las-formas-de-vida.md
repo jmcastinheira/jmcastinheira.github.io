@@ -4,8 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: El pueblo gitano y las formas de vida.
 categories:
+<<<<<<< HEAD
   - Concepto
 
+=======
+  - Blog
+- Concepto
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 

@@ -4,8 +4,13 @@ date: 2016-12-28
 generator: pandoc
 title: Artículos más leídos de entelequia.
 categories:
+<<<<<<< HEAD
   - Concepto
 
+=======
+  - Blog
+- Concepto
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 

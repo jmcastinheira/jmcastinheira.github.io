@@ -4,7 +4,12 @@ date: 2016-12-28
 generator: pandoc
 title: Blogs para hoy y siempre.
 categories:
+<<<<<<< HEAD
   - Intrahistoria
+=======
+  - Blog
+- Intrahistoria
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 - Autores
 - Poema
 

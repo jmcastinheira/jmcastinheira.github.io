@@ -4,12 +4,20 @@ date: 2016-12-26
 generator: pandoc
 title: Ciberactivismo. (introducción)
 categories:
+<<<<<<< HEAD
   - Concepto
 
 ---
 
 
 
+=======
+  - Blog
+- Concepto
+viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+---
+
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 Pretendo con este post, y los que vengan, responder a una pregunta
 dificil que me hizo TO+no+ de
 [Akno+](http://acanomas.bligoo.com/content), sobre cuales eran los pasos
@@ -31,7 +39,9 @@ sociales](http://www.deugarte.com/gomi/historia_del_analisis_de_redes_sociales.p
 de David de Ugarte; o el ya clásico «[El Poder de las
 redes](http://www.deugarte.com/manual-ilustrado-para-ciberactivistas)«
 
-**El Ciberactivismo**:es según De Ugarte:»*toda estrategia que persigue
+# El Ciberactivismo:
+
+es según De Ugarte:»*toda estrategia que persigue
 el cambio de la agenda pública, la inclusión de un nuevo tema en el
 orden del día de la gran discusión social, mediante la difusión de un
 determinado mensaje y su propagación a través del «boca a boca»
@@ -60,7 +70,7 @@ debe preocuparse por algo más; esto es, porque esa impresión conduzca a
 una respuesta, una respuesta de cambio de actitud, de cambio de opinión
 respecto a un tema, la toma de una decisión etc...
 
-La respuesta:
+# La respuesta:
 
 Por todo esto hay que tener de primeras claro; no digo claro, digo
 clarísimo la respuesta que se quiere obtener del receptor de la
@@ -94,23 +104,17 @@ auténtica campaña que es perdurativa.
 
 Estos son los temas que vamos a tratar:
 
-1.  [**Los
-    blogs**](http://entelequia.bligoo.com/content/view/167332/Herramientas_del_ciberactivista_Primera_parte_Los_Blogs.html).
+1.  [**Los blogs**](http://entelequia.bligoo.com/content/view/167332/Herramientas_del_ciberactivista_Primera_parte_Los_Blogs.html).
     (contenido, discurso, diseño)
 2.  El discurso.
 3.  El diseño. (, plantilla)
-4.  [**La
-    estructura**](http://entelequia.bligoo.com/content/view/169356/Herramientas_del_ciberactivista_II_La_estructura.html)
+4.  [**La estructura**](http://entelequia.bligoo.com/content/view/169356/Herramientas_del_ciberactivista_II_La_estructura.html)
     (función, Debate,redes)
 5.  El debate. (foros, chats, redes)
 6.  Las redes. (Redes sociales, redes de blogs.)
-7.  [**Formas de
-    Actuación**](http://entelequia.bligoo.com/content/view/176816/Herramientas_del_ciberactivista_III_Formas_de_participacion.html)
+7.  [**Formas de Actuación**](http://entelequia.bligoo.com/content/view/176816/Herramientas_del_ciberactivista_III_Formas_de_participacion.html)
     (Marketing, colaboración, ciberturbas, otras acciones)
 8.  [**Marketing**](http://entelequia.bligoo.com/content/view/193482/Herramientas_de_Marketing_y_ciberactivismo_IV.html).
-    (eslogan, logos, banners, marketing Viral, marketing tipo digg,
-    blogs periodisticos, periodicos clásicos, mailing, SMS, publicidad,
-    El posicionamiento (SEO).)
+    (eslogan, logos, banners, marketing Viral, marketing tipo digg, blogs periodisticos, periodicos clásicos, mailing, SMS, publicidad, El posicionamiento (SEO).)
 
-Si quieres descargarlo entero
-[aqui](http://writer.zoho.com/public/auluses/Ciberactivismo/script).
+Si quieres descargarlo entero [aqui](http://writer.zoho.com/public/auluses/Ciberactivismo/script).

@@ -4,16 +4,25 @@ date: 2008-01-30
 generator: pandoc
 title: Sobre el concepto del derecho.
 categories:
+<<<<<<< HEAD
   - Concepto
 
+=======
+  - Blog
+- Concepto
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 
+<<<<<<< HEAD
 
 
 Había estado pensando hacer un artículo un poco complejo sobre [el
 derecho y la
 anarquía](http://enteleq1-cp23.wordpresstemporal.com/search/label/derecho%20y%20anarquia)
+=======
+Había estado pensando hacer un artículo un poco complejo sobre [el derecho y la anarquía](http://enteleq1-cp23.wordpresstemporal.com/search/label/derecho%20y%20anarquia)
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 pero he decidido simplificar todo lo posible el tema, la cuestión se
 traslada de *hacer un sistema de derecho libertario* a preguntarse qué
 sería lo necesario para poder añadir a un sistema de derecho el
@@ -21,14 +30,18 @@ calificativo de libertario; deberá seguir siendo derecho y seguir siendo
 libertario. Nos preocupamos ahora del concepto del derecho, aunque no
 daremos de momento nuestra propia respuesta.
 
-**¿Qué es el Derecho?** bueno, esto es una de las preguntas más
+# ¿Qué es el Derecho?
+
+bueno, esto es una de las preguntas más
 complicadas con las que nos podemos encontrar en las lindes jurídicas.
 Hay opiniones para todos los gustos lo cual facilita mucho nuestra labor
 pues nos basta con acercarnos a alguna de las muchas doctrinas que
 intentan explicarlo, tenemos tres grandes concepciones, el
 iusnaturalismo, el positivismo y el realismo:
 
-**Para el iusnaturalismo** el derecho es un conjunto axiológico; es
+## Para el iusnaturalismo
+
+el derecho es un conjunto axiológico; es
 decir, el derecho sería el arte de lo bueno y lo justo (*ars boni et
 aequi*) aunque a mi siempre me pareció un poco trasladar la cuestión de
 sitio, porque ahora tenemos el problema de decidir ¿Qué es lo bueno y lo
@@ -53,7 +66,9 @@ dios pondremos a la razón. El iusnaturalismo diría que el derecho hay
 que obedecerlo porque es lo justo y lo bueno, en los términos que antes
 dijimos.
 
-**El positivismo** renuncia a intentar responder a la cuestión de qué es
+## El positivismo
+
+renuncia a intentar responder a la cuestión de qué es
 lo bueno y lo justo y regresa a la pregunta ¿qué es el derecho? Para
 esta concepción derecho es la norma emitida por una autoridad
 competente, lo cual o bien es una confusión entre el auténtico concepto
@@ -99,7 +114,9 @@ todo esto hay que decir que el positivismo quedó herido de muerte cuando
 Hitler ascendió al poder y dictó normas válidas que ordenaban o
 permitían barbaridades.
 
-**El realismo** es una concepción bastante desconocida, también lo es
+## El realismo 
+
+es una concepción bastante desconocida, también lo es
 para mi, aunque tiene pinta de resultar interesante. Hay dos escuelas
 importantes; el realismo jurídico norteamericano y el realismo jurídico
 escandinavo o radical; ambas doctrinas niegan las posturas anteriores;

@@ -4,9 +4,14 @@ date: 2017-01-22
 generator: pandoc
 title: "Comunicación 1. Comunicación analógica:"
 categories:
+<<<<<<< HEAD
   - Concepto
 
 
+=======
+  - Blog
+  - Concepto
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 ---
 
 

@@ -3,11 +3,12 @@ id: 788
 title: Educadores por la paz
 date: 2013-08-19T08:58:21+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=788
 permalink: /educadores-la-paz/
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Opiniones
 tags:
   - Iniciativas

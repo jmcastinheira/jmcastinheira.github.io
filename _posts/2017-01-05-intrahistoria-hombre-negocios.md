@@ -3,11 +3,12 @@ id: 567
 title: 'Intrahistoria: Un hombre de negocios.'
 date: 2017-01-05T17:40:20+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=567
 permalink: /intrahistoria-hombre-negocios/
 image: /docs/assets/images/boy-1835937_640-640x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog
@@ -18,8 +19,8 @@ tags:
   
   <p id="caption-attachment-1164" class="wp-caption-text">
     Imagen de pixabay.com
-  </p>
-</div>
+  
+
 
 **[Moncho]** ¿Cuántas veces hemos oído hablar de exitosas carreras de negocios, muchas de las cuales son protagonizadas por personas de origen humilde? Piedras que un carácter resuelto, aun sin proponérselo, talla para sacar de ellas la misma forma de la virtud.
 
@@ -50,8 +51,11 @@ Manuel lloraba, su padre gritaba y la madre los miraba preocupada. Al rato, el n
 Ya en casa, aquel mal padre por un día, en un acto de redención, puso en la mano de su hijo un hermoso billete de veinte duros. En ese momento, Manuel supo que en el futuro el dinero estaría tan ligado a él como la herramienta al artesano.
 
 <div>
-</div>
+
 
 <div>
   foto de: [http://www.fotosearch.es/comp/PHT/PHT478/poco-nino-vestido_~PAA478000004.jpg](http://www.fotosearch.es/comp/PHT/PHT478/poco-nino-vestido_%7EPAA478000004.jpg)
+<<<<<<< HEAD
 </div>
+=======
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0

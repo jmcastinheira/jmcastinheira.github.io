@@ -3,11 +3,12 @@ id: 350
 title: Las Poéticas y el concepto de poesía
 date: 2016-12-26T09:02:40+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=350
 permalink: /las-poeticas-concepto-poesia/
 image: /docs/assets/images/501809933_493e27290b-500x288.jpg
 categories:
+  - Blog
   - Artículo
   - Poesía
 tags:

@@ -3,11 +3,12 @@ id: 591
 title: 'Intrahistoria: ¿Qué é a Fame?'
 date: 2017-01-05T17:40:20+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=591
 permalink: /intrahistoria-e-fame/
 image: /docs/assets/images/queso-640x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog
@@ -18,14 +19,14 @@ tags:
   
   <p id="caption-attachment-1184" class="wp-caption-text">
     Imagen de pixabay.com/en/users/Pexels
-  </p>
-</div>
+  
+
 
 _(traducción abajo)_
 
 <p style="text-align: right;">
   A Paquita Veiga.
-</p>
+
 
   * Nandiño, ¿Qué é a fame?
   * A fame éeee&#8230; Primeiroooo&#8230;. Primeiro tes moita sede ¿Non? i entón&#8230; entón bebes augha da fonte, porque iso é o que tes a man, e logho vas correndo e as tripas fanche clo, clo, clo&#8230;
@@ -43,7 +44,7 @@ Nandiño e o seu irmán levaron. Vaia se levaron «sintalasos» pero eles comero
 
 <p style="text-align: right;">
   A Paquita Veiga
-</p>
+
 
   * Nandiño, ¿Qué es el hambre?
   * El hambre eeesss&#8230; Primeroooo&#8230;. Primero tienes mucha sed ¿No? y entonces&#8230; entonces bebes agua de la fuente, porque eso es lo que tienes a mano, y luego vas corriendo y las tripas te hacen clo, clo, clo&#8230;

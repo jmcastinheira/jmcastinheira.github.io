@@ -4,8 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Porqué no estoy a favor de las corridas de toros
 categories:
+<<<<<<< HEAD
   - Concepto
 
+=======
+  - Blog
+- Concepto
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 

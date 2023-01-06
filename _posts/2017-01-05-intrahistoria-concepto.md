@@ -3,11 +3,12 @@ id: 753
 title: 'Intrahistoria: Concepto'
 date: 2017-01-05T17:40:20+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=753
 permalink: /intrahistoria-concepto/
 image: /docs/assets/images/520px-Miguel_de_Unamuno_Meurisse_1925-520x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog
@@ -18,8 +19,8 @@ tags:
   
   <p id="caption-attachment-1199" class="wp-caption-text">
     Imagen de commons.wikimedia.org
-  </p>
-</div>
+  
+
 
 He decidido inaugurar esta sección, su titulo ya lo habéis visto. Se trata de «Intrahistoria». Este fue un concepto acuñado por [Unamuno](https://es.wikipedia.org/wiki/Miguel_de_Unamuno) para designar las historias de la gente que no permanece en el recuerdo oficial de los pueblos. La gente sin fama. Quienes construyen la historia anónimamente sin que su nombre permanezca en los libros de texto, ni en los periódicos.
 

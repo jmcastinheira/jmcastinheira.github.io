@@ -3,7 +3,7 @@ id: 276
 title: 'Autores: Wislawa Szymborska'
 date: 2012-02-01T00:39:34+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=276
 permalink: /autores-wislawa-szymborska/
 wpgs_notice_id:
@@ -16,6 +16,7 @@ wpgs_laste_komentis:
   - 2017-03-08 21:46:05
 image: /docs/assets/images/szymborska.png
 categories:
+  - Blog
   - Autores
   - Poema
 tags:

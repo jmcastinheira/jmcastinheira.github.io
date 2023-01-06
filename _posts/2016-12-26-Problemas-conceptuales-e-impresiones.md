@@ -4,9 +4,72 @@ date: 2016-12-26
 generator: pandoc
 title: Problemas conceptuales e impresiones.
 categories:
+<<<<<<< HEAD
   - Concepto
 
 ,
+=======
+  - Blog
+- Concepto
+
+viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+---
+
+
+
+**Lo analógico y lo digital.\
+**
+
+Se me suele dar mejor el hacer preguntas que el dar respuestas, y suelo
+ser muy pesado, lo sé; un poco de paciencia, please.
+
+Me preguntaba yo ¿Qué es lo que hace analógico a lo analógico y cómo se
+produce la digitalización? esto tiene mucha relevancia, veremos luego
+porqué.
+
+Yo voy a dar mi opinión que es un poco la que tiene Zubiri sobre la
+realidad; de hecho voy a relacionar estos dos conceptos; **analógico y
+real**. Ya he explicado en alguna ocasión, (es posible que no muy bien)
+lo que entiende Zubiri por realidad, la realidad ante todo es una
+formalidad abierta, esto es, de primeras yo no puedo conocer el
+contenido de esa formalidad, no puedo saber «qué es» lo que está ante
+mi, y sólo porque para Zubiri realidad es aquello que se presenta ante
+mi y se me impone como algo distinto a mi y que tiene existencia «de
+suyo»; es un momento de impresión (de estado de shock, de ducha de agua
+fría; eso mismo , realidad es como la ducha de agua fría que te retiene
+cuando estás ante algo, esa impresión cuando ves que no puedes traspasar
+la pared que golpeas) según Zubiri la realidad nos tiene retenidos en
+ella, y nosotros no podemos negar su existencia, se nos impone (por eso
+Zubiri se aparta radicalmente del «pienso luego existo») el contenido de
+esa formalidad abierta, «el yo sé que esto que está delante de mi es una
+pared» eso viene después (en Zubiri ese después no es un después
+temporal, je, es un después momentual pero pasamos de esto) y justamente
+en ese «yo sé que es esto» surge lo que Zubiri ha llamado Logos (logos
+en griego significa «decir») ahí introduce Zubiri el pensamiento
+racional como lo entendemos (pues para Zubiri la inteligencia lo abarca
+todo hasta el primer momento del que hablábamos y es una inteligencia
+sentiente) para mi, la logificación es ya una digitalización, cuando
+algo pasa de ser pura formalidad vacía (sin ser, sin poder decir nada de
+ella) a ser «información».
+
+Pero, ante todo, la información presupone un contexto, (lo que Zubiri
+llama campo) esto es, un «5» no significa nada, no tiene información, la
+información surge cuando lo introduzco en un sistema, en un código,
+etc... cuando digo 5cm o 5º o 5L o lo que sea. Creo que es necesario
+siempre estar al tanto de los límites de nuestro lenguaje, nada podemos
+decir de lo analógico si queremos definirlo, pero eso no quiere decir
+que no podamos indicar dónde buscarlo, indicar a la gente para que
+cuando se encuentre ante un sujeto sépa que se haya ante uno, etc...
+
+**Contexto analógico y Contexto digital.**
+
+Partiendo de aquí diremos que un **contexto digital** es un sistema de
+información interrelacionada en la que cada dato no tiene significado
+por si mismo sino en relación al sistema. Y para que nos quede claro,
+podemos discutir qué es lo que aquí se incluye, en mi opinión las
+identidades, la opinión pública, las concepciones del mundo (o los
+marcos de los que habla Lakoff) los códigos, los lenguajes, las leyes,
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 las costumbres.
 
 ¿Pero qué es un **contexto analógico**? Bueno, esto quizá se me escape

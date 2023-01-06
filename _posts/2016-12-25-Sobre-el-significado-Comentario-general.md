@@ -4,13 +4,21 @@ date: 2016-12-25
 generator: pandoc
 title: "Sobre el significado: Comentario general"
 categories:
+<<<<<<< HEAD
   - Concepto
 
+=======
+  - Blog
+- Concepto
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 El otro día al leer [este
 artículo](http://lasindias.com/cultura-guia-de-uso/) de
 [**David**](http://lasindias.com/author/admin/) me entraron ganas de
@@ -21,7 +29,7 @@ significado. Me importa más hacer una valoración de la relevancia que el
 estudio de este concepto tiene así como de las distintas perspectivas
 que se pueden tomar para el mismo.
 
-**Sobre su relevancia:**
+# Sobre su relevancia:
 
 ¿Porqúe es interesante una discusión sobre el significado de
 «significado»?
@@ -66,9 +74,9 @@ sentimos y todo aquello que hacemos con ellas.
 De algún modo la pregunta por el significado encierra un tema de
 filosofía primera.
 
-**Las perspectivas:**
+# Las perspectivas:
 
-Perspectiva privada:
+## Perspectiva privada:
 
 Una primera perspectiva ante la cuestión que hemos planteado es la que
 nos deja encerrados en nosotros mismos, en nuestro pensamiento, en
@@ -113,7 +121,7 @@ objetivamente a Iñaki Urdangarín, véase toda su biografía, lo que pasaba
 antes es que yo no conocía propiamente el significado completo, me
 faltaban datos y por eso cometía errores.
 
-Perspectiva Pública:
+## Perspectiva Pública:
 
 Pero esto no puede ser así. En el último caso el acceso a la información
 que define a «Urdangarín» sigue siendo un acceso privado, se supone que
@@ -156,7 +164,7 @@ hacermos, modos de comportarnos habitualmente, algo así como un baile
 conjunto, es como dejarnos llevar, si uno sigue el impulso de los demás,
 el baile sigue y sigue bien, si uno tropieza todo es ruído.
 
-**Conclusión**
+# Conclusión
 
 Pero si esto es así, si resulta que el significado es algo que viene
 dado por la práctica social ¿Hasta qué punto no nos pasará lo mismo con

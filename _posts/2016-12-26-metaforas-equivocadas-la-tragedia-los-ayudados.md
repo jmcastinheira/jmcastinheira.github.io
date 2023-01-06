@@ -3,11 +3,12 @@ id: 325
 title: 'Metáforas equivocadas: La tragedia de los ayudados'
 date: 2016-12-26T01:07:33+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=325
 permalink: /metaforas-equivocadas-la-tragedia-los-ayudados/
 image: /docs/assets/images/boy-1835937_640-640x288.jpg
 categories:
+  - Blog
   - Artículo
   - Metaforas
 tags:

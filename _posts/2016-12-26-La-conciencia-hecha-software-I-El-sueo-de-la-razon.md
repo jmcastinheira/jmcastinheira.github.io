@@ -4,9 +4,122 @@ date: 2016-12-26
 generator: pandoc
 title: "La conciencia hecha software I: El sueño de la razon."
 categories:
+<<<<<<< HEAD
   - Concepto
 
  lógicas?** Bueno, no es ninguna
+=======
+  - Blog
+- Concepto
+
+viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+---
+
+
+
+**O ¿Pueden pensar las máquinas?**
+
+![Young_frege.jpg](http://i275.photobucket.com/albums/jj287/Auluses/Young_frege.jpg?v=1295995466791){width="184"
+height="197"} Advertimos que la lectura de este artículo puede causar
+graves daños cerebrales...
+
+Normalmente cuando pensamos en personas inteligentes nos imaginamos a
+personas como físicos teóricos, matemáticos, ajedrecistas...
+filósofos... Claro. ¿Es posible crear una máquina que sea igual de
+inteligente que cualquiera de ellos?
+
+Seguramente diríamos que alguien que afirma algo como (1) «la luz está
+apagada pero está encendida» está completamente loco o por lo menos no
+es una persona muy inteligente. Algo similar podríamos decir de alguien
+que no sabe contestar a la siguiente pregunta (2) «Si todos los que
+están aquí han venido en coche; yo, qué estoy aquí ¿En qué he venido?».
+Todos, normalmente, tendemos a gritar «¡¡En un coche!! ¡En un coche!» Y
+si alguien no tiene esta tendencia lo consideramos poco o nada
+inteligente. ¿No os parece curiosa esta tendencia? Es casi como
+misteriosa; todas las personas que consideramos inteligentes la tienen;
+otros seres, como los loros, quizá puedan aprender a gritar «¡En un
+coche!» cada vez que alguien le diga algo que suena como (2) Pero no es
+porque tengan una tendencia lógica a responder a esa pregunta sino
+porque responden automáticamente a un estímulo sonoro con ese conjunto
+de sonidos que para ellos es (2′) «Un coche» ; ellos, al contrario que
+nosotros, no son inteligentes. Sin duda podríamos preguntarnos porqué
+ellos no son inteligentes y nosotros sí, ¿que es lo que hay en nuestra
+respuesta a (2) que no esté en la suya? No vamos a preocuparnos de esto
+ahora, simplemente podemos pensar que ellos no responden porque hayan
+entendido la pregunta y nosotros si lo hacemos.
+
+Bien, pues esta tendencia lógica que no tienen los loros se llama
+*inferencia lógica;* y, según parece; o al menos en lo que se deriva de
+lo que acabamos de aceptar, tiene una importante relación con la
+inteligencia ¿No es así? De hecho no parece ninguna tontería responder
+que sí.
+
+A finales del siglo XIX principios del XX *un tal* [Gottlob
+Frege](http://es.wikipedia.org/wiki/Gottlob_Frege), a fin de cuentas el
+padre de la lógica moderna, tiene una fuerte intuición; no era el
+primero, ya Boole había propuesto algo en este sentido, su intuición fue
+que **el pensamiento humano es esencialmente lógico**; esto le hace
+plantearse la posibilidad de describir las normas sintácticas y
+semánticas de este lenguaje tan curioso que es el **lenguaje del
+pensamiento** ¡El lenguaje del pensamiento! ¿Curióso no?. Detengámonos
+un poco aquí.
+
+¿Cómo resolvemos un problema? Hay veces que lo resolvemos casi
+mágicamente, en un instante visualizamos la solución, otras veces vamos
+avanzando poco a poco hacia ella, podemos desviarnos y no llegar a buen
+puerto, o podemos finalmente encontrarla. Pero normalmente no tenemos
+una conciencia clara de cómo pensamos; *es como si lo hiciéramos sin
+saber* y esto, muchas veces, nos dificulta la tarea de distinguir entre
+un buen y un mal razonamiento. ¿Pero qué pasaría si supiéramos cómo
+hacer para pensar correctamente? ¿Cómo hacer para no desviarnos? ¿Que
+pasaría si de repente nos damos cuenta de que el camino está indicado y
+conocemos el significado de esas indicaciones? Es decir, si tuviéramos
+en nuestra mano las leyes que gobiernan los buenos pensamientos y nos
+permiten distinguirlos de los malos. Si conociéramos esas leyes, de
+primeras, tendríamos la capacidad de *decidir* sencillamente si un
+razonamiento es correcto o incorrecto.
+
+Vamos a ver **¿Cómo funciona un razonamiento?** Hagámoslo despacio...
+Tenemos una idea más o menos general, por ejemplo (3) «Todos los seres
+humanos son mortales»; bien, pero (4)»¿Es Belén Esteban mortal?» Sólo
+podemos responder de dos modos a esta pregunta, o si o no. ¿Pero cómo
+nos aseguramos de cual es la correcta? Sólo se me ocurren dos opciones y
+una no es ni moral ni jurídicamente admisible. La otra es usar la
+lógica. Partamos de algo que sabemos, y en nuestra pequeña Teoría (el
+conjunto de pensamientos que sabemos ciertos) sólo tenemos un
+pensamiento que es (3), la cuestión radica en intentar responder a la
+pregunta (4) partiendo de (3) así que podríamos partir de otra pregunta
+(4′) «¿Es Belén Esteban un ser humano?» Porque sabremos que si es un ser
+humano entonces, por lo que sabemos de (3) podríamos responder
+lógicamente que sí; si es cierto que (3) y es cierto que (4′) entonces
+es cierto que (3′) «Si Belén Esteban es un ser humano entonces Belén
+Estaban es mortal». Ahora sólo nos falta comprobar en el mundo si es
+cierto que «Belén Esteban es un ser humano»; lo cual ya no corresponde a
+la lógica y por tanto no es tan fácil de demostrar... (sólo por eso).
+
+Conocer estas leyes sintácticas sería una ventaja muy potente, pero no
+tendrían que hablar necesariamente de la estructura del mundo, podrían
+ser una especie de tendencia interna nuestra, una forma de pensar del
+ser humano... ¿Pero qué pasaría si el mundo, la realidad; se comportara
+lógicamente; es decir según las leyes sintácticas de la lógica, del
+mismo modo que lo hace con las leyes de la física? Quizá esto sea más
+difícil de coprender, pero podemos hacer un esfuerzo ¿Acaso es mucho
+pedir que las leyes de la física sean lógicas? Intuitivamente todos
+pensamos que lo son.
+
+Una cosa está y no puede no estar al mismo tiempo, un animal o vive o
+muere (dejemos al gato de Schrodinger con sus manías), si tengo cinco
+piedras y regalo dos, entonces me quedan tres etc... Eso significaría...
+¡Atención!... Os aconsejo que os sentéis bien... ¡Eso significaría que
+si conocemos las leyes sintácticas del pensamiento podríamos saberlo
+todo con sólo calcular! Y atención teniendo tan sólo un único
+conocimiento verdadero sobre el mundo, nos basta uno sólo, podríamos
+saberlo todo sólo derivando lógicamente consecuencias de ese
+conocimiento ¿Por donde empezamos? (5) «¿es blanco este grano de arena?»
+
+A ver, a ver... Diréis, ¿No estarás exagerando? además **¿Quien se cree
+que la naturaleza está sujeta a leyes lógicas?** Bueno, no es ninguna
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 tontería. Os pondré un ejemplo (permitidme cometer alguna
 irregularidad):
 

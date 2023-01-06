@@ -4,8 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Más google, o mas bien menos...
 categories:
+<<<<<<< HEAD
   - Autores
 
+=======
+  - Blog
+- Autores
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 

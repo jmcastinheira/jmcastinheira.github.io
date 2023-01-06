@@ -1,6 +1,7 @@
 ---
 tags: [general, libro, análisis, bibliografia]
-categories: [general]
+categories:
+  - Blog [general]
 title: 'Comentario a: "Dias contados", "Merlín e Familia" y "Azucre"'
 ---
 

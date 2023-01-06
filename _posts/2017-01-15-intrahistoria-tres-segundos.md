@@ -3,11 +3,12 @@ id: 724
 title: 'Intrahistoria: Tres segundos'
 date: 2017-01-15T12:32:04+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=724
 permalink: /intrahistoria-tres-segundos/
 image: /docs/assets/images/Carretera_misterio-640x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog

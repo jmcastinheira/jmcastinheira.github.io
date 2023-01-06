@@ -4,8 +4,14 @@ date: 2016-12-28
 generator: pandoc
 title: Cuando un amigo se va...
 categories:
+<<<<<<< HEAD
   - Concepto
 
+=======
+  - Blog
+- Concepto
+viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 ---
 
 

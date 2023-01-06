@@ -1,6 +1,7 @@
 ---
 tags: [mirada, haiku]
-categories: [gaviotas]
+categories:
+  - Blog [gaviotas]
 title: 'Recuerdos'
 ---
 

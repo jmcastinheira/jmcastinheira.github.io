@@ -3,11 +3,12 @@ id: 209
 title: 'Intrahistoria: Trabajando en Guinea-Bissau'
 date: 2016-12-25T23:59:02+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=209
 permalink: /intrahistoria-trabajando-guinea-bissau/
 image: /docs/assets/images/boy-1835937_640-640x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog

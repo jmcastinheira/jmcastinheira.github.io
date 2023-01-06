@@ -4,7 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: Explicación a experimento 4
 categories:
+<<<<<<< HEAD
   - Metáforas
+=======
+  - Blog
+- Metáforas
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 - Poesía
   - Poema
 

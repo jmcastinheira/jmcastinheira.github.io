@@ -3,18 +3,19 @@ id: 127
 title: 'Metáforas equivocadas: La felicidad'
 date: 2017-01-15T20:24:37+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=127
 permalink: /metaforas-equivocadas-la-felicidad/
 image: /docs/assets/images/daisies-1202571_640.jpg
 categories:
+  - Blog
   - Metaforas
 tags:
   - Blog
 ---
 <p style="text-align: right;">
   A Marga.
-</p>
+
 
 Seguimos con las metáforas equivocadas. En este caso respecto a un tema que supongo que a todos nos preocupa más tarde o más temprano. Como ya saben ustedes, a veces me da por pensar poéticamente, porque poéticamente, con metáforas; es como realmente pensamos.
 

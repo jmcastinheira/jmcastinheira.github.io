@@ -4,9 +4,19 @@ date: 2016-12-26
 generator: pandoc
 title: Repito, no digais que no estabais avisados.
 categories:
+<<<<<<< HEAD
   - Concepto
 ---
 
+=======
+  - Blog
+- Concepto
+viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+---
+
+
+
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 Hace poco publicábamos una interesante [entrevista a José Luis
 Sampedro](http://entelequia.bligoo.com/content/view/441290/No-digais-que-no-estabais-avisados.html)
 que a su edad muestra una soberbia y plenamente lucida inteligencia;

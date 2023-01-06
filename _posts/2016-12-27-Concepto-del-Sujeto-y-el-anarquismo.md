@@ -4,9 +4,15 @@ date: 2016-12-27
 generator: pandoc
 title: Concepto del Sujeto y el anarquismo
 categories:
+<<<<<<< HEAD
   - Autores
   - Concepto
 
+=======
+  - Blog
+- Autores
+- Concepto
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 

@@ -3,11 +3,12 @@ id: 587
 title: 'Intrahistoria: Recuerdos de aquel barrio'
 date: 2017-01-05T17:40:20+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=587
 permalink: /intrahistoria-recuerdos-aquel-barrio/
 image: /docs/assets/images/niña-1000x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog
@@ -19,8 +20,8 @@ tags:
   
   <p id="caption-attachment-1169" class="wp-caption-text">
     Imagen de https://c2.staticflickr.com/4/3884/14249428718_61ab6cf7f3_b.jpg
-  </p>
-</div>
+  
+
 
 **[Uxío PR]**  Tengo cientos de recuerdos del barrio de mi ciudad natal. Vivía en un viejo edificio que a mis ojos era el mejor del mundo. Había un parque lleno de árboles y «pistas» en las que jugar.
 

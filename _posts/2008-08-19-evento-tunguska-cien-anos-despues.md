@@ -3,16 +3,18 @@ id: 504
 title: El evento de Tunguska, cien años después
 date: 2008-08-19T08:58:06+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=504
 permalink: /evento-tunguska-cien-anos-despues/
 image: /docs/assets/images/asteroide.jpg
 categories:
+  - Blog
   - Artículo
+  - Concepto
 tags:
   - ciencia
-  - Uxio
 ---
+
 [Uxío PR] Nos situamos en Tunguska, Siberia, una dura región de Rusia, en plena Taiga, con sus increíbles bosques, temperaturas extremas y duras condiciones de vida para la numerosa fauna y flora que lo habitan.
 
 Retrocedamos al 30 de junio de 1908, 7:17 horas, un nuevo día amanece, un objeto luminoso aparece en el cielo, y en apenas segundos se produce una explosión equivalente a 185 bombas de Hiroshima detonadas a la vez, tan sólo el brillo de la explosión fue equivalente a 100 veces el de nuestro Sol (aproximadamente 29 megatones de TNT)
@@ -21,8 +23,11 @@ La explosión fue registrada por barómetros tan alejados del epicentro como los
 
 Imagen tomada en una investigación posterior al suceso:
 
+<<<<<<< HEAD
 &nbsp;
 
+=======
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 ![](http://jdwaggoner.files.wordpress.com/2008/06/tunguska_event.jpg) 
 
 Esta incontrolada y pontente explosión sigue siendo un misterio aún hoy en día, según Don Yeomans, director de un laboratorio de la NASA:
@@ -59,12 +64,12 @@ Para saber más:
 
 NASA:
 
-<http://ciencia.nasa.gov/headlines/y2008/30jun_tunguska.htm>
+- [http://ciencia.nasa.gov/headlines/y2008/30jun_tunguska.htm](http://ciencia.nasa.gov/headlines/y2008/30jun_tunguska.htm)
 
 Aniversario del evento de Tunguska:
 
-<http://www.tayabeixo.org/articulos/tunguska.htm>
+- [http://www.tayabeixo.org/articulos/tunguska.htm](http://www.tayabeixo.org/articulos/tunguska.htm)
 
 Tunguska en Microsiervos:
 
-<http://www.microsiervos.com/archivo/ciencia/tunguska-cien-anios.html>
+- [http://www.microsiervos.com/archivo/ciencia/tunguska-cien-anios.html](http://www.microsiervos.com/archivo/ciencia/tunguska-cien-anios.html)

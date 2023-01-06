@@ -1,6 +1,7 @@
 ---
 tags: [situaciones]
-categories: [general]
+categories:
+  - Blog [general]
 title: 'Crear situaciones'
 ---
 

@@ -4,8 +4,14 @@ date: 2007-06-18
 generator: pandoc
 title: Explicación a paradojas pragmáticas
 categories:
+<<<<<<< HEAD
   - Concepto
 
+=======
+  - Blog
+- Concepto
+viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 ---
 
 [![](http://img149.imageshack.us/img149/5528/sealesoz1.jpg){style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 200px;"

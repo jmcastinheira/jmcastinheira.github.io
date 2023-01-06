@@ -3,11 +3,12 @@ id: 433
 title: 'Frase Célebre: La educación expandida y el cambio'
 date: 2017-01-05T17:40:21+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=433
 permalink: /frase-celebre-la-educacion-expandida-cambio/
 image: /docs/assets/images/pensador.jpg
 categories:
+  - Blog
   - Citas
 tags:
   - Blog

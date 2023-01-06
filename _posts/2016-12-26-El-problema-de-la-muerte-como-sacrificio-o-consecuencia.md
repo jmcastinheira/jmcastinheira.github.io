@@ -4,7 +4,57 @@ date: 2016-12-26
 generator: pandoc
 title: El problema de la muerte como sacrificio o consecuencia.
 categories:
+<<<<<<< HEAD
   - Concepto
+=======
+  - Blog
+- Concepto
+viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+---
+
+
+
+Y llega la Semana Santa y todo se tiñe de imágenes, símbolos y temas de
+naturaleza religiosa, queramos o no estamos metidos de lleno en la
+religión, y aun el ateísmo puede ser una forma de religión como
+cualquier otra; la cuestión que me interesa hoy es la siguiente; buena
+parte de nuestra ética, de lo que hacemos de lo que pensamos, (si nos
+ponemos finos más bien de cómo hacemos y cómo pensamos lo que sea que
+hacemos o pensamos) está influenciado por la religión; incluso las
+películas que vemos tratan temas que antes trataron los escolásticos o
+antes aún, los evangelistas; por eso podemos estar defendiendo una idea
+de fundamentación religiosa sin darnos cuenta, y sin entender porqué
+tenemos esa opinión; por eso, creo yo, no está de más bajarnos a la
+fundamentación religiosa, deshacer el lío, y luego regresar a nuestra
+situación habitual.
+
+Desde siempre me ha intrigado una cuestión relativa a la cultura
+cinematográfica de Hollywood; es un tema muy Yanquee este; me refiero a
+esas películas en las que el bueno, que es tan bueno, se sacrifica para
+salvar a la humanidad o a un grupo de personas. Esto siempre me ha
+intrigado; ¿Qué deberíamos hacer si de nuestra vida dependiera la vida
+de un conjunto de personas? (El hecho de que la vida de la humanidad
+dependa de la vida de una sóla persona lo descarto por pretencioso y
+notoriamente improbable)
+
+En el fondo de esta cuestión subyace un tema religioso; y además de
+rabiosa actualidad (ya que estamos en Semana Santa). Esto es, según
+alguna interpretación (errónea, cómo ahora diré) de los Evangelios;
+«*Jesús murió para salvar a la humanidad*» hay que decir que esta
+creencia no es neutral, creer esto impone respuestas concretas a
+determinadas situaciones, por ejemplo, si esto fuera así la respuesta a
+la pregunta de película que nos ha traído a este lugar sería que sí, que
+habría que sacrificarse para salvar a ese grupo de personas, eso sería
+el ideal ético.
+
+El otro día pude asistir a una conferencia de [Andrés Torres
+Queiruga](http://gl.wikipedia.org/wiki/Andr%C3%A9s_Torres_Queiruga) en
+Pontevedra; él es un teólogo afín a la «Teología de la liberación» (y
+por lo cual no me da vergüenza ninguna decir que asistí) la conferencia
+estaba organizada por la revista gallega
+[Encrucillada](http://www.encrucillada.org.es/que.html), en cuya
+fundación participó.
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 sufre un castigo de muerte, pero no de cualquier manera, sino como los
 asesinos más malvados, la gente más perversa de la sociedad. Si hoy en

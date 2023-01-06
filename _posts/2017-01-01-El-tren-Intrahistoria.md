@@ -4,8 +4,13 @@ date: 2017-01-01
 generator: pandoc
 title: El tren (Intrahistoria)
 categories:
+<<<<<<< HEAD
   - Intrahistoria
 
+=======
+  - Blog
+- Intrahistoria
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 

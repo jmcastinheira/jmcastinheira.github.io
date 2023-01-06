@@ -3,11 +3,12 @@ id: 781
 title: 'Autores: Francisco de Quevedo.'
 date: 2017-01-05T17:40:20+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=781
 permalink: /autores-francisco-quevedo/
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Autores
 tags:
   - Blog
@@ -49,4 +50,3 @@ Enlaces:
       [En Cervantes Virtual](http://www.cervantesvirtual.com/FichaAutor.html?Ref=6). (con audio)
     </li>
   </ul>
-</div>

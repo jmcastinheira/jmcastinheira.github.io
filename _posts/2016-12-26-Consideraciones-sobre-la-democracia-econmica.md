@@ -4,9 +4,15 @@ date: 2016-12-26
 generator: pandoc
 title: Consideraciones sobre la democracia económica
 categories:
+<<<<<<< HEAD
   - Metáforas
   - Concepto
 
+=======
+  - Blog
+- Metáforas
+- Concepto
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 

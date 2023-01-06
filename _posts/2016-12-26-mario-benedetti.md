@@ -3,11 +3,12 @@ id: 441
 title: Mario Benedetti
 date: 2016-12-26T10:10:14+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=441
 permalink: /mario-benedetti/
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Autores
 tags:
   - Blog
@@ -19,4 +20,3 @@ Hoy dicen que ha muerto, pero no es verdad, no lo digáis en alto, es un secreto
 
 
 <div id="ads-parked-11" class="ads-parked-11">
-</div>

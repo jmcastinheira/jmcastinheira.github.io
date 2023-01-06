@@ -3,7 +3,7 @@ id: 996
 title: Xavier Zubiri
 date: 2007-04-04T12:51:00+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/xavier-zubiri/
 permalink: /xavier-zubiri/
 blogger_blog:
@@ -16,6 +16,7 @@ blogger_internal:
   - /feeds/5306117009195603500/posts/default/580834351771635442
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Autores
   - Filosofía
 tags:
@@ -28,4 +29,4 @@ Zubiri morirá el 21 de septiembre de 1983.
 
 Su pensamiento filosófico es de una originalidad máxima, de hecho se cuenta que cuando David García Bacca, del que hablaremos, hizo su tesis tuvieron que llamar a Zubiri para que formara parte del tribunal pues era el único que tenía conocimientos suficientes sobre el tema de la misma, no obstante dejamos para el próximo día un breve análisis sobre su obra.  
 
-<span style="font-size: 78%;">Fotografía de: fundación Xavier Zubiri<br /> Información: de Fundación Xavier Zubiri, y Ensayistas.org<br /> </span>
+Fotografía de: fundación Xavier Zubiri Información: de Fundación Xavier Zubiri, y Ensayistas.org 

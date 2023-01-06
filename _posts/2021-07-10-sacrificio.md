@@ -1,6 +1,7 @@
 ---
 tags: [violencia]
-categories: [general]
+categories:
+  - Blog [general]
 title: 'Sacrificio'
 ---
 

@@ -3,11 +3,12 @@ id: 626
 title: 'Bibliobús, bibliocamello y préstamos a cárceles: rompiendo las barreras de la biblioteca'
 date: 2017-08-19T10:27:28+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=626
 permalink: /bibliobus-bibliocamello-prestamos-carceles-rompiendo-las-barreras-la-biblioteca/
 image: /docs/assets/images/book-610189_640.jpg
 categories:
+  - Blog
   - Artículo
   - Contextopedia
 tags:

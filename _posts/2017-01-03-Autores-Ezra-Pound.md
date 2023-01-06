@@ -4,7 +4,12 @@ date: 2017-01-03
 generator: pandoc
 title: "Autores: Ezra Pound"
 categories:
+<<<<<<< HEAD
   - Autores
+=======
+  - Blog
+- Autores
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 - Concepto
 - Poesía
   - Poema

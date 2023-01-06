@@ -1,6 +1,7 @@
 ---
 tags: [estructura, proyecto, ania]
-categories: [ania]
+categories:
+  - Blog [ania]
 title: 'Ania'
 ---
 

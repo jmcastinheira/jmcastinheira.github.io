@@ -3,11 +3,12 @@ id: 796
 title: De la posibilidad de decir verdad en poesía I
 date: 2017-01-16T18:49:13+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=796
 permalink: /la-posibilidad-decir-verdad-poesia-i/
 image: /docs/assets/images/Senegal_village_well.jpg
 categories:
+  - Blog
   - Artículo
   - Poesía
 tags:

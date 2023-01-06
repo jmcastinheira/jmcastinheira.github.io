@@ -4,7 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: ¡¡¡El futuro está en los feeds!!!
 categories:
+<<<<<<< HEAD
   - Intrahistoria
+=======
+  - Blog
+- Intrahistoria
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 - Autores
 - Poesía
   - Poema

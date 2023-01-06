@@ -4,9 +4,15 @@ date: 2016-12-27
 generator: pandoc
 title: Televisión
 categories:
+<<<<<<< HEAD
   - Autores
   - Poema
 
+=======
+  - Blog
+- Autores
+- Poema
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 

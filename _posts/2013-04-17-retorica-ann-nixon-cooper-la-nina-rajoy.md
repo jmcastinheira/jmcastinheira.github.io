@@ -3,11 +3,12 @@ id: 323
 title: 'Retórica: Ann Nixon Cooper y la niña de Rajoy'
 date: 2013-04-17T13:10:04+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=323
 permalink: /retorica-ann-nixon-cooper-la-nina-rajoy/
 image: /docs/assets/images/pensador.jpg
 categories:
+  - Blog
   - Artículo
 tags:
   - Comunicación
@@ -79,8 +80,7 @@ Y por último el final del discurso, que luego pondremos en video; una auténtic
 
 Aquí tenemos el discurso dicho por el propio Obama:
 
-<center>
-</center>Como podéis ver, en él están resumidos hitos importantes del siglo XX; hitos que además hacen referencia a uno de los eslóganes de la campaña de Obama, la idea de «cambio»; pero no sólo hace referencia al pasado, sino también explica las dificultades que se van a encontrar en el futuro, y se pregunta qué será de la vida de sus hijos, y cual será su suerte. Pero da un mensaje optimista, nosotros podemos porque hemos podido, esta es la clave del «yes we can».
+Como podéis ver, en él están resumidos hitos importantes del siglo XX; hitos que además hacen referencia a uno de los eslóganes de la campaña de Obama, la idea de «cambio»; pero no sólo hace referencia al pasado, sino también explica las dificultades que se van a encontrar en el futuro, y se pregunta qué será de la vida de sus hijos, y cual será su suerte. Pero da un mensaje optimista, nosotros podemos porque hemos podido, esta es la clave del «yes we can».
 
 Sólo nos queda comparar este discurso con un intento burdo y desatinado de imitación de algunas de estas ideas (seguramente la metáfora de los niños, [es ya clásica en la comunicación política](http://contingencia-politica.blogspot.com/2010/04/cuando-los-politicos-se-acuerdan-de-los.html)); el discurso de «la niña de Rajoy», no tiene nada que ver con el que acabamos de examinar; esa niña es una niña hipotética que está presentada para hablar sobre la búsqueda de un futuro mejor etc&#8230;
 
@@ -88,5 +88,4 @@ Sólo nos queda comparar este discurso con un intento burdo y desatinado de imit
 
 Quizá intente ser emotivo pero es totalmente empalagoso y fuera de lugar, en este breve extracto vemos cacofonías, reiteraiciones y tópicos manidos&#8230; en fin, que tenemos mucho que aprender en este campo.
 
-<center>
-</center>La única pregunta que quizá me quede por hacer es ¿Quién os seduce más?; ¿Quién os convence más?
+La única pregunta que quizá me quede por hacer es ¿Quién os seduce más?; ¿Quién os convence más?

@@ -4,8 +4,14 @@ date: 2007-04-23
 generator: pandoc
 title: Equivocación 1. (Zubiri)
 categories:
+<<<<<<< HEAD
   - Concepto
 
+=======
+  - Blog
+- Concepto
+viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 ---
 
 Sé reconocer mis errores, que le voy a hacer, cometo muchos diariamente

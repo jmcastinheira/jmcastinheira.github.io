@@ -3,7 +3,7 @@ id: 960
 title: Leyendo «6» De Nora Mendez
 date: 2007-07-04T17:42:00+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/leyendo-6-de-nora-mendez/
 permalink: /leyendo-6-de-nora-mendez/
 blogger_blog:
@@ -16,6 +16,7 @@ blogger_internal:
   - /feeds/5306117009195603500/posts/default/5065481011625378948
 image: /docs/assets/images/DSC0092.jpg
 categories:
+  - Blog
   - Poema
 tags:
   - Blog

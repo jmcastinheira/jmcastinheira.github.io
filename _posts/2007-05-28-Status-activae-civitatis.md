@@ -4,8 +4,14 @@ date: 2007-05-28
 generator: pandoc
 title: Status activae civitatis
 categories:
+<<<<<<< HEAD
   - Concepto
 
+=======
+  - Blog
+- Concepto
+viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 ---
 
 Exactamente mi participación en el [sistema político

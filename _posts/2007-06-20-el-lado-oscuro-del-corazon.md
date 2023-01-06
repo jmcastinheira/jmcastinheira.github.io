@@ -3,7 +3,7 @@ id: 964
 title: El lado oscuro del corazón
 date: 2007-06-20T20:37:00+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/el-lado-oscuro-del-corazon/
 permalink: /el-lado-oscuro-del-corazon/
 blogger_blog:
@@ -16,6 +16,7 @@ blogger_internal:
   - /feeds/5306117009195603500/posts/default/7329750233933576494
 image: /docs/assets/images/morning-1889265_640.jpg
 categories:
+  - Blog
   - Poesía
 tags:
   - Blog

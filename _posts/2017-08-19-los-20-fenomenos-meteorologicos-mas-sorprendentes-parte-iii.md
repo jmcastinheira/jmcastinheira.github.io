@@ -3,11 +3,12 @@ id: 506
 title: Los 20 fenómenos meteorológicos más sorprendentes (Parte III)
 date: 2017-08-19T11:36:10+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=506
 permalink: /los-20-fenomenos-meteorologicos-mas-sorprendentes-parte-iii/
 image: /docs/assets/images/tormenta.jpg
 categories:
+  - Blog
   - Artículo
 tags:
   - ciencia

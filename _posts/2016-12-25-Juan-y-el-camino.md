@@ -4,13 +4,21 @@ date: 2016-12-25
 generator: pandoc
 title: Juan y el camino
 categories:
+<<<<<<< HEAD
   - Autores
 
+=======
+  - Blog
+- Autores
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 El día 19 nos hemos despertado en Pontevedra con una gran ausencia;
 [Juan](http://entelequia.bligoo.com/content/view/514268/Autores-Juan-Vidal-Fraga.html#content-top)
 nos ha dejado; poco puedo decir; anunciaba la noticia [Manuel

@@ -3,11 +3,12 @@ id: 476
 title: 'Intrahistoria: La mujer que no sabía a donde ir.'
 date: 2017-01-05T17:40:20+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=476
 permalink: /intrahistoria-la-mujer-no-sabia-donde-ir/
 image: /docs/assets/images/mujer_telefono-640x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog
@@ -18,8 +19,8 @@ tags:
   
   <p id="caption-attachment-1171" class="wp-caption-text">
     Imagen de pixabay.com
-  </p>
-</div>
+  
+
 
 El otro día salí de la biblioteca como tantos otros días.
 

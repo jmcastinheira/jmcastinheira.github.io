@@ -4,8 +4,13 @@ date: 2016-12-28
 generator: pandoc
 title: e... Novedades en entelequia... \[info\]
 categories:
+<<<<<<< HEAD
   - Poesía
 
+=======
+  - Blog
+- Poesía
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 

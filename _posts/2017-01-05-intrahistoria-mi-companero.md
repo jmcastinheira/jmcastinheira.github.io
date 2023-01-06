@@ -3,11 +3,12 @@ id: 747
 title: 'Intrahistoria: Mi compañero'
 date: 2017-01-05T17:40:20+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=747
 permalink: /intrahistoria-mi-companero/
 image: /docs/assets/images/mujer_telefono-640x288.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog
@@ -19,8 +20,8 @@ tags:
   
   <p id="caption-attachment-1171" class="wp-caption-text">
     Imagen de pixabay.com
-  </p>
-</div>
+  
+
 
 **[Uxío PR]** En mis (parecen lejanos) tiempos de Universidad, estuve un año en una residencia de estudiantes. Tardé una semana en conocer a mi compañero de habitación. Durante ese tiempo, y para mi alegría, pude encontrarme con un carísimo portátil (de aquella nadie tenía), una cadena de música con tres platinas de CD, lo último en consolas, una PDA de las más ostentosas, además de otros prodigios tecnológicos.
 

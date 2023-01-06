@@ -4,8 +4,13 @@ date: 2017-01-05
 generator: pandoc
 title: "Autores: Juan Vidal Fraga."
 categories:
+<<<<<<< HEAD
   - Autores
 
+=======
+  - Blog
+- Autores
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 

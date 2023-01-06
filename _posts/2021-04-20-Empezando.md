@@ -1,7 +1,8 @@
 ---
 title: Empezando
 tags: [jekyll, dudas]
-categories: [gaviotas]
+categories:
+  - Blog [gaviotas]
 date: 2021-04-19 00:14:15
 ---
 

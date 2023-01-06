@@ -3,7 +3,7 @@ id: 979
 title: 'Autores: José María del Castillo'
 date: 2007-05-24T20:30:00+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/outra-vaca-no-millo/
 permalink: /outra-vaca-no-millo/
 blogger_blog:
@@ -16,6 +16,7 @@ blogger_internal:
   - /feeds/5306117009195603500/posts/default/4925895342710886010
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Autores
   - Blog
 tags:

@@ -3,11 +3,12 @@ id: 532
 title: 'Intrahistoria: El Quebrantahuesos'
 date: 2017-01-15T13:06:07+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=532
 permalink: /intrahistoria-el-quebrantahuesos/
 image: /docs/assets/images/leisure-1379445_640.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog

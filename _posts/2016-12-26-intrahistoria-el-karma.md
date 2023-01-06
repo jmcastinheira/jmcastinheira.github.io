@@ -3,11 +3,12 @@ id: 262
 title: 'Intrahistoria: El karma'
 date: 2016-12-26T00:32:28+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=262
 permalink: /intrahistoria-el-karma/
 image: /docs/assets/images/cropped-Carretera_misterio-825x510.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog

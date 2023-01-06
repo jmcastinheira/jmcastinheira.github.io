@@ -3,7 +3,7 @@ id: 1001
 title: Ignacio Ellacuría
 date: 2007-03-28T20:16:00+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/ignacio-ellacuria/
 permalink: /ignacio-ellacuria/
 blogger_blog:
@@ -16,6 +16,7 @@ blogger_internal:
   - /feeds/5306117009195603500/posts/default/3930430582530563514
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Autores
   - Filosofía
 tags:

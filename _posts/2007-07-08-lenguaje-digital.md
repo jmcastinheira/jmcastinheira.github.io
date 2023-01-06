@@ -3,7 +3,7 @@ id: 959
 title: Lenguaje digital
 date: 2007-07-08T12:06:00+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/lenguaje-digital/
 permalink: /lenguaje-digital/
 blogger_blog:
@@ -16,6 +16,7 @@ blogger_internal:
   - /feeds/5306117009195603500/posts/default/2885404123927013325
 image: /docs/assets/images/mujer_telefono-640x288.jpg
 categories:
+  - Blog
   - Artículo
   - Contextopedia
   - Poesía

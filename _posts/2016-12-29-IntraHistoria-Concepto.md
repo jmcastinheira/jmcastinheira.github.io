@@ -4,7 +4,12 @@ date: 2016-12-29
 generator: pandoc
 title: "IntraHistoria: Concepto"
 categories:
+<<<<<<< HEAD
   - Intrahistoria
+=======
+  - Blog
+- Intrahistoria
+>>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 - Autores
   - Concepto
 

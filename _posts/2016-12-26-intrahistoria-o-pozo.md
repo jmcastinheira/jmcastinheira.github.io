@@ -3,11 +3,12 @@ id: 354
 title: 'Intrahistoria: O Pozo'
 date: 2016-12-26T09:05:13+00:00
 author: Uxio
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=354
 permalink: /intrahistoria-o-pozo/
 image: /docs/assets/images/Senegal_village_well.jpg
 categories:
+  - Blog
   - Intrahistorias
 tags:
   - Blog

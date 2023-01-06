@@ -3,11 +3,12 @@ id: 514
 title: 'Autores: Marie Louise Berneri.'
 date: 2016-12-26T19:53:55+00:00
 author: Jmcastinheira
-# layout: post
+# # layout: post
 guid: http://enteleq1-cp23.wordpresstemporal.com/?p=514
 permalink: /autores-marie-louise-berneri/
 image: /docs/assets/images/writing-828911_640-640x288.jpg
 categories:
+  - Blog
   - Autores
 tags:
   - Blog
@@ -17,7 +18,7 @@ Todo empezó cuando decidí buscar bibliografía de autores anarquistas. Me fui 
 Hete ahí que al preguntar sólo tenían dos libros de autores anarquistas; uno de Bakunin «Estatismo y anarquía» creo recordar, y otro de un tal [Camillo Berneri](http://es.wikipedia.org/wiki/Camillo_Berneri). Yo no sabía quién era este último así que debí poner un gesto de interrogación y dudé. El librero me dijo  todo indignado «_Hombre, Camillo Berneri, uno de los anarquistas italianos más importantes_» y lo dijo con tanta efusividad que no me quedó más remedio que comprar el libro.  
 Y&#8230; En efecto&#8230;. Ahí empezó todo.
 
-Empezé a investigar, [Camillo Berneri](http://es.wikipedia.org/wiki/Camillo_Berneri), Barbieri, Carlo y Nello [Roselli](http://it.wikipedia.org/wiki/Carlo_Rosselli); un tal [Piero Calamandrei](http://it.wikipedia.org/wiki/Gaetano_Salvemini) (que resultó ser todo un procesalista muy conocido que hoy en día estudiamos en los libros de derecho)&#8230;  Me llamó la antención el que había sido maestro de todos ellos, [Gaetano Salvémini.](http://it.wikipedia.org/wiki/Gaetano_Salvemini) Este hombre debió ser muy enérgico en sus palabras y debió infundar una fuerza y la voluntad de lucha en las mentes aún jóvenes de los hermanos Rosselli. Camillo Berneri los conocería después porque era un poco mayor. Todos habían fundado un grupo antifascista llamado «[_<span class="searchmatch">Giustizia</span> e Libertà_](http://it.wikipedia.org/wiki/Giustizia_e_Libert%C3%A0)«. Con la dictadura tuvieron que exiliarse a Francia, y claro, después vinieron a España a luchar contra la invasión franquista. En esa época, creo que por mediación del propio Camillo formaron [una columna](http://es.wikipedia.org/wiki/Milicias_de_la_CNT), «la columna Giustizia e Libertà» casi todos murieron.
+Empezé a investigar, [Camillo Berneri](http://es.wikipedia.org/wiki/Camillo_Berneri), Barbieri, Carlo y Nello [Roselli](http://it.wikipedia.org/wiki/Carlo_Rosselli); un tal [Piero Calamandrei](http://it.wikipedia.org/wiki/Gaetano_Salvemini) (que resultó ser todo un procesalista muy conocido que hoy en día estudiamos en los libros de derecho)&#8230;  Me llamó la antención el que había sido maestro de todos ellos, [Gaetano Salvémini.](http://it.wikipedia.org/wiki/Gaetano_Salvemini) Este hombre debió ser muy enérgico en sus palabras y debió infundar una fuerza y la voluntad de lucha en las mentes aún jóvenes de los hermanos Rosselli. Camillo Berneri los conocería después porque era un poco mayor. Todos habían fundado un grupo antifascista llamado «[_<span class="searchmatch">Giustizia e Libertà_](http://it.wikipedia.org/wiki/Giustizia_e_Libert%C3%A0)«. Con la dictadura tuvieron que exiliarse a Francia, y claro, después vinieron a España a luchar contra la invasión franquista. En esa época, creo que por mediación del propio Camillo formaron [una columna](http://es.wikipedia.org/wiki/Milicias_de_la_CNT), «la columna Giustizia e Libertà» casi todos murieron.
 
 Murieron los [hermanos Rosselli](http://it.wikipedia.org/wiki/Carlo_Rosselli), en Francia a manos de un fascista Italiano. El fin de Camillo Berneri y Barbieri fue también terrible, a manos de unos fascistas&#8230; Claro, unos fascistas estalinistas según cuenta alguna de las versiones de sus muerte. Y murieron muchos más, muchos.
 
