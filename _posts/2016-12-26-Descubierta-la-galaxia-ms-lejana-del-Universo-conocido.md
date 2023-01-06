@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Descubierta la galaxia más lejana del Universo conocido
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Un equipo de astrónomos ha descubierto la galaxia más lejana encontrada
 hasta la fecha con la ayuda de los **telescopios Subaru (Japón) y Keck

@@ -4,11 +4,11 @@ date: 2016-12-28
 generator: pandoc
 title: "Meme: La incomunicación"
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {style="text-align: justify;"}
 No entiendo esta manía de la gente de vivir aislados en su mundo,

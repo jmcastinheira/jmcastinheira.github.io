@@ -4,9 +4,9 @@ date: 2007-04-13
 generator: pandoc
 title: Seguimos con Zubiri (Introducción)
 categories:
-- Frase
+  - Frase
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
 Llegó la hora de la verdad, no quería enfrentarme a ella, pero lo

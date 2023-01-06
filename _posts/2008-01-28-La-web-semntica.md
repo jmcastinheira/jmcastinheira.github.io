@@ -4,12 +4,12 @@ date: 2008-01-28
 generator: pandoc
 title: La web semántica
 categories:
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 [![](){style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 320px;"
 border="0"}]()

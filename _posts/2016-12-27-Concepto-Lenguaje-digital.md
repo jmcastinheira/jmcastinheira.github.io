@@ -4,12 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: "Concepto: Lenguaje digital"
 categories:
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 <div>
 

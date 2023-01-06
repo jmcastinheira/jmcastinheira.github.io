@@ -4,12 +4,12 @@ date: 2016-12-28
 generator: pandoc
 title: La docuteca
 categories:
-- Autores
+  - Autores
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Acabo de introducir definitivamente nuestro buscador personalizado en
 Entelequa; se llama Docuteca y ya estaba en un pequeño widget en la

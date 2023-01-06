@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: El Pulsar de Chandra o la mano de Dios.
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 [La belleza de las
 nebulosas](http://es.wikipedia.org/wiki/Anexo:Objetos_Messier) es ya
@@ -60,11 +60,11 @@ algunos enlaces para profundizar en el tema.
 Por cierto, si queréis hacer zoom en la imagen pasaros por
 [aqui](http://www.chandra.harvard.edu/photo/2009/b1509/zoom.html).
 
--   Web de Chandra:
+  -   Web de Chandra:
     [Noticia](http://www.chandra.harvard.edu/photo/2009/b1509/)
     (traducción por «[Ciencia
     Ninja](http://www.cienciakanija.com/2009/04/05/psr-b1509-58-un-joven-pulsar-muestra-su-mano/)«)
     [Podcast
     2009](http://chandra.harvard.edu/resources/podcasts/by_date.html?year=2009).
--   La noticia en la
+  -   La noticia en la
     «[Gaceta.es](http://www.gaceta.es/06-04-2009+chandra_descubre_un_pequeno_pero_poderoso_pulsar_galaxia,noticia_1img,10,13,52885)«

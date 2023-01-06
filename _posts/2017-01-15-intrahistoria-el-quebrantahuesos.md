@@ -13,7 +13,7 @@ tags:
   - Blog
   - Relato
 ---
-<img class="alignleft" src="http://www.mejorconbici.com/fotoproductos/13-131120062036041.jpg" width="188" height="133" />
+![](http://www.mejorconbici.com/fotoproductos/13-131120062036041.jpg)
 
 **[Uxío PR]** El ciclismo es un deporte increíble. Es fácil iniciarse. Como se suele decir la bicicleta es muy agradecida. Si esta semana rodamos todos los días diez kilómetros, la siguiente seremos capaces de rodar veinte. Sin embargo, si lo dejamos una semana nos olvidaremos hasta de montar en bici.
 

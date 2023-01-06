@@ -4,11 +4,11 @@ date: 2016-12-28
 generator: pandoc
 title: Una Biblia del siglo IV accesible para todos
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 **Por Uxío PR**
 

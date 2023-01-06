@@ -4,12 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: Organización y anarquía
 categories:
-- Autores
+  - Autores
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {data-align="justify"}
 En el libro que recensionamos las menciones a la organización abarcan

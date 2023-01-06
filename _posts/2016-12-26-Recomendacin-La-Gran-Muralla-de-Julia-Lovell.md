@@ -4,14 +4,9 @@ date: 2016-12-26
 generator: pandoc
 title: "Recomendación: La Gran Muralla de Julia Lovell"
 categories:
-- Poema
-
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Bibliografia
 ---
 
-::: {#title-block-header}
-
-::: {#body-196172 .content-body}
 ![](http://www.antartica.cl/antartica/gfx_libros/144/9789871117390.jpg){.alignleft
 width="144" height="221"}\[Uxío PR\] Me gustaría recomendaros un par de
 lecturas que personalmente me han encantado, en primer lugar, un libro

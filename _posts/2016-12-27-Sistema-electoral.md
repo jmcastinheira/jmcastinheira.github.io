@@ -4,11 +4,11 @@ date: 2016-12-27
 generator: pandoc
 title: Sistema electoral.
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Recibo de [otromundoesposible](http://www.otromundoesposible.com/) la
 iniciativa de modificar la ley electoral que se dice injusta en algunos

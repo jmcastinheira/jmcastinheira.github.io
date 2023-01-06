@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Las conjunciones de astros
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Por Uxio PR
 

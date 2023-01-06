@@ -15,7 +15,7 @@ tags:
   - Realidad
   - Uxio
 ---
-<div id="body-267102" class="content-body"><img class="alignleft" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Vueling_A320_EC-JGM.jpg/300px-Vueling_A320_EC-JGM.jpg" width="200" height="150" />
+<div id="body-267102" class="content-body">![](http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Vueling_A320_EC-JGM.jpg/300px-Vueling_A320_EC-JGM.jpg)
   </p>
   
   <p>

@@ -4,11 +4,11 @@ date: 2007-11-04
 generator: pandoc
 title: Pequeño estudio de la verdad (estudio)
 categories:
-- Frase
+  - Frase
 - Poesía
-- Poema
+  - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
 

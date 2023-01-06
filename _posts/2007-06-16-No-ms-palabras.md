@@ -4,9 +4,9 @@ date: 2007-06-16
 generator: pandoc
 title: No más palabras
 categories:
-- Poema
+  - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
 

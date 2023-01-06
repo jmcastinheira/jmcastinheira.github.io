@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: El tamaño en el Universo, ¿te sientes pequeño?
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 \[Uxío PR\] Hay un pensamiento sobre el que me encanta reflexionar desde
 que era pequeño, la inmensidad del Universo, uno puede pararse a

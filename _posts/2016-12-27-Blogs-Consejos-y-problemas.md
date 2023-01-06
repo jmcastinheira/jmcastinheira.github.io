@@ -4,12 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: "Blogs: Consejos y problemas"
 categories:
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Una vez determinado en el post anterior ¿Qué es un blog?; nos toca
 examinar un poco el cómo se hace un blog, ocupándonos en esta entrada de
@@ -45,8 +45,8 @@ las opciones que nos parecieron interesantes en este sentido:
 
 Otras herramientas:
 
--   [Copyscape](http://www.copyscape.com/)
--   [blogbackuponline](https://www.blogbackuponline.com/techrigy/es/signup.aspx)
+  -   [Copyscape](http://www.copyscape.com/)
+  -   [blogbackuponline](https://www.blogbackuponline.com/techrigy/es/signup.aspx)
     (copia de seguridad)
 
 Saludo

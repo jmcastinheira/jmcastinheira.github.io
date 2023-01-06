@@ -4,13 +4,13 @@ date: 2008-02-06
 generator: pandoc
 title: Sobre el concepto del anarquismo.
 categories:
-- Autores
-- Concepto
+  - Autores
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {z="" style="text-align: justify;"}
 [Sobre la palabra:]{z=""

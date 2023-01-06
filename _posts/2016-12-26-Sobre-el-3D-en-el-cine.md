@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Sobre el 3D en el cine
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 ![sala-de-cine.jpg](http://www.amenito.com/uploads/sala-de-cine.jpg?v=1275908780144){width="196"
 height="138"}

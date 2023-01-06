@@ -4,28 +4,8 @@ date: 2016-12-25
 generator: pandoc
 title: Sobre identidad y sujeto.
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
----
-
-::: {#title-block-header}
-
-Después de haber analizado, siguiendo nuestro curioso [interés
-tipografico](http://entelequia.bligoo.com/content/view/526478/El-arte-invisible-de-los-tipos.html)
-los tipos góticos y los romanos, nos vamos a centrar en la evolución que
-estos últimos siguieron, dejando para un último post, los tipos de palo
-seco y otras creaciones.
-
-**Tipos Neoclásicos.**
-
-Como decíamos nos vamos a adentrar siempre siguiendo la clasificación
-tipográfica sencilla de Enric Satué, en los tipos Neoclásicos o
-Modernos, son realmente una evolución de los tipos Romanos; y están
-inspirados por el ambiente romántico de la época, la búsqueda de la
-belleza de inspiración griega y la posibilidad técnica de hacer acabados
-más sutiles que los que anteriormente permitían las viejas imprentas.
-
-Empezemos con los dos reyes de este estilo, el tipo Bodini y el Didot,
+  - Concepto
+ de este estilo, el tipo Bodini y el Didot,
 aunque existe discordancia entre el texo de la Wikipedia y el de Enric
 Satué, puedo aceptar que estos tipos fueron inspirados por [Simon
 Fournier](http://es.wikipedia.org/wiki/Pierre-Simon_Fournier) y [su
@@ -143,11 +123,11 @@ un texto de Enric Satué, los enlaces no, claro.
     (anónima y fundida por la empresa Monotype, 1934),
 -   [Playbill](http://www.identifont.com/show?1NP) ([Robert
     Harling](http://www.identifont.com/show?37O), 1938),
--   [Volta](http://www.linotype.com/es/90390/volta-familia.html)
+  -   [Volta](http://www.linotype.com/es/90390/volta-familia.html)
     ([Konrad F.
     Bauer](http://www.linotype.com/665/konradfbauer.html)/[Walter
     Baum](http://www.linotype.com/es/658/walterbaum.html), 1956)
--   [Lubalin
+  -   [Lubalin
     Graph](http://www.linotype.com/es/191574/itclubalingraphcompletefamily-valuepack.html?viewmode=product&id=191574&name=itclubalingraphcompletefamily&usage=&type=comp&lang=es)
     ([Herbert Lubalin](http://en.wikipedia.org/wiki/Herb_Lubalin),
     1974).

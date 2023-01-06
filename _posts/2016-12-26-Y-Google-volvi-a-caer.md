@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Y Google volvió a caer...
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-454297 .content-body}
 ![](http://www.our-picks.com/docs/assets/images/2007/04/gmail-logo-google-tm.jpg){.alignleft
@@ -65,9 +65,9 @@ El debate empieza: en
 -   [Soitu](http://www.soitu.es/soitu/2009/02/24/vidadigital/1235479854_355227.html).
 -   Y sigue en «[El documentalista
     Enredado](http://www.documentalistaenredado.net/797/la-caida-de-gmail-y-las-debilidades-del-cloud-computing/)«
--   Y en el [blog de Ion
+  -   Y en el [blog de Ion
     Antolín](http://ionantolin.blogspot.com/2009/02/apocalypse-mail.html).
--   y en
+  -   y en
     [Microsiervos](http://www.microsiervos.com/archivo/internet/vdg-peligro-estar-en-la-nube.html),
     aunque en este caso más sobre la nube
 

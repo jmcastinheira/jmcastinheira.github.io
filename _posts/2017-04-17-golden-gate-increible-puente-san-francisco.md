@@ -12,9 +12,9 @@ categories:
 tags:
   - Uxio
 ---
-<img class="alignleft" src="http://upload.wikimedia.org/wikipedia/commons/a/a4/Ggb_by_night.jpg" width="211" height="162" align="left" border="0" />En la Bahía de San Francisco podemos encontrar construcciones increíbles y llenas de historia, hace unos días os contaba unas pinceladas sobre la <a href="http://entelequia.bligoo.com/content/view/159090/Una_de_las_c_rceles_m_s_horribles_de_la_historia_Alcatraz.html" class="broken_link" rel="nofollow">historia de Alcatraz,</a> pero me gustaría hablar también sobre cosas positivas de estas región, otro de sus atractivos turísticos son, sin duda, sus puentes, una zona tan poblada necesitaba comunicaciones fluídas, y la Bahía era algo que debía poder atravesarse con facilidad, a pesar de su gran tamaño.
+![](http://upload.wikimedia.org/wikipedia/commons/a/a4/Ggb_by_night.jpg)En la Bahía de San Francisco podemos encontrar construcciones increíbles y llenas de historia, hace unos días os contaba unas pinceladas sobre la [historia de Alcatraz,](http://entelequia.bligoo.com/content/view/159090/Una_de_las_c_rceles_m_s_horribles_de_la_historia_Alcatraz.html) pero me gustaría hablar también sobre cosas positivas de estas región, otro de sus atractivos turísticos son, sin duda, sus puentes, una zona tan poblada necesitaba comunicaciones fluídas, y la Bahía era algo que debía poder atravesarse con facilidad, a pesar de su gran tamaño.
 
-<div id="body-160971" class="content-body">En los años 20, la prosperidad se multiplicó en Estados Unidos, el tráfico rodado en la región que nos ocupa se multiplicó por siete en estos años, y se hacía necesaria una gran obra, tras la Depresión económica, el gobierno de Roosevelt aprobó la construcción de este enorme puente, que además requeriría la creación de muchos puestos de trabajo, y traería prosperidad a la zona, el arquitecto fue Joseph Strauss, y lo concibió no sólo como un puente para circulación de tráfico, sino también como conducto para transporte de energía (combustible y electricidad), además de incorporarle un carril bici y atra zona para ir a pie.Se construyó a 67 metros de altura sobre el nivel del mar para no entorpecer a<img class="alignright" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/GG-ftpoint-bridge-2.jpg/800px-GG-ftpoint-bridge-2.jpg" width="250" height="180" align="right" border="0" /> los barcos que debían pasar por la Bahía, el propio puente tiene una altura de 227 metros (la torres), y 1280 metros de longitud, se trata de un puente colgante, y llama la atención la colocación vertical de los enormes conjuntos de alambre que la sujetan a las dos torres.
+<div id="body-160971" class="content-body">En los años 20, la prosperidad se multiplicó en Estados Unidos, el tráfico rodado en la región que nos ocupa se multiplicó por siete en estos años, y se hacía necesaria una gran obra, tras la Depresión económica, el gobierno de Roosevelt aprobó la construcción de este enorme puente, que además requeriría la creación de muchos puestos de trabajo, y traería prosperidad a la zona, el arquitecto fue Joseph Strauss, y lo concibió no sólo como un puente para circulación de tráfico, sino también como conducto para transporte de energía (combustible y electricidad), además de incorporarle un carril bici y atra zona para ir a pie.Se construyó a 67 metros de altura sobre el nivel del mar para no entorpecer a![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/GG-ftpoint-bridge-2.jpg/800px-GG-ftpoint-bridge-2.jpg) los barcos que debían pasar por la Bahía, el propio puente tiene una altura de 227 metros (la torres), y 1280 metros de longitud, se trata de un puente colgante, y llama la atención la colocación vertical de los enormes conjuntos de alambre que la sujetan a las dos torres.
   </p>
   
   <p>
@@ -38,7 +38,7 @@ tags:
   </p>
   
   <p>
-    <img class="aligncenter" src="http://www.virtuar.com/alcatraz/alcatraz_2824.jpg" width="400" height="230" align="absmiddle" border="0" />
+    ![](http://www.virtuar.com/alcatraz/alcatraz_2824.jpg)
   
   <div id="ads-parked-11" class="ads-parked-11">
   </div>

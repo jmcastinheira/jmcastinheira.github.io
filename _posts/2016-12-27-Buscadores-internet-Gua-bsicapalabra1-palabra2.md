@@ -4,12 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: "Buscadores internet: Guía básica"
 categories:
-- Frase
+  - Frase
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-136524 .content-body}
 [![](http://www.cosassencillas.com/docs/assets/images/2007/12/BuscarinformacinmediantelaWeb2.0_A2B6/busquedas.gif){.alignleft
@@ -56,12 +56,12 @@ pueden aplicar a la mayoría de los grandes buscadores:]{lang="es-ES"}
     omite la mayoría de las preposiciones y expresiones como .com, .es
     etc.]{lang="es-ES"}
 
--   [-- : Omite la palabra que le sigue, es el equivalente a NOT. (p.e.
+  -   [-- : Omite la palabra que le sigue, es el equivalente a NOT. (p.e.
     "telefonía móvil -Nokia" busca páginas sobre teléfonos móviles pero
     omite las que traten sobre\
     Nokia)]{lang="es-ES"}
 
--   [OR : El operador OR, siempre va en mayúsculas, busca bien esta
+  -   [OR : El operador OR, siempre va en mayúsculas, busca bien esta
     cosa, esta otra, o las dos, nos puede ser muy útil cuando una
     palabra es necesaria pero nos elimina demasiados resultados. Clave1
     OR clave2, busca páginas relacionados con algunas de las dos claves

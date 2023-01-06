@@ -4,12 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: "Concepto: Blog"
 categories:
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {data-align="justify"}
 Este post fue publicado en el foro de la Fundación Xavier Zubiri, junto
@@ -34,7 +34,7 @@ son, y para qué sirven los blogs.
 :::
 
 ::: {data-align="justify"}
--   Concepto: Un [blog](http://es.wikipedia.org/wiki/Blog "Wikipedia"),
+  -   Concepto: Un [blog](http://es.wikipedia.org/wiki/Blog "Wikipedia"),
     weblog o mejor Bitácora en español; es un formato nuevo de sitio web
     de carácter dinámico e interactivo, que permite una relación
     distinta entre lector y autor; y la relación es distinta del mismo
@@ -46,7 +46,7 @@ son, y para qué sirven los blogs.
     general los lectores de bitacoras son también gestores de ellas.
     (Más información en la
     [wikipedia](http://es.wikipedia.org/wiki/Blog "Wikipedia").
--   Función: Las bitácoras debido a sus características constitutivas,
+  -   Función: Las bitácoras debido a sus características constitutivas,
     sirven para bastante más que para hacer diarios personales.
     -   Empezando primero por la evolución de las funciones de las webs
         (luego veremos específicamente los blogs) está recogida

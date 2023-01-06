@@ -4,11 +4,11 @@ date: 2016-12-27
 generator: pandoc
 title: Sobre los jueces.
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-152595 .content-body}
 ![](http://www.humor12.com/data/media/13/justicia_www_humor12_com.jpg){.alignleft

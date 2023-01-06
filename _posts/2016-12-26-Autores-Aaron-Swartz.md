@@ -4,12 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: "Autores: Aaron Swartz"
 categories:
-- Autores
+  - Autores
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Conocí la historia de [Aaron
 Swartz](http://es.wikipedia.org/wiki/Aaron_Swartz) el mismo día de su
@@ -106,7 +106,7 @@ Y otros en castellano extraídos de la Wikipedia
     de Investigaciones Científicas y Técnicas
     [CONICET](http://es.wikipedia.org/wiki/CONICET "CONICET"){.mw-redirect}
     (Argentina)
--   [Repositorio Digital de CLACSO (Consejo Latinoamericano de Ciencias
+  -   [Repositorio Digital de CLACSO (Consejo Latinoamericano de Ciencias
     Sociales)](http://biblioteca.clacso.edu.ar/){.external .text
     rel="nofollow"} ofrece acceso libre y gratuito a producción de los
     309 Centros Miembros de CLACSO en 21 países de América Latina y el
@@ -116,7 +116,7 @@ Y otros en castellano extraídos de la Wikipedia
     multimedia de los [centros de investigación
     asociados](http://www.clacso.edu.ar/clacso/centros_miembros_clacso/inicio.php){.external
     .text rel="nofollow"}. (América Latina y El Caribe)
--   [SeDiCI](http://es.wikipedia.org/wiki/Servicio_de_Difusi%C3%B3n_de_la_Creaci%C3%B3n_Intelectual "Servicio de Difusión de la Creación Intelectual")
+  -   [SeDiCI](http://es.wikipedia.org/wiki/Servicio_de_Difusi%C3%B3n_de_la_Creaci%C3%B3n_Intelectual "Servicio de Difusión de la Creación Intelectual")
     [\[2\]](http://sedici.unlp.edu.ar){.external .autonumber
     rel="nofollow"} es el repositorio Institucional de la [Universidad
     Nacional de La

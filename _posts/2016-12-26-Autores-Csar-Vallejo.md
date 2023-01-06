@@ -4,13 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: "Autores: César Vallejo"
 categories:
-- Autores
+  - Autores
 - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Nunca se puede decir lo suficiente de César Vallejo. Uno de mis poetas
 preferidos. Su fuerza poética y su estilo inconfundible. Su pasión... y
@@ -105,9 +105,9 @@ su [vida](http://es.wikipedia.org/wiki/C%C3%A9sar_Vallejo)
     Peruanos](http://www.librosperuanos.com/autores/cesar_vallejo.html),[Marxistas.org](http://www.marxists.org/espanol/vallejo/poemas.htm).
 -   Videoteca:
     [Youtube](http://www.youtube.com/results?search_query=Cesar+Vallejo&search_type=).[Dalealplay](http://www.dalealplay.com/informaciondecontenido.php?con=66143).
--   Audio: [Los heraldos
+  -   Audio: [Los heraldos
     negros](http://www.evoca.com/everyone_recording.jsp?rid=17283),
--   Articulos sobre él o sus obras:
+  -   Articulos sobre él o sus obras:
     [Henciclopedia](http://www.henciclopedia.org.uy/autores/Platero/curriculum.htm),[festival
     de
     Medellín](http://www.festivaldepoesiademedellin.org/pub.php/es/Revista/ultimas_ediciones/79/mariategui.html),

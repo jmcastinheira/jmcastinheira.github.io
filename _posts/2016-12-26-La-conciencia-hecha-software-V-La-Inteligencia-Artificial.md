@@ -4,13 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: "La conciencia hecha software V: La Inteligencia Artificial"
 categories:
-- Autores
+  - Autores
 - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Intentaremos responder a la pregunta **¿Qué es la inteligencia
 artificial?**
@@ -100,7 +100,7 @@ procedimiento efectivo era
 -   c.  Debía garantizar la solución del problema pertinente por medio
         de un **número finito** de pasos. Y finalmente un desideratum,
 
--   d.  Que seamos capaces de acotar de antemano **cuantos pasos**
+  -   d.  Que seamos capaces de acotar de antemano **cuantos pasos**
         llevará encontrar la solución.
 
 [Nosotros ya sabemos que
@@ -242,5 +242,5 @@ hacer es ir más rápido.
 
 **Para seguir leyendo:**
 
--   [*On computable numbers, with an application to the
+  -   [*On computable numbers, with an application to the
     Entscheidungsproblem*](http://www.cs.virginia.edu/%7Erobins/Turing_Paper_1936.pdf)

@@ -14,7 +14,7 @@ tags:
   - Uxio
 ---
 <div style="width: 301px" class="wp-caption alignleft">
-  <img class="size-full" src="http://www.preguntasantoral.es/docs/assets/images/2010/09/Miniatura.jpg?v=1329904229300" alt="Imagen Santa Wiboranda extraída de la web preguntasantoral.es" width="291" height="500" />
+  ![](http://www.preguntasantoral.es/docs/assets/images/2010/09/Miniatura.jpg?v=1329904229300)
   
   <p class="wp-caption-text">
     Imagen Santa Wiboranda extraída de la web preguntasantoral.es

@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: La terrorífica historia de la muerte de un vampiro (+18)
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Por Uxio P.R.
 

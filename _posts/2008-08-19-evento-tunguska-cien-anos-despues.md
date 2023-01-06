@@ -23,7 +23,7 @@ Imagen tomada en una investigación posterior al suceso:
 
 &nbsp;
 
-<img class="aligncenter" src="http://jdwaggoner.files.wordpress.com/2008/06/tunguska_event.jpg" width="560" height="409" /> 
+![](http://jdwaggoner.files.wordpress.com/2008/06/tunguska_event.jpg) 
 
 Esta incontrolada y pontente explosión sigue siendo un misterio aún hoy en día, según Don Yeomans, director de un laboratorio de la NASA:
 
@@ -33,7 +33,7 @@ Las condiciones de la zona impidieron que se llevara a cabo una investigación d
 
 Ninguna expedición posterior encontró restos un un lugar de impacto, lo que sumó aún más misterio a la explosión de Tunguska, la teoría más aceptada es que un Meteorito o un Cometa entró en la atmósfera sin ser detectado, y explotó poco antes de tocar tierra, de ahí que no se hallase lugar de impacto, por contra se hallaron signos de devastación por todas partes.
 
-<img class="aligncenter" src="http://www.tayabeixo.org/articulos/images/tungus7.jpg" width="233" height="233" /> 
+![](http://www.tayabeixo.org/articulos/images/tungus7.jpg) 
 
 Los lugareños describían algo muy similar a un hongo atómico, además de afirmar que ese día todo ardía, hasta la camisa que llevaran puesta.
 
@@ -45,13 +45,13 @@ El evento ha suscitado tanto misterio que hay más de 30 teorías sobre lo que p
 
 Un cometa es el principal sospechoso de esta explosión:
 
-<img class="aligncenter" src="http://www.tayabeixo.org/sist_solar/cometas/images/cometa_west_mar9_1976.jpg" width="253" height="256" /> 
+![](http://www.tayabeixo.org/sist_solar/cometas/images/cometa_west_mar9_1976.jpg) 
 
 El evento de Tunguska no es el primero ni el último, los impactos de objetos espaciales en la superficie terrestre son bastante comunes, sólo que en ocasiones tienen consecuencias devastadoras, y debido al gran daño que puede hacer un objeto pequeño (sobre todo según qué elementos lo componen), son realmente difíciles de detectar y prever.
 
 **La región de Tunguska**, hoy, un joven bosque en medio de una región con algunos de los bosques más antiguos del planeta:
 
-<img class="aligncenter" src="http://www.tayabeixo.org/articulos/images/tungus9.jpg" width="567" height="375" /> 
+![](http://www.tayabeixo.org/articulos/images/tungus9.jpg) 
 
 Hasta ahora el ser humano ha tenido mucha suerte, la explosiones han ocurrido en lugares alejados de grandes núcleos de población, y esperemos que esto siga siendo así, ya que el espacio ya ha demostrado lo que puede pasar si una de esas bombas espaciales se acerca demasiado a la tierra.
 

@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Impresionante Aurora Boreal filmada
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 ![800px-Aurora_Borealis.jpg](http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Aurora_Borealis.jpg/800px-Aurora_Borealis.jpg?v=1302602065736){width="330"
 height="190"}

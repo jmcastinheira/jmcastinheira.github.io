@@ -4,12 +4,12 @@ date: 2007-11-16
 generator: pandoc
 title: La política emocional
 categories:
-- Poesía
+  - Poesía
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {style="text-align: justify;"}
 [![](http://serv.rn.cl/editorial/wp-content/politica9ap.jpg){style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 200px;"

@@ -4,12 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: "Software para bloc de Notas: TiddlyWiki"
 categories:
-- Poesía
+  - Poesía
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 He estado colocando algunas novedades en el blog, como la creación de
 una página que se basa en un software llamado
@@ -26,10 +26,10 @@ personalizarlo en [TiddlyThemes.](http://tiddlythemes.com/)
 
 Algunas cosas más sobre Tiddlywiki:
 
--   La página del proyecto original es
+  -   La página del proyecto original es
     [TiddlyWiki](http://www.tiddlywiki.com/) creado por
     [JeremyRuston](http://www.tiddlywiki.com/#JeremyRuston)
--   Para aprender a usar TiddlyWiki pásate por estas paginas:
+  -   Para aprender a usar TiddlyWiki pásate por estas paginas:
 
 > -   [Tutorial
 >     Básico](http://www.giffmex.org/twtutorialespanol.html)(En

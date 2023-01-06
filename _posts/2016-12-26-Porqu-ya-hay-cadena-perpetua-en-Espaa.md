@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Porqué ya hay cadena perpetua en España
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 El caos jurídico en el que se está metiendo España últimamente sólo
 puede ser superado por la hipocresía de algunos y por la dejadez de
@@ -175,7 +175,7 @@ Otros enlaces:
     confidencial](http://www.elconfidencial.com/cache/2009/03/09/sociedad_11_expertos_advierten_cadena_perpetua_existe_espana_forma.html)«.
 -   «[Recuperamos un artículo de
     soitu](http://www.soitu.es/soitu/2009/02/22/actualidad/1235295471_808759.html)«
--   «[Artículo de Enrique
+  -   «[Artículo de Enrique
     Gimbernat](http://reggio.wordpress.com/2009/01/22/la-insoportable-gravedad-del-codigo-penal-i-de-enrique-gimbernat-en-el-mundo/)«
--   «[Influencia de los medios en la percepción
+  -   «[Influencia de los medios en la percepción
     criminalidad](http://criminet.ugr.es/recpc/07/recpc07-09.pdf)«

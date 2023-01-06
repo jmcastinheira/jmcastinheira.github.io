@@ -4,12 +4,12 @@ date: 2017-01-08
 generator: pandoc
 title: ¿Qué es entelequia...?
 categories:
-- Frase
+  - Frase
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ... O un poco de todo lo que he aprendido.
 

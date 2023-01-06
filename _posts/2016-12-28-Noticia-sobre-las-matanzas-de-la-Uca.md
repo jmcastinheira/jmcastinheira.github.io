@@ -4,11 +4,11 @@ date: 2016-12-28
 generator: pandoc
 title: Noticia sobre las matanzas de la Uca
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Hoy he visto este artículo en Soitu, sobre «[Los asesinatos de los
 jesuítas en El
@@ -46,7 +46,7 @@ Os pongo otros artículos que hemos escrito por aqui:
 -   [16 de
     Noviembre](http://entelequia.bligoo.com/content/view/320841/16_de_noviembre.html).
 -   [Hoy](http://entelequia.bligoo.com/content/view/132074/Hoy.html).
--   [Jon
+  -   [Jon
     Sobrino](http://entelequia.bligoo.com/content/view/132150/Jon_Sobrino.html).
--   [Ignacio
+  -   [Ignacio
     Ellacuría](http://entelequia.bligoo.com/content/view/132151/Ignacio_Ellacuria.html).

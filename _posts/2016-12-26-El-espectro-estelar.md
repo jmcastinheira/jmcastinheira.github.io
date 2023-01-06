@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: El espectro estelar
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 \[Por Uxío\] Como ya hemos visto en otras ocasiones, en nuestro Universo
 **todos los elementos que lo integran están en movimiento**, de pequeños
@@ -238,11 +238,11 @@ Ross 248
 
 Lalande 21185
 
--- 86
+  -- 86
 
 Estrella de Barnard
 
--- 108
+  -- 108
 
 La invención de la fotografía en 1840, así como otros avances, nos han
 permitido saber mucho más sobre el movimiento de las estrellas, **en el

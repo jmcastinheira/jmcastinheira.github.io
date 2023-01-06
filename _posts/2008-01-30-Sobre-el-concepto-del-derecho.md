@@ -4,12 +4,12 @@ date: 2008-01-30
 generator: pandoc
 title: Sobre el concepto del derecho.
 categories:
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Había estado pensando hacer un artículo un poco complejo sobre [el
 derecho y la

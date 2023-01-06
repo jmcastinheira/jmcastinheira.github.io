@@ -4,12 +4,12 @@ date: 2017-01-22
 generator: pandoc
 title: "Comunicación 1. Comunicación analógica:"
 categories:
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 En este artículo vamos a intentar preocuparnos un poco más de qué es eso
 que se ha dado en llamar comunicación. Comenzaremos por intentar definir

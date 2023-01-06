@@ -4,14 +4,14 @@ date: 2017-01-02
 generator: pandoc
 title: "Autores: Juan Gélman"
 categories:
-- Autores
+  - Autores
 - Poesía
 - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-99475 .content-body}
 ![](http://prairial.free.fr/images/gelman/Gelman3.jpg){.alignleft
@@ -41,9 +41,9 @@ Enlaces:
     Gelman](http://poesiavirtual.com/index.php?ir=antologia/voz14.php)
 -   Obras: [Libro](http://www.elortiba.org/gelman3.html);
     [poemas](http://sololiteratura.com/gel/gelpoemas.htm)
--   Bitácora **sobre** [Juan
+  -   Bitácora **sobre** [Juan
     Gelman](http://www.juangelman.com/wordpress/) (no es el autor quien
     la gestiona pero aun así la añadimos a nuestro feevy)
--   Artículos: en
+  -   Artículos: en
     [Rebelión](http://www.rebelion.org/mostrar.php?tipo=5&id=Juan%20Gelman&inicio=0)
 :::

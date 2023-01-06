@@ -12,11 +12,11 @@ categories:
 tags:
   - Blog
 ---
-<div id="body-144874" class="content-body"><img class="alignleft" src="http://www.spanish-books.net/masters/garcilaso.jpg" width="150" height="192" />
+<div id="body-144874" class="content-body">![](http://www.spanish-books.net/masters/garcilaso.jpg)
   </p>
   
   <p>
-    Probablemente uno de mis poetas preferidos es Garcilaso de la Vega, «<a href="http://www.poesia-inter.net/ramt2412.htm">si Garcilaso volviera yo sería su escudero&#8230;</a>» su poesía es radicalmente actual, de una sensibilidad asombrosa y con una fuerza poética total, no lo digo por decir, mi verso preferido es este:
+    Probablemente uno de mis poetas preferidos es Garcilaso de la Vega, «[si Garcilaso volviera yo sería su escudero&#8230;](http://www.poesia-inter.net/ramt2412.htm)» su poesía es radicalmente actual, de una sensibilidad asombrosa y con una fuerza poética total, no lo digo por decir, mi verso preferido es este:
   </p>
   
   <blockquote>
@@ -44,7 +44,7 @@ tags:
   </blockquote>
   
   <p>
-    Aunque sé que a la mayoría les gustará más el último terceto, a mi me gusta el primer cuarteto; la primera vez que lo leí, probablemente no haya sido así, pero después de haberlo leído y releído hasta desgastarme la memoria he decidido que todo él es absolutamente genial, en el primer cuarteto porque no sólo le dedica a la afortunada este bellísimo poema entero, sino que le dice, fíjense que humildad, «vos sóla lo escribistéis yo lo leo tan sólo» en fin, y el primer terceto&#8230; y eso que no me he puesto a alalizar la métrica y los acentos y todas esas cosas que ya no tienen los poetas de hoy porque les suenan cursis, sí, a todos los que leo les suena cursi un poema medido, pero no, a Garcilaso no, él era un guerrero.<br /> Otro poema que me encantaba era <a href="http://es.wikisource.org/wiki/El_dulce_lamentar_de_dos_pastores">una de sus églogas</a>, me lo sabía de memoria:
+    Aunque sé que a la mayoría les gustará más el último terceto, a mi me gusta el primer cuarteto; la primera vez que lo leí, probablemente no haya sido así, pero después de haberlo leído y releído hasta desgastarme la memoria he decidido que todo él es absolutamente genial, en el primer cuarteto porque no sólo le dedica a la afortunada este bellísimo poema entero, sino que le dice, fíjense que humildad, «vos sóla lo escribistéis yo lo leo tan sólo» en fin, y el primer terceto&#8230; y eso que no me he puesto a alalizar la métrica y los acentos y todas esas cosas que ya no tienen los poetas de hoy porque les suenan cursis, sí, a todos los que leo les suena cursi un poema medido, pero no, a Garcilaso no, él era un guerrero.<br /> Otro poema que me encantaba era [una de sus églogas](http://es.wikisource.org/wiki/El_dulce_lamentar_de_dos_pastores), me lo sabía de memoria:
   </p>
   
   <blockquote>
@@ -58,20 +58,20 @@ tags:
   </blockquote>
   
   <p>
-    Y la lira, por supuesto, «<a href="http://es.wikisource.org/wiki/A_flor_de_Gnido">si de mi baja lira</a>» y claro, nos ha quedado el canon del sonteto de endecasílabo italiano, «<a href="http://es.wikisource.org/wiki/En_tanto_que_de_rosa_y_azucena">En tanto que de rosa y azuzena</a>»<br /> Enlaces
+    Y la lira, por supuesto, «[si de mi baja lira](http://es.wikisource.org/wiki/A_flor_de_Gnido)» y claro, nos ha quedado el canon del sonteto de endecasílabo italiano, «[En tanto que de rosa y azuzena](http://es.wikisource.org/wiki/En_tanto_que_de_rosa_y_azucena)»<br /> Enlaces
   
   <ul>
     <li>
-      Biografía: <a href="http://es.wikipedia.org/wiki/Garcilaso_de_la_Vega">Wikipedia</a>,
+      Biografía: [Wikipedia](http://es.wikipedia.org/wiki/Garcilaso_de_la_Vega),
     </li>
     <li>
-      Obras: <a href="http://es.wikisource.org/wiki/Categor%C3%ADa:Obras_literarias_de_Garcilaso_de_la_Vega">Wilisource</a>, <a href="http://www.cervantesvirtual.com/FichaAutor.html?Ref=719&idGrupo=conCCDC">Cervantesvirtual</a>.
+      Obras: [Wilisource](http://es.wikisource.org/wiki/Categor%C3%ADa:Obras_literarias_de_Garcilaso_de_la_Vega), [Cervantesvirtual](http://www.cervantesvirtual.com/FichaAutor.html?Ref=719&idGrupo=conCCDC).
     </li>
     <li>
-      Estudios: <a href="http://www.ucm.es/info/especulo/numero25/egloga.html">Églogas</a>, <a href="http://www.cervantesvirtual.com/FichaAutor.html?Ref=719">Biblioteca Miguel de Cervantes,</a> <a href="http://www.ucm.es/info/especulo/numero37/mutiempo.html">sobre la mujer</a>, <a href="http://www.ucm.es/BUCM/revistas/fll/11339527/articulos/CFIT9595110091A.PDF">traducción de una égloga</a>.
+      Estudios: [Églogas](http://www.ucm.es/info/especulo/numero25/egloga.html), [Biblioteca Miguel de Cervantes,](http://www.cervantesvirtual.com/FichaAutor.html?Ref=719) [sobre la mujer](http://www.ucm.es/info/especulo/numero37/mutiempo.html), [traducción de una égloga](http://www.ucm.es/BUCM/revistas/fll/11339527/articulos/CFIT9595110091A.PDF).
     </li>
     <li>
-      Video: un simpático <a href="http://www.youtube.com/watch?v=c7AmMzF7d2U">video de youtube</a>, <a href="http://www.youtube.com/watch?v=lMezmObrjV0">escenificación de Dafne</a>.
+      Video: un simpático [video de youtube](http://www.youtube.com/watch?v=c7AmMzF7d2U), [escenificación de Dafne](http://www.youtube.com/watch?v=lMezmObrjV0).
     </li>
   </ul>
 </div>

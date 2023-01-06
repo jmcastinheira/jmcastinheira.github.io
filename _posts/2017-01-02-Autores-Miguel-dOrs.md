@@ -4,14 +4,14 @@ date: 2017-01-02
 generator: pandoc
 title: "Autores: Miguel d´Ors"
 categories:
-- Autores
+  - Autores
 - Poesía
 - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 He mencionado a [Miguel d´Ors
 Lois](http://es.wikipedia.org/wiki/Miguel_d%27Ors) en otras ocasiones.
@@ -102,6 +102,6 @@ Enlaces:
     [abelmartin.com](http://www.abelmartin.com/aper/ors/ors.html) y en
     «[Palabra
     Virtual](http://www.palabravirtual.com/index.php?ir=crit.php&wid=363&show=poemas&p=Miguel+D%B4Ors)«
--   [Wikipedia](http://es.wikipedia.org/wiki/Miguel_d%27Ors)
--   Obra: en
+  -   [Wikipedia](http://es.wikipedia.org/wiki/Miguel_d%27Ors)
+  -   Obra: en
     [abelmartin.com](http://www.abelmartin.com/aper/ors/bib-mo.html)

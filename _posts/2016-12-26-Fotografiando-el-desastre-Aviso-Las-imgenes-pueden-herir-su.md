@@ -4,12 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: "Fotografiando el desastre (Aviso: Las imágenes pueden herir su
 categories:
-- Concepto
+  - Concepto
   sensibilidad)"
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 \[Por Uxío\] Hoy he leído una noticia en el periódico «El País», que me
 ha traído muy malos recuerdos, la foto de la que hablo es un increíble

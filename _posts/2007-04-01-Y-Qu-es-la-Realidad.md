@@ -4,10 +4,10 @@ date: 2007-04-01
 generator: pandoc
 title: Y... ¿Qué es la Realidad?
 categories:
-- Autores
-- Concepto
+  - Autores
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
 El título de este blog dice «Lo real en el espejo» pero ¿Qué es la

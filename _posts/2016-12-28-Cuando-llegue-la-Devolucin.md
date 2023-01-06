@@ -4,11 +4,11 @@ date: 2016-12-28
 generator: pandoc
 title: Cuando llegue la Devolución.
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-146510 .content-body}
 He estado probando con [Pixton](http://www.pixton.com/), una utilidad
@@ -20,7 +20,7 @@ bueno... un saludo.
 <div>
 
         <div>
-          <a href="https://www.pixton.com/from/comic/ih0t85iu" target="_blank" rel="nofollow">Cuando llegue la Devolución.</a> 
+          [Cuando llegue la Devolución.](https://www.pixton.com/from/comic/ih0t85iu) 
           
           <div>
             by Aulo
@@ -44,7 +44,7 @@ bueno... un saludo.
         
         
         
-          <a href="https://www.pixton.com/" target="_blank"><img title="Powered by Pixton.com" src="https://static.pixton.com/_v3_/img/fixed/logo-pixton-embed.png" border="0" /></a><a href="https://www.pixton.com/create" target="_blank">Create</a>
+          <a href="https://www.pixton.com/" target="_blank"><img title="Powered by Pixton.com" src="https://static.pixton.com/_v3_/img/fixed/logo-pixton-embed.png" border="0" /></a>[Create](https://www.pixton.com/create)
         
         
         <div>

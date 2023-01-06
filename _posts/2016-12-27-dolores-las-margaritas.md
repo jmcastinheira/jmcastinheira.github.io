@@ -13,7 +13,7 @@ tags:
   - Blog
   - Relato
 ---
-<div id="body-153138" class="content-body"><img class="alignleft" src="http://www.jggweb.com/wp-content/margaritas785b.jpg" width="196" height="150" align="left" border="0" />Ya había hablado de Dolores en alguna ocasión, ahora me toca otra vez en una nueva historia, por lo que luego les digo.
+<div id="body-153138" class="content-body">![](http://www.jggweb.com/wp-content/margaritas785b.jpg)Ya había hablado de Dolores en alguna ocasión, ahora me toca otra vez en una nueva historia, por lo que luego les digo.
   </p>
   
   <p>

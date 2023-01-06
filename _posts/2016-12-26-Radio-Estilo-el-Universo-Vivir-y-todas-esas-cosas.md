@@ -4,13 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Radio Estilo, el Universo, Vivir y todas esas cosas
 categories:
-- Intrahistoria
+  - Intrahistoria
 - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Bueno, llevo un montón sin escribir nada, una serie de ocupacioes me
 tenían atareado, pero en fin dicen que la vida es una ocupación
@@ -124,8 +124,8 @@ Para un niño de ocho años esta respuesta debería bastar, endiendo yo, no
 obstante Xurxo aún tenía más que decir:
 
 -   ¿Pero y si la gente es muy perezosa y no se pone a trabajar?
--   Pues tú te tienes que poner a estudiar, y a trabajar mucho...
--   Bueno... No sé... (debió decir)
+  -   Pues tú te tienes que poner a estudiar, y a trabajar mucho...
+  -   Bueno... No sé... (debió decir)
 
 Así que el pobre Xurxo que no tenía suficiente con jugar a la Play tiene
 ahora otro entretenimiento más; el pesado y nunca agradecido trabajo de

@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: El satélite CoRoT descubre una SuperTierra
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-443748 .content-body}
 ![](http://www.iac.es/img/prensa/prensa573_697m.jpg){.alignleft

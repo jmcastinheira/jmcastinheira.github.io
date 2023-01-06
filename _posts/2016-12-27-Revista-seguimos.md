@@ -4,13 +4,13 @@ date: 2016-12-27
 generator: pandoc
 title: Revista (seguimos)
 categories:
-- Autores
+  - Autores
 - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-132057 .content-body}
 [![](http://escritores.files.wordpress.com/2007/06/foto-revista-internet.jpg){.alignleft
@@ -63,7 +63,7 @@ ya lo conozco, he sacado algunas conclusiones:
     [aqui](http://jmcastinneira.wordpress.com/). No he sido capaz de
     hacer por el momento una versión de WordPress.org, este no tiene
     límites, pero claro hay que saber más, y yo no sé.
--   La otra opción es Bligoo, a mi personalmente me gusta más bligoo,
+  -   La otra opción es Bligoo, a mi personalmente me gusta más bligoo,
     sus creadores son chilenos y es muy manejable y fácil de usar,
     además tampoco tiene limitaciones, que yo sepa; la apariencia se
     puede cambiar totalmente, pero claro hay que saber, y yo sé poco de
@@ -72,7 +72,7 @@ ya lo conozco, he sacado algunas conclusiones:
     permite tener un avatar (imagen personal) para cada autor de un
     artículo. el sitio que he probado
     [aqui](http://ipoesia.bligoo.com/content)
--   Blogger ya lo conocemos, lo malo es que no permite distinguir
+  -   Blogger ya lo conocemos, lo malo es que no permite distinguir
     adecuadamente a los distintos autores y después es un lio, lo bueno,
     es que las plantillas se pueden editar, y muchas de las de wordpress
     están adapatadas a blogger, feevy funciona bien, y es también

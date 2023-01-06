@@ -4,12 +4,12 @@ date: 2016-12-25
 generator: pandoc
 title: Argumentos, entimemas y falacias.
 categories:
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Más que explicar la definición de estos conceptos prefiero ir a los
 casos concretos; a fin de cuentas así es cómo se aprende.

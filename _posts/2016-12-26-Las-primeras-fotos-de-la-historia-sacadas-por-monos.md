@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Las primeras fotos de la historia sacadas por monos
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 ![monkey-takes-photo-001-550x366.jpg](http://static.betazeta.com/www.veoverde.com/docs/assets/images/2011/07/monkey-takes-photo-001-550x366.jpg?v=1309953818887)
 

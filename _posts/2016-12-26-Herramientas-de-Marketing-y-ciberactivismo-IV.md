@@ -4,12 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Herramientas de Marketing y ciberactivismo IV.
 categories:
-- Frase
+  - Frase
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Hace tiempo que tengo este artículo a medio escribir, y que casi da por
 finalizado el [libro sobre
@@ -177,8 +177,8 @@ utilizar todos los medios de los que se vale la publicidad.
 >     [aqui](http://www.xeoweb.com/posicionamiento-en-buscadores.php). o
 >     [aqui](http://www.seofemenino.com/) .
 
--   Redes sociales, ya hemos hablado de ello.
--   El debate Ante todo hay que tener claro que un blog no es nada, lo
+  -   Redes sociales, ya hemos hablado de ello.
+  -   El debate Ante todo hay que tener claro que un blog no es nada, lo
     importante es la red, pero una red no es simplemente una leve unión
     sea física sea virtual (como en las redes sociales) sino una unión
     activa, lo relevante, es pues, [que haya

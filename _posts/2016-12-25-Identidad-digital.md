@@ -4,12 +4,12 @@ date: 2016-12-25
 generator: pandoc
 title: Identidad digital.
 categories:
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 El domingo estuve viendo la conferencia de Juan Freire sobre identidades
 digitales, que podéis [ver en su

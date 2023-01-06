@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: La otra conquista de la Luna
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Apollo_11_lunar_module.jpg/300px-Apollo_11_lunar_module.jpg?v=1248081038136 "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Apollo_11_lunar_module.jpg/300px-Apollo_11_lunar_module.jpg"){.alignleft
 width="193" height="185"}Por Uxío

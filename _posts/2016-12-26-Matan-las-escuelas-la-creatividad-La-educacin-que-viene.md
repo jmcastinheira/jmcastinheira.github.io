@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: ¿Matan las escuelas la creatividad?. La educación que viene.
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 \[Por Uxío\] Cuánto tiempo sin publicar en Entelequia, intentaré
 dedicarle más tiempo a partir de ahora, para compensar, os traigo un

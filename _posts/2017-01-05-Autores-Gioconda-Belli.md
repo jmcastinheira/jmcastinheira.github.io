@@ -4,14 +4,14 @@ date: 2017-01-05
 generator: pandoc
 title: "Autores: Gioconda Belli"
 categories:
-- Autores
+  - Autores
 - Poesía
 - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 No recuerdo exactamente quién fué la primera persona que me recomendó a
 [Gioconda.](http://es.wikipedia.org/wiki/Gioconda_Belli) Puede que haya
@@ -55,8 +55,8 @@ Enlaces:
     [Sueño con sofá](http://www.youtube.com/watch?v=POWT2DeXro4),
     [Declaración](http://www.dailymotion.com/tag/Gioconda/video/x1ss40_gioconda-belli-declaracion-mrs-nica_politics),
     [más](http://es.youtube.com/results?search_query=gioconda+belli&search=Buscar).
--   Audio:[Foro Social](http://www.radiofeminista.net/audios.htm),
--   Poemas y obras:
+  -   Audio:[Foro Social](http://www.radiofeminista.net/audios.htm),
+  -   Poemas y obras:
     [avantel](http://www.avantel.net/%7Eeoropesa/html/poesia/gbelli1.html).[amediavoz](http://amediavoz.com/belli.htm),
     [festival de
     Medellin](http://www.festivaldepoesiademedellin.org/pub.php/es/Revista/ultimas_ediciones/74_75/belli.html),

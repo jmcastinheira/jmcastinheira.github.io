@@ -4,13 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Herramientas del ciberactivista. II La estructura.
 categories:
-- Metáforas
+  - Metáforas
 - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 **Estrategia:**
 
@@ -545,10 +545,10 @@ creación.
     funcionalidad distinta a la de feevy y lo haga interesante como una
     especie de lector y buscador de feeds, sobre blogs o noticias que le
     indiquemos.
--   [Infante](http://www.infante.crackcorp.com/?page_id=4). Que a parte
+  -   [Infante](http://www.infante.crackcorp.com/?page_id=4). Que a parte
     de ser un agregador de feeds permite la generación de blogroll y
     supongo que también la creación de un portal de blogs.
--   [Los tumblelogs](http://es.wikipedia.org/wiki/Tumblelog). Aunque no
+  -   [Los tumblelogs](http://es.wikipedia.org/wiki/Tumblelog). Aunque no
     es lo propio de estas herramientas, creo yo, se puede utilizar para
     unificar en una sóla página distintos servicios web, por tanto
     distintos blogs; así que no lo descartaría como opción.

@@ -4,11 +4,11 @@ date: 2016-12-25
 generator: pandoc
 title: Experimento 1. (Lo absoluto)
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Imaginemos el siguiente experimento, cogemos una vara de tres colores,
 blanco, gris y negro; la ponemos en el suelo y enseñamos a un chimpancé

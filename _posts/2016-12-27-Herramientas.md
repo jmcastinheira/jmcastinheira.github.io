@@ -4,13 +4,13 @@ date: 2016-12-27
 generator: pandoc
 title: Herramientas.
 categories:
-- Autores
+  - Autores
 - Poesía
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Una lista de herramientas muy útiles de lo que [se ha
 llamado](http://entelequia.bligoo.com/content/view/135528/Qu_es_un_blog.html)
@@ -234,7 +234,7 @@ llamado](http://entelequia.bligoo.com/content/view/135528/Qu_es_un_blog.html)
 ```{=html}
 <!-- -->
 ```
--   [Soup](http://aulo.soup.io/) es un servicio de gestión de contenidos
+  -   [Soup](http://aulo.soup.io/) es un servicio de gestión de contenidos
     a lo [Tumblelog](http://es.wikipedia.org/wiki/Tumblelog) que
     descubrí en esas expediciones mías por los enlaces de mi feevy, y
     seguramente en la RMD del grupo de las indias, no recuerdo a quién
@@ -253,7 +253,7 @@ llamado](http://entelequia.bligoo.com/content/view/135528/Qu_es_un_blog.html)
     servicios online, y nos sirve para unificar nuestras distintas
     cuentas. [Aquí lo explico
     mejor](http://entelequia.bligoo.com/content/view/132052/Un_poco_de_Soup.html).
--   [Del.icio.us](http://del.icio.us/) es una herramienta muy útil de
+  -   [Del.icio.us](http://del.icio.us/) es una herramienta muy útil de
     gestión compartición de enlaces, en mi opinión es la forma más útil
     de encontrar herramientas de internet, puede funcionar por tanto
     como buscador, quizá mejor que google y demás. Hay importantes

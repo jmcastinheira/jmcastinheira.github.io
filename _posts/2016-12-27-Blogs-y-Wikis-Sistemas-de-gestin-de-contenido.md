@@ -4,12 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: "Blogs y Wikis: Sistemas de gestión de contenido"
 categories:
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-135534 .content-body}
 ::: {data-align="justify"}

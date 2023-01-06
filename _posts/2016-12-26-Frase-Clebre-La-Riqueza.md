@@ -4,12 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: "Frase Célebre: La Riqueza"
 categories:
-- Frase
+  - Frase
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 > El que no considera lo que tiene como la riqueza más grande, es
 > desdichado, aunque sea dueño del mundo.

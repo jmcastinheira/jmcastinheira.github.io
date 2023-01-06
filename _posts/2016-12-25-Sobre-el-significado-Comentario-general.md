@@ -4,12 +4,12 @@ date: 2016-12-25
 generator: pandoc
 title: "Sobre el significado: Comentario general"
 categories:
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 El otro día al leer [este
 artículo](http://lasindias.com/cultura-guia-de-uso/) de

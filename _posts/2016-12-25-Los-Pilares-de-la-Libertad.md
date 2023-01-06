@@ -4,11 +4,11 @@ date: 2016-12-25
 generator: pandoc
 title: Los Pilares de la Libertad
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Por Juan Vidal Fraga.
 

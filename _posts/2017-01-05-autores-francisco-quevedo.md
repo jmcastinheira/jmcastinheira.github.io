@@ -40,13 +40,13 @@ En los poemas que encontré ya no sólo me hicieron sonreír como «[Poderoso ca
 
 Enlaces:
 
-<div align="justify">
+
   <ul>
     <li>
       Biografía y obra: en <a title="Quevedo" href="http://es.wikisource.org/wiki/Francisco_de_Quevedo">Wikisource</a>
     </li>
     <li>
-      <a href="http://www.cervantesvirtual.com/FichaAutor.html?Ref=6">En Cervantes Virtual</a>. (con audio)
+      [En Cervantes Virtual](http://www.cervantesvirtual.com/FichaAutor.html?Ref=6). (con audio)
     </li>
   </ul>
 </div>

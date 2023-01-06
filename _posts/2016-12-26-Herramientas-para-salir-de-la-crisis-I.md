@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Herramientas para salir de la crisis I
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 En vista de que las cosas se ponen cada vez peor, y que poco o nada
 anticipa que las cosas vayan a cambiar, he empezado a tararear como hago
@@ -239,9 +239,9 @@ Empecemos...
     no es lo mejor), [Astfin](http://www.astfin.org/)...
 -   ¿Un CPU? Hombre, ya empiezas a pedir mucho ¿no? Venga va... [aquí
     tienes](http://es.wikipedia.org/wiki/Hardware_libre#Computadoras_y_componentes_de_computadora).
--   ¡¡¿Un coche?!! ¿no te estarás pasando? Toma, anda [aquí tienes
+  -   ¡¡¿Un coche?!! ¿no te estarás pasando? Toma, anda [aquí tienes
     varios](http://es.wikipedia.org/wiki/Hardware_libre#Veh.C3.ADculos)...
--   Y ya como estamos que lo tiramos, porque no un set de las máquinas
+  -   Y ya como estamos que lo tiramos, porque no un set de las máquinas
     necesarias para montar una pequeña población... Eso es
     [OpenEcólogy](http://opensourceecology.org/gvcs.php).
 

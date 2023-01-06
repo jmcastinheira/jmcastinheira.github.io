@@ -4,14 +4,14 @@ date: 2016-12-26
 generator: pandoc
 title: De la Comunidad y la fraternidad.
 categories:
-- Metáforas
+  - Metáforas
 - Frase
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 En atención a este
 [post](http://carlosboyle.blogspot.com/2008/06/por-qu-nadie-habla-de-fraternidad.html)

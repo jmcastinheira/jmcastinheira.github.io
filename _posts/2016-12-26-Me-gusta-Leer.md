@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Me gusta Leer
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 \[Uxío PR\] Por casualidades de la vida, en la red social de facebook,
 uno de mis contactos compartió un video con sus amigos, y me llamó el

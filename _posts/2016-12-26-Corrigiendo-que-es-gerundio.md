@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Corrigiendo que es gerundio.
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Parece ser que la [Secretaría de Estado de
 Comunicación](http://www.mpr.es/Ministerio+de+la+Presidencia/SecretariaEstadoComunicacion/funciones.htm) 
@@ -35,7 +35,7 @@ Guantánamo, esta advertencia la hizo sólo verbalmente.
 
 Via:
 
--   [Rosa Jimenez
+  -   [Rosa Jimenez
     Cano](http://www.rosajc.com/2008/12/24/gabilondo-matiza/).
--   [La Huella
+  -   [La Huella
     digital](http://lahuelladigital.blogspot.com/2008/12/gabilondo-zapatero-no-nos-dijo-la.html).

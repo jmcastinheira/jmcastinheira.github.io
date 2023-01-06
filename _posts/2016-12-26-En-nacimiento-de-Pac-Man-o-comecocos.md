@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: En nacimiento de Pac-Man (o comecocos)
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Uno de los personajes más famosos y reconocibles de todos los tiempos en
 el mundo de los videojuegos es Pac-man, también conocido en España como

@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Contra la crisis Gripe A
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Aprovecho para recuperar el [famoso
 documental](http://www.google.es/search?q=Operaci%C3%B3n+pandemia&ie=utf-8&oe=utf-8&aq=t&rls=com)
@@ -79,9 +79,9 @@ noticias acerca de este controvertido medicamento:
 
 -   [La UE detecta fallos en el
     Tamiflu](http://www.redfarmaceutica.com/noticia/default.cfm?str_action=mostrarNoticia&int_idNoticia=11471&int_idSeccion=416&str_fechaNoticia=20051118).
--   [Japón pide que no se recete Tamiflu a menores de
+  -   [Japón pide que no se recete Tamiflu a menores de
     edad](http://www.redfarmaceutica.com/noticia/default.cfm?str_action=mostrarNoticia&int_idNoticia=14043&int_idSeccion=643&str_fechaNoticia=20070323).
--   Y además nos comunican la existencia de un genérico indú llamado
+  -   Y además nos comunican la existencia de un genérico indú llamado
     [Antiflú](http://www.redfarmaceutica.com/noticia/default.cfm?str_action=mostrarNoticia&int_idNoticia=16984&int_idSeccion=1308&str_fechaNoticia=20090518).
 
 Por si no fuera poco, en «Espiritualidad y Politica» (¿cómo no?) siguen

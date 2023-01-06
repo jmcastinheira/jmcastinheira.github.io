@@ -4,15 +4,13 @@ date: 2016-12-27
 generator: pandoc
 title: Outra vaca no millo
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
 ---
 
-::: {#title-block-header}
-
-::: {style="text-align: justify;"}
 [![](http://www.ideal.es/granada/prensa/fotos/200611/12/010D7GRA-LGR-P1_1.jpg){style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 200px;"
-border="0"}](http://www.ideal.es/granada/prensa/fotos/200611/12/010D7GRA-LGR-P1_1.jpg)Volvemos
+border="0"}](http://www.ideal.es/granada/prensa/fotos/200611/12/010D7GRA-LGR-P1_1.jpg)
+
+Volvemos
 a la Realidad: El amigo José María del Castillo, granadino, teólogo,
 cristiano claro, jesuita, «vago, libre y maleante» ha decidido abandonar
 la orden de los Jesuitas, y lo ha hecho, parece ser, por presiones
@@ -44,7 +42,8 @@ los buenos, os dejo la letra de una
 [canción](http://www.motivaciones.org/ctoselacasademiamigo.htm) de
 Ricardo Cantalapiedra y un
 [artículo](http://www.redescristianas.net/2007/08/11/la-mision-del-teologo-en-la-iglesia-jose-maria-castillo/)
-de Castillo.\
-Saludos\
-[Imagen de http://www.ideal.es]{style="font-size:78%;"}
-:::
+de Castillo.
+
+Saludos
+
+[Imagen de http://www.ideal.es]

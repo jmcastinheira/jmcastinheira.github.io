@@ -17,29 +17,29 @@ tags:
 
 **6. Virga**
 
-<img class="aligncenter" src="http://s3.amazonaws.com/listverse/weather/virga.jpg" width="400" height="262" />  
+![](http://s3.amazonaws.com/listverse/weather/virga.jpg)  
 El fenómeno «Virga» se produce cuando de las nubes cae hielo cristalizado, pero se evapora antes de golpear el suelo. el efecto óptico que produce es como si de las nubes se desprendiesen unos raíles de acceso, a veces la nube llega a parecerse a una medusa.
 
 **5. Vientos catabaticos**
 
-<img class="aligncenter" src="http://s3.amazonaws.com/listverse/weather/katabatic.jpg" width="400" height="263" />  
+![](http://s3.amazonaws.com/listverse/weather/katabatic.jpg)  
 En ciertos lugares, el aire denso de una altura superior desciende a una menor altitud debido a la gravedad. Lo que produce el extraño efecto de que el viento va «hacia abajo», es decir que choca contra el suelo.  
 Son conocidos localmente como Santa Ana (el sur de California), el Mistral (Mediterráneo), el Bora (el mar Adriático), Oroshi (Japón), Pitaraq (Groenlandia), y el Williwaw (Tierra del Fuego). El Williwaw y los vientos que viajan sobre la Antártica son particularmente peligrosos, volando más de 100 nudos a veces.
 
 **4. Arco iris de fuego**
 
-<img class="aligncenter" src="http://s3.amazonaws.com/listverse/weather/FireRainbow.jpg" width="400" height="260" /> 
+![](http://s3.amazonaws.com/listverse/weather/FireRainbow.jpg) 
 
 Un arco iris de fuego es un fenómeno extremadamente raro que se produce sólo cuando el sol está a una altura que permite a la luz pasar a través de nubes con un alto contenido de cristales de hielo.
 
 **3. Rayo verde**
 
-<img class="aligncenter" src="http://s3.amazonaws.com/listverse/weather/GreenFlash_512.jpg" width="400" height="267" />  
+![](http://s3.amazonaws.com/listverse/weather/GreenFlash_512.jpg)  
 También conocido como «Green Flash». Esto ocurre muy brevemente antes y después de la puesta del sol del amanecer. Aparece como un flash de color verde por encima del sol que dura muy brevemente, en general, sólo unos instantes. Es causada por la refracción de la luz en la atmósfera.
 
 **2. Rayo globular**
 
-**<img class="aligncenter" src="http://s3.amazonaws.com/listverse/weather/balllightning.jpg" width="400" height="281" />**
+**![](http://s3.amazonaws.com/listverse/weather/balllightning.jpg)**
 
 Este es un fenómeno muy poco frecuente que consiste en una bola que se mueve en forma de rayo mucho más despacio de lo que lo haría un rayo. Puede llegar a los ocho pies de diámetro y causar grandes daños. Hay informes de bolas relámpago que destruyeron edificios enteros.
 
@@ -53,7 +53,7 @@ Hay más de 3.000 informes documentados con rayos globulares, durante años se c
 
 **1. Sprites, chorros, y Elfos**
 
-<img class="aligncenter" src="http://s3.amazonaws.com/listverse/weather/sprites.jpg" width="345" height="400" /> 
+![](http://s3.amazonaws.com/listverse/weather/sprites.jpg) 
 
 Todos se refieren a fenómenos que ocurren en la atmósfera superior en las regiones en torno a las tormentas. Aparecen como los conos, iluminaciones y descargas. Su descubrimiento se hizo en el siglo XX, debido a su dificultad para verlos (duran menos de un segundo), muchos pilotos de aviones los habían visto pero no quisieron hacerlo público por miedo a que les retirasen la licencia de piloto.
 

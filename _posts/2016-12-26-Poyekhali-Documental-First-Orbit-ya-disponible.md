@@ -4,12 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Poyekhali! \[Documental First Orbit ya disponible\]
 categories:
-- Frase
+  - Frase
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ![gagarin1.jpg](http://3.bp.blogspot.com/_Cc7nxts8C5A/S8MecadoISI/AAAAAAAAArw/un_lY5XXw3w/s1600/gagarin1.jpg?v=1302509648909){width="342"
 height="238"}
@@ -38,7 +38,7 @@ y desplegar su paracaídas, la primera persona en verlo volver a la
 Tierra fue una anciana campesina, que sorprendida al verlo con su mono
 naranja le preguntó:
 
--- ¿Vienes del espacio exterior?
+  -- ¿Vienes del espacio exterior?
 
 Gagarin, le responde: -Ciertamente, sí.- pero tras ver la cara de la
 anciana, el cosmonauta la tranquiliza diciéndole -Pero no se alarme, soy

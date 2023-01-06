@@ -4,14 +4,14 @@ date: 2016-12-27
 generator: pandoc
 title: Un poco de Soup?
 categories:
-- Autores
+  - Autores
 - Concepto
 - Poesía
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {style="text-align: justify;"}
 [Soup](http://aulo.soup.io/) es un servicio de gestión de contenidos a
@@ -78,7 +78,7 @@ haré una recopilación, estos son:
     Sociales](http://es.wikipedia.org/wiki/Marcadores_sociales), pero es
     probable que hayan más razones que aconsejen [el
     cambio](http://www.genbeta.com/2005/12/21-delicious-blinklist-y-furl-marcadores-sociales-a-examen).
--   [Twitter](http://twitter.com/Aulo): la verdad es que este no lo uso
+  -   [Twitter](http://twitter.com/Aulo): la verdad es que este no lo uso
     mucho, estas son sus funciones, en
     [wikipedia](http://es.wikipedia.org/wiki/Twitter). [Bueno, parece
     que algo lo usamos, pongo aquí un enlace a recursos twitter
@@ -89,7 +89,7 @@ haré una recopilación, estos son:
     y la verdad, hay cosas que hacen que alucine del todo, me he quedado
     como diez minutos anonadado viendo
     ]{style="font-weight: bold;"}[esto](http://twittervision.com/){style="font-weight: bold;"}.
--   [Flickr](http://www.flickr.com/photos/lrealnlspejo/): este es para
+  -   [Flickr](http://www.flickr.com/photos/lrealnlspejo/): este es para
     compartir fotos, la verdad es que aunque sólo fuera por la calidad
     de las fotos de los que tienen flickr debe ser muy a tener en
     cuenta, problema también es de yahoo, con lo cual ahora de

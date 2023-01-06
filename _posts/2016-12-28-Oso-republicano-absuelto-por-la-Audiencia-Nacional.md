@@ -4,11 +4,11 @@ date: 2016-12-28
 generator: pandoc
 title: Oso republicano absuelto por la Audiencia Nacional.
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 <div>
 
@@ -34,10 +34,10 @@ también la historia porque no tiene desperdicio:
 -   [Las tribulaciones del oso
     Yogi](http://www.gara.net/idatzia/20061102/art187080.php), este es
     el artículo publicado en Gara a finales del 2006.
--   [Apología bufa de un filósofo
+  -   [Apología bufa de un filósofo
     pillo](http://www.deia.com/es/impresa/2007/01/20/bizkaia/iritzia/329001.php "Apología bufa de un filósofo pillo"){target="_blank"},
     en respuesta a los requerimientos de la fiscalía en enero del 2007.
--   Y un par de artículos sobre el juicio («[Soy un oso a nivel
+  -   Y un par de artículos sobre el juicio («[Soy un oso a nivel
     espiritual](http://www.deia.com/es/impresa/2008/12/18/bizkaia/gizartea/523585.php)»
     y «[Por poco
     Lococo](http://www.deia.com/es/impresa/2008/12/18/bizkaia/gizartea/523547.php)«;

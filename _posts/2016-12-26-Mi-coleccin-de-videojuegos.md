@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Mi colección de videojuegos
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Hace unos 19 años, un niño fue invitado por un amigo a su casa, en la
 que éste le mostró diferentes juegos de mesa, balones de fútbol, y un

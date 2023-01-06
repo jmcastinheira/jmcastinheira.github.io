@@ -37,7 +37,7 @@ Bueno, se nos han colado estos dos, sigamos con lo nuestro. El caso es que en la
 > santuario en donde a veces se refugia tu alma  
 > y cuyo umbral no puede traspasar la mía.
 
-Y es que en el fondo esta chica tenía razón, muy bonito si, pero ¿qué es la poesía? De estos temas habló García Montero y citó nuevamente a Bécquer en algo que me recordó a <a href="http://entelequia.bligoo.com/content/view/578801/De-la-posibilidad-de-decir-verdad-en-poesia-I.html" class="broken_link" rel="nofollow">mi preocupación acerca de la verdad y la poesía</a>:
+Y es que en el fondo esta chica tenía razón, muy bonito si, pero ¿qué es la poesía? De estos temas habló García Montero y citó nuevamente a Bécquer en algo que me recordó a [mi preocupación acerca de la verdad y la poesía](http://entelequia.bligoo.com/content/view/578801/De-la-posibilidad-de-decir-verdad-en-poesia-I.html):
 
 > Cuando un poeta te pinte en magníficos  
 > versos su amor, duda.  

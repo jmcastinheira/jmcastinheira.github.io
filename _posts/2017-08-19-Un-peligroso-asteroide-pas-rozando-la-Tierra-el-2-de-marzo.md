@@ -4,12 +4,12 @@ date: 2017-08-19
 generator: pandoc
 title: Un peligroso asteroide pasó rozando la Tierra el 2 de marzo
 categories:
-- Concepto
+  - Concepto
   (Tunguska a punto de repetirse)
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-460172 .content-body}
 **![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/%28253%29_mathilde.jpg/260px-%28253%29_mathilde.jpg){.alignleft

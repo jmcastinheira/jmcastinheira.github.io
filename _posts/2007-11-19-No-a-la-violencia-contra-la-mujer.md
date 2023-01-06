@@ -4,11 +4,11 @@ date: 2007-11-19
 generator: pandoc
 title: No a la violencia contra la mujer
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 [![afiche+3+eddy+ortiz](http://farm3.static.flickr.com/2276/2045931365_6b52e451aa_m.jpg){height="240"
 width="185"}](http://www.flickr.com/photos/lrealnlspejo/2045931365/ "afiche+3+eddy+ortiz por Aulo, en Flickr")

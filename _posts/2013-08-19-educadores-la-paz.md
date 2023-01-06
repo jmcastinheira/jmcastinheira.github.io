@@ -14,7 +14,7 @@ tags:
   - noticias
   - Uxio
 ---
-[Uxío PR] Hoy tengo el gusto de presentaros la nueva página del grupo «Educadores por la Paz», en la que no sólo encontraréis mucha información sobre este tema de capital importancia, sino también textos legales que defienden la paz, letras de canciones, artículos, entrevistas, y un largo etc, gracias a <a href="https://www.laislalibros.com/autores/JARES,+XESUS+R./" class="broken_link" rel="nofollow">Xesús Rodríguez Jares</a>, uno de sus miembros más activos, escritor, y profesor de la Universidade da Coruña, por hacerme llegar la iniciativa, os dejo con el texto de bienvenida de la web y [su enlace.](http://www.educadorespolapaz.org/index.php)
+[Uxío PR] Hoy tengo el gusto de presentaros la nueva página del grupo «Educadores por la Paz», en la que no sólo encontraréis mucha información sobre este tema de capital importancia, sino también textos legales que defienden la paz, letras de canciones, artículos, entrevistas, y un largo etc, gracias a [Xesús Rodríguez Jares](https://www.laislalibros.com/autores/JARES,+XESUS+R./), uno de sus miembros más activos, escritor, y profesor de la Universidade da Coruña, por hacerme llegar la iniciativa, os dejo con el texto de bienvenida de la web y [su enlace.](http://www.educadorespolapaz.org/index.php)
 
 «Bienvenidos y bienvenidas a la web del grupo [EDUCADORES POLA PAZ  ](http://www.educadorespolapaz.org/index.php)(Educadores por la paz) del Movimiento de Renovación Pedagógica (MRP) NOVA ESCOLA GALEGA, el primer grupo de educación para la paz de la historia de Galicia y el más veterano de los que están en ejercicio de España.
 

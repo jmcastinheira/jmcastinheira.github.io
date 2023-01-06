@@ -4,12 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: Política y emociones
 categories:
-- Poesía
+  - Poesía
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Los que de vez en cuando se acercan a esta bitácora, saben que no suelo
 hablar de temas políticos, en este artículo diré algunas cosas que

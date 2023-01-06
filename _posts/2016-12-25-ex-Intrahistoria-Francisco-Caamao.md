@@ -4,14 +4,14 @@ date: 2016-12-25
 generator: pandoc
 title: "ex-Intrahistoria: Francisco Caamaño"
 categories:
-- Intrahistoria
+  - Intrahistoria
 - Autores
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 <div>
 

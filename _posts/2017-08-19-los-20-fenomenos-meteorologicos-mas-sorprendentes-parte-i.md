@@ -23,14 +23,14 @@ Hoy en Entelequia os ofrecemos una versión traducida al castellano, (y sin util
 
 Un arco iris se forma por el sol que brilla en las gotas de humedad, más comúnmente en una atmósfera después de la lluvia. Un arco de luna es mucho menos frecuente, sólo se puede ver en la noche cuando la luna está baja y de llena a casi llena. Un lugar popular para ver los arcos de luna está en las Cataratas de Cumberland en Kentucky, como muestra la imagen.
 
-<img class="aligncenter" src="http://s3.amazonaws.com/listverse/weather/moonbow.jpg" width="400" height="254" />  
+![](http://s3.amazonaws.com/listverse/weather/moonbow.jpg)  
 **19 Espejismo** 
 
 Los espejismos se producen cuando la luz se refracta para producir una imagen de un objeto, donde no existe en realidad, también podemos ver esta ilusión en el cielo. Es comúnmente visto en las superficies calientes, tal como un desierto.
 
 &nbsp;
 
-<img class="aligncenter" src="http://s3.amazonaws.com/listverse/weather/mirage.jpg" width="400" height="234" /> 
+![](http://s3.amazonaws.com/listverse/weather/mirage.jpg) 
 
 &nbsp;
 
@@ -41,7 +41,7 @@ A veces dos o más áreas del círculo o arcos que rodean el Sol serán más bri
 
 &nbsp;
 
-<img class="aligncenter" src="http://s3.amazonaws.com/listverse/weather/haloes.jpg" width="400" height="305" /> 
+![](http://s3.amazonaws.com/listverse/weather/haloes.jpg) 
 
 &nbsp;
 
@@ -51,7 +51,7 @@ El cinturón de Venus es un fenómeno que se produce durante las tardes, cuando 
 
 &nbsp;
 
-<img class="aligncenter" src="http://s3.amazonaws.com/listverse/weather/beltofvenus.jpg" width="400" height="300" /> 
+![](http://s3.amazonaws.com/listverse/weather/beltofvenus.jpg) 
 
 &nbsp;
 
@@ -61,7 +61,7 @@ Las nubes noctilucentes son altas nubes de la atmósfera que refractan la luz al
 
 &nbsp;
 
-<img class="aligncenter" src="http://s3.amazonaws.com/listverse/weather/NoctilucentWide_lg.jpg" width="400" height="238" /> 
+![](http://s3.amazonaws.com/listverse/weather/NoctilucentWide_lg.jpg) 
 
 &nbsp;
 
@@ -72,7 +72,7 @@ Podemos verlas cerca de los polos y durante los equinoccios del año. [Foto toma
 
 &nbsp;
 
-<img class="aligncenter" src="http://s3.amazonaws.com/listverse/weather/AuroraBorealis.jpg" width="400" height="261" /> 
+![](http://s3.amazonaws.com/listverse/weather/AuroraBorealis.jpg) 
 
 &nbsp;
 
@@ -80,7 +80,7 @@ Podemos verlas cerca de los polos y durante los equinoccios del año. [Foto toma
 
 Debido a diferentes condiciones atmosféricas, la luna ocasionalmente aparece teñida de un color, como el azul, naranja o rojo. El exceso de humo, polvo, o un eclipse puede causar que la luna cambie de color.
 
-<img class="aligncenter" src="http://s3.amazonaws.com/listverse/weather/coloredmoon.jpg" width="400" height="382" /> 
+![](http://s3.amazonaws.com/listverse/weather/coloredmoon.jpg) 
 
 ¡Muy pronto la segunda entrega!
 

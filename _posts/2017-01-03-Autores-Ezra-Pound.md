@@ -4,15 +4,15 @@ date: 2017-01-03
 generator: pandoc
 title: "Autores: Ezra Pound"
 categories:
-- Autores
+  - Autores
 - Concepto
 - Poesía
-- Poema
+  - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Ezra Pound fue, sin duda, un personaje controvertido. Tanto por su forma
 de ser, como por sus opiniones. Nunca se callaba lo que pensaba...

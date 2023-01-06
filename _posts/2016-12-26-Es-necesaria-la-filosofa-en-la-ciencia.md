@@ -4,13 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: ¿Es necesaria la filosofía en la ciencia?
 categories:
-- Autores
-- Concepto
+  - Autores
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 La verdad es que uno llega cansado a casa, sólo tiene ganas de acostarse
 y dormir; pero quien sabe porqué demonios a uno le entra esa gusa de ver

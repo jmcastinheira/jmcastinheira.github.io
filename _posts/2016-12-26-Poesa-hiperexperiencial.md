@@ -4,13 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Poesía hiperexperiencial
 categories:
-- Poesía
-- Poema
+  - Poesía
+  - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-449819 .content-body}
 ![](http://www.literaturalibre.com/docs/assets/images/2007/11/mujer-manos-frio.jpg){.alignleft

@@ -4,13 +4,13 @@ date: 2016-12-27
 generator: pandoc
 title: Propuesta
 categories:
-- Poesía
-- Poema
+  - Poesía
+  - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {style="text-align: justify;"}
 [![](http://148.213.20.78/JL/TICUSES/manos.jpg){style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 200px;"

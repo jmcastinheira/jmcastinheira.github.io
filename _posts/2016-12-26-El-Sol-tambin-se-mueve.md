@@ -4,12 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: ¡¡¡El Sol también se mueve!!!
 categories:
-- Frase
+  - Frase
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Por Uxío P.R
 
@@ -41,10 +41,10 @@ pulsaciones.
 
 -   -- El primero, alrededor del centro de la galaxia, a una velocidad
     de 216 kms/segundo.
--   -- El segundo, sobre sí mismo en un tiempo próximo a los 25 días,
+  -   -- El segundo, sobre sí mismo en un tiempo próximo a los 25 días,
     alrededor de un eje inclinado unos 7º 11' con respecto a la
     eclíptica.
--   -- El tercero hace que el sol vibre (y aún no se sabe muy bien por
+  -   -- El tercero hace que el sol vibre (y aún no se sabe muy bien por
     qué) ya que es una estrella pulsante, con un periodo de 2 horas 40
     minutos y una velocidad de expansión de 3 metros/segundo.
 

@@ -4,12 +4,12 @@ date: 2016-12-28
 generator: pandoc
 title: Asunto Torres Mora
 categories:
-- Autores
+  - Autores
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Parece ser que ayer, día 15, el secretario de cultura del PSOE Torres
 Mora escribe [este

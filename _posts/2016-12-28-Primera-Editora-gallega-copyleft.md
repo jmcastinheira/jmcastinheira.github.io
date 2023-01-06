@@ -4,12 +4,12 @@ date: 2016-12-28
 generator: pandoc
 title: Primera Editora gallega copyleft.
 categories:
-- Poesía
+  - Poesía
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-375525 .content-body}
 ::: {#ads-parked-10 .ads-parked-10}
@@ -32,10 +32,10 @@ De momento tienen publicados tres libros:
 -   Uno de poesía: «[*Plan de
     fuga*](http://www.estaleiroeditora.org/plan_de_fuga.htm)» de Alberto
     Lema
--   Uno de ensayo: «[*A Revoluçao
+  -   Uno de ensayo: «[*A Revoluçao
     Pendente*](http://www.estaleiroeditora.org/revo_pendente.htm)» de
     Carlos Diegues
--   Y uno de teatro: «[*Fume /
+  -   Y uno de teatro: «[*Fume /
     Insomnio*](http://www.estaleiroeditora.org/fume_insomnio.htm)» de
     Rubén Ruibal / Rubén Ruibal e Carlos Losada
 

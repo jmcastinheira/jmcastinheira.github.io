@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Los Agentes Económicos Aplicados Al Sector del Ocio
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 \[Bertus\_\] Después de un tiempo en la sombra, vuelvo a colaborar con
 mi amigo Aulo, que hacía tiempo que lo tenía abandonado, y que no sirva

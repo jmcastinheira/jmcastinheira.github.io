@@ -53,5 +53,5 @@ Ya en casa, aquel mal padre por un día, en un acto de redención, puso en la ma
 </div>
 
 <div>
-  foto de: <a href="http://www.fotosearch.es/comp/PHT/PHT478/poco-nino-vestido_%7EPAA478000004.jpg">http://www.fotosearch.es/comp/PHT/PHT478/poco-nino-vestido_~PAA478000004.jpg</a>
+  foto de: [http://www.fotosearch.es/comp/PHT/PHT478/poco-nino-vestido_~PAA478000004.jpg](http://www.fotosearch.es/comp/PHT/PHT478/poco-nino-vestido_%7EPAA478000004.jpg)
 </div>

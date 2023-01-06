@@ -4,12 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: El pueblo gitano y las formas de vida.
 categories:
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 La ética no es un cúmulo de normas invisibles que vuela sobre las
 cabezas de los puritanos. La ética es una cuestión de carácter.
@@ -202,10 +202,10 @@ gobierno francés:
     las
     expulsiones»](http://ahoraesltiempo.blogspot.com/2010/09/sarkozy-que-luxemburgo-acoja-los.html).
     Resumen.
--   [Pobres gitanos, pobres
+  -   [Pobres gitanos, pobres
     europeos](http://elblogdepepebouza.blogspot.com/2010/09/pobres-gitanos-pobres-europeos.html).
     No, si parece que el problema son las palabras de Reding
--   [Gitanos](http://franciscovelasco.blogia.com/2010/091501-gitanos.php).
+  -   [Gitanos](http://franciscovelasco.blogia.com/2010/091501-gitanos.php).
     Gitanos si, racistas no.
 
 **Actualizo**: Ups, se me olvidaba el post de Enrique Meneses...»[Los

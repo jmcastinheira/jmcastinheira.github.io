@@ -4,12 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: "Poema: Mil Poemas"
 categories:
-- Poema
+  - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Mil
 [poemas](http://www.google.es/search?q=poemas&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:es-ES:official&client=firefox-a)

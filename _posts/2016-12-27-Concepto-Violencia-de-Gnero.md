@@ -4,12 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: "Concepto: Violencia de Género"
 categories:
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 [![No violencia contra la
 mujer](http://farm3.static.flickr.com/2276/2045931365_6b52e451aa_m.jpg){.aligncenter
@@ -48,12 +48,12 @@ border="0"}](http://lorealenelespejo.blogspot.com/2007/11/no-la-violencia-contra
     concreto en el
     [171.4ºCP](http://noticias.juridicas.com/base_datos/Penal/lo10-1995.l2t6.html#a171)
     aún cuando la amenaza sea leve.
--   Se protege la libertad de decisión de la mujer con un tipo distinto
+  -   Se protege la libertad de decisión de la mujer con un tipo distinto
     de coacciones en el
     [172.2ºCP](http://noticias.juridicas.com/base_datos/Penal/lo10-1995.l2t6.html#a172)
     aún cuando la coacción (impedir a alguien con violencia hacer lo que
     la ley no prohíbe o compelerle a algo que no quiere) sea leve.
--   Se protege la integridad moral de la mujer (su dignidad) en el
+  -   Se protege la integridad moral de la mujer (su dignidad) en el
     [173.2ºCP](http://noticias.juridicas.com/base_datos/Penal/lo10-1995.l2t7.html#a173)
     para los casos en los que exista un maltrato habitual sea físico o
     psíquico, con independencia de las lesiones o resultados concretos;

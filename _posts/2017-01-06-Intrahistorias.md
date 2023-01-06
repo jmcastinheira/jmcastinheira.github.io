@@ -4,14 +4,14 @@ date: 2017-01-06
 generator: pandoc
 title: Intrahistorias
 categories:
-- Intrahistoria
+  - Intrahistoria
 - Autores
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {#attachment_1199 .wp-caption .alignleft style="width: 270px"}
 [![Imagen Miguel de

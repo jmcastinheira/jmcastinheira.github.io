@@ -4,12 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: El internet que viene y algunas opiniones
 categories:
-- Frase
+  - Frase
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-559086 .content-body}
 ![](http://wpcontent.answers.com/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/300px-Internet_map_1024.jpg?v=1247268662652 "http://wpcontent.answers.com/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/300px-Internet_map_1024.jpg"){.alignleft
@@ -63,9 +63,9 @@ pueda describir, esta situación:
 
 -   [Google en la orilla del
     Rubicon](http://www.lasindias.com/google-en-la-otra-orilla-del-rubicon/).
--   ¿[Correrá Internet la misma suerte de
+  -   ¿[Correrá Internet la misma suerte de
     Usenet](http://www.lasindias.com/%c2%bfcorrera-internet-la-misma-suerte-de-usenet/)?
--   [Google Chrome: ¿Jaque a Microsoft o a
+  -   [Google Chrome: ¿Jaque a Microsoft o a
     Internet?](http://www.lasindias.com/google-chrome-%c2%bfjaque-a-microsoft-o-a-internet/)
 
 Bueno, pues si unimos las consideraciones de Marcos Ross, a las

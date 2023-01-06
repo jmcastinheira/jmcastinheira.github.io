@@ -4,12 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: El juego de la escalera
 categories:
-- Intrahistoria
+  - Intrahistoria
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Hace ya muchos años, más que la percepción que tengo de ellos, cuando yo
 era niño, tenía un amigo con una desbordante imaginación, era tal que

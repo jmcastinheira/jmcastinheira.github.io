@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Crisis y más crisis
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Por fin mi compañero y amigo se ha decidido a escribir, tan sólo has
 sido necesarias unas cuantas amenazas por el chat de Gmail para

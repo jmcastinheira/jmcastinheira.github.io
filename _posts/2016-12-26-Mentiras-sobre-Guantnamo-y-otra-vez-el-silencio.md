@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Mentiras sobre Guantánamo, y otra vez el silencio.
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Y otra vez Iñaki:
 
@@ -16,9 +16,9 @@ Y otra vez Iñaki:
 
 Visto en:
 
--   [Rosa Jimenez
+  -   [Rosa Jimenez
     Cano](http://www.rosajc.com/2008/12/23/gabilondo-cuatro-zp-mentira-cia-vuelos/).
--   [Illas cíes
+  -   [Illas cíes
     Blog](http://islascies.blogspot.com/2008/12/algo-serio-y-nada-grato.html).
 
 **Actualizo**: Debemos completar esto con [el siguente

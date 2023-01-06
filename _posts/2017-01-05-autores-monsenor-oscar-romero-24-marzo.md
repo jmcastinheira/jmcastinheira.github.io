@@ -14,7 +14,7 @@ tags:
 ---
 Coloco aquí este texto de [Nora Méndez](http://puertadenora.blogspot.com/2008/03/24-marzo-monseor-romero-vive.html), en homenaje a [Oscar Romero](http://es.wikipedia.org/wiki/%C3%93scar_Romero).
 
-<div align="justify">
+
   <blockquote>
     <div>Hola Monseñor, cómo estás? Imagino que emocionado por ver el amor que te tiene tu pueblo. Nadie cree en resurrecciones en este tiempo y es que no quieren ver la tuya, no quieren darse.
       </p>

@@ -4,12 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: "Autores: Leonardo da Jandra"
 categories:
-- Autores
+  - Autores
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Gracias a Manuel Gago de [Capitulo
 0](http://www.manuelgago.org/blog/index.php/2009/08/14/un-raro-intelectual-chamado-leonardo-da-jandra/),
@@ -48,6 +48,6 @@ La continuación de la entrevista la tenéis aqui:
 Y algunos enlaces más:
 
 -   [Wikipedia](http://es.wikipedia.org/wiki/Leonardo_Da_Jandra).
--   [Certo.es](http://certo.es/index.php?page=leonardo_da_jandra).
--   [Blog de Leonardo da Jandra](http://leonardodajandra.blogspot.com/),
+  -   [Certo.es](http://certo.es/index.php?page=leonardo_da_jandra).
+  -   [Blog de Leonardo da Jandra](http://leonardodajandra.blogspot.com/),
     (No se actualiza desde el 2008)

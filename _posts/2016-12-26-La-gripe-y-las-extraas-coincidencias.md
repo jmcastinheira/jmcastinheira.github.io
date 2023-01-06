@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: La gripe y las extrañas coincidencias
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Hoy vi en las noticias, fue sólo un flash breve, que [el director del
 centro de investigaciones biológicas del CSIC estaba

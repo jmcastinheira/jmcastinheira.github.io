@@ -4,12 +4,12 @@ date: 2016-12-28
 generator: pandoc
 title: Blog Action Day.
 categories:
-- Autores
+  - Autores
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Hacía, bastante tiempo que no escribía en el blog, bueno, una serie de
 ocupaciones me tenían atrapado, entre ellas un examen de opo que
@@ -92,10 +92,10 @@ bastante tiempo;
     Comercio](http://hdr.undp.org/en/reports/global/hdr2005/chapters/spanish/).
     Con [temas que pueden
     interesarnos](http://hdr.undp.org/en/media/HDR05_sp_chapter_21.pdf).
--   En el año 2006: Otra vez sobre **[la
+  -   En el año 2006: Otra vez sobre **[la
     pobreza](http://hdr.undp.org/en/reports/global/hdr2006/chapters/spanish/)**;
     y el problema del agua.
--   2007: Sobre el [Cambio
+  -   2007: Sobre el [Cambio
     Climático](http://hdr.undp.org/en/reports/global/hdr2007-2008/chapters/spanish/);
     con diferentes [zonas de
     riesgo](http://hdr.undp.org/en/media/HDR_20072008_SP_Chapter2.pdf).

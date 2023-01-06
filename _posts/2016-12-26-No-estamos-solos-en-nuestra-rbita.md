@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: No estamos solos... en nuestra órbita
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 \[Por Uxío\] Estamos viviendo días de **especial interés para la
 astronomía**, si hace apenas unos días el Hubble descubría [la cuarta

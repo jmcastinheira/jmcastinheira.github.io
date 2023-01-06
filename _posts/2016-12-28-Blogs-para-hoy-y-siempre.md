@@ -4,14 +4,14 @@ date: 2016-12-28
 generator: pandoc
 title: Blogs para hoy y siempre.
 categories:
-- Intrahistoria
+  - Intrahistoria
 - Autores
 - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-461542 .content-body}
 ![imagen de
@@ -89,10 +89,10 @@ desde hace mucho, otras desde hace poco; no me puede faltar;
     simplemente [Saray](http://engelpie.blogspot.com/), una joven
     videobloguera que recita poemas con grandísima sensibilidad;
     prohibido enamorarse.
--   [Mernisi](http://desdelaizquierda.blogspot.com/); a la que sigo
+  -   [Mernisi](http://desdelaizquierda.blogspot.com/); a la que sigo
     desde [twitter](http://twitter.com/aulo); es tu blog si te interesa
     la politica.
--   [Bruxi](http://labruja.tumblr.com/); la descubrí por el
+  -   [Bruxi](http://labruja.tumblr.com/); la descubrí por el
     [friendfeed](http://friendfeed.com/aulo); y como resulta que estudió
     derecho como yo; pero al final se decantó por los guiones; que es lo
     que me gustaría hacer a mi...

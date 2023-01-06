@@ -4,12 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Huevos de Pascua.
 categories:
-- Intrahistoria
+  - Intrahistoria
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-361148 .content-body}
 ![](http://www.webdelacasa.com/docs/assets/images/2008/03/huevos_pascua_4.jpg){.alignleft
@@ -42,9 +42,9 @@ Pascua](http://es.wikipedia.org/wiki/Huevo_de_pascua_%28virtual%29).
     Nmap](http://barrapunto.com/articles/06/09/01/0937228.shtml).
 -   [Huevos de Pascua en Software
     libre](http://www.kriptopolis.org/huevos-de-pascua-en-software-libre-2).
--   [En game
+  -   [En game
     Cube](http://www.vidaextra.com/2008/08/02-huevos-de-pascua-en-el-inicio-de-gamecube).
--   [10 Mejores huevos de Pascua escondidos en
+  -   [10 Mejores huevos de Pascua escondidos en
     software](http://www.blogpocket.com/2008/03/25/los-10-mejores-huevos-de-pascua-escondidos-en-software/).
 
 **Actualizo**: No he visto  en los enlaces que he puesto el código de

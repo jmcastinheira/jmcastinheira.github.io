@@ -4,7 +4,7 @@ date: 2007-11-13
 generator: pandoc
 title: Música Gallega
 categories:
-- Concepto
+  - Concepto
 - Música
 tags:
 - Música
@@ -121,5 +121,5 @@ Mejor pásate por «[A Regueifa](http://www.aregueifa.net)«Aún así ponemos al
 - [Cantantes e intérpretes gallegos](http://users.servicios.retecal.es/soyra)
 - [Más Grupos e intérpretes](http://gl.wikipedia.org/wiki/Category:Grupos_de_m%C3%BAsica_de_Galicia/)
 - Visita también [Conversas](http://www.conversas.org/gal/conversas.htm/) 
-- y el programa [Doa doa](http://www.crtvg.es/TVG/acarta.asp?prog=257/)
-- Y la productora [Flalcatruada](http://www.falcatruada.com)
+  - y el programa [Doa doa](http://www.crtvg.es/TVG/acarta.asp?prog=257/)
+  - Y la productora [Flalcatruada](http://www.falcatruada.com)

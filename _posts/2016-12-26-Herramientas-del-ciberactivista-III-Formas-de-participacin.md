@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Herramientas del ciberactivista III (Formas de participación)
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-176816 .content-body}
 ![](http://espaiobertsocialista.files.wordpress.com/2007/10/participacion.jpg){.alignleft
@@ -186,7 +186,7 @@ mundo no virtual?
     jornadas con distintas actividades, (incluso conciertos de música)
     destinadas a difundir la campaña e incluso, en algunos casos a
     obtener algo de financiación.
--   **Manifestaciones y otras reuniones**: Es evidente que es una forma
+  -   **Manifestaciones y otras reuniones**: Es evidente que es una forma
     cásica de activismo, pero hay que tener cuidado con esto, primero
     porque de un tiempo a esta parte se está utilizando demasiado, en mi
     opinión, y la gente puede cansarse. Una manifestación, creo yo, sólo
@@ -206,7 +206,7 @@ mundo no virtual?
     [huelga](http://es.wikipedia.org/wiki/Huelga), el derecho de
     petición y la [iniciativa legislativa
     popular](http://es.wikipedia.org/wiki/Iniciativa_popular).
--   **Hacklabs** Los hacklabs son centros de ciberactivismo con una
+  -   **Hacklabs** Los hacklabs son centros de ciberactivismo con una
     importante preocupación social y tecnológica; no puedo deciros mucho
     de esto sólo que hay muchos constituídos a lo largo del mundo. Para
     más información, en [Medialab-Prado

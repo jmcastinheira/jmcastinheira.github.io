@@ -16,8 +16,8 @@ tags:
   - Uxio
 ---
 <div id="body-191607" class="content-body">
-  <p align="justify">
-    <img class="alignleft" src="http://www.csdl.tamu.edu/cervantes/esp/images/Digital%20Library.jpg" width="200" height="180" />[Por Uxío PR] Un error muy común en muchas personas es utilizar indistintamente varios conceptos referentes a la Biblioteca, en muchas ocasiones, «Biblioteca Virtual» sustituye a «Biblioteca Digital», y se desconoce la existencia del término «Biblioteca Híbrida», o se utiliza equivocadamente como una Biblioteca con diferentes tipos de materiales, vamos a intentar arrojar algo de luz sobre esta cuestión
+  
+    ![](http://www.csdl.tamu.edu/cervantes/esp/images/Digital%20Library.jpg)[Por Uxío PR] Un error muy común en muchas personas es utilizar indistintamente varios conceptos referentes a la Biblioteca, en muchas ocasiones, «Biblioteca Virtual» sustituye a «Biblioteca Digital», y se desconoce la existencia del término «Biblioteca Híbrida», o se utiliza equivocadamente como una Biblioteca con diferentes tipos de materiales, vamos a intentar arrojar algo de luz sobre esta cuestión
   </p><strong>Biblioteca electrónica</strong> es aquella que cuenta con sistemas de automatización que le permiten una ágil y correcta administración de los materiales que resguarda, principalmente en papel. Así mismo, cuenta con sistemas de telecomunicaciones que le permitirán acceder a su información, en formato electrónico, de manera remota o local. Proporciona principalmente catálogos y listas de las colecciones que se encuentran físicamente dentro de un edificio.
   </p>
   

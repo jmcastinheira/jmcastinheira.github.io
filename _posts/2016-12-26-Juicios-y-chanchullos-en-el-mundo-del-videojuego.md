@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Juicios y chanchullos en el mundo del videojuego
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Hoy os traigo un artículo que he escrito para
 [DsWii](http://dswii.es/){target="_blank"}, sin duda la mejor página web

@@ -4,12 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Elecciones en Galicia; el voto en blanco...
 categories:
-- Frase
+  - Frase
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 **..o la noluntad.**
 

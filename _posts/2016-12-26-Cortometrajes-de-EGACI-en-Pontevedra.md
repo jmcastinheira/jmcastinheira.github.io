@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Cortometrajes de EGACI en Pontevedra
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Hoy pude asistir a un [festival de
 cortometrajes](http://www.youtube.com/watch?v=FrjyRkuJLCU) en el Teatro

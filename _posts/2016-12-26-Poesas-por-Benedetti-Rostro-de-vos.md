@@ -4,13 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: "Poesías por Benedetti: Rostro de vos"
 categories:
-- Poesía
-- Poema
+  - Poesía
+  - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Abraham Canales de
 «[Otromundoesposible](http://www.otromundoesposible.com/?p=3161)»

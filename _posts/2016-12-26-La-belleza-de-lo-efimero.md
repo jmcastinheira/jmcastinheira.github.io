@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: La belleza de lo efimero.
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Hoy he visto [este
 corto,](http://garciamedia.com/latinamerica/blog/articles/la_brevedad/)
@@ -26,11 +26,11 @@ Branit](http://vimeo.com/user1349603) on [Vimeo](http://vimeo.com)
 
 -   Visto en: [García
     Media](http://garciamedia.com/latinamerica/blog/articles/la_brevedad/).
--   Más información: en
+  -   Más información: en
     [blogacine](http://www.blogacine.com/2009/03/06/world-builder-lo-ultimo-de-bruce-branit/),
     en
     [ALT1040](http://alt1040.com/2009/03/world-builder-creando-un-mundo-en-la-realidad-virtual)
     , [bufón
     digital](http://elbufondigital.blogspot.com/2009/03/bruce-branit-405-world-builder.html).
--   Grupo en el
+  -   Grupo en el
     [Facebook](http://www.facebook.com/pages/World-Builder/73936485659).

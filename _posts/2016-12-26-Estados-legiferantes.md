@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Estados legiferantes
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Seré breve. Sé que ya lo he repetido un montón de veces, pero fijaos que
 los de arriba parecen no escucharme. Aquí en España, desde hace bastante

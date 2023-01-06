@@ -4,12 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: Explicación paradoja 2
 categories:
-- Frase
+  - Frase
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {style="text-align: justify;"}
 [![](http://www.comune.pisa.it/doc/pisano/ic.npisano/fini_file/escher.jpg){style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 200px;"

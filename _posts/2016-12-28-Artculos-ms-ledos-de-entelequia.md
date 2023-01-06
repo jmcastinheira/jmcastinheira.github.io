@@ -4,12 +4,12 @@ date: 2016-12-28
 generator: pandoc
 title: Artículos más leídos de entelequia.
 categories:
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Creo que no es mal momento, ahora que empezamos otro año, de hacer una
 pequeña recopilación de los diez artículos que sea por tal o cual cosa,
@@ -41,10 +41,10 @@ Superan las mil lecturas! los siguientes:
 -   «[Las clasificaciones en la
     empresa](http://entelequia.bligoo.com/content/view/132079/Las_Clasificaciones_en_la_Empresa.html)»
     (1162)
--   «[Tipos de
+  -   «[Tipos de
     Comunicación](http://entelequia.bligoo.com/content/view/99180/Tipos_de_Comunicacion.html)»
     (6993!!)
--   «[Cambio
+  -   «[Cambio
     Social](http://entelequia.bligoo.com/content/view/99182/Cambio_social_1.html)»
     (1000)
 

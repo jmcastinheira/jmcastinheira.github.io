@@ -4,12 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: Mil poemas
 categories:
-- Poema
+  - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 [![](http://2.bp.blogspot.com/_WnvNz0PVdLM/RusP0Ltg1uI/AAAAAAAAACA/ld5l6iccs74/s200/1353620241_8f7f780dd8_m.jpg){#BLOGGER_PHOTO_ID_5110195591353259746
 style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;"

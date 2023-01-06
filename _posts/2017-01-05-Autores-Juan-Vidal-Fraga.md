@@ -4,12 +4,12 @@ date: 2017-01-05
 generator: pandoc
 title: "Autores: Juan Vidal Fraga."
 categories:
-- Autores
+  - Autores
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Juan Vidal no fue sólo un abogado importante de la provincia de
 Pontevedra como someramente rezaba en la placa del que fue su despacho,
@@ -75,10 +75,10 @@ su muerte en internet:
     memoriam](http://diariodepontevedra.galiciae.com/nova/34015.html)» y
     [el mismo en su
     blog](http://xesuslopez.blogspot.com/2009/06/juan-vidal-in-memorian.html).
--   Y en Entelequia, a parte de este artículo, hemos incluído a [Juan en
+  -   Y en Entelequia, a parte de este artículo, hemos incluído a [Juan en
     la sección de
     autores](http://entelequia.bligoo.com/content/view/514268/Autores-Juan-Vidal-Fraga.html).
--   Artículo de Méndez Ferrín en el «Faro de Vigo» sobre quien fue su
+  -   Artículo de Méndez Ferrín en el «Faro de Vigo» sobre quien fue su
     compañero de clase y amigo, [Juan Vidal
     Fraga](http://www.farodevigo.es/secciones/noticia.jsp?pRef=2009062600_5_342240__Opinion-Juan-Vidal-Fraga).
 

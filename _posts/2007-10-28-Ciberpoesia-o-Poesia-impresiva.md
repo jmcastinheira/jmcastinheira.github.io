@@ -4,10 +4,10 @@ date: 2007-10-28
 generator: pandoc
 title: Ciberpoesia o Poesia impresiva
 categories:
-- Poesía
-- Poema
+  - Poesía
+  - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
 [![](http://www.juanortizdemendivil.com/poesia.jpg){.aligncenter

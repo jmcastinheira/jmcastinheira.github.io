@@ -4,11 +4,11 @@ date: 2007-03-26
 generator: pandoc
 title: Iglesia y Política
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {style="text-align: justify;"}
 De un tiempo a esta parte parece que la Iglesia, representada aquí por

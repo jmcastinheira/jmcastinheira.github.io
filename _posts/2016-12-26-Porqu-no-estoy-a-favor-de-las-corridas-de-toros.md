@@ -4,12 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Porqué no estoy a favor de las corridas de toros
 categories:
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 A caballo de la siguiente intervención de Jesús Mosterín en el Parlament
 Catalán de hace ya algún tiempo, se ha suscitado un debate en otros
@@ -135,10 +135,10 @@ Mosterín incluye algún otro subargumento implícito, relacionado con este
 
 -   13. Las Corridas de Toros son una costumbre escabrosa.
 
--   14. A los pueblos que no eliminaron costumbres escabrosas no llegó
+  -   14. A los pueblos que no eliminaron costumbres escabrosas no llegó
         la Ilustración
 
--   15. En España no se eliminaron las Corridas de Toros.
+  -   15. En España no se eliminaron las Corridas de Toros.
 
 La conclusión que extrae Mosterín, aunque realmente dice  «en este
 sentido» (es decir, parece referirlo únicamente al tema taurino) es que;

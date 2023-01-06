@@ -4,11 +4,11 @@ date: 2016-12-28
 generator: pandoc
 title: Cuando un amigo se va...
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 ... Y aunque sepas que no es para siempre, no puedes evitar sentir una
 gran pena, porque ya no va a ser tan fácil verlo, ya no podrás levantar

@@ -4,12 +4,12 @@ date: 2016-12-25
 generator: pandoc
 title: Juan y el camino
 categories:
-- Autores
+  - Autores
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 El día 19 nos hemos despertado en Pontevedra con una gran ausencia;
 [Juan](http://entelequia.bligoo.com/content/view/514268/Autores-Juan-Vidal-Fraga.html#content-top)
@@ -94,11 +94,11 @@ internet los días recientes sobre él:
     Fraga](http://www.manueljabois.com/2009/06/ha-muerto-juan-vidal-fraga.html)»
     y «[En el Diario de
     Pontevedra](http://diariodepontevedra.galiciae.com/nova/33906.html)«
--   Xesús Lopez Fernandez en el Diario: «[Juan Vidal in
+  -   Xesús Lopez Fernandez en el Diario: «[Juan Vidal in
     memoriam](http://diariodepontevedra.galiciae.com/nova/34015.html)» y
     [el mismo en su
     blog](http://xesuslopez.blogspot.com/2009/06/juan-vidal-in-memorian.html).
--   Y en Entelequia, a parte de este artículo, hemos incluído a [Juan en
+  -   Y en Entelequia, a parte de este artículo, hemos incluído a [Juan en
     la sección de
     autores](http://entelequia.bligoo.com/content/view/514268/Autores-Juan-Vidal-Fraga.html).
 

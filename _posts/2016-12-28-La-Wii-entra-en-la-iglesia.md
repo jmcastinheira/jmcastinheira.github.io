@@ -4,11 +4,11 @@ date: 2016-12-28
 generator: pandoc
 title: La Wii entra en la iglesia
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 La Iglesia de la Comunidad de Mission Bay en San Francisco, está
 utilizando un Jesús-Mii para atraer a más personas y anunciar sus

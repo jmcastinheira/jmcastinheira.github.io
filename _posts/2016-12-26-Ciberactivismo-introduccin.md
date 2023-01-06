@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Ciberactivismo. (introducción)
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Pretendo con este post, y los que vengan, responder a una pregunta
 dificil que me hizo TO+no+ de

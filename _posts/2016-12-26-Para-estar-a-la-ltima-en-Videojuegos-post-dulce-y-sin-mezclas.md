@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Para estar a la última en Videojuegos (post dulce y sin mezclas)
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Pues ante la dejadez de mi compañero me dispongo a escribir un pequeño
 post en el que contaros de una manera amena lo último de lo último en

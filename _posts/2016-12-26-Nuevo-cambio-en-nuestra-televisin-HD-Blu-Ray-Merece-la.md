@@ -4,12 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: "Nuevo cambio en nuestra televisión: HD, Blu-Ray... ¿Merece la
 categories:
-- Concepto
+  - Concepto
   pena?"
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 # 
 

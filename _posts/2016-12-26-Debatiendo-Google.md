@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Debatiendo Google
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 El otro día estabamos a la espera de un posible debate blogosférico, (o
 blogogaláxico si atendemos a las matizaciones de
@@ -94,9 +94,9 @@ Algunos temas controvertidos respecto Google:
     posiblemente [infundados](http://www.error500.net/node/67).
 -   [Problemas con
     Ad-Sense](http://mangasverdes.es/2009/01/29/mangas-verdes-rompe-con-adsense/).
--   [Problemas con la
+  -   [Problemas con la
     crisis](http://www.20minutos.es/noticia/443612/0/google/abandona/servicios/).
--   Busqueda general sobre «[Problemas
+  -   Busqueda general sobre «[Problemas
     Google](http://s8-eu.ixquick.com/do/metasearch.pl?cmd=process_search&startat=0&language=espanol&qid=MILMNOQMQPPT&query=problemas+google&cat=web&rl=NONE&lui=espanol&ff=&rcount=&pl=ff)«
 
 Y esto es sólo una pequeña parte.

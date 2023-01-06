@@ -4,12 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: Libros de Dominio Publico
 categories:
-- Autores
+  - Autores
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 En la bitácora de [David de Ugarte](http://www.deugarte.com/) hemos
 visto esta [interesante
@@ -36,5 +36,5 @@ Enlaces:
     29](http://coleccionplanta29.com/ "Colección Planta 29")
 -   [El cobre
     Edicciones](http://elcobre.es/portada1024X768.htm "El cobre Ediciones")
--   [Las Indias Electrónicas](http://lasindias.com/)
--   [BBVA](http://bbvablogs.com/wp-login.php?action=auth&redirect_to=%2F "Blogosfera BBVA")
+  -   [Las Indias Electrónicas](http://lasindias.com/)
+  -   [BBVA](http://bbvablogs.com/wp-login.php?action=auth&redirect_to=%2F "Blogosfera BBVA")

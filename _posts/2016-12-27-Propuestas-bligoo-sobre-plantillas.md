@@ -4,12 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: Propuestas bligoo (sobre plantillas)
 categories:
-- Autores
+  - Autores
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Alguna de las cosas que me gustaría proponerles al equipo bligoo, están
 directamente relacionadas con las plantillas, ya no sólo en que me

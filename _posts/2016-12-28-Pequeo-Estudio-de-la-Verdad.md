@@ -4,14 +4,14 @@ date: 2016-12-28
 generator: pandoc
 title: Pequeño Estudio de la Verdad
 categories:
-- Frase
+  - Frase
 - Poesía
-- Poema
+  - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {style="text-align: center;"}
 [![](http://www.magazinedigital.com/media/1458.jpg){style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;"

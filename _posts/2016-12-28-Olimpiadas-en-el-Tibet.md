@@ -4,11 +4,11 @@ date: 2016-12-28
 generator: pandoc
 title: Olimpiadas en el Tibet.
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 [![tibet
 olimpiadas](http://farm4.static.flickr.com/3239/2348754671_d2f16f4bd3_o.jpg){.aligncenter

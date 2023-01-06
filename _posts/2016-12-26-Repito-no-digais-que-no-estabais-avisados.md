@@ -4,11 +4,8 @@ date: 2016-12-26
 generator: pandoc
 title: Repito, no digais que no estabais avisados.
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
 ---
-
-::: {#title-block-header}
 
 Hace poco publicábamos una interesante [entrevista a José Luis
 Sampedro](http://entelequia.bligoo.com/content/view/441290/No-digais-que-no-estabais-avisados.html)

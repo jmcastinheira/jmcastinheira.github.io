@@ -4,12 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Regresando.
 categories:
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Bueno, tras estas pequeñas vacaciones, tengo la necesidad de regresar,
 es una necesidad, claro, porque hay que estar en el mundo, y ahora este
@@ -47,9 +47,9 @@ Bueno, organizando un poco el trabajo que toca, tenemos:
     humano.](http://carlosboyle.blogspot.com/2008/06/la-fraternidad-como-frontera-de-lo.html)
 -   [El tamaño de la red
     distribuída.](http://carlosboyle.blogspot.com/2008/06/el-tamao-de-la-red-distribuida.html)
--   [El límite de la
+  -   [El límite de la
     comunidad.](http://carlosboyle.blogspot.com/2008/07/el-lmite-de-la-comunidad.html)
--   [De cómo se comunica una colonia de
+  -   [De cómo se comunica una colonia de
     hormigas.](http://carlosboyle.blogspot.com/2008/07/blog-post.html)
 
 Y con todo esto tenemos bastante trabajo por hacer, además, y por si no

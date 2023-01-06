@@ -4,13 +4,13 @@ date: 2007-09-30
 generator: pandoc
 title: Libertad de expresión
 categories:
-- Frase
-- Poesía
+  - Frase
+  - Poesía
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 [Por favor, que no se nos quiten la palabra]{style="font-size:100%;"}
 

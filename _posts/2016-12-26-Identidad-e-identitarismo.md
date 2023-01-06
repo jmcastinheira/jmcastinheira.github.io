@@ -4,12 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: Identidad e identitarismo.
 categories:
-- Concepto
+  - Concepto
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Seguimos con el debate, o quizás ya no debate sino colaboración en
 búsqueda de un concepto de identidad que nos conforme.

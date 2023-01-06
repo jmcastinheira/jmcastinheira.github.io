@@ -4,12 +4,12 @@ date: 2016-12-25
 generator: pandoc
 title: Libertad, igualdad, fraternidad.
 categories:
-- Poema
+  - Poema
 
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+
 ---
 
-::: {#title-block-header}
+
 
 Hoy me pasa un poco como a Roger Wolfe;
 
@@ -52,10 +52,10 @@ adquiriendo más y más poder,
     frente a la costumbre y a la jurisprudencia permite un mayor control
     por parte del estado) se rebaja la importancia del poder judicial
     (eran la boca que pronunciaba las palabras muertas de la ley)
--   la radical separación de poderes hace que no sea posible controlar
+  -   la radical separación de poderes hace que no sea posible controlar
     judicialmente la actividad del ejecutivo (porque juzgar a la
     administración es también administrar)
--   Se otroga al gobierno el carácter de una potentior personae como un
+  -   Se otroga al gobierno el carácter de una potentior personae como un
     sujeto de derecho de otra categoría distinta y mejor de la de los
     ciudadanos, que asume importantes privilegios como el de
     **autotutela declarativa** (no se puede juzgar a la administración,

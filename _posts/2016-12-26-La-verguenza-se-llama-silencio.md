@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: La verguenza se llama silencio.
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 ::: {#body-377369 .content-body .clearfix}
 A [García

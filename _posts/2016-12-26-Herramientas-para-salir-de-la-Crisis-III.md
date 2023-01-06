@@ -4,11 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Herramientas para salir de la Crisis III
 categories:
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+  - Concepto
+
 ---
 
-::: {#title-block-header}
+
 
 Después de los post anteriores sobre este tema [Herramientas para salir
 de la Crisis
