@@ -4,23 +4,9 @@ date: 2016-12-27
 generator: pandoc
 title: Y si escribo un poema..?
 categories:
-<<<<<<< HEAD
+
   - Poema
 
-=======
-  - Blog
-- Poema
-
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
----
-
-
-
-Y si escribo un poema
-
-de como [pierdo el
-tiempo](http://es.youtube.com/watch?v=A8PgTRTYYD4&feature=related)
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 
 de cómo pierdo la cordura entre tanta lógica jurídica y tanta palabra

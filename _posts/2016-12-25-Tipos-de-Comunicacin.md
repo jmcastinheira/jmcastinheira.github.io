@@ -4,23 +4,17 @@ date: 2016-12-25
 generator: pandoc
 title: Tipos de Comunicación
 categories:
-<<<<<<< HEAD
+
   - Concepto
 
-=======
-  - Blog
-- Concepto
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 
-<<<<<<< HEAD
+
 
 
 <div>
 
-=======
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 No voy aquí a hacer un estudio, ni siquiera breve sobre la comunicación,
 creo que eso supera mis posibilidades en un ciento por ciento, pero me
 gustaría decir algunas cosas sobre la comunicación que pueden resultar

@@ -4,13 +4,9 @@ date: 2016-12-26
 generator: pandoc
 title: La conciencia hecha software IV (un inicio de debate)
 categories:
-<<<<<<< HEAD
+
   - Concepto
 
-=======
-  - Blog
-- Concepto
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 

@@ -29,11 +29,8 @@ Pero hoy en día, y gracias a las evoluciones en hardware, tenemos juegos que lo
 
 [Endless Ocean](http://www.youtube.com/watch?v=L1WOEMGtAqg) (Wii) es una combinación entre aventura gráfica y juego educativo, nos pone en la piel de un buceador que debe explorar el fondo de un mar del Caribe, encontrándose con especies marinas reales de las que vamos obteniendo datos como su nombre, evolución, alimentación&#8230;, y podemos observar un comportamiento real en su entorno, ha existido mucha controversia para definir el género de este juego, pero yo diría que se trata de un «documental interactivo»
 
-<<<<<<< HEAD
+
 [![](http://www.pixelydixel.com/img07/hoteldusk.jpg)](http://www.pixelydixel.com/img07/hoteldusk.jpg)
-=======
-![http://www.pixelydixel.com/img07/hoteldusk.jpg" border](http://www.pixelydixel.com/img07/hoteldusk.jpg)
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 Lo que está cada vez más claro es que las ideas verdaderamente originales y sorprendentes son las que triunfan en esta industria, ¿quién podría imaginarse que existirían ¿simuladores de abogado??, pues se llama «Phoenix Right» (NDS) y se ha convertido en toda una saga superventas, en él encarnamos a un joven abogado que vive grandes historias a través de sus casos, el manejo y la atención en los diálogos del juego es fundamental, puesto que debemos intervenir cuando encontremos incoherencias en un testimonio, protestar cuando sea procedente ante el fiscal, e interpretar complicadas pruebas para finalmente resolver el caso a nuestro favor.
 

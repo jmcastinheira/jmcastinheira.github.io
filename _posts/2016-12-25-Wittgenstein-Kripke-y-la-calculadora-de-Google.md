@@ -4,21 +4,15 @@ date: 2016-12-25
 generator: pandoc
 title: Wittgenstein, Kripke y la calculadora de Google
 categories:
-<<<<<<< HEAD
+
   - Concepto
 
-=======
-  - Blog
-- Concepto
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
+
 Creo que hace siglos que no escribo en el blog... mejor no lo compruebo
 porque me asusto seguro. La cuestión es que he estado bastante ocupado
 con un máster que está exprimiendo mis neuronas hasta límites que no

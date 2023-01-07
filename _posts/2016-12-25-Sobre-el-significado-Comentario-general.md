@@ -4,21 +4,15 @@ date: 2016-12-25
 generator: pandoc
 title: "Sobre el significado: Comentario general"
 categories:
-<<<<<<< HEAD
+
   - Concepto
 
-=======
-  - Blog
-- Concepto
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
+
 El otro día al leer [este
 artículo](http://lasindias.com/cultura-guia-de-uso/) de
 [**David**](http://lasindias.com/author/admin/) me entraron ganas de

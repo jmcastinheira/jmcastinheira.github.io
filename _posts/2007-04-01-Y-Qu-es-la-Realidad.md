@@ -4,15 +4,10 @@ date: 2007-04-01
 generator: pandoc
 title: Y... ¿Qué es la Realidad?
 categories:
-<<<<<<< HEAD
+
   - Autores
   - Concepto
 
-=======
-  - Blog
-- Autores
-- Concepto
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 

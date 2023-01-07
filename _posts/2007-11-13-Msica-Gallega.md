@@ -4,15 +4,10 @@ date: 2007-11-13
 generator: pandoc
 title: Música Gallega
 categories:
-<<<<<<< HEAD
   - Concepto
-=======
-  - Blog
-- Concepto
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
-- Música
+  - Música
 tags:
-- Música
+  - Música
 ---
 
 [![](http://www.agal-gz.org/blogues/media/Galiza-Vaca.jpg)](http://www.agal-gz.org/blogues/media/Galiza-Vaca.jpg)

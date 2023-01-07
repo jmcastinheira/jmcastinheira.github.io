@@ -15,11 +15,8 @@ tags:
 ---
 
   <a title="García Montero" href="http://es.wikipedia.org/wiki/Luis_Garc%C3%ADa_Montero">Luis García Montero</a> es quizá uno de los mejores poetas españoles [contemporaneos](http://www.babab.com/no19/margen.php), la verdad es que entre sus poemas encontramos verdaderas obras maestras, como <a title="Tu me llamas amor..." href="http://amediavoz.com/garciamontero.htm#T%DA%20ME%20LLAMAS,%20AMOR">este</a>, o <a title="imaginar los sitios posibles donde estabas" href="http://amediavoz.com/garciamontero.htm#IMAGINAR%20LOS%20SITIOS%20POSIBLES%20DONDE%20ESTABAS">este</a>, o <a title="hombre de lunes con secreto" href="http://zenutrio.blogspot.com/2005/04/hombre-de-lunes-con-secreto.html">este,</a> y <a title="Dedicatoria" href="http://desconvencida.blogspot.com/2006/03/dedicatoria.html">este</a>, es, como se sabe, representante de la llamada «[poesía de la experiencia](http://www.cervantesvirtual.com/portal/pec/ptercernivel.jsp?conten=historia&pagina=historia9.jsp&tit3=Hacia+el+tercer+milenio.)» lo conocí gracias a mi compañera de piso, que cómo ya he dicho en el post anterior, estaba poéticamente enamorada de él; tuve la ocasión de comprar una antología suya que, tonto de mi, regalé a una amiga y no digo [quién](http://docs.google.com/View?docID=dk4fxk2_6g9sgft&revision=_latest#XII); bueno nada más: Os dejo en este caso una poesía suya musicada por Quique Gonzalez; ¿No la conoces? por favor&#8230;
-<<<<<<< HEAD
-</p>
-=======
 
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
+</p>
 
 <div align="center">
 

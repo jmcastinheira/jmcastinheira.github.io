@@ -14,13 +14,11 @@ tags:
   - Blog
 ---
 <div id="body-151923" class="content-body">
-<<<<<<< HEAD
+
   
     <span style="font-family: Times New Roman,serif;"><span style="font-size: medium;"><img class="alignleft" style="font-size: medium;" src="http://www.juntadeandalucia.es/cultura/opencms/export/pics/bibalmeria/Biblioteca1.jpg" width="200" height="150" align="left" border="0" /></span></span>
   </p><strong>[Uxío PR]</strong> La literatura gris es otra de las grandes olvidadas del mundo de la Documentación, en la Diplomatura de esta especialidad no se habla de ella, y en la Licenciatura sí hay apenas una pequeña asignatura (por lo que convoco a una futura colaboradora nuestra a que escriba sobre este tema, del que sabe mucho más que yo), su tratamiento, posible catalagación, modo de almacenamiento o difusión siguen siendo un tema turbio para los bibliotecarios y documentalistas, en este artículo no entraremos en tanta profundidad, sino que trataremos de explicar en qué consiste este concepto y algunas de sus connotaciones.
   </p>
-=======
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
   
     <span style="font-family: Times New Roman,serif;"><span style="font-size: medium;"><img class="alignleft" style="font-size: medium;" src="http://www.juntadeandalucia.es/cultura/opencms/export/pics/bibalmeria/Biblioteca1.jpg" width="200" height="150" align="left" border="0" />
   <strong>[Uxío PR]</strong> La literatura gris es otra de las grandes olvidadas del mundo de la Documentación, en la Diplomatura de esta especialidad no se habla de ella, y en la Licenciatura sí hay apenas una pequeña asignatura (por lo que convoco a una futura colaboradora nuestra a que escriba sobre este tema, del que sabe mucho más que yo), su tratamiento, posible catalagación, modo de almacenamiento o difusión siguen siendo un tema turbio para los bibliotecarios y documentalistas, en este artículo no entraremos en tanta profundidad, sino que trataremos de explicar en qué consiste este concepto y algunas de sus connotaciones.
@@ -77,7 +75,7 @@ tags:
   
     Múltiples Bibliotecas Universitarias están haciendo esfuerzos por recopilar “literatura gris”, y catalogarla de una manera accesible a los usuarios, asimismo Internet, cada vez de una forma más organizada, se encarga de difundir de una manera fácil y rápida esta información “invisible”, que aún no le ha sido totalmente reconocido su gran valor.
   
-<<<<<<< HEAD
+
   
     [Fuente 1 ](http://eprints.rclis.org/archive/00006525/01/Vol6No2_jul.dic2003_p_127-137.pdf)
   </p>
@@ -89,16 +87,3 @@ tags:
   
     [Fuente 3 ](http://www.elprofesionaldelainformacion.com/contenidos/1995/marzo/la_literatura_gris_en_expansin.html)
 </div>
-=======
-  
-  
-    [Fuente 1 ](http://eprints.rclis.org/archive/00006525/01/Vol6No2_jul.dic2003_p_127-137.pdf)
-  
-  
-  
-    [Fuente 2 ](http://turan.uc3m.es/uc3m/serv/BIB/GRAL/FUEPS/LiteraturaGris.html)
-  
-  
-  
-    [Fuente 3 ](http://www.elprofesionaldelainformacion.com/contenidos/1995/marzo/la_literatura_gris_en_expansin.html)
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0

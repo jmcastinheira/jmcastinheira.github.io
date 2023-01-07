@@ -15,12 +15,8 @@ tags:
   - Relato
 ---
 <div id="body-153138" class="content-body">![](http://www.jggweb.com/wp-content/margaritas785b.jpg)Ya había hablado de Dolores en alguna ocasión, ahora me toca otra vez en una nueva historia, por lo que luego les digo.
-<<<<<<< HEAD
+
   </p>
-=======
-  
-  
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
   
     Esto sucedió hace ya unos años. No lo recuerdo, apareció una señora conocida de mi madre que quería plantar unas margaritas delante de casa. Parece ser que era en agradecimiento por algo del trabajo, en los pueblos ya se sabe. El caso es que esa mujer se llamaba Dolores y de hecho plantó las margaritas; plantó dos, una a cada lado de la puerta. Las margaritas se secaron a la semana. A las dos semanas volvió Dolores a plantar otras dos margaritas que, dicho sea de paso, tampoco tardaron en secarse. Mi madre las quitó y ahí acababa, aparentemente, el intento de la Señora Dolores de plantar margaritas en mi casa.
   

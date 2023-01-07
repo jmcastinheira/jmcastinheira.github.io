@@ -39,8 +39,5 @@ El fenómeno del ruido documental se produce cuando, tras realizar una búsqueda
 El ruido y el silencio documental se presentan debido a diferentes causas. Una de ellas es la ausencia de una utilización óptima y adecuada de lenguajes documentales que normalicen y orienten los procesos de análisis de la información y por ende los procesos de recuperación de la misma. Con tanta información, parece evidente que debemos prestar atención a su optimización.
 
 <a href="http://creativecommons.org/licenses/by/2.5/es/" rel="license"><img style="border-width: 0pt;" src="http://i.creativecommons.org/l/by/2.5/es/80x15.png" alt="Creative Commons License" /></a>  
-<<<<<<< HEAD
+
 <span style="font-style: italic; font-size: 78%;">«Información y Ruído documental»</span> <span style="font-size: 78%;">by [Uxio PR](http://www.blogger.com/profile/16561070545784607328)<br /> is licensed under a [Creative Commons Recoñecemento 2.5 España License](http://creativecommons.org/licenses/by/2.5/es/).</span>
-=======
-<span style="font-style: italic; font-size: 78%;">«Información y Ruído documental» by [Uxio PR](http://www.blogger.com/profile/16561070545784607328) is licensed under a [Creative Commons Recoñecemento 2.5 España License](http://creativecommons.org/licenses/by/2.5/es/).
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0

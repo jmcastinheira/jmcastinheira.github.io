@@ -4,21 +4,15 @@ date: 2016-12-25
 generator: pandoc
 title: Argumentos, entimemas y falacias.
 categories:
-<<<<<<< HEAD
+
   - Concepto
 
-=======
-  - Blog
-- Concepto
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
+
 Más que explicar la definición de estos conceptos prefiero ir a los
 casos concretos; a fin de cuentas así es cómo se aprende.
 

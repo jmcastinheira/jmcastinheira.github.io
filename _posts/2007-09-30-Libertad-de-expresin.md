@@ -4,15 +4,10 @@ date: 2007-09-30
 generator: pandoc
 title: Libertad de expresión
 categories:
-<<<<<<< HEAD
+
   - Frase
   - Poesía
 
-=======
-  - Blog
-- Frase
-- Poesía
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 

@@ -4,14 +4,9 @@ date: 2017-01-05
 generator: pandoc
 title: Adios lastfm, Hola Jamendo.
 categories:
-<<<<<<< HEAD
+
   - Frase
 
-=======
-  - Blog
-- Frase
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 ---
 
 # Adios lastfm, Hola Jamendo. {#adios-lastfm-hola-jamendo. .title}

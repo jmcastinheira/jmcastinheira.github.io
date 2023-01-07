@@ -4,12 +4,8 @@ date: 2016-12-26
 generator: pandoc
 title: De la Comunidad y la fraternidad.
 categories:
-<<<<<<< HEAD
+
   - Metáforas
-=======
-  - Blog
-- Metáforas
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 - Frase
   - Concepto
 

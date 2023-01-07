@@ -4,19 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: "Herramientas del ciberactivista. (Primera parte: Los Blogs)"
 categories:
-<<<<<<< HEAD
+
   - Frase
 
-=======
-  - Blog
-- Frase
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 
-
-
-::: {#body-167332 .content-body}
 ![](http://static.flickr.com/46/165217727_816036c82e_o.jpg){.alignleft
 width="247" height="152" align="left" border="0"}
 

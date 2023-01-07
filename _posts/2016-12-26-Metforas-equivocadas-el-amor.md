@@ -4,15 +4,10 @@ date: 2016-12-26
 generator: pandoc
 title: "Metáforas equivocadas: el amor"
 categories:
-<<<<<<< HEAD
+
   - Metáforas
   - Poema
 
-=======
-  - Blog
-- Metáforas
-- Poema
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 

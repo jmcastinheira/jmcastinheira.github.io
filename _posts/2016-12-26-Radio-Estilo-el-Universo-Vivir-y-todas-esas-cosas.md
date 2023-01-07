@@ -4,12 +4,8 @@ date: 2016-12-26
 generator: pandoc
 title: Radio Estilo, el Universo, Vivir y todas esas cosas
 categories:
-<<<<<<< HEAD
+
   - Intrahistoria
-=======
-  - Blog
-- Intrahistoria
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 - Poema
 
 

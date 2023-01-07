@@ -4,12 +4,8 @@ date: 2016-12-26
 generator: pandoc
 title: "La conciencia hecha software V: La Inteligencia Artificial"
 categories:
-<<<<<<< HEAD
+
   - Autores
-=======
-  - Blog
-- Autores
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 - Concepto
 
 

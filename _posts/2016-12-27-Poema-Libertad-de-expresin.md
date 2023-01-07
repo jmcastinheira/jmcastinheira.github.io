@@ -4,12 +4,8 @@ date: 2016-12-27
 generator: pandoc
 title: "Poema: Libertad de expresión"
 categories:
-<<<<<<< HEAD
+
   - Frase
-=======
-  - Blog
-- Frase
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 - Poesía
   - Poema
 

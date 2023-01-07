@@ -4,86 +4,10 @@ date: 2016-12-26
 generator: pandoc
 title: Pericles y la Red SOStenible
 categories:
-<<<<<<< HEAD
+
   - Concepto
 
 , una de
-=======
-  - Blog
-- Concepto
-
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
----
-
-
-
-::: {#body-702323 .content-body}
-Siguiendo los pasos de la lucha por la libertad en la red los
-internautas han creado una marcoasociación de asociaciones y personas,
-una alianza, una red de redes llamada [Red
-S@Stenible](http://red-sostenible.net/), que tiene precisamente la
-finalidad de informar y proponer ciberacciones para salvaguardar los
-derechos de expresión en la red; nos alegramos por ello, de hecho [ya
-habíamos planteado la necesidad de
-ello](http://entelequia.bligoo.com/content/view/674457/Consideraciones-acerca-de-una-posible-asociacion-de-internautas.html#content-top),
-aunque probablemente nadie nos haya oído, y ahora simplemente dejamos
-dicho que nos gustaría que al menos se debatiaran los principios de
-organización de la misma que asímismo habíamos propuesto; porque
-precisamente creemos que son los únicos que permiten cohesionar
-ligeramente un tipo de asociación tan extraña y compleja como la que se
-plantea, es una asociación nueva, para un mundo nuevo, y que exige
-nuevos principios de normación; los que habíamos propuesto en el marco
-del [Proyecto
-Pericles](http://entelequia.bligoo.com/content/view/677538/Manifiesto-nuevas-reuniones-y-el-Proyecto-Pericles.html),
-son los siguientes, [aquí
-explicados](http://entelequia.bligoo.com/content/view/674457/Consideraciones-acerca-de-una-posible-asociacion-de-internautas.html#content-top):
-
-1.  No ha de ser muy estable.
-2.  Ha de ser plural y abierta.
-3.  Ha de ser distribuída y netocrática.
-4.  Ha de tener un objeto difuso en la historia y concreto en cada
-    momento de actividad.
-5.  Ha de tener estructuras permanentes y estructuras eventuales.
-
-En el acto de presentación de esta macrored S@S realizado en el Ateneo
-de Madrid, han participado directamente: Monserrat Boix, Alberto
-Barrionuevo, Javier Sanz, Simón Alegri, Javier Maestre, Fernando Berlin,
-M Navarro, Daniel Vazquez, Victor Domingo, Pepe Cerbera; algunos de
-ellos representantes de asociaciones importantes en el marco del mundo
-de las nuevas tecnologías e incluso asociaciones ajenas a este mundo
-pero relacionadas con los derechos humanos, os dejamos el video de la
-presentación que extraemos de
-[Radiocable.com](http://www.radiocable.com/red-sostenible3543.html) (hay
-que esperar unos 5 minutos para que empieze):
-
-<div>
-
-    Watch <a title="live streaming video" href="http://www.livestream.com/">live streaming video</a> from <a title="Watch radiocable at livestream.com" href="http://www.livestream.com/radiocable">radiocable</a> at livestream.com
-
-
-
-Y así mismo dejamos también el manifiesto contra la ley:
-
- 
-
-> Consideramos imprescindible la retirada de la disposición final
-> primera de la Ley de Economía Sostenible por los siguientes motivos:
->
-> 1 -Viola los derechos constitucionales en los que se ha de basar un
-> estado democrático en especial la presunción de inocencia, libertad de
-> expresión, privacidad, inviolabilidad domiciliaria, tutela judicial
-> efectiva, libertad de mercado, protección de consumidoras y
-> consumidores, entre otros.
->
-> 2 -- Genera para la Internet un estado de excepción en el cual la
-> ciudadanía será tratada mediante procedimientos administrativos
-> sumarísimos reservados por la Audiencia Nacional a narcotraficantes y
-> terroristas.
->
-> 3 -- Establece un procedimiento punitivo "a la carta" para casos en
-> los que los tribunales ya han manifestado que no constituían delito,
-> implicando incluso la necesidad de modificar al menos 4 leyes, una de
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 > ellas orgánica. Esto conlleva un cambio radical en el sistema jurídico
 > y una fuente de inseguridad para el sector de las TIC (Tecnología de
 > la Información y la Comunicación). Recordamos, en este sentido, que el

@@ -13,11 +13,8 @@ categories:
 ---
 <p align="left">
   [![](http://entelequia.info/docs/assets/images/Nora.jpeg)](http://entelequia.info/docs/assets/images/Nora.jpeg)Por fin hemos llegado, hoy hablamos de [Nora](http://es.wikipedia.org/wiki/Nora_M%C3%A9ndez); mariposa-mujer / mujer-fantasma, un beso en un libro, voz y verso.
-<<<<<<< HEAD
-</p>
-=======
 
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
+</p>
 
 La conocí, gracias a [Txanba](http://nopronunciesminombre.blogspot.com/), seguramente, porque ella apareció en mi blog con su llave maestra, y [entró](http://lorealenelespejo.blogspot.com/2007/06/hoy.html), claro «como Pedro por su casa» lo cual, debo decir, que no sólo me agradó, sino que me hacía falta. Se presenta como miembro destacado de la nueva poesía salvadoreña. Cuando la conocí, me encontré de repente con bastantes libros de acceso libre, lo que ella llama «librogs» y en un principio, pensé; «otro poeta más en la blogosfera» pero Nora no es una «poeta más» sin duda no lo es, y de eso me di bien cuenta yo cuando leí «Seis» sobre todo cuando escuché su recital en Alemania; y entonces le escribí este poema: «[leyendo 6 de Nora Méndez](http://lorealenelespejo.blogspot.com/2007/07/leyendo-6-de-nora-mendez.html)» en respuesta a este poema de «Seis»
 

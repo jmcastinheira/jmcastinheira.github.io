@@ -4,21 +4,15 @@ date: 2016-12-25
 generator: pandoc
 title: Libertad, igualdad, fraternidad.
 categories:
-<<<<<<< HEAD
+
   - Poema
 
-=======
-  - Blog
-- Poema
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
+
 Hoy me pasa un poco como a Roger Wolfe;
 
 > La verdad, por fin; llevo

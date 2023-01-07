@@ -4,21 +4,15 @@ date: 2016-12-25
 generator: pandoc
 title: Identidad digital.
 categories:
-<<<<<<< HEAD
+
   - Concepto
 
-=======
-  - Blog
-- Concepto
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
+
 El domingo estuve viendo la conferencia de Juan Freire sobre identidades
 digitales, que podéis [ver en su blog](http://nomada.blogs.com/jfreire/2009/03/las-personas-debemos-tener-identidad-digital-cmo-construirla-sesin-web-de-la-generalitat-de-catalunya.html);
 es un tema que me resulta realmente interesante; no voy a decir casi

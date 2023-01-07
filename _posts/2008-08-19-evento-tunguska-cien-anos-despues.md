@@ -23,11 +23,9 @@ La explosión fue registrada por barómetros tan alejados del epicentro como los
 
 Imagen tomada en una investigación posterior al suceso:
 
-<<<<<<< HEAD
+
 &nbsp;
 
-=======
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 ![](http://jdwaggoner.files.wordpress.com/2008/06/tunguska_event.jpg) 
 
 Esta incontrolada y pontente explosión sigue siendo un misterio aún hoy en día, según Don Yeomans, director de un laboratorio de la NASA:

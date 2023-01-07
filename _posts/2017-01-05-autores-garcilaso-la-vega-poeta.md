@@ -14,19 +14,12 @@ tags:
   - Blog
 ---
 <div id="body-144874" class="content-body">![](http://www.spanish-books.net/masters/garcilaso.jpg)
-<<<<<<< HEAD
+
   </p>
   
   <p>
     Probablemente uno de mis poetas preferidos es Garcilaso de la Vega, «[si Garcilaso volviera yo sería su escudero&#8230;](http://www.poesia-inter.net/ramt2412.htm)» su poesía es radicalmente actual, de una sensibilidad asombrosa y con una fuerza poética total, no lo digo por decir, mi verso preferido es este:
   </p>
-=======
-  
-  
-  
-    Probablemente uno de mis poetas preferidos es Garcilaso de la Vega, «[si Garcilaso volviera yo sería su escudero&#8230;](http://www.poesia-inter.net/ramt2412.htm)» su poesía es radicalmente actual, de una sensibilidad asombrosa y con una fuerza poética total, no lo digo por decir, mi verso preferido es este:
-  
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
   
   <blockquote>
     
@@ -52,15 +45,10 @@ tags:
     
   </blockquote>
   
-<<<<<<< HEAD
+
   <p>
     Aunque sé que a la mayoría les gustará más el último terceto, a mi me gusta el primer cuarteto; la primera vez que lo leí, probablemente no haya sido así, pero después de haberlo leído y releído hasta desgastarme la memoria he decidido que todo él es absolutamente genial, en el primer cuarteto porque no sólo le dedica a la afortunada este bellísimo poema entero, sino que le dice, fíjense que humildad, «vos sóla lo escribistéis yo lo leo tan sólo» en fin, y el primer terceto&#8230; y eso que no me he puesto a alalizar la métrica y los acentos y todas esas cosas que ya no tienen los poetas de hoy porque les suenan cursis, sí, a todos los que leo les suena cursi un poema medido, pero no, a Garcilaso no, él era un guerrero.<br /> Otro poema que me encantaba era [una de sus églogas](http://es.wikisource.org/wiki/El_dulce_lamentar_de_dos_pastores), me lo sabía de memoria:
   </p>
-=======
-  
-    Aunque sé que a la mayoría les gustará más el último terceto, a mi me gusta el primer cuarteto; la primera vez que lo leí, probablemente no haya sido así, pero después de haberlo leído y releído hasta desgastarme la memoria he decidido que todo él es absolutamente genial, en el primer cuarteto porque no sólo le dedica a la afortunada este bellísimo poema entero, sino que le dice, fíjense que humildad, «vos sóla lo escribistéis yo lo leo tan sólo» en fin, y el primer terceto&#8230; y eso que no me he puesto a alalizar la métrica y los acentos y todas esas cosas que ya no tienen los poetas de hoy porque les suenan cursis, sí, a todos los que leo les suena cursi un poema medido, pero no, a Garcilaso no, él era un guerrero. Otro poema que me encantaba era [una de sus églogas](http://es.wikisource.org/wiki/El_dulce_lamentar_de_dos_pastores), me lo sabía de memoria:
-  
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
   
   <blockquote>
     
@@ -72,13 +60,9 @@ tags:
     
   </blockquote>
   
-<<<<<<< HEAD
+
   <p>
     Y la lira, por supuesto, «[si de mi baja lira](http://es.wikisource.org/wiki/A_flor_de_Gnido)» y claro, nos ha quedado el canon del sonteto de endecasílabo italiano, «[En tanto que de rosa y azuzena](http://es.wikisource.org/wiki/En_tanto_que_de_rosa_y_azucena)»<br /> Enlaces
-=======
-  
-    Y la lira, por supuesto, «[si de mi baja lira](http://es.wikisource.org/wiki/A_flor_de_Gnido)» y claro, nos ha quedado el canon del sonteto de endecasílabo italiano, «[En tanto que de rosa y azuzena](http://es.wikisource.org/wiki/En_tanto_que_de_rosa_y_azucena)» Enlaces
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
   
   <ul>
     <li>

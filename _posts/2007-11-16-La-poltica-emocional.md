@@ -4,24 +4,14 @@ date: 2007-11-16
 generator: pandoc
 title: La política emocional
 categories:
-<<<<<<< HEAD
-  - Poesía
-
-=======
-  - Blog
-- Poesía
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
-
+  - Concepto
 ---
 
-<<<<<<< HEAD
 
 
-::: {style="text-align: justify;"}
-=======
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
-[![](http://serv.rn.cl/editorial/wp-content/politica9ap.jpg){style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 200px;"
-border="0"}](http://serv.rn.cl/editorial/wp-content/politica9ap.jpg)Los
+![](http://serv.rn.cl/editorial/wp-content/politica9ap.jpg)
+
+Los
 que de vez en cuando se acercan a esta bitácora, saben que no suelo
 hablar de temas políticos, en este artículo diré algunas cosas que
 explican, en parte el porqué de este comportamiento tan aparentemente

@@ -69,13 +69,8 @@ Hoy día aún se podrían crear más “antileyes” de Biblioteconomía, aquí 
 En fin, se podrían escribir muchas antileyes, seguro que ahora vosotros recordáis muchas de las que os han ocurrido en las Bibliotecas, pero afortunadamente, este mundillo está en un proceso de cambio, gracias a los nuevos profesionales que van surgiendo, y que siguen las enseñanzas de todo un genio de este campo: Shiyali.
 
 
-<<<<<<< HEAD
+
   <div style="text-align: center;">
     <a href="http://creativecommons.org/licenses/by-nd/2.5/es/" rel="license"><img style="border-width: 0pt;" src="http://i.creativecommons.org/l/by-nd/2.5/es/80x15.png" alt="Creative Commons License" /></a><br /> <span style="font-style: italic; font-size: 78%;">«Cinco leyes de Biblioteconomía</span><span style="font-size: 78%;"><span style="font-style: italic;">«</span> by<br /> [Uxío PR](http://www.blogger.com/profile/16561070545784607328) is licensed under a<br /> [Creative Commons Reconocimiento-Sin obras derivadas 2.5 España License](http://creativecommons.org/licenses/by-nd/2.5/es/).<br /> </span>
   </div>
 </div>
-=======
-  
-    <a href="http://creativecommons.org/licenses/by-nd/2.5/es/" rel="license"><img style="border-width: 0pt;" src="http://i.creativecommons.org/l/by-nd/2.5/es/80x15.png" alt="Creative Commons License" /></a> <span style="font-style: italic; font-size: 78%;">«Cinco leyes de Biblioteconomía<span style="font-style: italic;">« by [Uxío PR](http://www.blogger.com/profile/16561070545784607328) is licensed under a [Creative Commons Reconocimiento-Sin obras derivadas 2.5 España License](http://creativecommons.org/licenses/by-nd/2.5/es/). 
-  
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0

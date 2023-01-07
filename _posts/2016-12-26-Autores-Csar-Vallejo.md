@@ -4,22 +4,16 @@ date: 2016-12-26
 generator: pandoc
 title: "Autores: César Vallejo"
 categories:
-<<<<<<< HEAD
+
   - Autores
-=======
-  - Blog
-- Autores
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 - Poema
 
 
 ---
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
+
 Nunca se puede decir lo suficiente de César Vallejo. Uno de mis poetas
 preferidos. Su fuerza poética y su estilo inconfundible. Su pasión... y
 su tristeza desde más abajo. Aún me martillea en la cabeza

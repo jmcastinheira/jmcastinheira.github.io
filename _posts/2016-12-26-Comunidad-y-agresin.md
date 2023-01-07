@@ -4,22 +4,16 @@ date: 2016-12-26
 generator: pandoc
 title: Comunidad y agresión.
 categories:
-<<<<<<< HEAD
+
   - Frase
-=======
-  - Blog
-- Frase
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 - Concepto
 
 
 ---
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
+
 Es que tiran de mi, me provocan y no puede ser, con lo tranquilo que
 estaba y en mi silencio...
 

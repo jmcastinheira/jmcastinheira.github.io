@@ -4,13 +4,9 @@ date: 2016-12-26
 generator: pandoc
 title: Pequeño estudio de la mentira II.
 categories:
-<<<<<<< HEAD
+
   - Poema
 
-=======
-  - Blog
-- Poema
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 

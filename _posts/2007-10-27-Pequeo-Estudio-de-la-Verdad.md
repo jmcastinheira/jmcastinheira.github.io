@@ -4,14 +4,9 @@ date: 2007-10-27
 generator: pandoc
 title: Pequeño Estudio de la Verdad (estudio)
 categories:
-<<<<<<< HEAD
+
   - Poesía
   - Poema
-=======
-  - Blog
-- Poesía
-- Poema
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 ---
 
 [![](http://www.magazinedigital.com/media/1458.jpg){style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;"

@@ -4,14 +4,10 @@ date: 2017-01-08
 generator: pandoc
 title: ¿Qué es entelequia...?
 categories:
-<<<<<<< HEAD
+
   - Frase
 
 
-=======
-  - Blog
-  - Frase
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 ---
 
 

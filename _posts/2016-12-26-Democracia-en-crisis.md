@@ -4,15 +4,10 @@ date: 2016-12-26
 generator: pandoc
 title: Democracia en crisis
 categories:
-<<<<<<< HEAD
+
   - Autores
   - Frase
 
-=======
-  - Blog
-- Autores
-- Frase
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 

@@ -4,20 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Ciberactivismo. (introducción)
 categories:
-<<<<<<< HEAD
+
   - Concepto
 
 ---
 
 
 
-=======
-  - Blog
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
----
-
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 Pretendo con este post, y los que vengan, responder a una pregunta
 dificil que me hizo TO+no+ de
 [Akno+](http://acanomas.bligoo.com/content), sobre cuales eran los pasos

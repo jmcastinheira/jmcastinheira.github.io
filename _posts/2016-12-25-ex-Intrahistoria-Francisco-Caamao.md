@@ -4,25 +4,19 @@ date: 2016-12-25
 generator: pandoc
 title: "ex-Intrahistoria: Francisco Caamaño"
 categories:
-<<<<<<< HEAD
+
   - Intrahistoria
-=======
-  - Blog
-- Intrahistoria
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 - Autores
   - Concepto
 
 
 ---
 
-<<<<<<< HEAD
+
 
 
 <div>
 
-=======
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 Conocí a Francisco Caamaño cuando estaba en segundo de carrera, en la
 f[acultad de Derecho de la
 USC](http://www.usc.es/fac_dereito/index.htm); llevabamos al menos un

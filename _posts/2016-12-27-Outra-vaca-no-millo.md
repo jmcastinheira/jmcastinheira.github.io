@@ -4,20 +4,10 @@ date: 2016-12-27
 generator: pandoc
 title: Outra vaca no millo
 categories:
-<<<<<<< HEAD
+
   - Concepto
 ---
 
-=======
-  - Blog
-- Concepto
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
----
-
-
-
-::: {style="text-align: justify;"}
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 [![](http://www.ideal.es/granada/prensa/fotos/200611/12/010D7GRA-LGR-P1_1.jpg){style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 200px;"
 border="0"}](http://www.ideal.es/granada/prensa/fotos/200611/12/010D7GRA-LGR-P1_1.jpg)
 

@@ -4,25 +4,12 @@ date: 2008-01-30
 generator: pandoc
 title: Sobre el concepto del derecho.
 categories:
-<<<<<<< HEAD
   - Concepto
-
-=======
-  - Blog
-- Concepto
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
-
 ---
-
-<<<<<<< HEAD
-
 
 Había estado pensando hacer un artículo un poco complejo sobre [el
 derecho y la
 anarquía](http://enteleq1-cp23.wordpresstemporal.com/search/label/derecho%20y%20anarquia)
-=======
-Había estado pensando hacer un artículo un poco complejo sobre [el derecho y la anarquía](http://enteleq1-cp23.wordpresstemporal.com/search/label/derecho%20y%20anarquia)
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 pero he decidido simplificar todo lo posible el tema, la cuestión se
 traslada de *hacer un sistema de derecho libertario* a preguntarse qué
 sería lo necesario para poder añadir a un sistema de derecho el

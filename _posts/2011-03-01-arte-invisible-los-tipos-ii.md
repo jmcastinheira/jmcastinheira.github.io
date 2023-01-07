@@ -22,7 +22,7 @@ tags:
   - Blog
   - tipografia
 ---
-<<<<<<< HEAD
+
 Después de haber analizado, siguiendo nuestro curioso [interés tipográfico](http://entelequia.bligoo.com/content/view/526478/El-arte-invisible-de-los-tipos.html) los tipos góticos y los romanos, nos vamos a centrar en la evolución que estos últimos siguieron, dejando para un último post, los tipos de palo seco y otras creaciones.
 
 **Tipos Neoclásicos.**
@@ -34,8 +34,6 @@ Empezemos con los dos reyes de este estilo, el tipo Bodini y el Didot, aunque ex
 Enric Satué nos sitúa **la Bodoni** antes que la Didot, parece más probable que fuera Firmin Didot el primero en crear su tipo; no obstante es claro que ambos estudiaron juntos y conocieron el tipo Fournier en el que se basaron; por eso e independientemente de quien haya inspirado a quién, ambas tipografías tienen su mérito y personalidad, y aunque sean muy similares suele decirse que el Didot es más cálido y el Bodoni más robusto, comparen ustedes mismos:
 
 **Didot**:
-=======
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 Después de haber analizado, siguiendo nuestro curioso [interés
 tipografico](http://entelequia.bligoo.com/content/view/526478/El-arte-invisible-de-los-tipos.html)

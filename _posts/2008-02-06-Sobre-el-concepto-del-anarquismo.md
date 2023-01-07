@@ -4,23 +4,9 @@ date: 2008-02-06
 generator: pandoc
 title: Sobre el concepto del anarquismo.
 categories:
-<<<<<<< HEAD
   - Autores
   - Concepto
-
-=======
-  - Blog
-- Autores
-- Concepto
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
-
 ---
-
-<<<<<<< HEAD
-
-=======
-# Sobre la palabra:
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 En mi opinión uno de los mayores problemas del anarquismo es que lleva el no en el
 nombre, me explico, es muy dificil determinar una identidad y definir

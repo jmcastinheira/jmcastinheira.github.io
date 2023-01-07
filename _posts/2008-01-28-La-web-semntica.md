@@ -4,21 +4,9 @@ date: 2008-01-28
 generator: pandoc
 title: La web semántica
 categories:
-<<<<<<< HEAD
   - Concepto
-
-=======
-  - Blog
-- Concepto
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
-
 ---
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 [![](){style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 320px;"
 border="0"}]()
 

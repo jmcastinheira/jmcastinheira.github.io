@@ -4,21 +4,15 @@ date: 2016-12-26
 generator: pandoc
 title: "Autores: Aaron Swartz"
 categories:
-<<<<<<< HEAD
+
   - Autores
 
-=======
-  - Blog
-- Autores
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
 
 ---
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 186db3ed77b40c7493a2fedc023e873cd977b3e0
+
 Conocí la historia de [Aaron
 Swartz](http://es.wikipedia.org/wiki/Aaron_Swartz) el mismo día de su
 suicidio. Él tenía 26 años.
