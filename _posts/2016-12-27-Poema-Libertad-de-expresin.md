@@ -4,12 +4,9 @@ date: 2016-12-27
 generator: pandoc
 title: "Poema: Libertad de expresión"
 categories:
-
   - Frase
-- Poesía
+  - Poesía
   - Poema
-
-
 ---
 
 
