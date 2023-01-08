@@ -9,7 +9,7 @@ categories:
   - Concepto
 ---
 
-[![Imagen Miguel de Unamuno](http://entelequia.info/docs/assets/images/520px-Miguel_de_Unamuno_Meurisse_1925-260x300.jpg)
+![Imagen Miguel de Unamuno](http://entelequia.info/docs/assets/images/520px-Miguel_de_Unamuno_Meurisse_1925-260x300.jpg)
 
 Imagen de commons.wikimedia.org
 
