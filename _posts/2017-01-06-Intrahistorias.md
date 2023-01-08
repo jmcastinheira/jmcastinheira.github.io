@@ -5,24 +5,13 @@ generator: pandoc
 title: Intrahistorias
 categories:
   - Intrahistoria
-- Autores
+  - Autores
   - Concepto
-
-
 ---
 
-
-
-::: {#attachment_1199 .wp-caption .alignleft style="width: 270px"}
-[![Imagen Miguel de
-Unamuno](http://entelequia.info/docs/assets/images/520px-Miguel_de_Unamuno_Meurisse_1925-260x300.jpg){.size-medium
-.wp-image-1199 aria-describedby="caption-attachment-1199" width="260"
-height="300"
-srcset="http://entelequia.info/docs/assets/images/520px-Miguel_de_Unamuno_Meurisse_1925-260x300.jpg 260w, http://entelequia.info/docs/assets/images/520px-Miguel_de_Unamuno_Meurisse_1925.jpg 520w"
-sizes="(max-width: 260px) 100vw, 260px"}](http://entelequia.info/docs/assets/images/520px-Miguel_de_Unamuno_Meurisse_1925.jpg)
+[![Imagen Miguel de Unamuno](http://entelequia.info/docs/assets/images/520px-Miguel_de_Unamuno_Meurisse_1925-260x300.jpg)
 
 Imagen de commons.wikimedia.org
-:::
 
 He decidido inaugurar esta sección, su título ya lo habéis visto. Se
 trata de «Intrahistoria». Este concepto fue acuñado por
