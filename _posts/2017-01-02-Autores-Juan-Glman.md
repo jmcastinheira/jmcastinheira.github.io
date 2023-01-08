@@ -4,19 +4,14 @@ date: 2017-01-02
 generator: pandoc
 title: "Autores: Juan Gélman"
 categories:
-
   - Autores
-- Poesía
-- Poema
-
-
+  - Poesía
+  
 ---
 
+![](http://prairial.free.fr/images/gelman/Gelman3.jpg)
 
-
-::: {#body-99475 .content-body}
-![](http://prairial.free.fr/images/gelman/Gelman3.jpg){.alignleft
-width="257" height="206" align="left" border="0"} La primera vez que
+La primera vez que
 publiqué este artículo en entelequia... [le habían
 concedido](http://www.elpais.com/articulo/cultura/poeta/argentino/Juan/Gelman/ganador/Premio/Cervantes/2007/elpepucul/20071129elpepucul_2/Tes)
 el [premio Cervantes](http://es.wikipedia.org/wiki/Premio_Cervantes) a
@@ -36,8 +31,7 @@ Enlaces:
 
 -   Video: [Poema de Juan
     Gelman](http://www.festivaldepoesiademedellin.org/pub.php/es/Multimedia/gelman.htm)
-    (festival de poesía de Medellín) y
-    [entrevista](http://www.elpais.com/videos/cultura/poeta/argentino/Juan/Gelman/Premio/Cervantes/elpvid/20071129elpepucul_4/Ves/%3Fctn%3DctnUltimo%26aP%3Dmodulo%253DMDLVideo%2526params%253Dxref%25253D20071129elpepucul_4.Ves)
+    (festival de poesía de Medellín) y [entrevista](http://www.elpais.com/videos/cultura/poeta/argentino/Juan/Gelman/Premio/Cervantes/elpvid/20071129elpepucul_4/Ves/%3Fctn%3DctnUltimo%26aP%3Dmodulo%253DMDLVideo%2526params%253Dxref%25253D20071129elpepucul_4.Ves)
 -   Audio: Poemas de [Juan
     Gelman](http://poesiavirtual.com/index.php?ir=antologia/voz14.php)
 -   Obras: [Libro](http://www.elortiba.org/gelman3.html);
@@ -47,4 +41,3 @@ Enlaces:
     la gestiona pero aun así la añadimos a nuestro feevy)
   -   Artículos: en
     [Rebelión](http://www.rebelion.org/mostrar.php?tipo=5&id=Juan%20Gelman&inicio=0)
-:::

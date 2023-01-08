@@ -4,13 +4,8 @@ date: 2016-12-26
 generator: pandoc
 title: La conciencia hecha software o el sueño de la razón III
 categories:
-
   - Concepto
-
-
 ---
-
-
 
 Como hemos dicho en los dos artículos anteriores era urgente encontrar
 una demostración absoluta de la consistencia y completud de la Teoría

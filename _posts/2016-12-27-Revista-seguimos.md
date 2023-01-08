@@ -4,19 +4,15 @@ date: 2016-12-27
 generator: pandoc
 title: Revista (seguimos)
 categories:
-
   - Autores
-- Poema
-
-
+  - Poema
+  - Revista
 ---
 
 
+[![](http://escritores.files.wordpress.com/2007/06/foto-revista-internet.jpg)](http://escritores.files.wordpress.com/2007/06/foto-revista-internet.jpg)
 
-::: {#body-132057 .content-body}
-[![](http://escritores.files.wordpress.com/2007/06/foto-revista-internet.jpg){.alignleft
-width="200" height="200" align="left"
-border="0"}](http://escritores.files.wordpress.com/2007/06/foto-revista-internet.jpg)Ya
+Ya
 he puesto el [Zoho
 Wiki](http://wiki.zoho.com/jsp/wikilogin.jsp?serviceurl=%2Fregister.do)
 personal en el menú de navegación horizontal del blog, cualquiera puede
@@ -78,4 +74,3 @@ ya lo conozco, he sacado algunas conclusiones:
     es que las plantillas se pueden editar, y muchas de las de wordpress
     están adapatadas a blogger, feevy funciona bien, y es también
     sencillo.
-:::

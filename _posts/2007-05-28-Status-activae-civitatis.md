@@ -4,9 +4,7 @@ date: 2007-05-28
 generator: pandoc
 title: Status activae civitatis
 categories:
-
   - Concepto
-
 ---
 
 Exactamente mi participación en el [sistema político

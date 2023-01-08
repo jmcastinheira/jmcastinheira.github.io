@@ -4,13 +4,10 @@ date: 2016-12-26
 generator: pandoc
 title: Radio Estilo, el Universo, Vivir y todas esas cosas
 categories:
-
   - Intrahistoria
-- Poema
-
-
+  - Poema
+  - Poesía
 ---
-
 
 
 Bueno, llevo un montón sin escribir nada, una serie de ocupacioes me

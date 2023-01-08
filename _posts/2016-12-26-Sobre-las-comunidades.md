@@ -4,10 +4,7 @@ date: 2016-12-26
 generator: pandoc
 title: Sobre las comunidades.
 categories:
-
   - Concepto
-
-
 ---
 
 
@@ -48,8 +45,6 @@ analizar, de momento os dejo con una cita del artículo:
 > tan potente que tras hacer una campaña virtual sus protagonistas se
 > sientan emocional e intelectualmente tan ligados entre si como para
 > querer seguir haciendo cosas juntos todos los días.
->
->  
 
 **Actualizo**: este post trajo consigo [un debate muy
 interesante](http://entelequia.bligoo.com/content/view/199717/Sobre_identidad_y_sujeto.html).

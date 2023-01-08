@@ -4,12 +4,8 @@ date: 2016-12-26
 generator: pandoc
 title: Conoce al «Hombre Meteorito»
 categories:
-
   - Concepto
-
 ---
-
-
 
 Por Uxío PR
 
@@ -55,8 +51,6 @@ material extraterrestre.
 Mantiene su colección perfectamente acondicionada en Tucson (Arizona), y
 por supuesto con grandes medidas de seguridad, ya que el valor económico
 de lo que guarda es muy alto.
-
- 
 
 ![](http://www.meteoriteman.com/graphics/desertgls.jpg?v=1261126905591 "http://www.meteoriteman.com/graphics/desertgls.jpg")
 

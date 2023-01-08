@@ -4,149 +4,140 @@ date: 2007-09-30
 generator: pandoc
 title: Libertad de expresión
 categories:
-
   - Frase
   - Poesía
-
-
 ---
 
 
 
-[Por favor, que no se nos quiten la palabra]{style="font-size:100%;"}
+[Por favor, que no se nos quiten la palabra]  
+[Que no nos arrebaten la palabra]  
+[Que no nos digan, tú no, no tienes voz]  
+[Te has quedado]  
+[Mudo.](http://www.tebeosfera.com/Obra/Tebeo/Sinsentido/mudo.gif)  
 
-[Que no nos arrebaten la palabra]{style="font-size:100%;"}
-
-[Que no nos digan, tú no, no tienes voz]{style="font-size:100%;"}
-
-[Te has quedado]{style="font-size:100%;"}
-
-[[Mudo.](http://www.tebeosfera.com/Obra/Tebeo/Sinsentido/mudo.gif)]{style="font-size:100%;"}
-
-[\
-]{style="font-size:100%;"}
 
 [No les permitas que [nos sellen los
-labios](http://ivansainzpardo.blogia.com/upload/20051202145444-mudo.jpg)]{style="font-size:100%;"}
+labios](http://ivansainzpardo.blogia.com/upload/20051202145444-mudo.jpg)]  
 
 [Que nos [muerdan la
-boca,](http://freak.blogs.sapo.pt/arquivo/Morder.jpg)]{style="font-size:100%;"}
+boca,](http://freak.blogs.sapo.pt/arquivo/Morder.jpg)]  
 
 [Que [nos quiten los
-dientes,](http://img137.imageshack.us/img137/9276/sawiii2ha.png)]{style="font-size:100%;"}
+dientes,](http://img137.imageshack.us/img137/9276/sawiii2ha.png)]  
 
 [Que no [nos arranquen las cuerdas
-vocales](http://www.milenio.com/index.php/2007/09/23/124536/);]{style="font-size:100%;"}
+vocales](http://www.milenio.com/index.php/2007/09/23/124536/);]  
 
 [[Quiero
-hablar,](http://www.youtube.com/watch?v=VXnVy93MZ1g)]{style="font-size:100%;"}
+hablar,](http://www.youtube.com/watch?v=VXnVy93MZ1g)]  
 
 [[¡¡¡Dejadme
-HABLAR!!!](http://actualidad.terra.es/nacional/articulo/birmania_monjes_budistas_siguen_frente_1890448.htm)]{style="font-size:100%;"}
+HABLAR!!!](http://actualidad.terra.es/nacional/articulo/birmania_monjes_budistas_siguen_frente_1890448.htm)]  
 
 [No nos robéis,\
-]{style="font-size:100%;"}
+]  
 
 [[TRAIDORES,](http://actualidad.terra.es/nacional/articulo/junta_militar_birmania_asia_1890453.htm)\
-]{style="font-size:100%;"}
+]  
 
-[la palabra;]{style="font-size:100%;"}
+[la palabra;]  
 
-[Ya nos lo habéis quitado todo,]{style="font-size:100%;"}
+[Ya nos lo habéis quitado todo,]  
 
 [Nos quitasteis las [nubes del
-cielo](http://www.youtube.com/watch?v=eP9O66wo7iI),]{style="font-size:100%;"}
+cielo](http://www.youtube.com/watch?v=eP9O66wo7iI),]  
 
-[La tierra me la escupisteis,]{style="font-size:100%;"}
+[La tierra me la escupisteis,]  
 
 [El [mar en quien os
-cagasteis...](http://www.youtube.com/watch?v=-d64gVK85Bg)]{style="font-size:100%;"}
+cagasteis...](http://www.youtube.com/watch?v=-d64gVK85Bg)]  
 
 [\
-]{style="font-size:100%;"}
+]  
 
-[Quiero hablar y puedo hacerlo MAL]{style="font-size:100%;"}
+[Quiero hablar y puedo hacerlo MAL]  
 
 [Si quiero,\
-]{style="font-size:100%;"}
+]  
 
 [si quiero
-des[AHOGARME](http://www.youtube.com/watch?v=ZTMbcLZu_Ak)]{style="font-size:100%;"}
+des[AHOGARME](http://www.youtube.com/watch?v=ZTMbcLZu_Ak)]  
 
-[De vosotros.]{style="font-size:100%;"}
+[De vosotros.]  
 
 [\
-]{style="font-size:100%;"}
+]  
 
 [[No les permitas DIOS](http://www.youtube.com/watch?v=U7BdZUwm47s), si
-existes,]{style="font-size:100%;"}
+existes,]  
 
-[Que se nos lleven la palabra.]{style="font-size:100%;"}
+[Que se nos lleven la palabra.]  
 
 [\
-]{style="font-size:100%;"}
+]  
 
 [[Dejadme RABIAR por
-vosotros](http://www.youtube.com/watch?v=XyQDKLAhCY0),]{style="font-size:100%;"}
+vosotros](http://www.youtube.com/watch?v=XyQDKLAhCY0),]  
 
-[Dejadme insultaros, ]{style="font-size:100%;"}
+[Dejadme insultaros, ]  
 
-[Necesito rabiar si me tapan la ]{style="font-size:100%;"}
+[Necesito rabiar si me tapan la ]  
 
-[Boca.]{style="font-size:100%;"}
+[Boca.]  
 
 [\
-]{style="font-size:100%;"}[]{style="font-size:100%;"}
+]  []  
 
-[Nada de Aude, Vide, Tace.]{style="font-size:100%;"}
+[Nada de Aude, Vide, Tace.]  
 
 [Necesito hablar y [hablar
-gritando](http://www.youtube.com/watch?v=4ENL7tDHdzk)]{style="font-size:100%;"}
+gritando](http://www.youtube.com/watch?v=4ENL7tDHdzk)]  
 
-[Como si me estuvieran cogiendo de los]{style="font-size:100%;"}
+[Como si me estuvieran cogiendo de los]  
 
-[Cojones.]{style="font-size:100%;"}
+[Cojones.]  
 
-[y... ¿Qué pasa?]{style="font-size:100%;"}
+[y... ¿Qué pasa?]  
 
-[¿No es esto poesía suficiente?]{style="font-size:100%;"}
+[¿No es esto poesía suficiente?]  
 
-[¿No puedo utilizar palabras mal sonantes]{style="font-size:100%;"}
+[¿No puedo utilizar palabras mal sonantes]  
 
-[verbos inútiles]{style="font-size:100%;"}
+[verbos inútiles]  
 
-[frases políticamente incorrectas?]{style="font-size:100%;"}
+[frases políticamente incorrectas?]  
 
 [Dejadme decir: [pido la paz por la
-palabra](http://www.xuliocs.com/index.php?pagina=http://www.xuliocs.com/Esquisa/blasdeot.htm)]{style="font-size:100%;"}
+palabra](http://www.xuliocs.com/index.php?pagina=http://www.xuliocs.com/Esquisa/blasdeot.htm)]  
 
-[En la palabra, desde y con la ]{style="font-size:100%;"}
+[En la palabra, desde y con la ]  
 
-[Palabra;]{style="font-size:100%;"}
+[Palabra;]  
 
 [Con todas y cada una de sus consecuencias,
-quiero]{style="font-size:100%;"}
+quiero]  
 
-[Hablar como me de la gana,]{style="font-size:100%;"}
+[Hablar como me de la gana,]  
 
-[Quiero escupiros a las manos yermas.]{style="font-size:100%;"}
-
-[\
-]{style="font-size:100%;"}
-
-[Venid, venid, yo os desafío.]{style="font-size:100%;"}
-
-[Selladme los labios con vuestra ]{style="font-size:100%;"}
-
-[Mierda, de eso os sobra.]{style="font-size:100%;"}
+[Quiero escupiros a las manos yermas.]  
 
 [\
-]{style="font-size:100%;"}
+]  
 
-[]{style="font-size:100%;"}
+[Venid, venid, yo os desafío.]  
 
-[Quiero hablar y hablaré siempre]{style="font-size:100%;"}
+[Selladme los labios con vuestra ]  
 
-[[Caiga quien caiga.]{style="font-size:100%;"}]{style="font-size:12;"}
+[Mierda, de eso os sobra.]  
 
-[]{style="font-size:12;"}
+[\
+]  
+
+[]  
+
+[Quiero hablar y hablaré siempre]  
+
+[[Caiga quien caiga.]  ]
+
+[

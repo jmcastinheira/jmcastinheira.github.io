@@ -2,18 +2,12 @@
 author: Uxío
 date: 2016-12-26
 generator: pandoc
-title: El Observatorio Europeo Austral descubre seis exoplanetas que van
+title: El Observatorio Europeo Austral descubre seis exoplanetas que van al revés
 categories:
-
   - Concepto
-  «al reves»
-
 ---
 
-
-
-![http://www.elpais.com/recorte/20100412elpepusoc_10/XXLCO/Ies/Planetas_otras_estrellas.jpg](http://www.elpais.com/recorte/20100412elpepusoc_10/XXLCO/Ies/Planetas_otras_estrellas.jpg?v=1271421650910 "http://www.elpais.com/recorte/20100412elpepusoc_10/XXLCO/Ies/Planetas_otras_estrellas.jpg"){width="486"
-height="325"}
+![http://www.elpais.com/recorte/20100412elpepusoc_10/XXLCO/Ies/Planetas_otras_estrellas.jpg](http://www.elpais.com/recorte/20100412elpepusoc_10/XXLCO/Ies/Planetas_otras_estrellas.jpg?v=1271421650910 "http://www.elpais.com/recorte/20100412elpepusoc_10/XXLCO/Ies/Planetas_otras_estrellas.jpg")
 
 Por Uxío.
 
@@ -47,5 +41,4 @@ dirección «equivocada», casi anula las posibilidades de que los sistemas
 con exoplanetas conocidos como Júpiter calientes, de los que se han
 hallado más de 400, contengan planetas similares a la Tierra.
 
-Fuente: [El
-País](http://www.elpais.com/articulo/sociedad/Mundos/giran/direccion/equivocada/elpepusoc/20100412elpepusoc_11/Tes){target="_blank"}
+Fuente: [El País](http://www.elpais.com/articulo/sociedad/Mundos/giran/direccion/equivocada/elpepusoc/20100412elpepusoc_11/Tes)

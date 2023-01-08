@@ -4,7 +4,6 @@ date: 2016-12-26
 generator: pandoc
 title: Herramientas para salir de la Crisis III
 categories:
-
   - Concepto
 
 ---

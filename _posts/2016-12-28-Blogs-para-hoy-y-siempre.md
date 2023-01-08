@@ -4,20 +4,13 @@ date: 2016-12-28
 generator: pandoc
 title: Blogs para hoy y siempre.
 categories:
-
   - Intrahistoria
-- Autores
-- Poema
-
-
+  - Autores
+  - Blog
 ---
 
 
-
-::: {#body-461542 .content-body}
-![imagen de
-www.estudiomar.org.es](http://www.estudiomar.org.es/Dali%20muchacha%20en%20la%20ventana%201925.JPG){.alignleft
-width="184" height="260"}
+![imagen de www.estudiomar.org.es](http://www.estudiomar.org.es/Dali%20muchacha%20en%20la%20ventana%201925.JPG)
 
 Hoy me apetece recomendar unos cuantos blogs que sigo, otros que no,
 pero seguiré (al menos por una temporada; más que nada para no saturar
@@ -25,9 +18,7 @@ el lector que ya hecha humo); y da la sutil coincidencia de que son
 todas blogueras las que los llevan (claro, hoy es el día de la mujer
 trabajadora; aunque yo no las recomiendo porque sean mujeres sino
 porque, sin duda, son blogs de referencia en la blogosfera hispánica)
-esto viene a cuento de que 20.minutos ha echo [una pequeña recopilación
-sobre
-bloggueras](http://www.20minutos.es/noticia/455055/0/mujeres/blogueras/);
+esto viene a cuento de que 20.minutos ha echo [una pequeña recopilación sobre bloggueras](http://www.20minutos.es/noticia/455055/0/mujeres/blogueras/);
 estas son sus recomendaciones:
 
 -   [Sonia Blanco](http://www.filmica.com/sonia_blanco/). A la que sigo
@@ -113,4 +104,4 @@ sobre el tema; evidentemente yo estoy de acuerdo con ella; pero bueno,
 ya lo hemos dicho al principio; vamos a recomendar unos blogs
 cualquiera; por cierto tiene razón cuando dice que no son minoría; yo
 creo que hay muchas chicas bloggueras.
-:::
+

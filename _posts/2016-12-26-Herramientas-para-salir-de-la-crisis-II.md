@@ -4,21 +4,17 @@ date: 2016-12-26
 generator: pandoc
 title: Herramientas para salir de la crisis II
 categories:
-
   - Concepto
-
 ---
 
 
+![4544044430_555b8fd3e4_o.jpg](http://i275.photobucket.com/albums/jj287/Auluses/4544044430_555b8fd3e4_o.jpg?v=1336651222661)
 
-[![4544044430_555b8fd3e4_o.jpg](http://i275.photobucket.com/albums/jj287/Auluses/4544044430_555b8fd3e4_o.jpg?v=1336651222661){width="286"
-height="325"}Hablábamos el otro
-día](http://www.entelequia.info/herramientas-para-salir-de-la-crisis-i)
+[Hablábamos el otro día](http://www.entelequia.info/herramientas-para-salir-de-la-crisis-i)
 de la revolución de lo distribuído, creo que debo hacer algunas
 aclaraciones porque parece ser que no ha sido entendido del todo lo que
 allí se decía y su importancia.
 
-::: {#body-4191546 .content-body}
 Lo importante de este cambio no son las máquinas de fabbing (estas sólo
 son herramientas que facilitan el cambio), o que los costes se vayan a
 abaratar (aunque probablemente esto suceda) lo importante es que es
@@ -87,8 +83,7 @@ abundancia](http://lasindias.net/indianopedia/L%C3%B3gica_de_la_abundancia).
 Y ahora volved a la realidad, volved a lo absurdo que suena esta
 propuesta y seguid leyendo...
 
-**Sistema energético distribuído\
-**
+# Sistema energético distribuído
 
 En un sistema energético distribuído existen múltiples fuentes de
 energía, normalmente estas fuentes están situadas cerca del lugar de
@@ -130,8 +125,7 @@ fuentes de energía de las que podemos disponer y viceversa, esto es,
 encontrar la fuente de energía más apropiada para satisfacer cada
 necesidad concreta de consumo.
 
-**\
-Sistema monetario distribuído**
+# Sistema monetario distribuído
 
 Otra vez, permitir que sean unas pocas entidades las que emitan y
 gestionen un recurso, en este caso la moneda (estados), o manejen el
@@ -181,7 +175,7 @@ empresas, sobre todo en el ámbito de la compra-venta por internet, su
 número va creciendo y a día de hoy [es sorprendentemente
 grande](https://en.bitcoin.it/wiki/Trade).
 
-**¿Y quien habla de todo esto?**
+# ¿Y quien habla de todo esto?
 
 Quizá el autor más renombrado sobre estos temas sea **[Michel
 Bauwens](http://es.wikipedia.org/wiki/Michel_Bauwens),** director y
@@ -213,7 +207,7 @@ emprender](http://bitacora.lasindias.com/contra-la-crisis-revolucion-industrial-
 en este sentido. En general hay algunos [proyectos
 abiertos](http://p2pfoundation.net/Spain).
 
-**Consideraciones Finales**
+# Consideraciones Finales
 
 El paso de la [lógica de la
 escasez](http://lasindias.net/indianopedia/Generaci%C3%B3n_artificial_de_escasez)
@@ -277,4 +271,4 @@ recursos públicos, pero en cualquier caso este no es el problema ahora.
 
 (Fotografía extraída de;
 [aqui](http://www.flickr.com/photos/center_for_jewish_history/4544044430/sizes/o/in/photostream/))
-:::
+

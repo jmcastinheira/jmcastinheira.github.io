@@ -4,18 +4,12 @@ date: 2016-12-26
 generator: pandoc
 title: La actividad volcánica en Islandia podría prolongarse hasta 60
 categories:
-
   - Concepto
-  años
-
 ---
-
-
 
 Por Uxío.
 
-![http://cdn.alt1040.com/files/2010/04/Volcano-640x469.jpg](http://cdn.alt1040.com/files/2010/04/Volcano-640x469.jpg?v=1271750385248 "http://cdn.alt1040.com/files/2010/04/Volcano-640x469.jpg"){width="469"
-height="342"}
+![http://cdn.alt1040.com/files/2010/04/Volcano-640x469.jpg](http://cdn.alt1040.com/files/2010/04/Volcano-640x469.jpg?v=1271750385248 "http://cdn.alt1040.com/files/2010/04/Volcano-640x469.jpg")
 
 Thorvaldur Thordarson era hasta hoy un científico desconocido, su nombre
 sólo salía en publicaciones científicas, pero nunca en medios de
@@ -90,8 +84,8 @@ cuándo ni con qué fuerza explotará.**
 
 Fuentes:
 
-[Fuente1](http://www.geos.ed.ac.uk/homes/tthordar/){target="_blank"}
+[Fuente1](http://www.geos.ed.ac.uk/homes/tthordar/)
 
-[Fuente2](http://alt1040.com/2010/04/se-pronostica-alta-actividad-volcanica-en-islandia-por-los-proximos-60-anos?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+alt1040+%28ALT1040%29){target="_blank"}
+[Fuente2](http://alt1040.com/2010/04/se-pronostica-alta-actividad-volcanica-en-islandia-por-los-proximos-60-anos?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+alt1040+%28ALT1040%29)
 
-[Fuente3](http://www.windows2universe.org/earth/interior/volcanism.html&lang=sp){target="_blank"}
+[Fuente3](http://www.windows2universe.org/earth/interior/volcanism.html&lang=sp)

@@ -4,16 +4,9 @@ date: 2017-01-03
 generator: pandoc
 title: "Autores: Ezra Pound"
 categories:
-
   - Autores
-- Concepto
-- Poesía
-  - Poema
-
-
+  - Poesía
 ---
-
-
 
 Ezra Pound fue, sin duda, un personaje controvertido. Tanto por su forma
 de ser, como por sus opiniones. Nunca se callaba lo que pensaba...
@@ -62,18 +55,11 @@ doble](http://www.lavanguardia.com/libros/20110511/54153357440/justo-navarro-y-s
 
 Quiero que veáis esta foto:
 
-::: {#attachment_1232 .wp-caption .aligncenter style="width: 310px"}
-[![Ezra Pound junto a la tumba de James Joyce en Zurich (fotofrafía de
-Horst
-Tappe)](http://entelequia.info/docs/assets/images/JJ_ezra-300x195.jpg){.size-medium
-.wp-image-1232 aria-describedby="caption-attachment-1232" width="300"
-height="195"
-srcset="http://entelequia.info/docs/assets/images/JJ_ezra-300x195.jpg 300w, http://entelequia.info/docs/assets/images/JJ_ezra.jpg 600w"
-sizes="(max-width: 300px) 100vw, 300px"}](http://entelequia.info/docs/assets/images/JJ_ezra.jpg)
 
-Ezra Pound junto a la tumba de James Joyce en Zurich (fotofrafía de
-Horst Tappe)
-:::
+[![Ezra Pound junto a la tumba de James Joyce en Zurich (fotofrafía de Horst Tappe)](http://entelequia.info/docs/assets/images/JJ_ezra-300x195.jpg)
+
+Ezra Pound junto a la tumba de James Joyce en Zurich (fotofrafía de Horst Tappe)
+
 
 En un lado está Ezra Pound que había sido acusado de traición a la
 patria por decir que Jeferson no era mejor que Mussolini; o por defender
@@ -118,8 +104,7 @@ justificada...
 Hoy poca gente habla ya de Ezra Pound, algunos lo hacen, y algunos
 aprendemos de su poesía, y de sus teorías poéticas, e[l
 imagismo](http://en.wikipedia.org/wiki/Imagism) que intenta actualizar
-[la visión poética del
-haiku](http://es.wikipedia.org/wiki/M%C3%A9todo_ideogr%C3%A1mico), o el
+[la visión poética del haiku](http://es.wikipedia.org/wiki/M%C3%A9todo_ideogr%C3%A1mico), o el
 [vorticismo](http://es.wikipedia.org/wiki/Vorticismo); así que sólo
 puedo decir que a pesar de sus errores; sin duda [*il miglior
 fabbro*](http://en.wikipedia.org/wiki/The_Waste_Land#Structure).

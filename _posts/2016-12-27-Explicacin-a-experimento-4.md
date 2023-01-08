@@ -4,17 +4,12 @@ date: 2016-12-27
 generator: pandoc
 title: Explicación a experimento 4
 categories:
-
   - Metáforas
-- Poesía
+  - Poesía
   - Poema
-
-
 ---
 
 
-
-::: {style="text-align: justify;"}
 Como habéis podido comprobar el poema titulado «hoy» tiene un montón de
 enlaces, y lo cierto es que lo hice con bastante intención, parece ser
 que ya está inventado algo parecido dentro de la rama emergente de la
@@ -49,6 +44,7 @@ cuando aparece enojado, o vinagre, son palabras que de por si, no hacen
 sentir nada en el lector, pero el video que está enlazado tiene una
 mayor influencia, se impone desde si mismo, espero que os haya
 interesado; y aquí os dejo otros ejemplos de
-[ciberpoesía](http://lorealenelespejo.blogspot.com/search/label/Ciberpoema).\
+[ciberpoesía](http://lorealenelespejo.blogspot.com/search/label/Ciberpoema).
+
 Saludosss
-:::
+

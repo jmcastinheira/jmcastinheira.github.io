@@ -4,13 +4,8 @@ date: 2017-08-19
 generator: pandoc
 title: Un peligroso asteroide pasó rozando la Tierra el 2 de marzo
 categories:
-
   - Concepto
-  (Tunguska a punto de repetirse)
-
 ---
-
-
 
 **[Por Uxío PR] Nuevo aviso** para la Tierra,
 el asteroide DD45, que fue descubierto el pasado 27 de febrero, cuando

@@ -4,14 +4,9 @@ date: 2016-12-26
 generator: pandoc
 title: "La conciencia hecha software V: La Inteligencia Artificial"
 categories:
-
   - Autores
-- Concepto
-
-
+  - Concepto
 ---
-
-
 
 Intentaremos responder a la pregunta **¿Qué es la inteligencia
 artificial?**
@@ -59,7 +54,7 @@ computacional debería realizarla una máquina por si sola. Luego
 expresaremos una definición menos ambiciosa y daremos las razones por
 las que esta segunda definición es necesaria.
 
-**Algo de Historia:**
+# Algo de Historia:
 
 Si os dijera que el que sentó las bases para  el proyecto de la
 Inteligencia Articicial fue un mallorquín dirías ¡Caramba! Pues en
@@ -101,7 +96,7 @@ procedimiento efectivo era
 -   c.  Debía garantizar la solución del problema pertinente por medio
         de un **número finito** de pasos. Y finalmente un desideratum,
 
-  -   d.  Que seamos capaces de acotar de antemano **cuantos pasos**
+-   d.  Que seamos capaces de acotar de antemano **cuantos pasos**
         llevará encontrar la solución.
 
 [Nosotros ya sabemos que
@@ -125,7 +120,7 @@ respuesta a si es posible una adecuada realización del desideratum se
 volvió en un asunto crucial conocido desde David Hilbert y Wilhelm
 Ackermann como *Entscheidungsproblem*.
 
-**Resolución del *Entscheidungsproblem*.**
+# Resolución del *Entscheidungsproblem*.
 
 El primero que resolvió el Entscheidungsproblem, en sentido negativo,
 fue [Alonzo Church](http://es.wikipedia.org/wiki/Alonzo_Church) mediante
@@ -192,7 +187,7 @@ problema. Pero no sólo ello, sino que además será el concepto clave en
 el que a partir de este momento se construya la noción de
 "computabilidad", veamos cómo sucedió esto.
 
-**La noción de Computabilidad.**
+# La noción de Computabilidad.
 
 Con la resolución en sentido negativo del *Entscheidungsproblem* la
 noción de Hilbert de "procedimiento efectivo" resultaba inútil al no ser
@@ -241,7 +236,6 @@ adelantos que se inventen... **NADA podrá ir NUNCA más allá de las
 capacidades de una Máquina Universal de Turing**, lo único que podremos
 hacer es ir más rápido.
 
-**Para seguir leyendo:**
+# Para seguir leyendo:
 
-  -   [*On computable numbers, with an application to the
-    Entscheidungsproblem*](http://www.cs.virginia.edu/%7Erobins/Turing_Paper_1936.pdf)
+-   [*On computable numbers, with an application to the Entscheidungsproblem*](http://www.cs.virginia.edu/%7Erobins/Turing_Paper_1936.pdf)

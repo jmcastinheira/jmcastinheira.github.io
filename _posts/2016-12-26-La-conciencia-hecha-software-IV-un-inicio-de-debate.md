@@ -4,13 +4,8 @@ date: 2016-12-26
 generator: pandoc
 title: La conciencia hecha software IV (un inicio de debate)
 categories:
-
   - Concepto
-
-
 ---
-
-
 
 Los proyectos abuelos de la inteligencia artificial, como venimos
 viendo, se inician lentamente en la época de la ilustración; pero poco a

@@ -4,15 +4,9 @@ date: 2017-01-02
 generator: pandoc
 title: "Autores: Miguel d´Ors"
 categories:
-
   - Autores
-- Poesía
-- Poema
-
-
+  - Poesía
 ---
-
-
 
 He mencionado a [Miguel d´Ors
 Lois](http://es.wikipedia.org/wiki/Miguel_d%27Ors) en otras ocasiones.
@@ -55,42 +49,27 @@ Os dejo con el poema de Miguel d'Ors **«Pobres y de derechas»** *(Glosa
 con variación sobre un verso de Gacía Montero)* del libro «Hacia otra
 luz más pura»:
 
-> Pobres y de derechas . Te diré
+> Pobres y de derechas. Te diré  
+> --sin usar ni conjuro  
+> ni bola de cristal, ni posos de  
+> té---, te diré ahora mismo, amor, lo que  
+> veo en nuestro futuro:  
 >
-> -- sin usar ni conjuro
->
-> ni bola de cristal, ni posos de
->
-> té-, te diré ahora mismo, amor, lo que
->
-> veo en nuestro futuro:
->
-> veo, cómo decirlo, un no sé qué
->
-> que es duro y no es un duro.
->
+> veo, cómo decirlo, un no sé qué  
+> que es duro y no es un duro.  
 > Enigma un tanto oscuro,
->
-> pero que a mi no me
->
+> pero que a mi no me  
 > engaña, te lo juro:
 >
-> amor, nos ha de dar más de un apuro
->
-> el maldito parné.
->
-> Y -esto puedes tenerlo por seguro-
->
-> sin despertar ni un triste comité
->
-> de apoyo a Comisiones o UGT
->
+> amor, nos ha de dar más de un apuro  
+> el maldito parné.  
+> Y ---esto puedes tenerlo por seguro---  
+> sin despertar ni un triste comité  
+> de apoyo a Comisiones o UGT  
 > ni la menor pintada en ningún muro.
 >
-> Yo ya hace muchas letras que lo sé.
->
-> Por qué crees, si no, que siempre que
->
+> Yo ya hace muchas letras que lo sé.  
+> Por qué crees, si no, que siempre que  
 > tú me llamas, amor, yo voy a pie.
 
 Enlaces:

@@ -4,14 +4,9 @@ date: 2016-12-25
 generator: pandoc
 title: Libertad, igualdad, fraternidad.
 categories:
-
+  - Concepto
   - Poema
-
-
 ---
-
-
-
 
 Hoy me pasa un poco como a Roger Wolfe;
 
@@ -44,7 +39,9 @@ y los calcetines, pero no la revolución Francesa, porque precisamente
 eso de «libertad, igualdad y fraternidad» es la historia de las tres
 mentiras,
 
-***Libertad*** porque si bien, claro, supuso un cambio radical en los
+# Libertad
+
+porque si bien, claro, supuso un cambio radical en los
 sistemas sociales la revolución francesa produjo, y es causa de la mayor
 concentración de poder de toda la historia de la humanidad; el estado, a
 partir de ahí, (primero en el legislativo, después en el ejecutivo) fue
@@ -54,10 +51,10 @@ adquiriendo más y más poder,
     frente a la costumbre y a la jurisprudencia permite un mayor control
     por parte del estado) se rebaja la importancia del poder judicial
     (eran la boca que pronunciaba las palabras muertas de la ley)
-  -   la radical separación de poderes hace que no sea posible controlar
+-   la radical separación de poderes hace que no sea posible controlar
     judicialmente la actividad del ejecutivo (porque juzgar a la
     administración es también administrar)
-  -   Se otroga al gobierno el carácter de una potentior personae como un
+-   Se otroga al gobierno el carácter de una potentior personae como un
     sujeto de derecho de otra categoría distinta y mejor de la de los
     ciudadanos, que asume importantes privilegios como el de
     **autotutela declarativa** (no se puede juzgar a la administración,
@@ -78,7 +75,9 @@ adquiriendo más y más poder,
     jurídicos y cuna y casa de ilustres juristas de reconocida
     competencia.
 
-***La igualdad***, tampoco era lo que parece, igualdad, era igualdad
+# La igualdad,
+
+tampoco era lo que parece, igualdad, era igualdad
 ante la ley, esto es, igualdad en sentido formal, se pretende
 simplemente, la elimiación de los estratos sociales, pero sin
 preocupación alguna por las verdaderas desigualdades sociales
@@ -95,7 +94,9 @@ dicho, el hecho de que el estado, hoy en día, se haya preocupado del
 aseguramiento de las igualdades en sentido material, no hace sino
 aumentar el grosor de sus competencias.
 
-***Y la fraternidad***, no sé, no creo que esta palabra en voca de un
+# Y la fraternidad
+
+no sé, no creo que esta palabra en voca de un
 Robespierre, con todo lo que asesinó, pueda significar lo mismo que lo
 que queremos que signifique.
 
@@ -108,9 +109,7 @@ será otro día.
 
 Y en cuanto a la definición de fraternidad, yo no me fiaría de ninguna
 academia, lo sigo diciendo, y ahora con más fuerza, porque ya he
-consultado a [instancias mayores](http://www.zubiri.net/portada2/), [la
-fraternidad es una
-habitud](http://entelequia.bligoo.com/content/view/212361/Problemas_conceptuales_e_impresiones.html),
+consultado a [instancias mayores](http://www.zubiri.net/portada2/), [la fraternidad es una habitud](http://entelequia.bligoo.com/content/view/212361/Problemas_conceptuales_e_impresiones.html),
 y concretamente, en mi opinión, es una habitud que permite la
 suscitación de defensa de tercero, (no claro la que permite la
 suscitación de mi propia defensa, eso será otra cosa, sino la que

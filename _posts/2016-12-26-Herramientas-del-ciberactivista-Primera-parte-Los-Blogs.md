@@ -4,19 +4,16 @@ date: 2016-12-26
 generator: pandoc
 title: "Herramientas del ciberactivista. (Primera parte: Los Blogs)"
 categories:
-
+  - Concepto
   - Frase
-
-
 ---
 
-![](http://static.flickr.com/46/165217727_816036c82e_o.jpg){.alignleft
-width="247" height="152" align="left" border="0"}
+![](http://static.flickr.com/46/165217727_816036c82e_o.jpg)
 
 Viene de
 [Introducción](http://entelequia.bligoo.com/content/view/166416/Ciberactivismo_introduccion.html).
 
-**1.Comenzando pues por los Blogs.**
+# 1.Comenzando pues por los Blogs.
 
 Ya habíamos comentado en esta bitácora alguno de los elementos
 definidores de los blogs (véase: ¿[Qué es un

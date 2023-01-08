@@ -4,21 +4,18 @@ date: 2016-12-26
 generator: pandoc
 title: Herramientas del ciberactivista III (Formas de participación)
 categories:
-
   - Concepto
-
 ---
 
 
+![](http://espaiobertsocialista.files.wordpress.com/2007/10/participacion.jpg)
 
-::: {#body-176816 .content-body}
-![](http://espaiobertsocialista.files.wordpress.com/2007/10/participacion.jpg){.alignleft
-width="225" height="216"}Aunque evidentemente la forma de participación
+Aunque evidentemente la forma de participación
 más importante en temas de ciberactivismo es sin duda la de difusión de
 la campaña, vamos a dejar esto para más adelante y empezamos por las
 formas de colaboración en la gestación y evolución de la campaña.
 
-**Colaboración**
+# Colaboración
 
 Simplemente obtener opiniones de la gente es ya una forma importante de
 colaboración, ya hemos analizado algunas herramientas que favorecen esto
@@ -59,7 +56,7 @@ foro; aunque es evidente que para temas que sean estrictamente privados
 o que no necesiten de publicidad, pues porque aún no es el momento,
 entonces, claro, tienen utilidad.
 
-**Organización**.
+# Organización.
 
 Y ahora es importante tener en cuenta cómo pueden ser los distintos
 sistemas de trabajo, pero no vamos a profundizar en el tema ni mucho
@@ -102,8 +99,7 @@ repetirnos, pero ahora queremos centrar la antención en un tipo concreto
 de redes las locales y ello por una sencilla razón, creo que son el
 medio más sencillo de pasar del mundo virtual, al mundo físico.
 
-**Redes sociales locales: Pasando de lo virtual a lo real.\
-**
+# Redes sociales locales: Pasando de lo virtual a lo real.
 
 Es evidente que con las redes sociales se puede alcanzar un gran número
 de posibles usuarios y es evidente también que estos usuarios no tienen
@@ -217,8 +213,6 @@ mundo no virtual?
 Vamos a dejar para otro día las cuestiones de marketing y seo, porque
 llevo ya mucho tiempo sin publicar nada sobre ciberactivismo.
 
- 
-
 En este [enlace](http://entelequia.bligoo.com/tag/ciberactivismo) todo
 lo que llevamos.
-:::
+

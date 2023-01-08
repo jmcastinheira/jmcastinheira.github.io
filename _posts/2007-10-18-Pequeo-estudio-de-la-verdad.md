@@ -4,10 +4,7 @@ date: 2007-10-18
 generator: pandoc
 title: Pequeño estudio de la verdad
 categories:
-
   - Poesía
-
-
 ---
 
 [Quiero comunicar que desde hace tiempo he puesto en la

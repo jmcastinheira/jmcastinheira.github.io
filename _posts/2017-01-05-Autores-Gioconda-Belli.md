@@ -4,15 +4,9 @@ date: 2017-01-05
 generator: pandoc
 title: "Autores: Gioconda Belli"
 categories:
-
   - Autores
-- Poesía
-- Poema
-
-
+  - Poesía
 ---
-
-
 
 No recuerdo exactamente quién fué la primera persona que me recomendó a
 [Gioconda.](http://es.wikipedia.org/wiki/Gioconda_Belli) Puede que haya

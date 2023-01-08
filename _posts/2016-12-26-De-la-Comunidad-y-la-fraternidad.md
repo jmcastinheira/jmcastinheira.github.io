@@ -4,15 +4,10 @@ date: 2016-12-26
 generator: pandoc
 title: De la Comunidad y la fraternidad.
 categories:
-
   - Metáforas
-- Frase
+  - Frase
   - Concepto
-
-
 ---
-
-
 
 En atención a este
 [post](http://carlosboyle.blogspot.com/2008/06/por-qu-nadie-habla-de-fraternidad.html)
@@ -206,8 +201,7 @@ condición de sujeto, tal dice Boyle «*Es por eso que no sabemos si
 podemos llamar "ser humano" a alguien que tiene una taxonomía humana
 pero se maneja como un salvaje, como en la discriminación "civilización
 o barbarie" o por el contrario si reconocemos conductas "humanas",
-[citándolo a
-Onfray](http://carlosboyle.blogspot.com/2008/03/poltica-del-rebelde-tratado-de-la.html),
+[citándolo a Onfray](http://carlosboyle.blogspot.com/2008/03/poltica-del-rebelde-tratado-de-la.html),
 en los "campos de concentración"*» y si pierdo mi condición e sujeto
 sería legítimo tratarme como objeto; y niego también que la comunidad
 sea anterior al sujeto, primero porque eso puede decirse si no sacamos

@@ -4,17 +4,10 @@ date: 2016-12-27
 generator: pandoc
 title: Un poco de Soup?
 categories:
-
   - Autores
-- Concepto
-- Poesía
-
-
+  - Concepto
 ---
 
-
-
-::: {style="text-align: justify;"}
 [Soup](http://aulo.soup.io/) es un servicio de gestión de contenidos a
 lo [Tumblelog](http://es.wikipedia.org/wiki/Tumblelog) que descubrí en
 esas expediciones mías por los enlaces de mi feevy, y seguramente en la
@@ -31,7 +24,6 @@ cada uno, [Soup](http://aulo.soup.io/) es, me parece, más comunicativo
 que del.icio.us; además le he encontrado otra utilidad verdaderamente
 interesante, desde hace tiempo tengo distintos servicios online, y aquí
 haré una recopilación, estos son:
-:::
 
 -   [LRealNlSpejo](http://enteleq1-cp23.wordpresstemporal.com/): blog
     colaborativo destinado al conocimiento, a la información y al
@@ -80,30 +72,25 @@ haré una recopilación, estos son:
     probable que hayan más razones que aconsejen [el
     cambio](http://www.genbeta.com/2005/12/21-delicious-blinklist-y-furl-marcadores-sociales-a-examen).
   -   [Twitter](http://twitter.com/Aulo): la verdad es que este no lo uso
-    mucho, estas son sus funciones, en
-    [wikipedia](http://es.wikipedia.org/wiki/Twitter). [Bueno, parece
+    mucho, estas son sus funciones, en [wikipedia](http://es.wikipedia.org/wiki/Twitter). Bueno, parece
     que algo lo usamos, pongo aquí un enlace a recursos twitter
-    ]{style="font-weight: bold;"}[en
-    blinklist](http://es.blinklist.com/tag/twitter/){style="font-weight: bold;"}[
-    y en
-    ]{style="font-weight: bold;"}[del.icio.us](http://del.icio.us/popular/twitter){style="font-weight: bold;"}[.
+    [en blinklist](http://es.blinklist.com/tag/twitter/) y en [del.icio.us](http://del.icio.us/popular/twitter).
     y la verdad, hay cosas que hacen que alucine del todo, me he quedado
-    como diez minutos anonadado viendo
-    ]{style="font-weight: bold;"}[esto](http://twittervision.com/){style="font-weight: bold;"}.
-  -   [Flickr](http://www.flickr.com/photos/lrealnlspejo/): este es para
+    como diez minutos anonadado viendo[esto](http://twittervision.com/)
+  - [Flickr](http://www.flickr.com/photos/lrealnlspejo/): este es para
     compartir fotos, la verdad es que aunque sólo fuera por la calidad
     de las fotos de los que tienen flickr debe ser muy a tener en
     cuenta, problema también es de yahoo, con lo cual ahora de
     Microsoft.
 
-::: {style="text-align: justify;"}
 Pues bien, la mayoría de estos servicios están agregados a esta [Sopa de
 Aulo](http://aulo.soup.io/), con lo cual cuando publique algo en alguno
 de ellos sale publicado inmediatamente en Soup, y como Soup lo metí en
 mi feevy tambíen saldrá en los enlaces de este blog; por otro lado
 permite tener una red de amigos cada uno con su cuenta de
 [Soup](http://aulo.soup.io/), con lo cual es fácil compartir noticias
-interesantes.\
+interesantes.
+
 Su utilización es verdaderamente sencilla porque simplemente añades tus
 cuentas indicando tu nick en cada una, o mediante la dirección rss del
 sitio, luego puedes colocar el boton de postear con
@@ -112,4 +99,4 @@ barra del navegador, que sirve para incluir noticias de otras páginas
 con solo pulsar el boton, y con la particularidad de que puedes añadir
 comentarios, bien manualmente o bien seleccionando parte del texto del
 artículo antes de postear con el botón de [Soup](http://aulo.soup.io/).
-:::
+

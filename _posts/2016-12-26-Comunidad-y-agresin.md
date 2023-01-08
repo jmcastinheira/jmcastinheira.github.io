@@ -4,15 +4,9 @@ date: 2016-12-26
 generator: pandoc
 title: Comunidad y agresión.
 categories:
-
   - Frase
-- Concepto
-
-
+  - Concepto
 ---
-
-
-
 
 Es que tiran de mi, me provocan y no puede ser, con lo tranquilo que
 estaba y en mi silencio...
@@ -42,7 +36,7 @@ nopuedo estar de acuerdo con eso de «q_ue los **constituye** en sujetos
 -   Primero los sujetos siempre son sociales todo sujeto tiene una
     dimensión individual y una dimensión social de la que no puede
     escaparse porque le vienen dadas.
-  -   Segundo porque el sujeto [es sub-jectum lo que
+-   Segundo porque el sujeto [es sub-jectum lo que
     sustenta](http://entelequia.bligoo.com/content/view/199717/Sobre_identidad_y_sujeto.html),
     lo que está puesto, y esto significa que no puedo pensar en qué es,
     no puedo definirlo, (salvo tautológicamente) ello no quiere decir
@@ -60,7 +54,7 @@ nopuedo estar de acuerdo con eso de «q_ue los **constituye** en sujetos
     cualquier caso, aunque la sociedad constituyera al sujeto uno no
     podría salirse de la condición de ser social y por tanto tampoco
     podría dejar de ser sujeto.
-  -   Y en tercer lugar recuerdo [lo que ya he
+-   Y en tercer lugar recuerdo [lo que ya he
     dicho](http://entelequia.bligoo.com/content/view/206271/De_la_Comunidad_y_la_fraternidad.html),
     ¿Qué pasa cuando viene un Troll con un comportamiento no fraternal?
     ¿Cómo se le puede negar su condición de sujeto?

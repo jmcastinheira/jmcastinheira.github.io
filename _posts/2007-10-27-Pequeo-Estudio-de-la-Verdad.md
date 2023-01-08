@@ -4,26 +4,23 @@ date: 2007-10-27
 generator: pandoc
 title: Pequeño Estudio de la Verdad (estudio)
 categories:
-
   - Poesía
   - Poema
 ---
 
-[![](http://www.magazinedigital.com/media/1458.jpg){style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;"
-border="0"}](http://www.magazinedigital.com/media/1458.jpg)[Foto de:
-<http://www.magazinedigital.com/media/1458.jpg>]{style="font-size:78%;"}
+[![](http://www.magazinedigital.com/media/1458.jpg)
 
-[Me gustaría decir unas pocas cosas sobre el libro
-]{style="font-size:100%;"}[ «]{style="font-size:100%;"}[[Pequeño estudio
-de la
-verdad](http://docs.google.com/Doc?id=dk4fxk2_6g9sgft&pli=1)]{style="font-size:100%;"}
+Foto de: http://www.magazinedigital.com/media/1458.jpg
+
+Me gustaría decir unas pocas cosas sobre el libro
+[Pequeño estudio de la verdad](http://docs.google.com/Doc?id=dk4fxk2_6g9sgft&pli=1)]
 
 » En primer lugar lo escribí, hace unos pocos años, en mi época
 universitaria, es por tanto un diario de mi vida en aquel tiempo, sobre
 mi sensación de soledad y timidez y cómo de ahí partimos a un mayor
 acercamiento a la realiad, para luego volver, aunque en otro modo a
 quedarme como mero espectador del espectáculo; en la forma poética el
-libro transcurre por tres tipos de poéticas:\
+libro transcurre por tres tipos de poéticas:
 
 La primera se basa en un estudio sobre las formas clásicas, pero un
 estudio actualizado, moderno, que intenta ir más allá de ellas y
@@ -49,8 +46,7 @@ libro descubrimos que no se puede decir verdad en poesía, al igual que
 en el lenguaje, salvo incurriendo en una paradoja, es probable que haya
 que ser más radicales todavía, y si ya la poesía es una lucha contra el
 lenguaje, salirse del lenguaje mismo y llegar a la que aquí hemos
-llamado «[Poesía
-impresiva](http://lorealenelespejo.blogspot.com/2007/10/ciberpoesia-o-poesia-impresiva.html)«,
+llamado «[Poesía impresiva](http://lorealenelespejo.blogspot.com/2007/10/ciberpoesia-o-poesia-impresiva.html)«,
 que es la que ahora hacemos en esta Bitácora con la etiqueta de
 [ciberpoesía](http://lorealenelespejo.blogspot.com/search/label/Ciberpoema).
 

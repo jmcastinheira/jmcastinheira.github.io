@@ -4,16 +4,11 @@ date: 2016-12-26
 generator: pandoc
 title: Herramientas del ciberactivista. II La estructura.
 categories:
-
   - Metáforas
-- Concepto
-
-
+  - Concepto
 ---
 
-
-
-**Estrategia:**
+# Estrategia:
 
 Lo primero que debemos analizar aquí es qué tipo de estrategia nos
 interesa:
@@ -82,8 +77,7 @@ las cosas las que nos inquietan sino las **opiniones** que tenemos de
 las cosas*» una concepción del mundo se construye con opiniones acerca
 de las cosas, y las opiniones se alimentan de comunicación, aunque de un
 tipo de comunicación un tanto particular, llena de metáforas, paradojas
-y sentimientos, (ya hemos hablado en algún lugar de la [comunicación
-analógica](http://entelequia.bligoo.com/content/view/132113/Comunicaci_n_1_Comunicaci_n_anal_gica.html))
+y sentimientos, (ya hemos hablado en algún lugar de la [comunicación analógica](http://entelequia.bligoo.com/content/view/132113/Comunicaci_n_1_Comunicaci_n_anal_gica.html))
 la importancia las concepciones del mundo es crucial, de modo que Lakoff
 en el libro «no pienses en un elefante» (a las que por cierto llama
 marcos y no concepciones del mundo) dice que es falso que mostrar los
@@ -144,10 +138,7 @@ en el tema:
     [TeKLEEando](http://blog.educastur.es/tekleeando/2007/11/24/contra-la-violencia-una-campana-con-mucho-arte/)
     (nobre creativo por cierto)
 2.  el **bloqueo del hemisferio cerebral izquierdo**. Hay distintas
-    técnicas para esto, la [tecnica de la
-    confusión](http://Puede%20ser%20que%20tengamos%20que%20cambiar%20una%20actitud%20o%20una%20opini%C3%83%C2%B3n,%20esto%20es%20complicado.%20Ya%20hemos%20hablado%20en%20el%20blog%20de%20la%20compleja%20naturaleza%20del%20cambio%20aqu%C3%83%C2%AD%20podemos%20s%C3%83%C2%B3lo%20dar%20algunas%20nociones%20elementales%20que%20hemos%20extra%C3%83%C2%ADdo%20de%20la%20obra%20%22el%20lenguaje%20del%20cambio%22%20de%20Paul%20Watzlawick,%20en%20mi%20opini%C3%83%C2%B3n%20es%20de%20perfecta%20aplicaci%C3%83%C2%B3n%20al%20tema%20que%20nos%20ocupa%20todo%20lo%20que%20Watzlawick%20dice%20de%20la%20psicoterapia;%20en%20primer%20lugar%20debemos%20conocer%20si%20la%20opini%C3%83%C2%B3n%20que%20queremos%20cambiar%20es%20meramente%20coyuntural%20y%20por%20tanto%20es%20de%20sencillo%20cambio%20con%20sencillas%20argumentaciones,%20o%20si%20por%20el%20contrario%20es%20una%20opini%C3%83%C2%B3n%20o%20una%20actitud%20que%20pertence%20a%20una%20concreta%20concepci%C3%83%C2%B3n%20del%20mundo,%20y%20por%20tanto%20por%20mucho%20que%20argumentemos%20no%20conseguiremos%20nada%20salvo%20que%20consigamos%20cambiar%20algo%20de%20esa%20concepci%C3%83%C2%B3n%20del%20mundo.%20Una%20concepci%C3%83%C2%B3n%20del%20mundo%20es%20un%20conjunto%20de%20opiniones,%20ideas,%20vivencias,%20que%20determinan%20nuestro%20modo%20de%20ser%20nuestros%20h%C3%83%C2%A1bitos%20y%20nuestra%20forma%20de%20pensar,;%20en%20mi%20opini%C3%83%C2%B3n%20es%20perfectamente%20aplicable%20aqu%C3%83%C2%AD%20la%20teor%C3%83%C2%ADa%20de%20la%20met%C3%83%C2%A1fora%20de%20Lakoff%20y%20Johnson%20en%20%22Met%C3%83%C2%A1foras%20de%20la%20vida%20cotidiana%22%20%28libro%20que%20recomiendo%29%20o%20ya%20por%20Lakoff%20en%20%22No%20pienses%20en%20un%20elefante%22%20%28libro%20que%20no%20he%20le%C3%83%C2%ADdo%20pero%20que%20probablemente%20tiene%20m%C3%83%C2%A1s%20que%20ver%20con%20el%20tema%20que%20nos%20ocupa%20que%20el%20que%20antes%20he%20citado,%20pero%20en%20fin,%20no%20lo%20he%20le%C3%83%C2%ADdo%29%20La%20idea%20es%20la%20siguiente,%20comprendemos%20las%20cosas%20en%20t%C3%83%C2%A9rminos%20met%C3%83%C2%A1f%C3%83%C2%B3ricos,%20%28arriba%20es%20bueno,%20abajo%20es%20malo;%20//%22es%20un%20alto%20cargo%22%20%22ha%20llegado%20muy%20alto%22%20o%20%22est%C3%83%C2%A1%20a%20la%20altura%20del%20bet%C3%83%C2%BAn%22%20%22est%C3%83%C2%A1%20por%20los%20suelos%22%29%20%28la%20vida%20o%20el%20amor%20son%20un%20camino//%20%22estamos%20a%C3%83%C2%BAn%20en%20el%20inicio%20de%20nuestra%20relaci%C3%83%C2%B3n,%20nos%20queda%20mucho%20por%20andar%22%20%22ha%20llegado%20al%20final%20del%20camino%22%29%20%28El%20debate%20es%20una%20guerra//%22ha%20ganado%20el%20debate%22%29%20%28las%20teor%C3%83%C2%ADas%20son%20edificios//%20%22Su%20teor%C3%83%C2%ADa%20est%C3%83%C2%A1%20mal%20construida%22%20%22est%C3%83%C2%A1%20bien%20estructurada%22%29%20no%20muy%20lejos%20de%20esto%20est%C3%83%C2%A1n%20las%20discusiones%20en%20torno%20a%20los%20cambios%20paradigm%C3%83%C2%A1ticos;%20un%20ejemplo%20m%C3%83%C2%A1s%20acorde%20con%20nuestro%20caso%20son%20las%20concepciones%20del%20mundo%20que%20entienden%20que%20ir%20a%20los%20toros%20o%20llevar%20abrigos%20de%20piel,%20es%20representativo%20de%20tener%20alta%20clase%20social,%20un%20sintoma%20de%20cultura,%20o%20incluso%20de%20arte;%20si%20lo%20que%20decimos%20es%20cierto,%20cualquier%20tipo%20de%20argumentaci%C3%83%C2%B3n%20en%20contra%20de%20los%20toros%20o%20de%20las%20pieles%20que%20no%20consiga%20cambiar%20esta%20concepci%C3%83%C2%B3n%20del%20mundo%20no%20producir%C3%83%C2%A1%20cambio%20alguno;%20lo%20importante%20pues,%20en%20estos%20casos%20es%20intentar%20cambiar%20esa%20concepci%C3%83%C2%B3n%20pero%20%C3%82%C2%BFes%20posible%20cambiar%20una%20concepci%C3%83%C2%B3n%20del%20mundo?%20y%20en%20caso%20de%20que%20lo%20sea%20%C3%82%C2%BFC%C3%83%C2%B3mo%20se%20hace?%20Si%20es%20cierto%20lo%20que%20dice%20Epicteto%20de%20que%20%22no%20son%20las%20cosas%20las%20que%20nos%20inquietan%20sino%20las%20opiniones%20que%20tenemos%20de%20las%20cosas%22%20una%20concepci%C3%83%C2%B3n%20del%20mundo%20se%20construye%20con%20opiniones,%20y%20las%20opiniones%20se%20alimentan%20de%20comunicaci%C3%83%C2%B3n,%20aunque%20de%20un%20tipo%20de%20comunicaci%C3%83%C2%B3n%20un%20tanto%20particular,%20llena%20de%20met%C3%83%C2%A1foras,%20paradojas%20y%20sentimientos,%20%28ya%20hemos%20hablado%20en%20alg%C3%83%C2%BAn%20lugar%20de%20la%20comunicaci%C3%83%C2%B3n%20anal%C3%83%C2%B3gica%29%20as%C3%83%C2%AD%20que%20s%C3%83%C2%AD,%20si%20las%20concepciones%20del%20mundo%20son%20comunicaci%C3%83%C2%B3n,%20la%20comunicaci%C3%83%C2%B3n%20puede%20cambiarlas%20aunque%20sea%20por%20el%20cl%C3%83%C2%A1sico%20principio%20de%20la%20homeopatia%20%22similia%20similibus%20curantur%22%20Pero%20claro%20eso%20implica%20utilizar%20un%20tipo%20de%20comunicaci%C3%83%C2%B3n%20distinto%20al%20que%20estamos%20acostumbrados,%20pero%20cua:l%20Otra%20vez%20Watzlawic%20nos%20sale%20al%20paso%20con%20tres%20puntos%20fundamentales%20aunque%20este%20no%20es%20lugar%20para%20profundizar%20en%20el%20tema:%20)
-    de Milton
-    [Erickson](http://es.wikipedia.org/wiki/Milton_H._Erickson){target="_blank"}
+    técnicas para esto, la tecnica de la confusión de Milton [Erickson](http://es.wikipedia.org/wiki/Milton_H._Erickson)
     (si somos capaces de crear tal confusión en un individuo que se
     halle desorientado él se agarrará a lo primero que tenga sentido que
     digamos), el lenguaje paradójico y el [doble
@@ -337,7 +328,7 @@ interesa **consolidar una determinada postura** y dirigirla a la acción;
     avances que vayas logrando, y así animar a la gente que esté
     colaborando contigo.
 
-**Organización**
+# Organización
 
 La primera cuestión importante es crear un sistema de comunicación, esto
 es crucial; la comunicaión, ya se sabe, es de ida y vuelta.
@@ -514,16 +505,14 @@ Para comunicarse:
     tienen todas las papeletas para ser el mecanismo más importante de
     marketing viral y de «contagio» de campañas participativas,
     evidentemente hay más servicios. Mencionamos la iniciativa de la
-    gente de las indias electrónicas con [la RMD
-    distribuída.](http://www.deugarte.com/rmd-mas-facil-imposible)
+    gente de las indias electrónicas con [la RMD distribuída.](http://www.deugarte.com/rmd-mas-facil-imposible)
 -   Los chats. Evidentemente los chats son una de las herramientas con
     las que primero entramos en contacto con la red, así que poco más
     puedo yo decir aquí sobre su utilidad y sus posibilidades.
     Mencionamos [gtalk](http://www.google.com/talk/),
-    [Skype](http://www.skype.com) y la [alternativa
-    libre](http://www.deugarte.com/ensanchando-y-disfrutando-la-mensajeria-instantanea-distribuida).
+    [Skype](http://www.skype.com) y la [alternativa libre](http://www.deugarte.com/ensanchando-y-disfrutando-la-mensajeria-instantanea-distribuida).
 
-Las redes y los blogs.
+# Las redes y los blogs.
 
 Ya habíamos hablado un poco [sobre las redes y los
 blogs](http://entelequia.bligoo.com/content/view/135536/Redes_y_blogs.html)

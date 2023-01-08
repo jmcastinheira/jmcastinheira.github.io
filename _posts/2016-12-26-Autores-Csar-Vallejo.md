@@ -4,15 +4,9 @@ date: 2016-12-26
 generator: pandoc
 title: "Autores: César Vallejo"
 categories:
-
   - Autores
-- Poema
-
-
+  - Poema
 ---
-
-
-
 
 Nunca se puede decir lo suficiente de César Vallejo. Uno de mis poetas
 preferidos. Su fuerza poética y su estilo inconfundible. Su pasión... y
@@ -70,11 +64,8 @@ tremendamente tristes, claro, de una tristeza tan profunda:
 
 (Los Heraldos Negros) aquí tenéis el audio de este poema:
 
-Estuvo en la guerra civil española, y allá escribió «[España, aparta de
-mi este
-caliz](http://es.wikisource.org/wiki/Espa%C3%B1a%2C_aparta_de_m%C3%AD_este_c%C3%A1liz)«,
-[Masa](http://es.wikisource.org/wiki/Masa), [Cuidate España de tu propia
-España](http://es.wikisource.org/wiki/Masa). Bueno y termino, termino
+Estuvo en la guerra civil española, y allá escribió «[España, aparta de mi este caliz](http://es.wikisource.org/wiki/Espa%C3%B1a%2C_aparta_de_m%C3%AD_este_c%C3%A1liz)«,
+[Masa](http://es.wikisource.org/wiki/Masa), [Cuidate España de tu propia España](http://es.wikisource.org/wiki/Masa). Bueno y termino, termino
 ya, de veras; con ese poema profético, a los que sepan algo de su vida
 no tengo que decirles porqué lo digo, a los que no, quizá quieran leer
 su [vida](http://es.wikipedia.org/wiki/C%C3%A9sar_Vallejo)
@@ -107,9 +98,6 @@ su [vida](http://es.wikipedia.org/wiki/C%C3%A9sar_Vallejo)
     Peruanos](http://www.librosperuanos.com/autores/cesar_vallejo.html),[Marxistas.org](http://www.marxists.org/espanol/vallejo/poemas.htm).
 -   Videoteca:
     [Youtube](http://www.youtube.com/results?search_query=Cesar+Vallejo&search_type=).[Dalealplay](http://www.dalealplay.com/informaciondecontenido.php?con=66143).
-  -   Audio: [Los heraldos
-    negros](http://www.evoca.com/everyone_recording.jsp?rid=17283),
-  -   Articulos sobre él o sus obras:
-    [Henciclopedia](http://www.henciclopedia.org.uy/autores/Platero/curriculum.htm),[festival
-    de
-    Medellín](http://www.festivaldepoesiademedellin.org/pub.php/es/Revista/ultimas_ediciones/79/mariategui.html),
+-   Audio: [Los heraldos negros](http://www.evoca.com/everyone_recording.jsp?rid=17283),
+-   Articulos sobre él o sus obras:
+    [Henciclopedia](http://www.henciclopedia.org.uy/autores/Platero/curriculum.htm),[festival de Medellín](http://www.festivaldepoesiademedellin.org/pub.php/es/Revista/ultimas_ediciones/79/mariategui.html),

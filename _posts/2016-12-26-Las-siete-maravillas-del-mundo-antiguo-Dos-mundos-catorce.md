@@ -4,18 +4,13 @@ date: 2016-12-26
 generator: pandoc
 title: Las siete maravillas del mundo antiguo. Dos mundos, catorce
 categories:
-
-  - Poema
-
-  maravillas (Parte I)
-
+  - Concepto
 ---
-
 
 
 ![coloso-rodas-209.jpg](http://www.entelequia.bligoo.com/media/users/1/79903/images/public/4621/coloso-rodas-209.jpg?v=1294660373362)
 
-\[Por Uxío P.R.\] Seguro que son muchos los que han escuchado o
+[Por Uxío P.R.] Seguro que son muchos los que han escuchado o
 utilizado la expresión "la octava maravilla", pero **seguro que no son
 tantos los que se han parado a comprobar cuáles son, o fueron esas siete
 maravillas.**
@@ -36,8 +31,8 @@ maravillas del mundo moderno, lo cual será objeto de la segunda parte de
 este artículo, **no nos demoremos más y descubramos las siete maravillas
 del mundo antiguo,** de las cuales sólo una ha resistido en pie hasta
 nuestros días:\
-\*\*\
-\*\* **7. El Faro de Alejandría**
+
+# 7. El Faro de Alejandría
 
 El arquitecto Sóstrates de Cnido recibió en el 279 a.C. un encargo del
 rey Ptolomeo Filadelfio para construir una **torre en la isla de
@@ -73,7 +68,8 @@ culturales del mundo antiguo, donde las apasionantes culturas de Egipto
 y Grecia se fusionaron.
 
 ![el_faro_de_alejandria2.jpg](http://www.entelequia.bligoo.com/media/users/1/79903/images/public/4621/el_faro_de_alejandria2.jpg?v=1294660483013)\
-**6. El Coloso de Rodas**
+
+# 6. El Coloso de Rodas
 
 En el año **292 a.C., el ego de los griegos al verse dominadores del
 mundo conocido no tenía fronteras**, y fue en ese año cuando dos de los
@@ -107,11 +103,9 @@ debía ser reconstruido, y permaneció derribado 900 años, hasta la
 llegada del imperio otomano, que lo tomaron como botín de guerra,
 desapareciendo así una nueva maravilla.
 
- 
-
 ![coloso-de-rodas.png](http://www.entelequia.bligoo.com/media/users/1/79903/images/public/4621/coloso-de-rodas.png?v=1294660607164)
 
-**5. La Tumba del rey Mausolo en Halicarnaso**
+# 5. La Tumba del rey Mausolo en Halicarnaso
 
 Construido hacia 353 a. C. y situado en la ciudad griega de Halicarnaso,
 actual Bodrum (Turquía). En Halicarnaso, capital de Caria, murió el rey
@@ -150,15 +144,16 @@ esta construcción.
 La obra fue tan increíble, que del nombre de ese Rey, **Mausolo, derivó
 la palabra "Mausoleo"**, que hoy designa los grandes monumentos
 funerarios.\
-\*\*\
-\*\* **4. La Estatua de Zeus en Olimpia**
+
+# 4. La Estatua de Zeus en Olimpia
 
 Olimpia no era exactamente una ciudad, sino un **conjunto de templos y
 monumentos erigidos con motivo de los juegos olímpicos**, de todos los
 templos del más famoso era el de Zeus, que más tarde pasaría a
 denominarse Júpiter por los romanos.
 
-![zeus_olimpia_4.jpg](http://www.entelequia.bligoo.com/media/users/1/79903/images/public/4621/zeus_olimpia_4.jpg?v=1294660695065)\
+![zeus_olimpia_4.jpg](http://www.entelequia.bligoo.com/media/users/1/79903/images/public/4621/zeus_olimpia_4.jpg?v=1294660695065)
+
 En el interior de este templo, había **una estatua que ocupaba un tercio
 del gran templo, esculpida hacia 430 a. C. por Fidias,** fue un año de
 trabajo el que dedicó a la escultura, **tallado en marfil, con ropas y
@@ -177,15 +172,16 @@ El trabajo se perdería cuando durante el reinado de Teodosio II,
 fanáticos cristianos lo incendiasen como condena a la religión pagana,
 finalmente una serie de terremotos y saqueos en el siglo VI d.C.,
 terminarían condenando a Olimpia.\
-\*\*\
-\*\* **3. El Templo de Artemisa en Éfeso (actual Turquía)**
+
+# 3. El Templo de Artemisa en Éfeso (actual Turquía)
 
 Construido hacia 550 a. C., Artemisa era la diosa griega de la
 fertilidad, que los romanos tomaron y adaptaron bajo el nombre de
 "Diana", desde tiempos inmemoriales fue adorada en el templo del que
 vamos a hablar, que se situaba en la actual aldea turca de Aia Soluk.
 
-![templo-artemisa.jpg](http://www.entelequia.bligoo.com/media/users/1/79903/images/public/4621/templo-artemisa.jpg?v=1294660750458)\
+![templo-artemisa.jpg](http://www.entelequia.bligoo.com/media/users/1/79903/images/public/4621/templo-artemisa.jpg?v=1294660750458)
+
 Cuando Alejandro Magno llegó a este lugar, se encontró las ruinas del
 antiguo Templo de Artemisa, **y decidió reconstruirlo**, éste nuevo
 Templo fue el que se incluyó en la lista de las siete maravillas.
@@ -203,7 +199,7 @@ largo de los siglos.
 **descubrió que su destrucción se produjo el mismo día en el él había
 nacido**, esta coincidencia le impualsó a la decisión de reconstruirlo.
 
-**2. Los Jardines Colgantes de Babilonia**
+# 2. Los Jardines Colgantes de Babilonia
 
 Hacia el año 600 a.C., Nabucodonosor II rey de Caldea, quiso hacer a su
 esposa Amytis, hija del rey de los Medos, **un regalo que mostrase su
@@ -239,14 +235,15 @@ demostración definitiva es muy complicada.
 
 ![jardines-colgantes-babilonia.jpg](http://www.entelequia.bligoo.com/media/users/1/79903/images/public/4621/jardines-colgantes-babilonia.jpg?v=1294660847711)
 
-**1. La Gran Pirámide de Gizeh**
+# 1. La Gran Pirámide de Gizeh
 
 La **más antigua** de las maravillas, y, **curiosamente, la única que ha
 perdurado hasta nuestros días,** bien salvaguardadas por el el desierto,
 la Gran Pirámide forma parte de un conjunto monumental de pirámides,
 eran tumbas de faraones, y esconden grandes secretos.
 
-![gizeh1.jpg](http://www.entelequia.bligoo.com/media/users/1/79903/images/public/4621/gizeh1.jpg?v=1294660868997)\
+![gizeh1.jpg](http://www.entelequia.bligoo.com/media/users/1/79903/images/public/4621/gizeh1.jpg?v=1294660868997) 
+
 Terminada alrededor del año 2570 a. C., fue construida para el faraón
 Keops, existen **sin embargo pirámides con más de 5.000 años de
 antigüedad**, se conservan nada menos que 80 de estas construcciones.
@@ -303,8 +300,6 @@ representación del faraón Khafra.
 mamelucos la mutilaron, arrancándole la nariz y dañando sus ojos, un
 nuevo ejemplo de que el hombre, **tiene una gran capacidad de construir
 maravillas, pero también para destruirlas.**
-
-----------------------------------------------------------------------------------------
 
 Espero que hayáis disfrutado descubriendo o rememorando las maravillas
 del mundo antiguo, muy pronto volveremos a la carga con las nuevas siete

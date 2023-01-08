@@ -4,12 +4,8 @@ date: 2016-12-26
 generator: pandoc
 title: Herramientas para salir de la crisis I
 categories:
-
   - Concepto
-
 ---
-
-
 
 En vista de que las cosas se ponen cada vez peor, y que poco o nada
 anticipa que las cosas vayan a cambiar, he empezado a tararear como hago
@@ -83,7 +79,7 @@ De momento vamos empezar con algo menos ambicioso que la propuesta de
 [OpenEcology](http://opensourceecology.org/wiki/FAQ/es#.C2.BFCu.C3.A1l_es_la_caracter.C3.ADstica_m.C3.A1s_importante_del_trabajo_con_OSE_.3F)
 y empecemos por cosas que están más o menos a nuestra mano inmediata...
 
-**Distribución del consumo**
+# Distribución del consumo
 
 Es probablemente una de las primeras cosas que planeo hacer cuando tenga
 yo cierta autonomía. Desde hace tiempo, hay incluso documentales sobre
@@ -111,7 +107,7 @@ Arbore](http://www.arbore.org/). En cualquier caso [aquí tenéis un buen
 documento para
 empezar](http://gruposdeconsumo.blogspot.com.es/2009/05/te-gustaria-formar-parte-de-un-grupo-de.html).
 
-**Distribución de la producción**
+# Distribución de la producción
 
 La base teórica del negocio Open source comienza con un libro mítico
 de [Eric S. Raymond](http://es.wikipedia.org/wiki/Eric_S._Raymond)
@@ -145,9 +141,7 @@ mundo.
 El primer proyecto open hardware que conocí se
 llama [Arduino](http://es.wikipedia.org/wiki/Arduino), una placa base
 que permite hacer de
-[todo...](http://blog.bricogeek.com/noticias/arduino/) con [un par de
-búsquedas por
-internet](https://encrypted.google.com/search?sclient=psy-ab&hl=es&site=&source=hp&q=tiendas+arduino&btnG=Buscar&pbx=1&oq=&aq=&aqi=&aql=&gs_sm=&gs_upl=)
+[todo...](http://blog.bricogeek.com/noticias/arduino/) con [un par de búsquedas por internet](https://encrypted.google.com/search?sclient=psy-ab&hl=es&site=&source=hp&q=tiendas+arduino&btnG=Buscar&pbx=1&oq=&aq=&aqi=&aql=&gs_sm=&gs_upl=)
 os daréis cuenta de que hay bastante gente ganando dinero con Arduino,
 sea vendiendo componentes o incluso fabricando productos comerciales
 basados o que incluyen esta tecnología, siempre conforme a las [normas
@@ -265,6 +259,3 @@ semana que
 viene](http://www.entelequia.info/herramientas-para-salir-de-la-crisis-ii).
 
 Espero que os interese
-
-::: {#ads-parked-11 .ads-parked-11}
-:::

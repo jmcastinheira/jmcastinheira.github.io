@@ -4,10 +4,8 @@ date: 2016-12-26
 generator: pandoc
 title: Herramientas de Marketing y ciberactivismo IV.
 categories:
-
+  - Concepto
   - Frase
-
-
 ---
 
 
