@@ -14,10 +14,10 @@ title: 'Bibliografía'
 
 ## In progress
 
-- Memorias de Adriano de Marguerite Youcenar +Lista_3 
-- Misericordia de Benito Pérez Galdós +Lista_3 
-- Sandman de Neil Gaiman +Lista_5 @comic
-- Carrie de Stephen King +Lista_5
+- Os camiños da vida de Ramón @Otero_Pedrayo
+- O Lume de David @Rubín @comic
+- Antoloxía do conto galego do Século XX @VVAA
+
 
 ## En lista
 
@@ -45,7 +45,6 @@ title: 'Bibliografía'
 - Meridiano de sangre, de Corman McCarthy +Lista_1
 - Middlemarch, de George Eliot +Lista_1 +Lista_3
 - Mientras agonizo, de William Faulkner +Lista_1
-- Nueve cuentos, de J. D. Salinger @relatos +Lista_1
 - Oliver Twist, de Charles Dickens +Lista_1
 - Orgullo y prejuicio, de Jane Austen +Lista_1
 - Pastoral americana, de Philip Roth +Lista_1
@@ -110,7 +109,6 @@ title: 'Bibliografía'
 - Terror sonoro de Adriana Arvitt +Lista_4
 - De lo sublime de  Longino +Lista_4 @ensayo
 - De lo sublime y de lo bello de Burke +Lista_4 @ensayo
-- Lo siniestro de Freud +Lista_4 @ensayo
 - El mal en la literatura de Bataille +Lista_4 @ensayo
 - La banalidad del mal de Hannah Arend +Lista_4 @ensayo
 - Lo raro y lo espeluznante de Mark Fisher @ensayo +Lista_4
@@ -133,13 +131,26 @@ title: 'Bibliografía'
 
 - El infinito en un junco de Irene Vallejo +Lista_5 @ensayo
 - It de Stephen King +Lista_5
-- Las Voladoras de Mónica Ojeda +Lista_5 @relatos
 - La Diosa Blanca de Robert Graves +Lista_5 @ensayo
 - Pompeo de Andrea Pazienza +Lista_5 @comic
-- Merlín e Familia de Álvaro Cunqueiro +Lista_5
 - Cuentos de amor de locura y de muerte de Horacio Quiroga +Lista_5 @relatos
 - Farabeuf o la crónica de un instante de Salvador Elizondo +Lista_5
 
 ## Leídos
 
 - La rama Dorada de James Frazer +Lista_5 @ensayo
+- Memorias de Adriano de Marguerite Youcenar +Lista_3 
+- Misericordia de Benito Pérez Galdós +Lista_3 
+- El Gatopardo de @Lampedusa
+- Léxico familiar de Natalia @Ginzburg 
+- Una mujer Anie @Ernaux
+- Sandman de Neil Gaiman +Lista_5 @comic
+- Carrie de Stephen King +Lista_5
+- Merlín e Familia de Álvaro Cunqueiro @relatos +Lista_5
+- El viejo y el mar de @Hemingway 
+- Lo siniestro de Freud +Lista_4 @ensayo
+- Nueve cuentos, de J. D. Salinger @relatos +Lista_1
+- Pedro Páramo de Juan @Rulfo
+- Las Voladoras de Mónica @Ojeda +Lista_5 @relatos
+- Historia de la leche de Mónica @Ojeda @poesía
+- Lejos de Egipto de André @Aciman
