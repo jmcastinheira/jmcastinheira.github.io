@@ -1,8 +1,8 @@
 ---
 title: 'Comentario a "Literatura Infantil"' y otras lecturas
 categories: [bibliografia, reseña,] 
-tags: [general, análisis, relato, autoficción,  comic,]
-date: 2023-10-09
+tags: [general, análisis, relato, autoficción,  comic]
+
 ---
 
 # Literatura infantil
@@ -15,7 +15,9 @@ A primeira persoa tamén está dende o principio. E fan un tándem interesante. 
 
 No primeiro capítulo da segunda parte domina  uso da terceira persoa. Estamos na zona do conto. É o conto do seu fillo. Para min temos aquí un afastamento,  é un conto no cal o seu fillo crece,  aprende a ser independente e tamén sofre. Por iso o autor sitúase fora, lonxe.
 
-Despois de este primer capítulo da segunda parte volvemos a primeira persoa. A segunda xa non aparecerá ata o epílogo. Esta parte na que a primeira domina, xa sen ese contrapunto da segunda persoa, é, para min, o menos orixinal, se toda a obra fora así, sería como calquera outra obra de autoficción,  e non entendo ben porqué Zambra renuncia a esa segunda persoa. O que non me gusta da literatura de autoficción é cando cae nunha anécdota egocéntrica. Zambra ten unha excusa perfecta para contar a súa historia,  que é contarlla ao seu fillo. Por iso,  digo que non entendo a renuncia. 
+Despois de este primer capítulo da segunda parte volvemos a primeira persoa. A segunda xa non aparecerá ata o epílogo. Esta parte na que a primeira domina, xa sen ese contrapunto da segunda persoa, é, para min, o menos orixinal, se toda a obra fora así, sería como calquera outra obra de autoficción,  e non entendo ben porqué Zambra renuncia a esa segunda persoa. No capítulo que fala do seu pai di que a segunda persoa non le semella natural. Este capítulo tamén ten una voz interesante porque conta a historia do roubo con interrupcións e comentarios do pai. 
+
+O que non me gusta da literatura de autoficción é cando cae nunha anécdota egocéntrica. Zambra non cae nesto porque ten unha excusa perfecta para contar a súa historia, que é contarlla ao seu fillo, ou nalgun momento falar co seu pai, na segunda metade, o que máis me interesou foi eses cambios coa voz,  esa proximidade e ese afastamento por momentos. 
 
 # Sacrificios humanos
 
