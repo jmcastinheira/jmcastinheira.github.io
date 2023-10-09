@@ -1,5 +1,5 @@
 ---
-title: 'Commentario a "El corazón es un cazador solitario"'
+title: 'Comentario a "El corazón es un cazador solitario"'
 categories: [bibliografia, reseña,] 
 tags: [general, análisis, novela,]
 date: 2023-03-13

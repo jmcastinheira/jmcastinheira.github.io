@@ -1,8 +1,7 @@
 ---
-title: 'Comentario a "Literatura Infantil"' y otras lecturas
+title: 'Comentario a "Literatura Infantil" y otras lecturas
 categories: [bibliografia, reseña,] 
 tags: [general, análisis, relato, autoficción,  comic]
-
 ---
 
 # Literatura infantil
@@ -27,7 +26,9 @@ O que non me gusta da literatura de autoficción é cando cae nunha anécdota eg
 
 De David Rubin. Este cómic non é o que máis me gustou deste autor, gustoume moito máis “O heroe”.
 
-O traballo é bastante duro e a verdade é que é moi decadente. Non hai esperanza, queima todo, semella que nos di. Creo que se fai un pouco egocéntrico. Un protagonista que só pensa en si mesmo. Obviamente o autor é consciente diso. Pero non me gusta esta arte desencantada. Creo que os debuxos son espectaculares e está moi ben ambientado, é un gran debuxante, pero a historia non me gustou moito, a verdade.
+O traballo é bastante duro e a verdade é que é moi decadente. Non hai esperanza, queima todo, semella que nos di. Creo que se fai un pouco egocéntrico. Un protagonista que só pensa en si mesmo. O único que pode salvar o mundo, o centro dos problemas. Obviamente o autor é consciente diso. Pero non me gusta esta arte desencantada. 
+
+Creo que os debuxos son espectaculares e está moi ben ambientado, é un gran debuxante, pero a historia non me gustou moito, a verdade.
 
 # Felicity
 
@@ -35,17 +36,17 @@ Dende "Escritura Indómita" tiña ganas de ler a Mary Oliver en poesía e a verd
 
 Sempre temos o problema da tradución, que entendo que non sempre axuda moito, pero bueno, a verdade é que é un poemario que me interesou e me gustaron moito algúns dos poemas. Un exemplo:
 
-¿HABLAN LOS ÁRBOLES?
+## ¿Hablan los árboles?
 
 ¿Le responden los árboles al viento  
 cuando el viento les hace alguna invitación?  
 Como algunos de nosotros, chablan también con el sol?  
 Pienso que sí, y si tal creencia requiere de una prueba,  
-> déjame añadir que a veces  
-> se quejan mucho.
+- déjame añadir que a veces  
+- se quejan mucho.
 
 Pero hay más.
 
 Si puedes escuchar a los árboles en sus horas tranquilas  
 seguro que también podrás hacerlo después,   
-> gritando en el aserradero.
+- gritando en el aserradero.
