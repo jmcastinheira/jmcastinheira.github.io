@@ -1,5 +1,5 @@
 ---
-title: 'Comentario a "Literatura Infantil" y otras lecturas
+title: 'Comentario a "Literatura Infantil" y otras lecturas'
 categories: [bibliografia, reseña,] 
 tags: [general, análisis, relato, autoficción,  comic]
 ---
