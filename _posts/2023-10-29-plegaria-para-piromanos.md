@@ -28,4 +28,13 @@ Otra cosa interesante es el uso de la anécdota, del recuerdo, el mundo está co
 >
 > *En otra versión de la historia todavía vive.*
 
+Creo que esta obra es una meditación sobre la literatura,  sería como una poética si estuviera en verso. 
+
+Otra cosa es que yo no esté conforme con esa visión de la literatura,  porque es una literatura desrealizada, y es lo que no me gusta del libro,  esa visión triste, de un mundo que no tiene realidad. Porque nuestro mundo,  el de cada uno,  bien puede tenerla o no tenerla.  Y esta visión nos quedamos con un mundo un poco absurdo,  como en la obra de teatro de Becket. Los dos relatos más largos, sobre todo "Anisopteros" me recuerdan un poco al ambiente de Waiting for Godot. Y es está sensación la que me dificulta la lectura,  es un ambiente irreal y deprimente. 
+
+Hay otros relatos,  en los que aunque todavía se destila un poco de esa visión,  el menos la belleza de la narrativa de Tizón te ayuda a seguir 
+
+ La literatura es algo así,  para Tizón, lo único que nos ayuda a sobreponernos, a la irrealidad es la belleza. 
+
+> *un grupo de amigos se reunía en el salón de una villa en el campo para escuchar grabaciones de sonidos de la naturaleza: la lluvia, el trueno, el viento entre los árboles, los pájaros. ¿Sabes a cuál me refiero? La paradoja residía en que habrían bastado unos pocos pasos para salir al aire libre y disfrutar directamente de todos esos sonidos*
 
