@@ -3,11 +3,12 @@ author: Jmcastinheira
 date: 2016-12-25
 generator: pandoc
 title: Sobre el futuro hoy
-categories:
+categories:Concepto
+---
 
-  - Concepto
-*» **No podemos crear un «modelo
-organizativo perfecto»** (esta expresión presupone otro prejuício y
+# **No podemos crear un «modelo organizativo perfecto»** 
+
+(esta expresión presupone otro prejuício y
 limita la respuesta, porque si una organización es perfecta, ha de ser
 una, y ha de ser siempre la misma y por tanto su «identidad» y sus
 elementos no pueden ser dinámicos o muy dinámicos, y además ha de valer
