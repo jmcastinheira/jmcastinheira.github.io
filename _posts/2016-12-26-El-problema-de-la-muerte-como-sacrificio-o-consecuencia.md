@@ -2,10 +2,10 @@
 author: Jmcastinheira
 date: 2016-12-26
 generator: pandoc
-title: El problema de la muerte como sacrificio o consecuencia.
+title: "El problema de la muerte como sacrificio o consecuencia."
 categories:
-
   - Concepto
+---
 
 sufre un castigo de muerte, pero no de cualquier manera, sino como los
 asesinos más malvados, la gente más perversa de la sociedad. Si hoy en
