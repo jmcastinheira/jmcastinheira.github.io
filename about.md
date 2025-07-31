@@ -28,12 +28,15 @@ key: page-about
 
 Este es el diario de proyectos de José Castiñeira. Este es un espacio de trabajo, dudo que estos textos puedan ser de utilidad para nadie, en cualquier caso aquí los voy dejando. 
 
-La página se estructura en varias categorías (aunque todavía no sé cómo se enlazan desde este template), una por cada proyecto y otra categoría general, por el momento son las siguientes:
-
-- General
-- Gaviotas
-- Ania
+La página se estructura en varias categorías (aunque todavía no sé cómo se enlazan desde este template).
 
 Además cada texto tiene un tema o tag, para facilitar la recuperación de la información, estos tags se pueden consultar en la sección Archive.
 
-Estos textos se realizan en el contexto del taller de escritura creativa de la Editorial Apiario, bajo la dirección de Dores Tembrás.
+Algunos de estos textos se realizaron en el contexto del taller de escritura creativa de la Editorial Apiario, bajo la dirección de Dores Tembrás.
+
+A parte de esto, he subido los antiguos posts del blog entelequia.info blog en el que trabajé hace ya muchos años con Uxio PR.
+
+Si vienes buscando poesía, por aquí la tienes:
+
+- [Alguna vez](https://jmcastinheira.github.io/assets/alguna_vez.pdf) (2018).
+- Pequeño estudio de la verdad (2007).
